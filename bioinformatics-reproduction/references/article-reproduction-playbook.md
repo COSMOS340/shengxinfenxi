@@ -96,6 +96,8 @@ Use figures to advance one claim at a time:
 
 ## Minimum Handoff Package
 
+For a complete directory scaffold and copy-ready templates, read `reproduction-project-scaffold.md` and use `assets/reproduction-project-scaffold/`.
+
 For a complete reproduction package, create:
 
 1. `data_manifest.tsv` with accession, source, platform, tissue, groups, and role.

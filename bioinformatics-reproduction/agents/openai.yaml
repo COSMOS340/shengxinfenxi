@@ -1,4 +1,4 @@
 interface:
   display_name: "Bioinformatics Reproduction"
-  short_description: "Plan, reproduce, and audit bioinformatics analysis workflows."
-  default_prompt: "Use this skill to design a reproducible bioinformatics analysis workflow, select methods, audit validation, and produce publication-ready outputs."
+  short_description: "Plan, scaffold, reproduce, and audit bioinformatics analysis workflows."
+  default_prompt: "Use this skill to scaffold a reproducible bioinformatics project, select methods, audit validation, and produce publication-ready outputs."

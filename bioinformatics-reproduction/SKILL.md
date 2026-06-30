@@ -18,6 +18,7 @@ Open only the reference files needed for the task:
 | Task | Read |
 |---|---|
 | Build a full paper reproduction plan | `references/article-reproduction-playbook.md` |
+| Start a new reproduction project scaffold with manifests, logs, templates, and route-specific folders | `references/reproduction-project-scaffold.md` |
 | Design manuscript main figures, supplementary figures, or a Figure 1-7 narrative | `references/figure-narrative-templates.md` |
 | Choose a method route | `references/method-routes.md` |
 | Design or audit bulk GEO/TCGA expression, enrichment, immune scoring, or subtyping workflows | `references/bulk-geo-tcga-enrichment-immune.md` |
@@ -54,7 +55,9 @@ Open only the reference files needed for the task:
    - Add method modules only when they answer a defined biological or validation question.
 
 4. Build the reproducible scaffold.
-   - Use directories such as `data_raw/`, `data_processed/`, `metadata/`, `scripts/`, `results/`, `figures/`, `tables/`, and `logs/`.
+   - Read `references/reproduction-project-scaffold.md`.
+   - Copy the required templates from `assets/reproduction-project-scaffold/`.
+   - Use directories such as `00_metadata/`, `01_plan/`, `02_scripts/`, `03_data_raw/`, `04_data_processed/`, `05_results/`, `06_figures/`, `07_tables/`, and `99_logs/`.
    - Keep one numbered script per major step.
    - Make script inputs and outputs explicit at the top of each file.
 

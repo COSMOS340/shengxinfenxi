@@ -21,6 +21,7 @@ The skill lives in:
 - Network toxicology plus docking/MD workflow guardrails
 - Spatial transcriptomics, cell-cell communication, trajectory analysis, and scTenifoldKnk virtual perturbation
 - Figure 1-7 manuscript narrative templates and source-table contracts
+- Reproduction project scaffolds with manifest, methods log, figure manifest, validation log, limitations, and handoff templates
 - Scientific QC for manuscript-facing outputs
 
 ## Install
@@ -48,6 +49,10 @@ Use the bioinformatics-reproduction skill to audit a GEO/TCGA expression, enrich
 
 ```text
 Use the bioinformatics-reproduction skill to design the Figure 1-7 narrative for a GEO plus single-cell diagnostic biomarker manuscript.
+```
+
+```text
+Use the bioinformatics-reproduction skill to create a project scaffold for a GEO plus WGCNA plus machine learning reproduction.
 ```
 
 ```text
