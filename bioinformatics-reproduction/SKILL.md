@@ -56,7 +56,8 @@ Open only the reference files needed for the task:
 
 4. Build the reproducible scaffold.
    - Read `references/reproduction-project-scaffold.md`.
-   - Copy the required templates from `assets/reproduction-project-scaffold/`.
+   - Run `scripts/create_reproduction_project.py` when creating a project on disk.
+   - Copy the required templates from `assets/reproduction-project-scaffold/` when manual setup is requested.
    - Use directories such as `00_metadata/`, `01_plan/`, `02_scripts/`, `03_data_raw/`, `04_data_processed/`, `05_results/`, `06_figures/`, `07_tables/`, and `99_logs/`.
    - Keep one numbered script per major step.
    - Make script inputs and outputs explicit at the top of each file.

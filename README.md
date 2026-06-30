@@ -21,7 +21,7 @@ The skill lives in:
 - Network toxicology plus docking/MD workflow guardrails
 - Spatial transcriptomics, cell-cell communication, trajectory analysis, and scTenifoldKnk virtual perturbation
 - Figure 1-7 manuscript narrative templates and source-table contracts
-- Reproduction project scaffolds with manifest, methods log, figure manifest, validation log, limitations, and handoff templates
+- Reproduction project scaffolds with a generator script, manifest, methods log, figure manifest, validation log, limitations, and handoff templates
 - Scientific QC for manuscript-facing outputs
 
 ## Install
@@ -53,6 +53,12 @@ Use the bioinformatics-reproduction skill to design the Figure 1-7 narrative for
 
 ```text
 Use the bioinformatics-reproduction skill to create a project scaffold for a GEO plus WGCNA plus machine learning reproduction.
+```
+
+Direct script usage:
+
+```bash
+python3 bioinformatics-reproduction/scripts/create_reproduction_project.py --route-id R03 --project-name geo_wgcna_project --output-root ./projects
 ```
 
 ```text

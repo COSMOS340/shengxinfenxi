@@ -21,6 +21,28 @@ Required templates:
 7. `limitations.md`
 8. `handoff_checklist.md`
 
+The route matrix asset is:
+
+`assets/reproduction-project-scaffold/route_scaffold_matrix.tsv`
+
+## Generator Script
+
+Use the bundled script when the user asks to create the scaffold on disk:
+
+```bash
+python3 bioinformatics-reproduction/scripts/create_reproduction_project.py --list-routes
+python3 bioinformatics-reproduction/scripts/create_reproduction_project.py --route-id R02 --project-name my_project --output-root ./projects
+```
+
+Script behavior:
+
+1. Read the exact `route_id` from `route_scaffold_matrix.tsv`.
+2. Map `data_raw/`, `data_processed/`, and `results/` to `03_data_raw/`, `04_data_processed/`, and `05_results/`.
+3. Copy the 8 template files into `00_metadata/`, `01_plan/`, and `99_logs/`.
+4. Create empty files for route-specific manifests that do not have bundled schemas.
+5. Write `01_plan/route_summary.md` and `99_logs/scaffold_generation_manifest.tsv`.
+6. Exit when the target project directory already exists and is not empty.
+
 ## Startup Rule
 
 Create the scaffold before downloading, processing, or modeling data:
@@ -408,13 +430,14 @@ Each script header must state:
 ## Copy-On-Start Checklist
 
 1. Copy templates from `assets/reproduction-project-scaffold/`.
-2. Create the standard project tree.
+2. For on-disk project setup, run `scripts/create_reproduction_project.py`.
 3. Fill `data_manifest.tsv`.
 4. Fill `sample_metadata.tsv`.
 5. Fill `analysis_plan.md`.
-6. Initialize `methods_log.tsv`, `figure_manifest.tsv`, and `validation_log.tsv`.
-7. Read the selected route in `figure-narrative-templates.md`.
-8. Read the required method references.
+6. Fill route-specific empty manifest files before their method modules use them.
+7. Update `methods_log.tsv`, `figure_manifest.tsv`, and `validation_log.tsv`.
+8. Read the selected route in `figure-narrative-templates.md`.
+9. Read the required method references.
 
 ## Delivery Checklist
 
