@@ -20,6 +20,7 @@ Open only the reference files needed for the task:
 | Build a full paper reproduction plan | `references/article-reproduction-playbook.md` |
 | Choose a method route | `references/method-routes.md` |
 | Design or audit WGCNA plus machine learning diagnostic workflows | `references/wgcna-machine-learning.md` |
+| Design or audit network toxicology, molecular docking, or molecular dynamics workflows | `references/network-toxicology-docking-md.md` |
 | Audit analysis validity | `references/scientific-qc.md` |
 | Prepare final figures and tables | `references/figure-table-qc.md` |
 

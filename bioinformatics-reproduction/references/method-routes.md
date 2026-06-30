@@ -156,6 +156,8 @@ QC focus:
 
 Use for compound mechanism studies.
 
+For detailed guardrails on compound target integration, AutoDock Vina, GROMACS, free-energy landscapes, and AOP narratives, read `network-toxicology-docking-md.md`.
+
 Minimum route:
 
 1. Collect compound targets and disease genes from named databases.

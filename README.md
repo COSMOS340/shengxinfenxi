@@ -17,6 +17,7 @@ The skill lives in:
 - Immune infiltration and enrichment analysis
 - Network toxicology
 - Molecular docking and molecular dynamics
+- Network toxicology plus docking/MD workflow guardrails
 - Spatial transcriptomics, cell-cell communication, and trajectory analysis
 - Scientific QC for manuscript-facing outputs
 
@@ -45,6 +46,10 @@ Use the bioinformatics-reproduction skill to audit a WGCNA plus machine learning
 
 ```text
 Use the bioinformatics-reproduction skill to prepare QC checks for MR, SMR, and colocalization results.
+```
+
+```text
+Use the bioinformatics-reproduction skill to audit a network toxicology plus molecular docking and GROMACS workflow.
 ```
 
 ## Scope
