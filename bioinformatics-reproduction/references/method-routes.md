@@ -117,6 +117,8 @@ QC focus:
 
 Use single-cell analysis to localize genes, define disease cell states, or support mechanisms.
 
+For detailed guardrails on Seurat QC, SingleR annotation, target-gene localization, Monocle3 trajectory, spatial transcriptomics, CellChat communication, and scTenifoldKnk virtual perturbation, read `single-cell-spatial-trajectory.md`.
+
 Minimum route:
 
 1. Load count matrices with sample metadata.
@@ -132,6 +134,34 @@ QC focus:
 3. Doublets.
 4. Marker specificity.
 5. Overinterpretation of cell-type abundance without study design support.
+
+## Spatial Transcriptomics, Trajectory, Communication, and Virtual Perturbation
+
+Use these modules only when they answer a defined biological question beyond bulk differential expression.
+
+For the detailed workflow, read `single-cell-spatial-trajectory.md`.
+
+Minimum route:
+
+1. Verify single-cell or spatial accession, platform, sample metadata, and tissue context.
+2. Build a Seurat object with explicit QC and retained-cell counts.
+3. Annotate cell types with reference mapping and marker support.
+4. Use target-gene plots to localize locked genes from upstream analysis.
+5. Use Monocle3 trajectory only with a declared root-state rule.
+6. Use spatial analysis only after image-coordinate alignment is checked.
+7. Use communication analysis only when ligand-receptor inference is actually run.
+8. Use scTenifoldKnk outputs as virtual perturbation evidence.
+
+QC focus:
+
+1. Sample identity and batch effects.
+2. Cell and spot filtering thresholds.
+3. Doublet and contamination handling.
+4. Cell-type annotation support.
+5. Pseudotime root selection.
+6. Spatial image alignment.
+7. Communication model completeness.
+8. Simulation wording for perturbation results.
 
 ## Immune Infiltration and Enrichment
 

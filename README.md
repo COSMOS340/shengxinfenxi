@@ -18,7 +18,7 @@ The skill lives in:
 - Network toxicology
 - Molecular docking and molecular dynamics
 - Network toxicology plus docking/MD workflow guardrails
-- Spatial transcriptomics, cell-cell communication, and trajectory analysis
+- Spatial transcriptomics, cell-cell communication, trajectory analysis, and scTenifoldKnk virtual perturbation
 - Scientific QC for manuscript-facing outputs
 
 ## Install
@@ -50,6 +50,10 @@ Use the bioinformatics-reproduction skill to prepare QC checks for MR, SMR, and 
 
 ```text
 Use the bioinformatics-reproduction skill to audit a network toxicology plus molecular docking and GROMACS workflow.
+```
+
+```text
+Use the bioinformatics-reproduction skill to audit a single-cell plus spatial transcriptomics workflow with Monocle3 trajectory and scTenifoldKnk simulation.
 ```
 
 ## Scope

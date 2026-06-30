@@ -1,6 +1,6 @@
 ---
 name: bioinformatics-reproduction
-description: Plan, reproduce, and audit publication-oriented bioinformatics analyses. Use when Codex needs to design or execute workflows for GEO, TCGA, single-cell RNA-seq, WGCNA, machine learning diagnostic models, Mendelian randomization, eQTL, SMR, colocalization, immune infiltration, enrichment analysis, network toxicology, molecular docking, molecular dynamics, spatial transcriptomics, cell-cell communication, trajectory analysis, or paper reproduction from a manuscript-style bioinformatics study.
+description: Plan, reproduce, and audit publication-oriented bioinformatics analyses. Use when Codex needs to design or execute workflows for GEO, TCGA, single-cell RNA-seq, WGCNA, machine learning diagnostic models, Mendelian randomization, eQTL, SMR, colocalization, immune infiltration, enrichment analysis, network toxicology, molecular docking, molecular dynamics, spatial transcriptomics, cell-cell communication, trajectory analysis, scTenifoldKnk virtual perturbation, or paper reproduction from a manuscript-style bioinformatics study.
 ---
 
 # Bioinformatics Reproduction
@@ -21,6 +21,7 @@ Open only the reference files needed for the task:
 | Choose a method route | `references/method-routes.md` |
 | Design or audit WGCNA plus machine learning diagnostic workflows | `references/wgcna-machine-learning.md` |
 | Design or audit network toxicology, molecular docking, or molecular dynamics workflows | `references/network-toxicology-docking-md.md` |
+| Design or audit single-cell, spatial transcriptomics, trajectory, communication, or virtual perturbation workflows | `references/single-cell-spatial-trajectory.md` |
 | Audit analysis validity | `references/scientific-qc.md` |
 | Prepare final figures and tables | `references/figure-table-qc.md` |
 
