@@ -6,6 +6,8 @@ Use this reference to select the smallest defensible analysis route for a bioinf
 
 Use when the central data type is bulk transcriptomics.
 
+For detailed guardrails on GEO/TCGA expression processing, identifier mapping, batch correction, enrichment, immune scoring, and subtyping, read `bulk-geo-tcga-enrichment-immune.md`.
+
 Minimum route:
 
 1. Download expression matrix and platform annotation.
@@ -166,6 +168,8 @@ QC focus:
 ## Immune Infiltration and Enrichment
 
 Use immune and pathway scoring as interpretation layers.
+
+For detailed guardrails on GO/KEGG, GSEA, GSVA, ssGSEA, CIBERSORT-style workflows, and ConsensusClusterPlus subtyping, read `bulk-geo-tcga-enrichment-immune.md`.
 
 Minimum route:
 

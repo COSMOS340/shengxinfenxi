@@ -9,6 +9,7 @@ The skill lives in:
 ## What It Covers
 
 - GEO and TCGA expression analysis
+- Bulk expression preprocessing, identifier mapping, batch correction, differential expression, enrichment, immune scoring, and subtyping guardrails
 - Single-cell RNA-seq support for bulk findings
 - WGCNA
 - Machine learning diagnostic models
@@ -38,6 +39,10 @@ Ask Codex for tasks such as:
 
 ```text
 Use the bioinformatics-reproduction skill to design a GEO plus single-cell diagnostic model workflow.
+```
+
+```text
+Use the bioinformatics-reproduction skill to audit a GEO/TCGA expression, enrichment, immune infiltration, and ConsensusClusterPlus subtyping workflow.
 ```
 
 ```text
