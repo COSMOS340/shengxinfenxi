@@ -82,6 +82,8 @@ Core chain:
 
 ## Figure Narrative
 
+For detailed Figure 1-7 templates and source-table contracts, read `figure-narrative-templates.md`.
+
 Use figures to advance one claim at a time:
 
 1. Dataset and workflow overview.

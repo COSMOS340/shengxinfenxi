@@ -18,6 +18,7 @@ Open only the reference files needed for the task:
 | Task | Read |
 |---|---|
 | Build a full paper reproduction plan | `references/article-reproduction-playbook.md` |
+| Design manuscript main figures, supplementary figures, or a Figure 1-7 narrative | `references/figure-narrative-templates.md` |
 | Choose a method route | `references/method-routes.md` |
 | Design or audit bulk GEO/TCGA expression, enrichment, immune scoring, or subtyping workflows | `references/bulk-geo-tcga-enrichment-immune.md` |
 | Design or audit WGCNA plus machine learning diagnostic workflows | `references/wgcna-machine-learning.md` |
