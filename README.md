@@ -12,6 +12,7 @@ The skill lives in:
 - Single-cell RNA-seq support for bulk findings
 - WGCNA
 - Machine learning diagnostic models
+- WGCNA plus machine learning diagnostic workflow guardrails
 - MR, eQTL, SMR, and colocalization workflows
 - Immune infiltration and enrichment analysis
 - Network toxicology

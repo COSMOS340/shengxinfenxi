@@ -28,6 +28,8 @@ QC focus:
 
 Use WGCNA to identify co-expression modules associated with verified traits.
 
+For WGCNA routes that feed LASSO, random forest, SVM-RFE, ANN, SHAP, or large multi-model diagnostic workflows, read `wgcna-machine-learning.md` before coding.
+
 Minimum route:
 
 1. Use a cleaned expression matrix with samples as rows and genes as columns after transposition.
@@ -48,6 +50,8 @@ QC focus:
 ## Machine Learning Feature Selection
 
 Use machine learning when the goal is diagnostic, classification, or feature prioritization.
+
+For detailed guardrails on WGCNA plus machine learning diagnostic routes, read `wgcna-machine-learning.md`.
 
 Supported route levels:
 
