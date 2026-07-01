@@ -19,6 +19,7 @@ Open only the reference files needed for the task:
 |---|---|
 | Build a full paper reproduction plan | `references/article-reproduction-playbook.md` |
 | Start a new reproduction project scaffold with manifests, logs, templates, and route-specific folders | `references/reproduction-project-scaffold.md` |
+| Download and cache public PMC supplementary files, including CloudPMC proof-of-work assets | `references/literature-data-downloads.md` |
 | Design manuscript main figures, supplementary figures, or a Figure 1-7 narrative | `references/figure-narrative-templates.md` |
 | Choose a method route | `references/method-routes.md` |
 | Design or audit bulk GEO/TCGA expression, enrichment, immune scoring, or subtyping workflows | `references/bulk-geo-tcga-enrichment-immune.md` |

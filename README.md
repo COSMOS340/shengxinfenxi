@@ -22,6 +22,7 @@ The skill lives in:
 - Spatial transcriptomics, cell-cell communication, trajectory analysis, and scTenifoldKnk virtual perturbation
 - Figure 1-7 manuscript narrative templates and source-table contracts
 - Reproduction project scaffolds with a generator script, manifest, methods log, figure manifest, validation log, limitations, and handoff templates
+- Public PMC supplementary file caching, including CloudPMC proof-of-work handling for allowed public assets
 - Scientific QC for manuscript-facing outputs
 
 ## Install
@@ -59,6 +60,10 @@ Direct script usage:
 
 ```bash
 python3 bioinformatics-reproduction/scripts/create_reproduction_project.py --route-id R03 --project-name geo_wgcna_project --output-root ./projects
+```
+
+```bash
+python3 bioinformatics-reproduction/scripts/download_pmc_supplementary_pow.py --url-file pmc_supplementary_urls.tsv --output-dir ./project/03_data_raw/paper/supplementary
 ```
 
 ```text
