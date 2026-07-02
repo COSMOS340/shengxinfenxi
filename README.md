@@ -20,6 +20,7 @@ The skill lives in:
 - Molecular docking and molecular dynamics
 - Network toxicology plus docking/MD workflow guardrails
 - Spatial transcriptomics, cell-cell communication, trajectory analysis, and scTenifoldKnk virtual perturbation
+- Dense `csv.gz` single-cell expression atlas first-pass audits with stratified sampling
 - Figure 1-7 manuscript narrative templates and source-table contracts
 - Reproduction project scaffolds with a generator script, manifest, methods log, figure manifest, validation log, limitations, and handoff templates
 - Public PMC supplementary file caching, including CloudPMC proof-of-work handling for allowed public assets
@@ -64,6 +65,10 @@ python3 bioinformatics-reproduction/scripts/create_reproduction_project.py --rou
 
 ```bash
 python3 bioinformatics-reproduction/scripts/download_pmc_supplementary_pow.py --url-file pmc_supplementary_urls.tsv --output-dir ./project/03_data_raw/paper/supplementary
+```
+
+```bash
+Rscript bioinformatics-reproduction/scripts/stratified_dense_expression_atlas.R ./project/03_data_raw/single_cell/GSE154763 ./project/04_data_processed/GSE154763_expression_first_pass GSE154763_
 ```
 
 ```text
