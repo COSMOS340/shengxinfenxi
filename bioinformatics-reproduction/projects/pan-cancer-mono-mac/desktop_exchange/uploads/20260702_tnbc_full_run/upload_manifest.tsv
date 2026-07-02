@@ -1,4 +1,4 @@
-﻿relative_path	file_type	dataset	description	bytes	sha256	created_by	source_command	notes
+relative_path	file_type	dataset	description	bytes	sha256	created_by	source_command	notes
 STATUS.md	status	GSE169246_TNBC	Filled desktop upload status	3070	145e7780d18c6da2f36d154229d3dc92e0568df858ed1fea919bb40d2798782c	Codex desktop worker	TNBC_THREADS=8 TNBC_NPCS=30 TNBC_RESOLUTION=0.1 Rscript scripts/run_tnbc_bpcells_full.R 2>&1 | tee tnbc_full_run.log	uploaded to GitHub handoff folder
 figures/tnbc_full_canonical_marker_dotplot.pdf	figure	GSE169246_TNBC	Canonical marker dotplot, PDF	40218	ac192653e9f4a6168bff67fac5c54cf9438f9de92059c7ba8492868941610c49	Codex desktop worker	TNBC_THREADS=8 TNBC_NPCS=30 TNBC_RESOLUTION=0.1 Rscript scripts/run_tnbc_bpcells_full.R 2>&1 | tee tnbc_full_run.log	uploaded to GitHub handoff folder
 figures/tnbc_full_canonical_marker_dotplot.png	figure	GSE169246_TNBC	Canonical marker dotplot, PNG	328553	1a6a9cd7601d96cffb6941f925ab6fbd2e668fffd60048d636bcdff671d21df6	Codex desktop worker	TNBC_THREADS=8 TNBC_NPCS=30 TNBC_RESOLUTION=0.1 Rscript scripts/run_tnbc_bpcells_full.R 2>&1 | tee tnbc_full_run.log	uploaded to GitHub handoff folder

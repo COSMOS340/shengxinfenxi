@@ -1,4 +1,4 @@
-﻿# Desktop Upload Status
+# Desktop Upload Status
 
 ## Run Identity
 
