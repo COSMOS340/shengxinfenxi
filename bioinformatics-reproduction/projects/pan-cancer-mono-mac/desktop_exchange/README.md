@@ -4,6 +4,20 @@ This folder is the GitHub handoff point between the desktop machine and Codex fo
 
 Use it for desktop-run outputs, status notes, checksums, and short machine-readable manifests. Do not upload raw GEO inputs or temporary cache folders here.
 
+## Request Layout
+
+Codex can place desktop-side run requests under `requests/`. Each request folder should be treated as read-only instructions by the desktop worker unless the request says otherwise:
+
+```text
+requests/
+  20260702_tnbc_standard_object/
+    README.md
+    *.tsv
+    *.py
+```
+
+After completing a request, upload results under a new dated folder in `uploads/`.
+
 ## Upload Layout
 
 After a desktop run completes, create one dated upload folder under `uploads/`:

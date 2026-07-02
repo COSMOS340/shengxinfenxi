@@ -58,7 +58,14 @@ if (length(unexpected_retain_values) > 0L) {
   stop("retain_for_full_integration must contain only TRUE or FALSE. Observed: ", paste(unexpected_retain_values, collapse = ", "))
 }
 allowed_lineages <- c("Macrophages", "Monocytes", "Classical DCs", "Plasmacytoid DCs", "Mast cells")
-outside_lineages <- setdiff(unique(annotation$manual_broad_lineage), allowed_lineages)
+retained_annotation <- annotation[retain_for_full_integration == "TRUE"]
+if (nrow(retained_annotation) == 0L) {
+  stop("Cluster annotation table retains zero clusters.")
+}
+if (anyNA(retained_annotation$manual_broad_lineage) || any(!nzchar(as.character(retained_annotation$manual_broad_lineage)))) {
+  stop("Retained rows must have non-empty manual_broad_lineage values.")
+}
+outside_lineages <- setdiff(unique(retained_annotation$manual_broad_lineage), allowed_lineages)
 if (length(outside_lineages) > 0L) {
   stop("manual_broad_lineage contains values outside the allowed set: ", paste(outside_lineages, collapse = ", "))
 }
