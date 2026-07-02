@@ -1,0 +1,10 @@
+metric	value
+dataset_id	set2_TNBC
+paper_label	TNBC
+retained_cells	30209
+genes	23947
+retained_patients	21
+retained_batches	36
+lineages	Macrophages;Mast cells;Monocytes;Plasmacytoid DCs
+expression_source	standard_seurat_object_pc_handoff_scope_refined_to_supp_fig_s1_pre
+output_rds	outputs/04_data_processed/single_cell/full_scope_standard_objects/set2_TNBC_standard_myeloid_pre_supp_fig_s1_portable.rds
