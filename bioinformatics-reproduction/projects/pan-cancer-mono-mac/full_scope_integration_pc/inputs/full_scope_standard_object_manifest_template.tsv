@@ -1,0 +1,18 @@
+dataset_id	paper_label	rds_path	use_integration	data_state	notes
+set1_ESCA	ESCA	/path/to/set1_ESCA_standard_myeloid.rds	TRUE	author_processed_set1_myeloid_metadata	GSE154763 ESCA myeloid metadata/expression converted to standard Seurat object.
+set1_kidney	kidney cancer	/path/to/set1_kidney_standard_myeloid.rds	TRUE	author_processed_set1_myeloid_metadata	GSE154763 KIDNEY myeloid metadata/expression converted to standard Seurat object.
+set1_LYM	LYM	/path/to/set1_LYM_standard_myeloid.rds	TRUE	author_processed_set1_myeloid_metadata	GSE154763 LYM myeloid metadata/expression converted to standard Seurat object.
+set1_MYE	MYE	/path/to/set1_MYE_standard_myeloid.rds	TRUE	author_processed_set1_myeloid_metadata	GSE154763 MYE myeloid metadata/expression converted to standard Seurat object.
+set1_OV_FTC	OV-FTC	/path/to/set1_OV_FTC_standard_myeloid.rds	TRUE	author_processed_set1_myeloid_metadata	GSE154763 OV-FTC myeloid metadata/expression converted to standard Seurat object.
+set1_PAAD	PAAD	/path/to/set1_PAAD_standard_myeloid.rds	TRUE	author_processed_set1_myeloid_metadata	GSE154763 PAAD myeloid metadata/expression converted to standard Seurat object.
+set1_THCA	THCA	/path/to/set1_THCA_standard_myeloid.rds	TRUE	author_processed_set1_myeloid_metadata	GSE154763 THCA myeloid metadata/expression converted to standard Seurat object.
+set1_UCEC	UCEC	/path/to/set1_UCEC_standard_myeloid.rds	TRUE	author_processed_set1_myeloid_metadata	GSE154763 UCEC myeloid metadata/expression converted to standard Seurat object.
+set2_TNBC	TNBC	/path/to/set2_TNBC_standard_myeloid.rds	TRUE	manual_marker_reviewed	Run ../tnbc_full_run first, then manually review clusters before creating this standard object.
+set2_LUAD	LUAD	/path/to/set2_LUAD_standard_myeloid.rds	TRUE	manual_marker_reviewed_paper_n12_scope	Use marker-reviewed LUAD paper n=12 scope.
+set2_COAD_READ	COAD-READ	/path/to/set2_COAD_READ_standard_myeloid.rds	TRUE	manual_marker_review_required	COAD-READ public myeloid labels still require marker review before final integration.
+set2_LIHC_CHOL	LIHC-CHOL	/path/to/set2_LIHC_CHOL_standard_myeloid.rds	TRUE	manual_marker_review_required	LIHC-CHOL public TAM labels still require marker review before final integration.
+set2_healthy_lung	healthy lung	/path/to/set2_healthy_lung_standard_myeloid.rds	TRUE	manual_marker_reviewed	Use marker-reviewed healthy lung clusters.
+set2_healthy_colon	healthy colon	/path/to/set2_healthy_colon_standard_myeloid.rds	TRUE	manual_marker_reviewed_initial_myeloid	Use marker-reviewed healthy colon initial myeloid/DC/mast cells.
+set2_healthy_liver	healthy liver	/path/to/set2_healthy_liver_standard_myeloid.rds	TRUE	manual_marker_reviewed_macrophage_round	Use marker-reviewed healthy liver macrophage-round cells.
+set2_GBM	GBM	/path/to/set2_GBM_standard_myeloid.rds	FALSE	unresolved_exact_three_patient_ids_required	Do not enable until exact three GBM IDs are source-verified.
+set2_healthy_PBMC	healthy PBMC	/path/to/set2_healthy_PBMC_standard_myeloid.rds	FALSE	unresolved_exact_fifteen_donor_ids_required	Do not enable until exact fifteen PBMC donor IDs are source-verified.

@@ -1,0 +1,4 @@
+cluster	retain_for_full_integration	manual_annotation	manual_broad_lineage	review_notes
+0	TRUE	C1QC_APOE_macrophage	Macrophages	source-verified marker review required
+1	TRUE	FCN1_S100A8_monocyte	Monocytes	source-verified marker review required
+2	FALSE	T_cell_contamination	Monocytes	example excluded row; replace before use

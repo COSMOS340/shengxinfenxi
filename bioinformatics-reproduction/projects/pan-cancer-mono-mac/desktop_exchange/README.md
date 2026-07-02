@@ -61,6 +61,28 @@ For the `tnbc_full_run` workflow, upload at least:
 
 If marker testing was run with `TNBC_MARKER_MAX_CELLS_PER_CLUSTER`, record the exact value in `STATUS.md`.
 
+## Minimum Full-Scope Integration Upload
+
+For the `full_scope_integration_pc` workflow, upload at least:
+
+- `STATUS.md`
+- `upload_manifest.tsv`
+- `checksums.sha256`
+- the full run log
+- `full_scope_integration_run_summary.tsv`
+- `full_scope_cells_by_dataset.tsv`
+- `full_scope_origin_lineage_counts.tsv`
+- `full_scope_umap_coordinates.tsv`, if file size allows
+- `full_scope_cluster_top10_markers.tsv`
+- `full_scope_cluster_markers_all.tsv`, if file size allows
+- `full_scope_umap_by_manual_broad_lineage.png`
+- `full_scope_umap_by_dataset.png`
+- `full_scope_umap_by_origin.png`
+- `full_scope_umap_by_cluster.png`
+- `full_scope_canonical_marker_dotplot.png`
+
+If marker testing was run with `FULL_MARKER_MAX_CELLS_PER_CLUSTER`, record the exact value in `STATUS.md`. If the integrated Seurat RDS is too large for GitHub, record its external path, byte size, and SHA256 in `upload_manifest.tsv`.
+
 ## Codex Review Steps
 
 After an upload appears in this folder, Codex should:
