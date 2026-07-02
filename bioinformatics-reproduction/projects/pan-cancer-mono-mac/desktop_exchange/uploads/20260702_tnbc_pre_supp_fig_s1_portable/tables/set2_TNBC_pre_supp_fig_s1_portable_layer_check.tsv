@@ -1,0 +1,3 @@
+layer	matrix_class	rows	cols	contains_bpcells_class	small_slice_status
+counts	dgCMatrix	23947	30209	FALSE	ok
+data	dgCMatrix	23947	30209	FALSE	ok
