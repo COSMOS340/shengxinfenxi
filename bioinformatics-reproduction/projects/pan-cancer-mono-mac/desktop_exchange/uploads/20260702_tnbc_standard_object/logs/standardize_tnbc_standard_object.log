@@ -1,0 +1,14 @@
+Rscript.exe : Warning messages:
+At line:23 char:1
++ & 'H:\R\bin\Rscript.exe' ../full_scope_integration_pc/scripts/make_st ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (Warning messages::String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+1: package 'Seurat' was built under R version 4.4.3 
+2: package 'SeuratObject' was built under R version 4.4.3 
+3: package 'sp' was built under R version 4.4.3 
+4: package 'data.table' was built under R version 4.4.3 
+Loading required package: BPCells
+Standard Seurat object written: outputs/04_data_processed/single_cell/full_scope_standard_objects/set2_TNBC_standard_my
+eloid.rds
