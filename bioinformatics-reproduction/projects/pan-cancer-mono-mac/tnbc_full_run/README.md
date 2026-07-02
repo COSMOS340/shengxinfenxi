@@ -83,6 +83,27 @@ Outputs are written under `outputs/`:
 
 After the run, inspect `tnbc_full_cluster_top10_markers.tsv` and the marker dotplot manually before assigning cell-type names. Do not use automatic labels as final cell-type names.
 
+## Upload Results for Codex Review
+
+After the desktop run completes, upload review outputs to:
+
+```text
+bioinformatics-reproduction/projects/pan-cancer-mono-mac/desktop_exchange/uploads/
+```
+
+Create a dated folder such as:
+
+```text
+desktop_exchange/uploads/20260702_tnbc_full_run/
+```
+
+Copy and fill:
+
+- `desktop_exchange/STATUS_TEMPLATE.md` to `uploads/<run_folder>/STATUS.md`
+- `desktop_exchange/upload_manifest_template.tsv` to `uploads/<run_folder>/upload_manifest.tsv`
+
+Upload logs, summary tables, marker tables, UMAP coordinates, and generated figures. Do not upload raw GEO inputs, BPCells cache directories, or temporary files. If an output is too large for GitHub, record its external path, byte size, and SHA256 in `upload_manifest.tsv`.
+
 ## Downloaded Files and Checksums
 
 The downloader verifies these exact SHA256 values:
