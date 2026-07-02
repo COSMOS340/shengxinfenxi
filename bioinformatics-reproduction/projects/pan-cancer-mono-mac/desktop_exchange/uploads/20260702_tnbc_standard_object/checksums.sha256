@@ -1,4 +1,4 @@
-# Uploaded text/data files
+# Uploaded data payload files
 5cacfcee9388a960e6fe63ea5f6b9f48e5d27912d2014b72733e84ff15d534b9  logs/standardize_tnbc_standard_object.log
 9730c0d9a40a38888add2f8d9c2fd0d76a7e3972b55ec2674e8e5c491c26cfd3  tables/set2_TNBC_standard_object_summary.tsv
 9fd7791ab5c1b888f71968f7f2c94d36a26c2a7f387fe1e49291649103bc1002  files/set2_TNBC_standard_myeloid.rds.chunks.tsv
@@ -7,7 +7,7 @@ a045f90ab0a7002b8a50335f521743ca6c32961ba32a038e3d7b2c8904785e0f  files/set2_TNB
 # Original unsplit standard RDS checksum
 d63924eb8364ea6cbf267443b27cf4b638e0c74b3d03f4187e8df62dbe47051b  files/set2_TNBC_standard_myeloid.rds
 
-# Pending binary chunk checksums; files are local but not yet present in GitHub handoff folder
+# Uploaded binary chunk checksums
 bae93955a6abcf003a482450153b0c7446250468f44007780577834e73ad47a9  files/set2_TNBC_standard_myeloid.rds.part000
 361dc4b7d5964168dfb735e4fc7089ef47183ea4d4cdc0492f8247d966fdf9c2  files/set2_TNBC_standard_myeloid.rds.part001
 19f082376e422408a351a5b3a3589e9621fd17f3cbba949c45e8089f75c70bd7  files/set2_TNBC_standard_myeloid.rds.part002
