@@ -1,0 +1,7 @@
+metric	value
+dataset_id	set2_TNBC
+paper_label	TNBC
+retained_cells	75151
+genes	23947
+clusters_retained	5
+output_rds	outputs/04_data_processed/single_cell/full_scope_standard_objects/set2_TNBC_standard_myeloid.rds
