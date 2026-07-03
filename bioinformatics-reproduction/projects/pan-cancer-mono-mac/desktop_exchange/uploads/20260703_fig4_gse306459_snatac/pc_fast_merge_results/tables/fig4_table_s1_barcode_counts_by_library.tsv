@@ -1,0 +1,18 @@
+Library	tissue_group	N
+CRNO1	Adjacent normal	4185
+CRNO2	Adjacent normal	10150
+CRNO3	Adjacent normal	12398
+CRNOTU1	Adjacent normal	2215
+CRNOTU1	Tumor	5434
+CRNOTU2	Adjacent normal	2367
+CRNOTU2	Tumor	2102
+CRTU1	Tumor	9650
+CRTU10	Tumor	5481
+CRTU2	Tumor	11636
+CRTU3	Tumor	11576
+CRTU4	Tumor	9310
+CRTU5	Tumor	7531
+CRTU6	Tumor	6610
+CRTU7	Tumor	9080
+CRTU8	Tumor	8143
+CRTU9	Tumor	4350
