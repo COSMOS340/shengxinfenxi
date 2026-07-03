@@ -1,0 +1,54 @@
+2026-07-04T05:04:35+0800	start	running	Fig. 4 GSE306459 snATAC workflow 
+2026-07-04T05:04:37+0800	read_library	running	CRNO1 
+2026-07-04T05:04:45+0800	read_library	complete	CRNO1; cells=4185; peaks=84037 
+2026-07-04T05:04:45+0800	read_library	running	CRNO2 
+2026-07-04T05:04:57+0800	read_library	complete	CRNO2; cells=10150; peaks=109416 
+2026-07-04T05:04:57+0800	read_library	running	CRNO3 
+2026-07-04T05:05:05+0800	read_library	complete	CRNO3; cells=12398; peaks=65221 
+2026-07-04T05:05:05+0800	read_library	running	CRNOTU1 
+2026-07-04T05:05:11+0800	read_library	complete	CRNOTU1; cells=7649; peaks=75568 
+2026-07-04T05:05:11+0800	read_library	running	CRNOTU2 
+2026-07-04T05:05:16+0800	read_library	complete	CRNOTU2; cells=4469; peaks=127439 
+2026-07-04T05:05:16+0800	read_library	running	CRTU1 
+2026-07-04T05:05:25+0800	read_library	complete	CRTU1; cells=9650; peaks=93964 
+2026-07-04T05:05:25+0800	read_library	running	CRTU10 
+2026-07-04T05:05:29+0800	read_library	complete	CRTU10; cells=5481; peaks=76529 
+2026-07-04T05:05:29+0800	read_library	running	CRTU2 
+2026-07-04T05:05:40+0800	read_library	complete	CRTU2; cells=11636; peaks=105579 
+2026-07-04T05:05:40+0800	read_library	running	CRTU3 
+2026-07-04T05:05:52+0800	read_library	complete	CRTU3; cells=11576; peaks=127661 
+2026-07-04T05:05:52+0800	read_library	running	CRTU4 
+2026-07-04T05:06:01+0800	read_library	complete	CRTU4; cells=9310; peaks=88813 
+2026-07-04T05:06:01+0800	read_library	running	CRTU5 
+2026-07-04T05:06:08+0800	read_library	complete	CRTU5; cells=7531; peaks=82126 
+2026-07-04T05:06:08+0800	read_library	running	CRTU6 
+2026-07-04T05:06:15+0800	read_library	complete	CRTU6; cells=6610; peaks=83381 
+2026-07-04T05:06:15+0800	read_library	running	CRTU7 
+2026-07-04T05:06:21+0800	read_library	complete	CRTU7; cells=9080; peaks=72595 
+2026-07-04T05:06:21+0800	read_library	running	CRTU8 
+2026-07-04T05:06:25+0800	read_library	complete	CRTU8; cells=8143; peaks=29308 
+2026-07-04T05:06:25+0800	read_library	running	CRTU9 
+2026-07-04T05:06:30+0800	read_library	complete	CRTU9; cells=4350; peaks=106915 
+2026-07-04T05:06:30+0800	merge_counts	running	libraries=15 
+2026-07-04T05:12:24+0800	merge_counts	complete	cells=122218; peaks=1325265 
+2026-07-04T05:12:26+0800	create_chromatin_assay	running	cells=122218; peaks=1325265 
+2026-07-04T05:13:13+0800	merge	complete	cells=122218; peaks=1307563 
+2026-07-04T05:13:13+0800	annotation	running	EnsDb.Hsapiens.v86 
+2026-07-04T05:13:59+0800	annotation	complete	features=3021125 
+2026-07-04T05:13:59+0800	lsi_umap_cluster	running	npcs=30 
+2026-07-04T05:20:35+0800	lsi_umap_cluster	complete	clusters=74 
+2026-07-04T05:20:35+0800	gene_activity	running	fragments_free_peak_overlap 
+2026-07-04T05:21:28+0800	gene_activity	complete	genes=22627; cells=122218 
+2026-07-04T05:22:13+0800	label_transfer	running	features=2675; reduction=pcaproject 
+2026-07-04T05:24:16+0800	label_transfer	complete	labels=Activated C1QC+ TAMs;AMs;CD1C+ DCs;pDCs;Resting C1QC+ TAMs;S100A12+ MDSCs;SPP1+ TAMs;THBS1+ MDSCs 
+2026-07-04T05:24:21+0800	save_plot	complete	I:\shengxinfenxi\bioinformatics-reproduction\projects\pan-cancer-mono-mac\fig4_snatac\outputs_fast_merge/figures/fig4a_snatac_umap_label_transfer.png 
+2026-07-04T05:24:23+0800	save_plot	complete	I:\shengxinfenxi\bioinformatics-reproduction\projects\pan-cancer-mono-mac\fig4_snatac\outputs_fast_merge/figures/fig4b_tissue_proportion_boxplots.png 
+2026-07-04T05:24:23+0800	differential_peaks	running	Activated C1QC+ TAMs; method=sparse_fold_change 
+2026-07-04T05:24:58+0800	differential_peaks	running	AMs; method=sparse_fold_change 
+2026-07-04T05:25:11+0800	differential_peaks	running	CD1C+ DCs; method=sparse_fold_change 
+2026-07-04T05:25:23+0800	differential_peaks	running	pDCs; method=sparse_fold_change 
+2026-07-04T05:25:33+0800	differential_peaks	running	Resting C1QC+ TAMs; method=sparse_fold_change 
+2026-07-04T05:25:42+0800	differential_peaks	running	S100A12+ MDSCs; method=sparse_fold_change 
+2026-07-04T05:25:50+0800	differential_peaks	running	SPP1+ TAMs; method=sparse_fold_change 
+2026-07-04T05:25:59+0800	differential_peaks	running	THBS1+ MDSCs; method=sparse_fold_change 
+2026-07-04T05:27:08+0800	save_plot	complete	I:\shengxinfenxi\bioinformatics-reproduction\projects\pan-cancer-mono-mac\fig4_snatac\outputs_fast_merge/figures/fig4c_chipseeker_annotation_pie.png 
