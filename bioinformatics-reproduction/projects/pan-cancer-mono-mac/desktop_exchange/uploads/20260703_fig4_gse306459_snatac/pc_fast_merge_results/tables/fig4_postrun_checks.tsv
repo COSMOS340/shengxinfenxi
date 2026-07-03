@@ -1,0 +1,14 @@
+check	result	value
+required_files_nonempty	PASS	16
+umap_rows	PASS	122218
+umap_columns	PASS	cell_id;UMAP_1;UMAP_2;raw_barcode;Library;Tissue;Sample;tissue_group;seurat_clusters;predicted_label;prediction.score.max
+da_rows_positive	PASS	32372
+annotation_rows_positive	PASS	7
+annotation_fraction_sum	PASS	1.000000000000
+libraries	PASS	15
+samples	PASS	45
+labels	PASS	8
+geo_h5_files	PASS	15
+wilcoxon_rows	PASS	8
+proportion_rows	PASS	176
+processed_rds_policy	PASS	not_saved
