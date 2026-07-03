@@ -1,0 +1,13 @@
+metric	value
+run_scope	fig4c
+cells	122218
+peaks	1307563
+libraries	15
+samples	45
+transferred_labels	8
+transfer_features	2675
+differential_peak_rows	32372
+unique_differential_peaks	32059
+chipseeker_annotation_rows	7
+requested_motifs_found	NA
+processed_rds	not_saved
