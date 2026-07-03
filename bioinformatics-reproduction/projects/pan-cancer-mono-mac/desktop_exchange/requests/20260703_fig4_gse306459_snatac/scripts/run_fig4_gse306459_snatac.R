@@ -13,23 +13,6 @@ suppressPackageStartupMessages({
   library(GenomeInfoDb)
 })
 
-required_namespaces <- c(
-  "ensembldb",
-  "EnsDb.Hsapiens.v86",
-  "BSgenome.Hsapiens.UCSC.hg38",
-  "JASPAR2020",
-  "TFBSTools",
-  "ChIPseeker",
-  "TxDb.Hsapiens.UCSC.hg38.knownGene",
-  "org.Hs.eg.db",
-  "ggseqlogo"
-)
-
-missing_namespaces <- required_namespaces[!vapply(required_namespaces, requireNamespace, logical(1), quietly = TRUE)]
-if (length(missing_namespaces) > 0L) {
-  stop("Missing R/Bioconductor packages: ", paste(missing_namespaces, collapse = ", "))
-}
-
 args_all <- commandArgs(trailingOnly = FALSE)
 script_arg <- grep("^--file=", args_all, value = TRUE)
 if (length(script_arg) == 0L) stop("Cannot resolve script path from commandArgs().")
@@ -42,8 +25,31 @@ supp_dir <- Sys.getenv("FIG4_SUPP_DIR", unset = file.path(getwd(), "fig4_snatac"
 out_dir <- Sys.getenv("FIG4_OUTPUT_DIR", unset = file.path(getwd(), "fig4_snatac", "outputs"))
 reference_rds <- Sys.getenv("FIG4_REFERENCE_RDS", unset = "")
 reference_label_column <- Sys.getenv("FIG4_REFERENCE_LABEL_COLUMN", unset = "")
+run_scope <- Sys.getenv("FIG4_RUN_SCOPE", unset = "fig4c")
 npcs <- as.integer(Sys.getenv("FIG4_NPCS", unset = "30"))
 cluster_resolution <- as.numeric(Sys.getenv("FIG4_RESOLUTION", unset = "0.4"))
+if (!run_scope %in% c("fig4c", "all")) stop("FIG4_RUN_SCOPE must be 'fig4c' or 'all'.")
+
+required_namespaces <- c(
+  "ensembldb",
+  "EnsDb.Hsapiens.v86",
+  "ChIPseeker",
+  "TxDb.Hsapiens.UCSC.hg38.knownGene",
+  "org.Hs.eg.db"
+)
+if (run_scope == "all") {
+  required_namespaces <- c(
+    required_namespaces,
+    "BSgenome.Hsapiens.UCSC.hg38",
+    "JASPAR2020",
+    "TFBSTools",
+    "ggseqlogo"
+  )
+}
+missing_namespaces <- required_namespaces[!vapply(required_namespaces, requireNamespace, logical(1), quietly = TRUE)]
+if (length(missing_namespaces) > 0L) {
+  stop("Missing R/Bioconductor packages: ", paste(missing_namespaces, collapse = ", "))
+}
 
 table_s1 <- file.path(supp_dir, "cir-24-1255_table_s1_suppst1.xlsx")
 table_s4 <- file.path(supp_dir, "cir-24-1255_table_s4_suppst4.xlsx")
@@ -96,6 +102,40 @@ save_plot <- function(plot, stem, width, height, dpi = 300) {
   invisible(png_path)
 }
 
+finalize_run <- function(requested_motifs_found = NA_integer_) {
+  processed_rds <- file.path(file_dir, "fig4_gse306459_snatac_processed.rds")
+  saveRDS(combined, processed_rds)
+  rds_sha <- tools::sha256sum(processed_rds)
+  writeLines(paste(unname(rds_sha), basename(processed_rds)), file.path(file_dir, "fig4_gse306459_snatac_processed.rds.sha256"))
+
+  run_summary <- data.table(
+    metric = c(
+      "run_scope",
+      "cells",
+      "peaks",
+      "libraries",
+      "samples",
+      "transferred_labels",
+      "transfer_features",
+      "differential_peak_rows",
+      "requested_motifs_found"
+    ),
+    value = c(
+      run_scope,
+      ncol(combined),
+      nrow(combined[["peaks"]]),
+      length(unique(combined$Library)),
+      length(unique(combined$Sample)),
+      length(unique(combined$predicted_label)),
+      length(transfer_features),
+      if (exists("da_dt")) nrow(da_dt) else NA_integer_,
+      requested_motifs_found
+    )
+  )
+  fwrite(run_summary, file.path(tab_dir, "fig4_gse306459_run_summary.tsv"), sep = "\t", quote = FALSE)
+  write_log("complete", "complete", paste0("output_dir=", out_dir))
+}
+
 write_log("start", "running", "Fig. 4 GSE306459 snATAC workflow")
 stop_missing_file(geo_filelist, "GSE306459 GEO file list")
 stop_missing_file(table_s1, "Supplementary Table S1")
@@ -106,31 +146,74 @@ stop_missing_file(reference_rds, "Reference Seurat RDS")
 
 geo_files <- fread(geo_filelist)
 assert_columns(geo_files, c("record_type", "file_name", "size_bytes", "file_type", "url"), "GSE306459 file list")
+archive_row <- geo_files[record_type == "Archive" & file_name == "GSE306459_RAW.tar"]
+if (nrow(archive_row) != 1L) stop("Expected exactly one GSE306459_RAW.tar archive row in GEO file list.")
+raw_archive <- file.path(geo_dir, archive_row$file_name)
 geo_files <- geo_files[record_type == "File"]
+geo_files[, url := paste0("archive_member:", archive_row$file_name, ":", file_name)]
 geo_files[, Library := sub("^GSM[0-9]+_([^_]+)_(fragments.tsv.gz|raw_peak_bc_matrix.h5)$", "\\1", file_name)]
 if (any(geo_files$Library == geo_files$file_name)) {
   stop("Could not parse Library from file names: ", paste(geo_files[Library == file_name, file_name], collapse = ", "))
 }
 
-download_manifest <- geo_files[, .(file_name, url, size_bytes, local_path = file.path(geo_dir, file_name))]
-for (i in seq_len(nrow(download_manifest))) {
-  target <- download_manifest[i]
-  if (file.exists(target$local_path) && file.size(target$local_path) > 0) {
-    write_log("download_geo", "skipped_existing", target$file_name)
-    next
+needed_file_type <- if (run_scope == "all") c("H5", "TSV") else "H5"
+needed_files <- geo_files[file_type %in% needed_file_type]
+download_manifest <- rbind(
+  archive_row[, .(record_type, file_name, url, size_bytes, local_path = raw_archive, required_for_scope = "download_archive")],
+  needed_files[, .(record_type, file_name, url, size_bytes, local_path = file.path(geo_dir, file_name), required_for_scope = run_scope)],
+  use.names = TRUE,
+  fill = TRUE
+)
+
+missing_needed <- needed_files[!file.exists(file.path(geo_dir, file_name)) | file.size(file.path(geo_dir, file_name)) == 0]
+if (nrow(missing_needed) > 0L) {
+  if (file.exists(raw_archive) && file.size(raw_archive) > 0) {
+    observed_archive_size <- file.size(raw_archive)
+    if (!is.na(archive_row$size_bytes) && observed_archive_size != as.numeric(archive_row$size_bytes)) {
+      stop("Existing archive size mismatch: observed ", observed_archive_size, ", expected ", archive_row$size_bytes)
+    }
+    write_log("download_archive", "skipped_existing", raw_archive)
+  } else {
+    write_log("download_archive", "running", archive_row$file_name)
+    download.file(archive_row$url, raw_archive, mode = "wb", quiet = FALSE)
+    observed_archive_size <- file.size(raw_archive)
+    if (!is.na(archive_row$size_bytes) && observed_archive_size != as.numeric(archive_row$size_bytes)) {
+      stop("Downloaded archive size mismatch: observed ", observed_archive_size, ", expected ", archive_row$size_bytes)
+    }
+    write_log("download_archive", "complete", paste0(archive_row$file_name, "; bytes=", observed_archive_size))
   }
-  write_log("download_geo", "running", target$file_name)
-  download.file(target$url, target$local_path, mode = "wb", quiet = FALSE)
-  observed_size <- file.size(target$local_path)
-  if (!is.na(target$size_bytes) && observed_size != as.numeric(target$size_bytes)) {
-    stop("Downloaded size mismatch for ", target$file_name, ": observed ", observed_size, ", expected ", target$size_bytes)
+
+  archive_listing <- utils::untar(raw_archive, list = TRUE)
+  extract_names <- missing_needed$file_name
+  archive_name_map <- setNames(archive_listing[match(extract_names, basename(archive_listing))], extract_names)
+  if (any(is.na(archive_name_map))) {
+    stop("Archive does not contain required files: ", paste(names(archive_name_map)[is.na(archive_name_map)], collapse = ", "))
   }
-  write_log("download_geo", "complete", paste0(target$file_name, "; bytes=", observed_size))
+  write_log("extract_archive", "running", paste0("files=", length(archive_name_map)))
+  utils::untar(raw_archive, files = unname(archive_name_map), exdir = geo_dir)
+  for (internal_name in unname(archive_name_map)) {
+    extracted_path <- file.path(geo_dir, internal_name)
+    final_path <- file.path(geo_dir, basename(internal_name))
+    if (!identical(normalizePath(extracted_path, mustWork = FALSE), normalizePath(final_path, mustWork = FALSE))) {
+      file.rename(extracted_path, final_path)
+    }
+  }
+  write_log("extract_archive", "complete", paste0("files=", length(archive_name_map)))
+}
+
+for (i in seq_len(nrow(needed_files))) {
+  target_path <- file.path(geo_dir, needed_files$file_name[i])
+  if (!file.exists(target_path) || file.size(target_path) == 0) stop("Required extracted file missing: ", target_path)
+  observed_size <- file.size(target_path)
+  if (!is.na(needed_files$size_bytes[i]) && observed_size != as.numeric(needed_files$size_bytes[i])) {
+    stop("Extracted size mismatch for ", needed_files$file_name[i], ": observed ", observed_size, ", expected ", needed_files$size_bytes[i])
+  }
 }
 fwrite(download_manifest, file.path(tab_dir, "fig4_gse306459_geo_download_manifest.tsv"), sep = "\t", quote = FALSE)
 
 file_pairs <- dcast(geo_files, Library ~ file_type, value.var = "file_name")
-assert_columns(file_pairs, c("Library", "H5", "TSV"), "GSE306459 paired files")
+assert_columns(file_pairs, c("Library", "H5"), "GSE306459 paired files")
+if (run_scope == "all") assert_columns(file_pairs, c("Library", "H5", "TSV"), "GSE306459 paired files")
 setorder(file_pairs, Library)
 
 barcode_meta <- as.data.table(read_xlsx(table_s1, sheet = "barcode", skip = 1))
@@ -153,9 +236,12 @@ if (length(missing_libraries) > 0L) {
 read_snatac_library <- function(library_id) {
   row <- file_pairs[Library == library_id]
   h5_path <- file.path(geo_dir, row$H5)
-  fragment_path <- file.path(geo_dir, row$TSV)
   stop_missing_file(h5_path, paste0(library_id, " H5"))
-  stop_missing_file(fragment_path, paste0(library_id, " fragments"))
+  fragment_path <- NULL
+  if (run_scope == "all") {
+    fragment_path <- file.path(geo_dir, row$TSV)
+    stop_missing_file(fragment_path, paste0(library_id, " fragments"))
+  }
   write_log("read_library", "running", library_id)
 
   counts <- Read10X_h5(h5_path)
@@ -166,13 +252,14 @@ read_snatac_library <- function(library_id) {
   if (length(cells_keep) == 0L) stop("No Table S1 barcodes found in H5 for ", library_id)
   counts <- counts[, cells_keep, drop = FALSE]
 
-  assay <- CreateChromatinAssay(
+  assay_args <- list(
     counts = counts,
     sep = c(":", "-"),
-    fragments = fragment_path,
     min.cells = 1,
     min.features = 1
   )
+  if (!is.null(fragment_path)) assay_args$fragments <- fragment_path
+  assay <- do.call(CreateChromatinAssay, assay_args)
   object <- CreateSeuratObject(counts = assay, assay = "peaks", project = library_id)
   object$raw_barcode <- colnames(object)
   lib_meta <- barcode_meta[Library == library_id]
@@ -321,6 +408,7 @@ da_list <- lapply(sort(unique(combined$predicted_label)), function(label) {
 })
 da_dt <- rbindlist(da_list, use.names = TRUE, fill = TRUE)
 fwrite(da_dt, file.path(tab_dir, "fig4_differential_peaks_by_label.tsv.gz"), sep = "\t", quote = FALSE)
+if (nrow(da_dt) == 0L) stop("No significant positive differential peaks were found for Fig. 4C annotation.")
 
 if (nrow(da_dt) > 0L) {
   peak_gr <- StringToGRanges(unique(da_dt$peak), sep = c(":", "-"))
@@ -348,6 +436,11 @@ if (nrow(da_dt) > 0L) {
     theme_void(base_size = 8) +
     theme(plot.title = element_text(face = "bold", size = 10), legend.text = element_text(size = 6), legend.title = element_text(size = 7))
   save_plot(p_pie, "fig4c_chipseeker_annotation_pie", width = 5.8, height = 4.6)
+}
+
+if (run_scope == "fig4c") {
+  finalize_run(requested_motifs_found = NA_integer_)
+  quit(save = "no", status = 0)
 }
 
 pfm <- TFBSTools::getMatrixSet(
@@ -415,31 +508,4 @@ track_plots <- lapply(track_genes, function(gene) {
 p_tracks <- wrap_plots(track_plots, ncol = 2)
 save_plot(p_tracks, "fig4g_gene_coverage_tracks", width = 10.5, height = 7.5)
 
-processed_rds <- file.path(file_dir, "fig4_gse306459_snatac_processed.rds")
-saveRDS(combined, processed_rds)
-rds_sha <- tools::sha256sum(processed_rds)
-writeLines(paste(unname(rds_sha), basename(processed_rds)), file.path(file_dir, "fig4_gse306459_snatac_processed.rds.sha256"))
-
-run_summary <- data.table(
-  metric = c(
-    "cells",
-    "peaks",
-    "libraries",
-    "samples",
-    "transferred_labels",
-    "transfer_features",
-    "requested_motifs_found"
-  ),
-  value = c(
-    ncol(combined),
-    nrow(combined[["peaks"]]),
-    length(unique(combined$Library)),
-    length(unique(combined$Sample)),
-    length(unique(combined$predicted_label)),
-    length(transfer_features),
-    nrow(selected_motifs)
-  )
-)
-fwrite(run_summary, file.path(tab_dir, "fig4_gse306459_run_summary.tsv"), sep = "\t", quote = FALSE)
-
-write_log("complete", "complete", paste0("output_dir=", out_dir))
+finalize_run(requested_motifs_found = nrow(selected_motifs))
