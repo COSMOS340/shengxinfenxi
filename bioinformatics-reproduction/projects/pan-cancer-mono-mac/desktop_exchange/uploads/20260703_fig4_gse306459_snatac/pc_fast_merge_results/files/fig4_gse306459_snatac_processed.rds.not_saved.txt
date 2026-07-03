@@ -1,0 +1,1 @@
+processed RDS not saved; full object serialization was skipped for upload-sized result package. Set FIG4_SAVE_RDS=true in the patched script to enable this large output.
