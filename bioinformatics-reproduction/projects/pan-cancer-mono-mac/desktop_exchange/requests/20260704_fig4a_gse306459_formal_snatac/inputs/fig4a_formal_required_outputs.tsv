@@ -1,0 +1,19 @@
+relative_path	required	reason
+STATUS.md	yes	PC summary of whether formal Fig4A rerun succeeded or failed
+upload_manifest.tsv	yes	File list with sizes and timestamps
+checksums.sha256	yes	Integrity checks for uploaded outputs
+logs/fig4a_formal_snatac.log	yes	Execution log
+tables/fig4a_formal_run_summary.tsv	yes	Cells, peaks, libraries, samples, labels, and filtering counts
+tables/fig4a_qc_metrics_by_cell.tsv.gz	yes	Per-cell snATAC QC metrics before filtering
+tables/fig4a_qc_thresholds.tsv	yes	Exact QC thresholds used
+tables/fig4a_cells_before_after_qc_by_library.tsv	yes	Detects library-specific loss or dominance
+tables/fig4a_snatac_umap_labels.tsv.gz	yes	UMAP coordinates and transferred labels
+tables/fig4a_label_counts.tsv	yes	Transferred label counts
+tables/fig4a_prediction_score_summary_by_label.tsv	yes	Label-transfer confidence review
+tables/fig4a_library_label_composition.tsv	yes	Tests whether labels are library-driven
+figures/fig4a_formal_umap_label_transfer.png	yes	Main Fig4A rerun output
+figures/fig4a_formal_umap_by_library.png	yes	Library-driven structure diagnostic
+figures/fig4a_formal_umap_by_tissue_group.png	yes	Tissue-driven structure diagnostic
+figures/fig4a_formal_umap_prediction_score.png	yes	Label-transfer confidence diagnostic
+figures/fig4a_formal_qc_violin.png	yes	QC metric distribution and filtering review
+files/fig4a_formal_processed_object_not_uploaded.txt	no	Use when full processed object is too large for GitHub

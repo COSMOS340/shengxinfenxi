@@ -1,0 +1,11 @@
+evidence	value	interpretation
+fast_merge_cells	122218	The previous PC run loaded the expected Table S1 barcode scope, so cell availability was not the core issue.
+fast_merge_libraries	15	The previous PC run covered all expected GSE306459 libraries.
+fast_merge_clusters	74	The previous PC LSI graph produced many clusters, but the UMAP remained visually library-driven.
+fast_merge_transferred_labels	8	The transferred label set was smaller than original Fig4A label diversity.
+fast_merge_THBS1_MDSC_cells	14	THBS1+ MDSCs became a near-zero artifact in the previous label transfer.
+fast_merge_Resting_C1QC_TAMs_median_prediction_score	0.3146	Key C1QC label confidence was low.
+fast_merge_SPP1_TAMs_median_prediction_score	0.3365	Key SPP1 label confidence was low.
+fast_merge_THBS1_MDSCs_median_prediction_score	0.2386	Key THBS1 label confidence was very low.
+fast_merge_missing_fragments_qc	yes	The previous fast-merge output did not compute TSS.enrichment, nucleosome_signal, pct_reads_in_peaks, or blacklist_ratio before UMAP.
+diagnosis	UMAP_not_paper_equivalent	The fast-merge Fig4A should be treated as QC only, not a final reproduction.
