@@ -1,0 +1,45 @@
+lineage_signature	gene_rank_for_scoring	gene	components	source_records	max_avg_log2FC
+C1QC_TAM_lineage	1	SELENOP	Resting C1QC+ TAMs top10; Activated C1QC+ TAMs top10	2	3.36050260437173
+C1QC_TAM_lineage	2	FOLR2	Activated C1QC+ TAMs top10	1	3.21181147272936
+C1QC_TAM_lineage	3	SLC40A1	Resting C1QC+ TAMs top10; Activated C1QC+ TAMs top10	2	3.1191526418413
+C1QC_TAM_lineage	4	RNASE1	Activated C1QC+ TAMs top10	1	3.08181032193298
+C1QC_TAM_lineage	5	PLTP	Activated C1QC+ TAMs top10	1	2.83630212850397
+C1QC_TAM_lineage	6	DAB2	Activated C1QC+ TAMs top10	1	2.79389137319786
+C1QC_TAM_lineage	7	FUCA1	Resting C1QC+ TAMs top10	1	2.73035260348551
+C1QC_TAM_lineage	8	C1QC	Resting C1QC+ TAMs top10; Activated C1QC+ TAMs top10	2	2.71971758127457
+C1QC_TAM_lineage	9	LILRB5	Activated C1QC+ TAMs top10	1	2.69585218294228
+C1QC_TAM_lineage	10	SLCO2B1	Activated C1QC+ TAMs top10	1	2.65388345189308
+C1QC_TAM_lineage	11	LGMN	Activated C1QC+ TAMs top10	1	2.64128192379108
+C1QC_TAM_lineage	12	APOC1	Resting C1QC+ TAMs top10	1	2.05010215331572
+C1QC_TAM_lineage	13	C1QB	Resting C1QC+ TAMs top10	1	2.04616844046384
+C1QC_TAM_lineage	14	C1QA	Resting C1QC+ TAMs top10	1	1.97759194406345
+C1QC_TAM_lineage	15	ACP5	Resting C1QC+ TAMs top10	1	1.953646329285
+C1QC_TAM_lineage	16	NUPR1	Resting C1QC+ TAMs top10	1	1.94451619873
+C1QC_TAM_lineage	17	GPR34	Resting C1QC+ TAMs top10	1	1.88602643803013
+MDSC_SPP1_lineage	1	CXCL3	SPP1+ TAMs top10; MDSC 19 genes from current Fig. 3 table	2	2.98569367664151
+MDSC_SPP1_lineage	2	CXCL2	MDSC 19 genes from current Fig. 3 table	1	2.98238807335449
+MDSC_SPP1_lineage	3	CCL20	SPP1+ TAMs top10; MDSC 19 genes from current Fig. 3 table	2	2.81720062537778
+MDSC_SPP1_lineage	4	FN1	SPP1+ TAMs top10	1	2.8155215563312
+MDSC_SPP1_lineage	5	CXCL8	MDSC 19 genes from current Fig. 3 table	1	2.79925814572708
+MDSC_SPP1_lineage	6	SPP1	SPP1+ TAMs top10	1	2.73955005615982
+MDSC_SPP1_lineage	7	SERPINB2	MDSC 19 genes from current Fig. 3 table	1	2.4512547173727
+MDSC_SPP1_lineage	8	EREG	MDSC 19 genes from current Fig. 3 table	1	2.44638148690006
+MDSC_SPP1_lineage	9	THBS1	MDSC 19 genes from current Fig. 3 table	1	2.41116475222893
+MDSC_SPP1_lineage	10	INHBA	SPP1+ TAMs top10	1	2.33982707882099
+MDSC_SPP1_lineage	11	IL1B	MDSC 19 genes from current Fig. 3 table	1	2.2796712270154
+MDSC_SPP1_lineage	12	MT1X	SPP1+ TAMs top10	1	2.22690174913691
+MDSC_SPP1_lineage	13	FABP5	SPP1+ TAMs top10	1	2.20647514799208
+MDSC_SPP1_lineage	14	SDC2	SPP1+ TAMs top10	1	2.1489957496645
+MDSC_SPP1_lineage	15	AREG	MDSC 19 genes from current Fig. 3 table	1	2.07980029919828
+MDSC_SPP1_lineage	16	IL1RN	MDSC 19 genes from current Fig. 3 table	1	2.0475591536132
+MDSC_SPP1_lineage	17	C15orf48	MDSC 19 genes from current Fig. 3 table	1	2.04388160219615
+MDSC_SPP1_lineage	18	MARCO	SPP1+ TAMs top10	1	2.03585059780407
+MDSC_SPP1_lineage	19	IL7R	SPP1+ TAMs top10	1	2.03010041431829
+MDSC_SPP1_lineage	20	PLAUR	MDSC 19 genes from current Fig. 3 table	1	1.93586378502673
+MDSC_SPP1_lineage	21	TIMP1	MDSC 19 genes from current Fig. 3 table	1	1.85052221702513
+MDSC_SPP1_lineage	22	CCL3	MDSC 19 genes from current Fig. 3 table	1	1.84402034388397
+MDSC_SPP1_lineage	23	PPIF	MDSC 19 genes from current Fig. 3 table	1	1.81773126475817
+MDSC_SPP1_lineage	24	PTGS2	MDSC 19 genes from current Fig. 3 table	1	1.79650867792189
+MDSC_SPP1_lineage	25	G0S2	MDSC 19 genes from current Fig. 3 table	1	1.79114968275632
+MDSC_SPP1_lineage	26	PHLDA1	MDSC 19 genes from current Fig. 3 table	1	1.76040277928117
+MDSC_SPP1_lineage	27	IER3	MDSC 19 genes from current Fig. 3 table	1	1.73906106483365
