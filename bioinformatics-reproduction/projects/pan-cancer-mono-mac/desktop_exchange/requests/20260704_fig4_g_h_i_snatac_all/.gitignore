@@ -1,0 +1,6 @@
+outputs/
+*.rds
+*.tar
+*.tsv.gz
+*.h5
+fragments.tsv.gz
