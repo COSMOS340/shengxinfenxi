@@ -1,0 +1,18 @@
+relative_path	exists	size_bytes	nonempty	reason
+STATUS.md	TRUE	2377	TRUE	PC summary of whether formal Fig4A rerun succeeded or failed
+upload_manifest.tsv	TRUE	1940	TRUE	File list with sizes and timestamps
+checksums.sha256	TRUE	2775	TRUE	Integrity checks for uploaded outputs
+logs/fig4a_formal_snatac.log	TRUE	9268	TRUE	Execution log
+tables/fig4a_formal_run_summary.tsv	TRUE	288	TRUE	Cells, peaks, libraries, samples, labels, and filtering counts
+tables/fig4a_qc_metrics_by_cell.tsv.gz	TRUE	5859912	TRUE	Per-cell snATAC QC metrics before filtering
+tables/fig4a_qc_thresholds.tsv	TRUE	401	TRUE	Exact QC thresholds used
+tables/fig4a_cells_before_after_qc_by_library.tsv	TRUE	583	TRUE	Detects library-specific loss or dominance
+tables/fig4a_snatac_umap_labels.tsv.gz	TRUE	7455459	TRUE	UMAP coordinates and transferred labels
+tables/fig4a_label_counts.tsv	TRUE	163	TRUE	Transferred label counts
+tables/fig4a_prediction_score_summary_by_label.tsv	TRUE	1091	TRUE	Label-transfer confidence review
+tables/fig4a_library_label_composition.tsv	TRUE	2118	TRUE	Tests whether labels are library-driven
+figures/fig4a_formal_umap_label_transfer.png	TRUE	982099	TRUE	Main Fig4A rerun output
+figures/fig4a_formal_umap_by_library.png	TRUE	1070604	TRUE	Library-driven structure diagnostic
+figures/fig4a_formal_umap_by_tissue_group.png	TRUE	983402	TRUE	Tissue-driven structure diagnostic
+figures/fig4a_formal_umap_prediction_score.png	TRUE	1068191	TRUE	Label-transfer confidence diagnostic
+figures/fig4a_formal_qc_violin.png	TRUE	161801	TRUE	QC metric distribution and filtering review
