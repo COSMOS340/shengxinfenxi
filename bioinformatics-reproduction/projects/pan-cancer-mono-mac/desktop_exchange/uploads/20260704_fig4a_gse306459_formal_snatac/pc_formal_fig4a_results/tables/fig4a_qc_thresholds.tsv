@@ -1,0 +1,9 @@
+metric	operator	value	rule
+nCount_peaks	>=	1074	q01 lower bound
+nCount_peaks	<=	45111.0249999998	q995 upper bound
+nFeature_peaks	>=	566	q01 lower bound
+nFeature_peaks	<=	16483.745	q995 upper bound
+TSS.enrichment	>=	2.52910666303888	max(2, q10)
+nucleosome_signal	<=	2.56617187131882	q95 upper bound
+pct_reads_in_peaks	>=	14.7649897816862	max(5, q05)
+blacklist_ratio	not_applied		not_available
