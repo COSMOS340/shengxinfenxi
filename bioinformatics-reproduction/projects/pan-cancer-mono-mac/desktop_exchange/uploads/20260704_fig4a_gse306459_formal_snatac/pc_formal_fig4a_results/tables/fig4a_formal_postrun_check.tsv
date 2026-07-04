@@ -1,0 +1,8 @@
+check	value
+required_files_nonempty	17
+umap_rows	102419
+transferred_labels	8
+libraries	15
+qc_metric_columns	cell_id;raw_barcode;Library;Tissue;Sample;tissue_group;nCount_peaks;nFeature_peaks;total_fragments;pct_reads_in_peaks;nucleosome_signal;TSS.enrichment;blacklist_ratio
+qc_threshold_rows	8
+score_rows	8
