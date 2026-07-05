@@ -1,0 +1,7 @@
+dataset	cells	annotation_strategy	status
+LUAD	88144	GSE131907 Cell_type.refined with Sample_Origin tLung/nLung	loaded
+LIHC-CHOL	9946	GSE125449 samples Type	loaded
+Healthy lung	43632	marker_score_panel on eight GSE122960 Donor filtered h5 files	loaded
+Healthy liver	8444	GSE115469 CellType	loaded
+NSCLC-GSE148071	89887	marker_score_panel on 42 GSE148071 exp files	loaded
+HCC-GSE156625	73589	GSE156625 louvain mapped from rank_genes_groups markers	loaded
