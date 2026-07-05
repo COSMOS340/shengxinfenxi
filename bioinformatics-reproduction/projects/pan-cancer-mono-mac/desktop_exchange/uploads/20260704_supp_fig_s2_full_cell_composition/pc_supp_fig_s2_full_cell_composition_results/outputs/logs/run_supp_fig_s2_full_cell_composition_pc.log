@@ -1,0 +1,111 @@
+timestamp	step	status	note
+2026-07-05T16:34:34	start	running	Supplementary Fig S2 full cell composition PC workflow
+2026-07-05T16:34:34	LUAD	running	
+2026-07-05T16:34:34	read_marker_matrix	running	I:\shengxinfenxi\bioinformatics-reproduction\projects\pan-cancer-mono-mac\desktop_exchange\requests\20260704_supp_fig_s2_full_cell_composition\data\GSE131907\GSE131907_Lung_Cancer_raw_UMI_matrix.txt.gz
+2026-07-05T16:37:03	read_marker_matrix	complete	GSE131907_Lung_Cancer_raw_UMI_matrix.txt.gz cells=88144
+2026-07-05T16:37:04	umap	running	LUAD cells=88144 features=62
+2026-07-05T16:38:55	umap	complete	LUAD
+2026-07-05T16:38:55	LUAD	complete	cells=88144
+2026-07-05T16:38:55	LIHC-CHOL	running	
+2026-07-05T16:38:57	umap	running	LIHC-CHOL cells=9946 features=62
+2026-07-05T16:39:14	umap	complete	LIHC-CHOL
+2026-07-05T16:39:14	LIHC-CHOL	complete	cells=9946
+2026-07-05T16:39:14	Healthy lung	running	
+2026-07-05T16:39:22	umap	running	Healthy lung cells=43632 features=62
+2026-07-05T16:40:00	umap	complete	Healthy lung
+2026-07-05T16:40:00	Healthy lung	complete	cells=43632
+2026-07-05T16:40:00	Healthy liver	running	
+2026-07-05T16:40:29	umap	running	Healthy liver cells=8444 features=62
+2026-07-05T16:40:43	umap	complete	Healthy liver
+2026-07-05T16:40:43	Healthy liver	complete	cells=8444
+2026-07-05T16:40:43	NSCLC-GSE148071	running	
+2026-07-05T16:40:43	read_marker_matrix	running	I:\shengxinfenxi\bioinformatics-reproduction\projects\pan-cancer-mono-mac\desktop_exchange\requests\20260704_supp_fig_s2_full_cell_composition\data\GSE148071\extracted\GSM4453576_P1_exp.txt.gz
+2026-07-05T16:40:46	read_marker_matrix	complete	GSM4453576_P1_exp.txt.gz cells=5317
+2026-07-05T16:40:46	read_marker_matrix	running	I:\shengxinfenxi\bioinformatics-reproduction\projects\pan-cancer-mono-mac\desktop_exchange\requests\20260704_supp_fig_s2_full_cell_composition\data\GSE148071\extracted\GSM4453577_P2_exp.txt.gz
+2026-07-05T16:40:46	read_marker_matrix	complete	GSM4453577_P2_exp.txt.gz cells=306
+2026-07-05T16:40:46	read_marker_matrix	running	I:\shengxinfenxi\bioinformatics-reproduction\projects\pan-cancer-mono-mac\desktop_exchange\requests\20260704_supp_fig_s2_full_cell_composition\data\GSE148071\extracted\GSM4453578_P3_exp.txt.gz
+2026-07-05T16:40:50	read_marker_matrix	complete	GSM4453578_P3_exp.txt.gz cells=7835
+2026-07-05T16:40:50	read_marker_matrix	running	I:\shengxinfenxi\bioinformatics-reproduction\projects\pan-cancer-mono-mac\desktop_exchange\requests\20260704_supp_fig_s2_full_cell_composition\data\GSE148071\extracted\GSM4453579_P4_exp.txt.gz
+2026-07-05T16:40:52	read_marker_matrix	complete	GSM4453579_P4_exp.txt.gz cells=4558
+2026-07-05T16:40:52	read_marker_matrix	running	I:\shengxinfenxi\bioinformatics-reproduction\projects\pan-cancer-mono-mac\desktop_exchange\requests\20260704_supp_fig_s2_full_cell_composition\data\GSE148071\extracted\GSM4453580_P5_exp.txt.gz
+2026-07-05T16:40:53	read_marker_matrix	complete	GSM4453580_P5_exp.txt.gz cells=2454
+2026-07-05T16:40:53	read_marker_matrix	running	I:\shengxinfenxi\bioinformatics-reproduction\projects\pan-cancer-mono-mac\desktop_exchange\requests\20260704_supp_fig_s2_full_cell_composition\data\GSE148071\extracted\GSM4453581_P6_exp.txt.gz
+2026-07-05T16:40:55	read_marker_matrix	complete	GSM4453581_P6_exp.txt.gz cells=3119
+2026-07-05T16:40:55	read_marker_matrix	running	I:\shengxinfenxi\bioinformatics-reproduction\projects\pan-cancer-mono-mac\desktop_exchange\requests\20260704_supp_fig_s2_full_cell_composition\data\GSE148071\extracted\GSM4453582_P7_exp.txt.gz
+2026-07-05T16:40:56	read_marker_matrix	complete	GSM4453582_P7_exp.txt.gz cells=3059
+2026-07-05T16:40:56	read_marker_matrix	running	I:\shengxinfenxi\bioinformatics-reproduction\projects\pan-cancer-mono-mac\desktop_exchange\requests\20260704_supp_fig_s2_full_cell_composition\data\GSE148071\extracted\GSM4453583_P8_exp.txt.gz
+2026-07-05T16:40:57	read_marker_matrix	complete	GSM4453583_P8_exp.txt.gz cells=1342
+2026-07-05T16:40:57	read_marker_matrix	running	I:\shengxinfenxi\bioinformatics-reproduction\projects\pan-cancer-mono-mac\desktop_exchange\requests\20260704_supp_fig_s2_full_cell_composition\data\GSE148071\extracted\GSM4453584_P9_exp.txt.gz
+2026-07-05T16:40:59	read_marker_matrix	complete	GSM4453584_P9_exp.txt.gz cells=3520
+2026-07-05T16:40:59	read_marker_matrix	running	I:\shengxinfenxi\bioinformatics-reproduction\projects\pan-cancer-mono-mac\desktop_exchange\requests\20260704_supp_fig_s2_full_cell_composition\data\GSE148071\extracted\GSM4453585_P10_exp.txt.gz
+2026-07-05T16:41:01	read_marker_matrix	complete	GSM4453585_P10_exp.txt.gz cells=3740
+2026-07-05T16:41:01	read_marker_matrix	running	I:\shengxinfenxi\bioinformatics-reproduction\projects\pan-cancer-mono-mac\desktop_exchange\requests\20260704_supp_fig_s2_full_cell_composition\data\GSE148071\extracted\GSM4453586_P11_exp.txt.gz
+2026-07-05T16:41:01	read_marker_matrix	complete	GSM4453586_P11_exp.txt.gz cells=574
+2026-07-05T16:41:01	read_marker_matrix	running	I:\shengxinfenxi\bioinformatics-reproduction\projects\pan-cancer-mono-mac\desktop_exchange\requests\20260704_supp_fig_s2_full_cell_composition\data\GSE148071\extracted\GSM4453587_P12_exp.txt.gz
+2026-07-05T16:41:02	read_marker_matrix	complete	GSM4453587_P12_exp.txt.gz cells=891
+2026-07-05T16:41:02	read_marker_matrix	running	I:\shengxinfenxi\bioinformatics-reproduction\projects\pan-cancer-mono-mac\desktop_exchange\requests\20260704_supp_fig_s2_full_cell_composition\data\GSE148071\extracted\GSM4453588_P13_exp.txt.gz
+2026-07-05T16:41:02	read_marker_matrix	complete	GSM4453588_P13_exp.txt.gz cells=938
+2026-07-05T16:41:02	read_marker_matrix	running	I:\shengxinfenxi\bioinformatics-reproduction\projects\pan-cancer-mono-mac\desktop_exchange\requests\20260704_supp_fig_s2_full_cell_composition\data\GSE148071\extracted\GSM4453589_P14_exp.txt.gz
+2026-07-05T16:41:03	read_marker_matrix	complete	GSM4453589_P14_exp.txt.gz cells=1808
+2026-07-05T16:41:03	read_marker_matrix	running	I:\shengxinfenxi\bioinformatics-reproduction\projects\pan-cancer-mono-mac\desktop_exchange\requests\20260704_supp_fig_s2_full_cell_composition\data\GSE148071\extracted\GSM4453590_P15_exp.txt.gz
+2026-07-05T16:41:05	read_marker_matrix	complete	GSM4453590_P15_exp.txt.gz cells=3606
+2026-07-05T16:41:05	read_marker_matrix	running	I:\shengxinfenxi\bioinformatics-reproduction\projects\pan-cancer-mono-mac\desktop_exchange\requests\20260704_supp_fig_s2_full_cell_composition\data\GSE148071\extracted\GSM4453591_P16_exp.txt.gz
+2026-07-05T16:41:05	read_marker_matrix	complete	GSM4453591_P16_exp.txt.gz cells=1148
+2026-07-05T16:41:05	read_marker_matrix	running	I:\shengxinfenxi\bioinformatics-reproduction\projects\pan-cancer-mono-mac\desktop_exchange\requests\20260704_supp_fig_s2_full_cell_composition\data\GSE148071\extracted\GSM4453592_P17_exp.txt.gz
+2026-07-05T16:41:09	read_marker_matrix	complete	GSM4453592_P17_exp.txt.gz cells=8700
+2026-07-05T16:41:09	read_marker_matrix	running	I:\shengxinfenxi\bioinformatics-reproduction\projects\pan-cancer-mono-mac\desktop_exchange\requests\20260704_supp_fig_s2_full_cell_composition\data\GSE148071\extracted\GSM4453593_P18_exp.txt.gz
+2026-07-05T16:41:11	read_marker_matrix	complete	GSM4453593_P18_exp.txt.gz cells=3314
+2026-07-05T16:41:11	read_marker_matrix	running	I:\shengxinfenxi\bioinformatics-reproduction\projects\pan-cancer-mono-mac\desktop_exchange\requests\20260704_supp_fig_s2_full_cell_composition\data\GSE148071\extracted\GSM4453594_P19_exp.txt.gz
+2026-07-05T16:41:11	read_marker_matrix	complete	GSM4453594_P19_exp.txt.gz cells=453
+2026-07-05T16:41:11	read_marker_matrix	running	I:\shengxinfenxi\bioinformatics-reproduction\projects\pan-cancer-mono-mac\desktop_exchange\requests\20260704_supp_fig_s2_full_cell_composition\data\GSE148071\extracted\GSM4453595_P20_exp.txt.gz
+2026-07-05T16:41:12	read_marker_matrix	complete	GSM4453595_P20_exp.txt.gz cells=429
+2026-07-05T16:41:12	read_marker_matrix	running	I:\shengxinfenxi\bioinformatics-reproduction\projects\pan-cancer-mono-mac\desktop_exchange\requests\20260704_supp_fig_s2_full_cell_composition\data\GSE148071\extracted\GSM4453596_P21_exp.txt.gz
+2026-07-05T16:41:13	read_marker_matrix	complete	GSM4453596_P21_exp.txt.gz cells=1968
+2026-07-05T16:41:13	read_marker_matrix	running	I:\shengxinfenxi\bioinformatics-reproduction\projects\pan-cancer-mono-mac\desktop_exchange\requests\20260704_supp_fig_s2_full_cell_composition\data\GSE148071\extracted\GSM4453597_P22_exp.txt.gz
+2026-07-05T16:41:13	read_marker_matrix	complete	GSM4453597_P22_exp.txt.gz cells=644
+2026-07-05T16:41:13	read_marker_matrix	running	I:\shengxinfenxi\bioinformatics-reproduction\projects\pan-cancer-mono-mac\desktop_exchange\requests\20260704_supp_fig_s2_full_cell_composition\data\GSE148071\extracted\GSM4453598_P23_exp.txt.gz
+2026-07-05T16:41:14	read_marker_matrix	complete	GSM4453598_P23_exp.txt.gz cells=2387
+2026-07-05T16:41:14	read_marker_matrix	running	I:\shengxinfenxi\bioinformatics-reproduction\projects\pan-cancer-mono-mac\desktop_exchange\requests\20260704_supp_fig_s2_full_cell_composition\data\GSE148071\extracted\GSM4453599_P24_exp.txt.gz
+2026-07-05T16:41:14	read_marker_matrix	complete	GSM4453599_P24_exp.txt.gz cells=386
+2026-07-05T16:41:14	read_marker_matrix	running	I:\shengxinfenxi\bioinformatics-reproduction\projects\pan-cancer-mono-mac\desktop_exchange\requests\20260704_supp_fig_s2_full_cell_composition\data\GSE148071\extracted\GSM4453600_P25_exp.txt.gz
+2026-07-05T16:41:16	read_marker_matrix	complete	GSM4453600_P25_exp.txt.gz cells=4029
+2026-07-05T16:41:16	read_marker_matrix	running	I:\shengxinfenxi\bioinformatics-reproduction\projects\pan-cancer-mono-mac\desktop_exchange\requests\20260704_supp_fig_s2_full_cell_composition\data\GSE148071\extracted\GSM4453601_P26_exp.txt.gz
+2026-07-05T16:41:17	read_marker_matrix	complete	GSM4453601_P26_exp.txt.gz cells=570
+2026-07-05T16:41:17	read_marker_matrix	running	I:\shengxinfenxi\bioinformatics-reproduction\projects\pan-cancer-mono-mac\desktop_exchange\requests\20260704_supp_fig_s2_full_cell_composition\data\GSE148071\extracted\GSM4453602_P27_exp.txt.gz
+2026-07-05T16:41:17	read_marker_matrix	complete	GSM4453602_P27_exp.txt.gz cells=707
+2026-07-05T16:41:17	read_marker_matrix	running	I:\shengxinfenxi\bioinformatics-reproduction\projects\pan-cancer-mono-mac\desktop_exchange\requests\20260704_supp_fig_s2_full_cell_composition\data\GSE148071\extracted\GSM4453603_P28_exp.txt.gz
+2026-07-05T16:41:18	read_marker_matrix	complete	GSM4453603_P28_exp.txt.gz cells=2373
+2026-07-05T16:41:18	read_marker_matrix	running	I:\shengxinfenxi\bioinformatics-reproduction\projects\pan-cancer-mono-mac\desktop_exchange\requests\20260704_supp_fig_s2_full_cell_composition\data\GSE148071\extracted\GSM4453604_P29_exp.txt.gz
+2026-07-05T16:41:19	read_marker_matrix	complete	GSM4453604_P29_exp.txt.gz cells=969
+2026-07-05T16:41:19	read_marker_matrix	running	I:\shengxinfenxi\bioinformatics-reproduction\projects\pan-cancer-mono-mac\desktop_exchange\requests\20260704_supp_fig_s2_full_cell_composition\data\GSE148071\extracted\GSM4453605_P30_exp.txt.gz
+2026-07-05T16:41:19	read_marker_matrix	complete	GSM4453605_P30_exp.txt.gz cells=742
+2026-07-05T16:41:19	read_marker_matrix	running	I:\shengxinfenxi\bioinformatics-reproduction\projects\pan-cancer-mono-mac\desktop_exchange\requests\20260704_supp_fig_s2_full_cell_composition\data\GSE148071\extracted\GSM4453606_P31_exp.txt.gz
+2026-07-05T16:41:19	read_marker_matrix	complete	GSM4453606_P31_exp.txt.gz cells=387
+2026-07-05T16:41:19	read_marker_matrix	running	I:\shengxinfenxi\bioinformatics-reproduction\projects\pan-cancer-mono-mac\desktop_exchange\requests\20260704_supp_fig_s2_full_cell_composition\data\GSE148071\extracted\GSM4453607_P32_exp.txt.gz
+2026-07-05T16:41:20	read_marker_matrix	complete	GSM4453607_P32_exp.txt.gz cells=595
+2026-07-05T16:41:20	read_marker_matrix	running	I:\shengxinfenxi\bioinformatics-reproduction\projects\pan-cancer-mono-mac\desktop_exchange\requests\20260704_supp_fig_s2_full_cell_composition\data\GSE148071\extracted\GSM4453608_P33_exp.txt.gz
+2026-07-05T16:41:20	read_marker_matrix	complete	GSM4453608_P33_exp.txt.gz cells=350
+2026-07-05T16:41:20	read_marker_matrix	running	I:\shengxinfenxi\bioinformatics-reproduction\projects\pan-cancer-mono-mac\desktop_exchange\requests\20260704_supp_fig_s2_full_cell_composition\data\GSE148071\extracted\GSM4453609_P34_exp.txt.gz
+2026-07-05T16:41:21	read_marker_matrix	complete	GSM4453609_P34_exp.txt.gz cells=972
+2026-07-05T16:41:21	read_marker_matrix	running	I:\shengxinfenxi\bioinformatics-reproduction\projects\pan-cancer-mono-mac\desktop_exchange\requests\20260704_supp_fig_s2_full_cell_composition\data\GSE148071\extracted\GSM4453610_P35_exp.txt.gz
+2026-07-05T16:41:21	read_marker_matrix	complete	GSM4453610_P35_exp.txt.gz cells=1079
+2026-07-05T16:41:21	read_marker_matrix	running	I:\shengxinfenxi\bioinformatics-reproduction\projects\pan-cancer-mono-mac\desktop_exchange\requests\20260704_supp_fig_s2_full_cell_composition\data\GSE148071\extracted\GSM4453611_P36_exp.txt.gz
+2026-07-05T16:41:21	read_marker_matrix	complete	GSM4453611_P36_exp.txt.gz cells=500
+2026-07-05T16:41:21	read_marker_matrix	running	I:\shengxinfenxi\bioinformatics-reproduction\projects\pan-cancer-mono-mac\desktop_exchange\requests\20260704_supp_fig_s2_full_cell_composition\data\GSE148071\extracted\GSM4453612_P37_exp.txt.gz
+2026-07-05T16:41:23	read_marker_matrix	complete	GSM4453612_P37_exp.txt.gz cells=2486
+2026-07-05T16:41:23	read_marker_matrix	running	I:\shengxinfenxi\bioinformatics-reproduction\projects\pan-cancer-mono-mac\desktop_exchange\requests\20260704_supp_fig_s2_full_cell_composition\data\GSE148071\extracted\GSM4453613_P38_exp.txt.gz
+2026-07-05T16:41:23	read_marker_matrix	complete	GSM4453613_P38_exp.txt.gz cells=1358
+2026-07-05T16:41:23	read_marker_matrix	running	I:\shengxinfenxi\bioinformatics-reproduction\projects\pan-cancer-mono-mac\desktop_exchange\requests\20260704_supp_fig_s2_full_cell_composition\data\GSE148071\extracted\GSM4453614_P39_exp.txt.gz
+2026-07-05T16:41:24	read_marker_matrix	complete	GSM4453614_P39_exp.txt.gz cells=1896
+2026-07-05T16:41:24	read_marker_matrix	running	I:\shengxinfenxi\bioinformatics-reproduction\projects\pan-cancer-mono-mac\desktop_exchange\requests\20260704_supp_fig_s2_full_cell_composition\data\GSE148071\extracted\GSM4453615_P40_exp.txt.gz
+2026-07-05T16:41:25	read_marker_matrix	complete	GSM4453615_P40_exp.txt.gz cells=1155
+2026-07-05T16:41:25	read_marker_matrix	running	I:\shengxinfenxi\bioinformatics-reproduction\projects\pan-cancer-mono-mac\desktop_exchange\requests\20260704_supp_fig_s2_full_cell_composition\data\GSE148071\extracted\GSM4453616_P41_exp.txt.gz
+2026-07-05T16:41:28	read_marker_matrix	complete	GSM4453616_P41_exp.txt.gz cells=6222
+2026-07-05T16:41:28	read_marker_matrix	running	I:\shengxinfenxi\bioinformatics-reproduction\projects\pan-cancer-mono-mac\desktop_exchange\requests\20260704_supp_fig_s2_full_cell_composition\data\GSE148071\extracted\GSM4453617_P42_exp.txt.gz
+2026-07-05T16:41:28	read_marker_matrix	complete	GSM4453617_P42_exp.txt.gz cells=1001
+2026-07-05T16:41:29	umap	running	NSCLC-GSE148071 cells=89887 features=62
+2026-07-05T16:46:33	umap	complete	NSCLC-GSE148071
+2026-07-05T16:46:33	NSCLC-GSE148071	complete	cells=89887
+2026-07-05T16:46:33	HCC-GSE156625	running	
+2026-07-05T16:46:33	HCC-GSE156625	complete	cells=73589
+2026-07-05T16:46:45	complete	complete	datasets=6 failures=0
