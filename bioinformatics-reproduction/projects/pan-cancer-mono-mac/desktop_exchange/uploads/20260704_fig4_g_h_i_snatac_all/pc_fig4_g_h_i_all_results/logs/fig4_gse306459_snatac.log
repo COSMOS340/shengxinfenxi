@@ -1,0 +1,106 @@
+2026-07-05T10:05:10+0800	start	running	Fig. 4 GSE306459 snATAC workflow 
+2026-07-05T10:05:12+0800	read_library	running	CRNO1 
+2026-07-05T10:05:26+0800	read_library	complete	CRNO1; cells=4185; peaks=84037 
+2026-07-05T10:05:26+0800	read_library	running	CRNO2 
+2026-07-05T10:05:45+0800	read_library	complete	CRNO2; cells=10150; peaks=109416 
+2026-07-05T10:05:45+0800	read_library	running	CRNO3 
+2026-07-05T10:06:06+0800	read_library	complete	CRNO3; cells=12398; peaks=65221 
+2026-07-05T10:06:06+0800	read_library	running	CRNOTU1 
+2026-07-05T10:06:23+0800	read_library	complete	CRNOTU1; cells=7649; peaks=75568 
+2026-07-05T10:06:23+0800	read_library	running	CRNOTU2 
+2026-07-05T10:06:32+0800	read_library	complete	CRNOTU2; cells=4469; peaks=127439 
+2026-07-05T10:06:32+0800	read_library	running	CRTU1 
+2026-07-05T10:06:50+0800	read_library	complete	CRTU1; cells=9650; peaks=93964 
+2026-07-05T10:06:50+0800	read_library	running	CRTU10 
+2026-07-05T10:07:00+0800	read_library	complete	CRTU10; cells=5481; peaks=76529 
+2026-07-05T10:07:00+0800	read_library	running	CRTU2 
+2026-07-05T10:07:22+0800	read_library	complete	CRTU2; cells=11636; peaks=105579 
+2026-07-05T10:07:22+0800	read_library	running	CRTU3 
+2026-07-05T10:07:44+0800	read_library	complete	CRTU3; cells=11576; peaks=127661 
+2026-07-05T10:07:44+0800	read_library	running	CRTU4 
+2026-07-05T10:08:07+0800	read_library	complete	CRTU4; cells=9310; peaks=88813 
+2026-07-05T10:08:07+0800	read_library	running	CRTU5 
+2026-07-05T10:08:27+0800	read_library	complete	CRTU5; cells=7531; peaks=82126 
+2026-07-05T10:08:27+0800	read_library	running	CRTU6 
+2026-07-05T10:08:45+0800	read_library	complete	CRTU6; cells=6610; peaks=83381 
+2026-07-05T10:08:45+0800	read_library	running	CRTU7 
+2026-07-05T10:09:06+0800	read_library	complete	CRTU7; cells=9080; peaks=72595 
+2026-07-05T10:09:06+0800	read_library	running	CRTU8 
+2026-07-05T10:09:24+0800	read_library	complete	CRTU8; cells=8143; peaks=29308 
+2026-07-05T10:09:24+0800	read_library	running	CRTU9 
+2026-07-05T10:09:35+0800	read_library	complete	CRTU9; cells=4350; peaks=106915 
+2026-07-05T10:09:35+0800	merge_counts	running	libraries=15 
+2026-07-05T10:15:37+0800	merge_counts	complete	cells=122218; peaks=1325265 
+2026-07-05T10:15:39+0800	create_chromatin_assay	running	cells=122218; peaks=1325265 
+2026-07-05T10:16:26+0800	merge	complete	cells=122218; peaks=1307563 
+2026-07-05T10:16:26+0800	annotation	running	EnsDb.Hsapiens.v86 
+2026-07-05T10:17:11+0800	annotation	complete	features=3021125 
+2026-07-05T10:17:11+0800	lsi_umap_cluster	running	npcs=30 
+2026-07-05T10:23:46+0800	lsi_umap_cluster	complete	clusters=74 
+2026-07-05T10:23:48+0800	gene_activity	running	fragments_free_peak_overlap; target_genes=2781 
+2026-07-05T10:24:14+0800	gene_activity	complete	genes=2675; cells=122218 
+2026-07-05T10:24:20+0800	label_transfer	running	features=2675; reduction=pcaproject 
+2026-07-05T10:26:10+0800	label_transfer	complete	labels=Activated C1QC+ TAMs;AMs;CD1C+ DCs;HSP+ Mono;pDCs;Resting C1QC+ TAMs;S100A12+ MDSCs;SPP1+ TAMs;THBS1+ MDSCs 
+2026-07-05T10:26:15+0800	save_plot	complete	I:\shengxinfenxi\bioinformatics-reproduction\projects\pan-cancer-mono-mac\fig4_snatac\outputs_fig4g_hi_all/figures/fig4a_snatac_umap_label_transfer.png 
+2026-07-05T10:26:17+0800	save_plot	complete	I:\shengxinfenxi\bioinformatics-reproduction\projects\pan-cancer-mono-mac\fig4_snatac\outputs_fig4g_hi_all/figures/fig4b_tissue_proportion_boxplots.png 
+2026-07-05T10:26:17+0800	differential_peaks	running	Activated C1QC+ TAMs; method=sparse_fold_change 
+2026-07-05T10:26:57+0800	differential_peaks	running	AMs; method=sparse_fold_change 
+2026-07-05T10:27:14+0800	differential_peaks	running	CD1C+ DCs; method=sparse_fold_change 
+2026-07-05T10:27:23+0800	differential_peaks	running	HSP+ Mono; method=sparse_fold_change 
+2026-07-05T10:27:34+0800	differential_peaks	running	pDCs; method=sparse_fold_change 
+2026-07-05T10:27:43+0800	differential_peaks	running	Resting C1QC+ TAMs; method=sparse_fold_change 
+2026-07-05T10:27:54+0800	differential_peaks	running	S100A12+ MDSCs; method=sparse_fold_change 
+2026-07-05T10:28:03+0800	differential_peaks	running	SPP1+ TAMs; method=sparse_fold_change 
+2026-07-05T10:28:13+0800	differential_peaks	running	THBS1+ MDSCs; method=sparse_fold_change 
+2026-07-05T10:28:51+0800	save_plot	complete	I:\shengxinfenxi\bioinformatics-reproduction\projects\pan-cancer-mono-mac\fig4_snatac\outputs_fig4g_hi_all/figures/fig4c_chipseeker_annotation_pie.png 
+2026-07-05T10:28:59+0800	chromvar	running	motifs=6 
+2026-07-05T10:34:37+0800	chromvar	complete	motifs=6; cells=122218 
+2026-07-05T10:34:49+0800	save_plot	complete	I:\shengxinfenxi\bioinformatics-reproduction\projects\pan-cancer-mono-mac\fig4_snatac\outputs_fig4g_hi_all/figures/fig4h_motif_accessibility_umaps.png 
+2026-07-05T10:34:54+0800	save_plot	complete	I:\shengxinfenxi\bioinformatics-reproduction\projects\pan-cancer-mono-mac\fig4_snatac\outputs_fig4g_hi_all/figures/fig4i_motif_logos.png 
+2026-07-05T10:35:08+0800	error	failed	Error: cannot allocate vector of size 477 Kb 
+2026-07-05T10:36:49+0800	error	failed	Error: object 'track_plots' not found 
+2026-07-05T10:38:53+0800	fig4g_resume	running	coverage_only 
+2026-07-05T10:38:53+0800	fig4g_read_library	running	CRNO1 
+2026-07-05T10:39:05+0800	fig4g_read_library	complete	CRNO1; cells=4185; peaks=84037 
+2026-07-05T10:39:05+0800	fig4g_read_library	running	CRNO2 
+2026-07-05T10:39:22+0800	fig4g_read_library	complete	CRNO2; cells=10150; peaks=109416 
+2026-07-05T10:39:22+0800	fig4g_read_library	running	CRNO3 
+2026-07-05T10:39:41+0800	fig4g_read_library	complete	CRNO3; cells=12398; peaks=65221 
+2026-07-05T10:39:41+0800	fig4g_read_library	running	CRNOTU1 
+2026-07-05T10:39:58+0800	fig4g_read_library	complete	CRNOTU1; cells=7649; peaks=75568 
+2026-07-05T10:39:58+0800	fig4g_read_library	running	CRNOTU2 
+2026-07-05T10:40:06+0800	fig4g_read_library	complete	CRNOTU2; cells=4469; peaks=127439 
+2026-07-05T10:40:06+0800	fig4g_read_library	running	CRTU1 
+2026-07-05T10:40:24+0800	fig4g_read_library	complete	CRTU1; cells=9650; peaks=93964 
+2026-07-05T10:40:24+0800	fig4g_read_library	running	CRTU10 
+2026-07-05T10:40:34+0800	fig4g_read_library	complete	CRTU10; cells=5481; peaks=76529 
+2026-07-05T10:40:34+0800	fig4g_read_library	running	CRTU2 
+2026-07-05T10:40:55+0800	fig4g_read_library	complete	CRTU2; cells=11636; peaks=105579 
+2026-07-05T10:40:55+0800	fig4g_read_library	running	CRTU3 
+2026-07-05T10:41:15+0800	fig4g_read_library	complete	CRTU3; cells=11576; peaks=127661 
+2026-07-05T10:41:15+0800	fig4g_read_library	running	CRTU4 
+2026-07-05T10:41:38+0800	fig4g_read_library	complete	CRTU4; cells=9310; peaks=88813 
+2026-07-05T10:41:38+0800	fig4g_read_library	running	CRTU5 
+2026-07-05T10:41:57+0800	fig4g_read_library	complete	CRTU5; cells=7531; peaks=82126 
+2026-07-05T10:41:57+0800	fig4g_read_library	running	CRTU6 
+2026-07-05T10:42:14+0800	fig4g_read_library	complete	CRTU6; cells=6610; peaks=83381 
+2026-07-05T10:42:14+0800	fig4g_read_library	running	CRTU7 
+2026-07-05T10:42:35+0800	fig4g_read_library	complete	CRTU7; cells=9080; peaks=72595 
+2026-07-05T10:42:35+0800	fig4g_read_library	running	CRTU8 
+2026-07-05T10:42:52+0800	fig4g_read_library	complete	CRTU8; cells=8143; peaks=29308 
+2026-07-05T10:42:52+0800	fig4g_read_library	running	CRTU9 
+2026-07-05T10:43:02+0800	fig4g_read_library	complete	CRTU9; cells=4350; peaks=106915 
+2026-07-05T10:43:02+0800	fig4g_merge_counts	running	libraries=15 
+2026-07-05T10:49:48+0800	fig4g_merge	complete	cells=122218; peaks=1307563 
+2026-07-05T10:49:48+0800	fig4g_annotation	running	EnsDb.Hsapiens.v86 
+2026-07-05T10:50:37+0800	fig4g_annotation	complete	features=3021125 
+2026-07-05T10:50:38+0800	fig4g_coverage_plot	running	C1QB 
+2026-07-05T10:50:40+0800	fig4g_coverage_plot	complete	C1QB 
+2026-07-05T10:50:41+0800	fig4g_coverage_plot	running	CHID1 
+2026-07-05T10:50:44+0800	fig4g_coverage_plot	complete	CHID1 
+2026-07-05T10:50:45+0800	fig4g_coverage_plot	running	IL1B 
+2026-07-05T10:50:46+0800	fig4g_coverage_plot	complete	IL1B 
+2026-07-05T10:50:48+0800	fig4g_coverage_plot	running	SLC25A37 
+2026-07-05T10:50:49+0800	fig4g_coverage_plot	complete	SLC25A37 
+2026-07-05T10:51:13+0800	save_plot	complete	I:\shengxinfenxi\bioinformatics-reproduction\projects\pan-cancer-mono-mac\fig4_snatac\outputs_fig4g_hi_all/figures/fig4g_gene_coverage_tracks.png 
+2026-07-05T10:51:14+0800	complete	complete	output_dir=I:\shengxinfenxi\bioinformatics-reproduction\projects\pan-cancer-mono-mac\fig4_snatac\outputs_fig4g_hi_all 
