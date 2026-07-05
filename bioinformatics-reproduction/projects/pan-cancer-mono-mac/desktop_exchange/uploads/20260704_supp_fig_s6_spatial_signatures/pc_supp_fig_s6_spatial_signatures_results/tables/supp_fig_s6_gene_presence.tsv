@@ -1,0 +1,4 @@
+dataset_id	gene	present
+10x_GBM	EGFR	TRUE
+10x_CRC	EPCAM	TRUE
+GSE274103_PDAC	EPCAM	TRUE
