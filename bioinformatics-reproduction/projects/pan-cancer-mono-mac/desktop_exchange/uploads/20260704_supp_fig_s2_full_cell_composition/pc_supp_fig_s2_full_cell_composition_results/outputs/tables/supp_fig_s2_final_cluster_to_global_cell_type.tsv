@@ -1,0 +1,32 @@
+dataset	cluster_id	global_cell_type	mapping_source
+Healthy lung	not_clustered	marker_score_panel	highest mean log1p marker score
+NSCLC-GSE148071	not_clustered	marker_score_panel	highest mean log1p marker score
+HCC-GSE156625	0	T cells	GSE156625 rank_genes_groups marker review
+HCC-GSE156625	1	NK cells	GSE156625 rank_genes_groups marker review
+HCC-GSE156625	2	Endothelial cells	GSE156625 rank_genes_groups marker review
+HCC-GSE156625	3	T cells	GSE156625 rank_genes_groups marker review
+HCC-GSE156625	4	T cells	GSE156625 rank_genes_groups marker review
+HCC-GSE156625	5	T cells	GSE156625 rank_genes_groups marker review
+HCC-GSE156625	6	Endothelial cells	GSE156625 rank_genes_groups marker review
+HCC-GSE156625	7	Epithelial cells	GSE156625 rank_genes_groups marker review
+HCC-GSE156625	8	Myeloid cells	GSE156625 rank_genes_groups marker review
+HCC-GSE156625	9	NK cells	GSE156625 rank_genes_groups marker review
+HCC-GSE156625	10	Myeloid cells	GSE156625 rank_genes_groups marker review
+HCC-GSE156625	11	Epithelial cells	GSE156625 rank_genes_groups marker review
+HCC-GSE156625	12	T cells	GSE156625 rank_genes_groups marker review
+HCC-GSE156625	13	Fibroblasts	GSE156625 rank_genes_groups marker review
+HCC-GSE156625	14	Epithelial cells	GSE156625 rank_genes_groups marker review
+HCC-GSE156625	15	NK cells	GSE156625 rank_genes_groups marker review
+HCC-GSE156625	16	Epithelial cells	GSE156625 rank_genes_groups marker review
+HCC-GSE156625	17	Endothelial cells	GSE156625 rank_genes_groups marker review
+HCC-GSE156625	18	Plasma cells	GSE156625 rank_genes_groups marker review
+HCC-GSE156625	19	B cells	GSE156625 rank_genes_groups marker review
+HCC-GSE156625	20	Epithelial cells	GSE156625 rank_genes_groups marker review
+HCC-GSE156625	21	Epithelial cells	GSE156625 rank_genes_groups marker review
+HCC-GSE156625	22	Prol. epithelial cells	GSE156625 rank_genes_groups marker review
+HCC-GSE156625	23	T cells	GSE156625 rank_genes_groups marker review
+HCC-GSE156625	24	Epithelial cells	GSE156625 rank_genes_groups marker review
+HCC-GSE156625	25	Epithelial cells	GSE156625 rank_genes_groups marker review
+HCC-GSE156625	26	Endothelial cells	GSE156625 rank_genes_groups marker review
+HCC-GSE156625	27	Endothelial cells	GSE156625 rank_genes_groups marker review
+HCC-GSE156625	28	Mast cells	GSE156625 rank_genes_groups marker review
