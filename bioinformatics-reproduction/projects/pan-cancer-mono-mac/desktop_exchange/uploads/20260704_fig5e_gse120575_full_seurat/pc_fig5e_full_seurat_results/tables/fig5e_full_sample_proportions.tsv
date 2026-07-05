@@ -1,0 +1,97 @@
+sample_id	fig5e_lineage	timepoint	response_group	denominator_cells	N	proportion
+Post_P1	C1QC+ TAMs	Posttreatment	R	51	0	0
+Post_P1	THBS1+ MDSCs + SPP1+ TAMs	Posttreatment	R	51	0	0
+Post_P10	C1QC+ TAMs	Posttreatment	NR	17	0	0
+Post_P10	THBS1+ MDSCs + SPP1+ TAMs	Posttreatment	NR	17	0	0
+Post_P11	C1QC+ TAMs	Posttreatment	NR	14	0	0
+Post_P11	THBS1+ MDSCs + SPP1+ TAMs	Posttreatment	NR	14	0	0
+Post_P12	C1QC+ TAMs	Posttreatment	NR	14	0	0
+Post_P12	THBS1+ MDSCs + SPP1+ TAMs	Posttreatment	NR	14	0	0
+Post_P13	C1QC+ TAMs	Posttreatment	NR	51	0	0
+Post_P13	THBS1+ MDSCs + SPP1+ TAMs	Posttreatment	NR	51	0	0
+Post_P14	C1QC+ TAMs	Posttreatment	NR	44	0	0
+Post_P14	THBS1+ MDSCs + SPP1+ TAMs	Posttreatment	NR	44	0	0
+Post_P15	C1QC+ TAMs	Posttreatment	NR	23	0	0
+Post_P15	THBS1+ MDSCs + SPP1+ TAMs	Posttreatment	NR	23	0	0
+Post_P16	C1QC+ TAMs	Posttreatment	NR	47	0	0
+Post_P16	THBS1+ MDSCs + SPP1+ TAMs	Posttreatment	NR	47	0	0
+Post_P17	C1QC+ TAMs	Posttreatment	R	10	0	0
+Post_P17	THBS1+ MDSCs + SPP1+ TAMs	Posttreatment	R	10	0	0
+Post_P18	C1QC+ TAMs	Posttreatment	NR	88	0	0
+Post_P18	THBS1+ MDSCs + SPP1+ TAMs	Posttreatment	NR	88	0	0
+Post_P19	C1QC+ TAMs	Posttreatment	R	89	0	0
+Post_P19	THBS1+ MDSCs + SPP1+ TAMs	Posttreatment	R	89	0	0
+Post_P1_2	C1QC+ TAMs	Posttreatment	NR	33	0	0
+Post_P1_2	THBS1+ MDSCs + SPP1+ TAMs	Posttreatment	NR	33	0	0
+Post_P2	C1QC+ TAMs	Posttreatment	NR	98	0	0
+Post_P2	THBS1+ MDSCs + SPP1+ TAMs	Posttreatment	NR	98	0	0
+Post_P20	C1QC+ TAMs	Posttreatment	NR	26	0	0
+Post_P20	THBS1+ MDSCs + SPP1+ TAMs	Posttreatment	NR	26	0	0
+Post_P21	C1QC+ TAMs	Posttreatment	R	8	0	0
+Post_P21	THBS1+ MDSCs + SPP1+ TAMs	Posttreatment	R	8	0	0
+Post_P22	C1QC+ TAMs	Posttreatment	NR	24	0	0
+Post_P22	THBS1+ MDSCs + SPP1+ TAMs	Posttreatment	NR	24	0	0
+Post_P23	C1QC+ TAMs	Posttreatment	NR	64	0	0
+Post_P23	THBS1+ MDSCs + SPP1+ TAMs	Posttreatment	NR	64	0	0
+Post_P23_2	C1QC+ TAMs	Posttreatment	NR	43	0	0
+Post_P23_2	THBS1+ MDSCs + SPP1+ TAMs	Posttreatment	NR	43	0	0
+Post_P28	C1QC+ TAMs	Posttreatment	NR	3	0	0
+Post_P28	THBS1+ MDSCs + SPP1+ TAMs	Posttreatment	NR	3	0	0
+Post_P28_2	C1QC+ TAMs	Posttreatment	NR	12	0	0
+Post_P28_2	THBS1+ MDSCs + SPP1+ TAMs	Posttreatment	NR	12	0	0
+Post_P3	C1QC+ TAMs	Posttreatment	NR	20	0	0
+Post_P3	THBS1+ MDSCs + SPP1+ TAMs	Posttreatment	NR	20	0	0
+Post_P30	C1QC+ TAMs	Posttreatment	NR	48	0	0
+Post_P30	THBS1+ MDSCs + SPP1+ TAMs	Posttreatment	NR	48	0	0
+Post_P3_2	C1QC+ TAMs	Posttreatment	NR	16	0	0
+Post_P3_2	THBS1+ MDSCs + SPP1+ TAMs	Posttreatment	NR	16	0	0
+Post_P4	C1QC+ TAMs	Posttreatment	R	90	0	0
+Post_P4	THBS1+ MDSCs + SPP1+ TAMs	Posttreatment	R	90	0	0
+Post_P5	C1QC+ TAMs	Posttreatment	NR	29	0	0
+Post_P5	THBS1+ MDSCs + SPP1+ TAMs	Posttreatment	NR	29	0	0
+Post_P5_2	C1QC+ TAMs	Posttreatment	R	1	0	0
+Post_P5_2	THBS1+ MDSCs + SPP1+ TAMs	Posttreatment	R	1	0	0
+Post_P6	C1QC+ TAMs	Posttreatment	NR	37	0	0
+Post_P6	THBS1+ MDSCs + SPP1+ TAMs	Posttreatment	NR	37	0	0
+Post_P7	C1QC+ TAMs	Posttreatment	R	11	0	0
+Post_P7	THBS1+ MDSCs + SPP1+ TAMs	Posttreatment	R	11	0	0
+Post_P8	C1QC+ TAMs	Posttreatment	R	41	0	0
+Post_P8	THBS1+ MDSCs + SPP1+ TAMs	Posttreatment	R	41	0	0
+Pre_P1	C1QC+ TAMs	Pretreatment	R	31	0	0
+Pre_P1	THBS1+ MDSCs + SPP1+ TAMs	Pretreatment	R	31	0	0
+Pre_P12	C1QC+ TAMs	Pretreatment	NR	14	0	0
+Pre_P12	THBS1+ MDSCs + SPP1+ TAMs	Pretreatment	NR	14	0	0
+Pre_P15	C1QC+ TAMs	Pretreatment	NR	25	0	0
+Pre_P15	THBS1+ MDSCs + SPP1+ TAMs	Pretreatment	NR	25	0	0
+Pre_P2	C1QC+ TAMs	Pretreatment	NR	51	0	0
+Pre_P2	THBS1+ MDSCs + SPP1+ TAMs	Pretreatment	NR	51	0	0
+Pre_P20	C1QC+ TAMs	Pretreatment	NR	41	0	0
+Pre_P20	THBS1+ MDSCs + SPP1+ TAMs	Pretreatment	NR	41	0	0
+Pre_P24	C1QC+ TAMs	Pretreatment	R	8	0	0
+Pre_P24	THBS1+ MDSCs + SPP1+ TAMs	Pretreatment	R	8	0	0
+Pre_P25	C1QC+ TAMs	Pretreatment	NR	33	0	0
+Pre_P25	THBS1+ MDSCs + SPP1+ TAMs	Pretreatment	NR	33	0	0
+Pre_P26	C1QC+ TAMs	Pretreatment	R	68	0	0
+Pre_P26	THBS1+ MDSCs + SPP1+ TAMs	Pretreatment	R	68	0	0
+Pre_P27	C1QC+ TAMs	Pretreatment	NR	24	0	0
+Pre_P27	THBS1+ MDSCs + SPP1+ TAMs	Pretreatment	NR	24	0	0
+Pre_P28	C1QC+ TAMs	Pretreatment	R	12	0	0
+Pre_P28	THBS1+ MDSCs + SPP1+ TAMs	Pretreatment	R	12	0	0
+Pre_P29	C1QC+ TAMs	Pretreatment	R	14	0	0
+Pre_P29	THBS1+ MDSCs + SPP1+ TAMs	Pretreatment	R	14	0	0
+Pre_P3	C1QC+ TAMs	Pretreatment	NR	43	0	0
+Pre_P3	THBS1+ MDSCs + SPP1+ TAMs	Pretreatment	NR	43	0	0
+Pre_P31	C1QC+ TAMs	Pretreatment	NR	49	0	0
+Pre_P31	THBS1+ MDSCs + SPP1+ TAMs	Pretreatment	NR	49	0	0
+Pre_P33	C1QC+ TAMs	Pretreatment	R	23	0	0
+Pre_P33	THBS1+ MDSCs + SPP1+ TAMs	Pretreatment	R	23	0	0
+Pre_P35	C1QC+ TAMs	Pretreatment	R	32	0	0
+Pre_P35	THBS1+ MDSCs + SPP1+ TAMs	Pretreatment	R	32	0	0
+Pre_P4	C1QC+ TAMs	Pretreatment	NR	29	0	0
+Pre_P4	THBS1+ MDSCs + SPP1+ TAMs	Pretreatment	NR	29	0	0
+Pre_P6	C1QC+ TAMs	Pretreatment	NR	21	0	0
+Pre_P6	THBS1+ MDSCs + SPP1+ TAMs	Pretreatment	NR	21	0	0
+Pre_P7	C1QC+ TAMs	Pretreatment	R	27	0	0
+Pre_P7	THBS1+ MDSCs + SPP1+ TAMs	Pretreatment	R	27	0	0
+Pre_P8	C1QC+ TAMs	Pretreatment	R	40	0	0
+Pre_P8	THBS1+ MDSCs + SPP1+ TAMs	Pretreatment	R	40	0	0

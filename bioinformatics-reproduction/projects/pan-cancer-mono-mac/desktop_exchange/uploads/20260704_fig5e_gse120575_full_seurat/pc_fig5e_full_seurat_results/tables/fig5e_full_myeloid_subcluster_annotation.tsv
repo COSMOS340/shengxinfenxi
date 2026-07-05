@@ -1,0 +1,5 @@
+myeloid_subcluster	fig2_cluster	transfer_score	fig2_subtype_current_scope	fig5e_lineage	cells
+g0	8	0.181738173666529	AMs	Other myeloid	566
+g1	8	0.0437478707402778	AMs	Other myeloid	517
+g2	31	-0.0429996693256586	S100A12+ MDSCs	Other myeloid	426
+g3	0	-0.0185957288075855	AMs	Other myeloid	128

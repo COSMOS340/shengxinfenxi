@@ -1,0 +1,29 @@
+2026-07-05 11:14:30 | Sparse files missing; running Python converter.
+2026-07-05 11:21:17 | Reading sparse TPM matrix.
+2026-07-05 11:21:37 | Creating Seurat object from TPM matrix.
+2026-07-05 11:21:39 | Setting data layer to TPM values without additional normalization.
+2026-07-05 11:21:40 | Running variable feature selection, scaling, PCA, neighbors, resolution 1.0 clustering.
+2026-07-05 11:22:39 | Subsetting paper-stated myeloid clusters 8, 12, and 15.
+2026-07-05 11:22:40 | Reclustering myeloid subset at resolution 0.4.
+2026-07-05 11:23:39 | Reading sparse TPM matrix.
+2026-07-05 11:24:00 | Creating Seurat object from TPM matrix.
+2026-07-05 11:24:02 | Setting data layer to TPM values without additional normalization.
+2026-07-05 11:24:04 | Running variable feature selection, scaling, PCA, neighbors, resolution 1.0 clustering.
+2026-07-05 11:25:02 | Subsetting paper-stated myeloid clusters 8, 12, and 15.
+2026-07-05 11:25:03 | Reclustering myeloid subset at resolution 0.4.
+2026-07-05 11:27:07 | Reading sparse TPM matrix.
+2026-07-05 11:27:28 | Creating Seurat object from TPM matrix.
+2026-07-05 11:27:30 | Setting data layer to TPM values without additional normalization.
+2026-07-05 11:27:32 | Running variable feature selection, scaling, PCA, neighbors, resolution 1.0 clustering.
+2026-07-05 11:28:32 | Subsetting paper-stated myeloid clusters 8, 12, and 15.
+2026-07-05 11:28:33 | Reclustering myeloid subset at resolution 0.4.
+2026-07-05 11:28:46 | Saving myeloid reclustered Seurat object.
+2026-07-05 11:28:51 | Fig5E full Seurat workflow complete.
+2026-07-05 11:30:55 | Reading sparse TPM matrix.
+2026-07-05 11:31:16 | Creating Seurat object from TPM matrix.
+2026-07-05 11:31:17 | Setting data layer to TPM values without additional normalization.
+2026-07-05 11:31:19 | Running variable feature selection, scaling, PCA, neighbors, resolution 1.0 clustering.
+2026-07-05 11:32:18 | Subsetting paper-stated myeloid clusters 8, 12, and 15.
+2026-07-05 11:32:19 | Reclustering myeloid subset at resolution 0.4.
+2026-07-05 11:32:31 | Saving myeloid reclustered Seurat object.
+2026-07-05 11:32:36 | Fig5E full Seurat workflow complete.

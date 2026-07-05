@@ -1,0 +1,8 @@
+"relative_path"	"size_bytes"	"sha256"
+"files/gse120575_myeloid_reclustered_seurat.rds.not_uploaded.txt"	"614"	"d9223677c69a3779479c91ec540e164640df4be0e3c9c5a7ceed893074ba7d20"
+"logs/run_fig5e_gse120575_full_seurat.log"	"2173"	"a118a69a8ce214d20f602e1daae203085a962e02866edc11a9f541b3d17c97ab"
+"STATUS.md"	"3772"	"f011b9cbd0c98441a4461e4fb1dc25e30e769d42df3932d7647e59c664b84737"
+"tables/fig5e_full_cluster_marker_audit.tsv"	"4757"	"317e2438bf3dd74b9a6608d6a05606f09bbdb91fa1332f323df752d75327982a"
+"tables/fig5e_full_myeloid_subcluster_annotation.tsv"	"296"	"362b68c1c17901c372a6ba9f3755c75e137b9f17299ee37a2d315bfd71eadf15"
+"tables/fig5e_full_sample_proportions.tsv"	"4987"	"3648aa37236c676c5b64bf50036ea1a90c35e38bb49aa74dcb869d2c855b9565"
+"tables/fig5e_full_wilcoxon.tsv"	"292"	"2ca911c934785e6e62b4d715f9b487d0e44c35d90579083f0eefc22bf6c50517"
