@@ -1,0 +1,10 @@
+The GitHub connector upload for this handoff is text-only.
+
+The following local outputs are retained in the desktop handoff package but are not uploaded through the connector:
+
+figures/supp_fig_s6_spatial_signatures.png	6870800	7064f958d8205ca7ea59c41b7b4675566636f4785975b0dd6b25c314f810f584
+figures/supp_fig_s6_spatial_signatures.pdf	10317028	c3d3d18dd04c5034b95b461ca6b980a86390c5922792eba850eb62e45b429a4e
+tables/supp_fig_s6_signature_scores.tsv.gz	1225600	42e839b66c4dac23ceb860e9ccc6453b85c618b7f9c06cf08dd94e5479397e26
+
+Full local package:
+I:\shengxinfenxi\bioinformatics-reproduction\projects\pan-cancer-mono-mac\desktop_exchange\uploads\20260704_supp_fig_s6_spatial_signatures\pc_supp_fig_s6_spatial_signatures_results
