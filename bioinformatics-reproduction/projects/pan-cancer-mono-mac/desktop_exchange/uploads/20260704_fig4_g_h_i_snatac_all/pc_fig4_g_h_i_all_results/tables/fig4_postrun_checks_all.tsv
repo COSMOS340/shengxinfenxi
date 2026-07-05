@@ -1,0 +1,8 @@
+check	result	value
+required_files_nonempty	PASS	13
+run_scope	PASS	all
+requested_motifs_found	PASS	6
+requested_motif_rows	PASS	6
+motif_activity_rows	PASS	54
+track_gene_rows	PASS	4
+processed_rds_policy	PASS	not_saved
