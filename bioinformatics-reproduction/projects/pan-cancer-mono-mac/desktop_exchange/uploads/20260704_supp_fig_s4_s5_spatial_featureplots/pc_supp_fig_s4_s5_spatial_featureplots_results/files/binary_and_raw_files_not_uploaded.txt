@@ -1,0 +1,15 @@
+Generated binary figures are present in the local handoff package but are not included in the text-only GitHub upload.
+
+PNG local path: I:\shengxinfenxi\bioinformatics-reproduction\projects\pan-cancer-mono-mac\desktop_exchange\uploads\20260704_supp_fig_s4_s5_spatial_featureplots\pc_supp_fig_s4_s5_spatial_featureplots_results\figures\supp_fig_s4_s5_spatial_featureplots.png
+PNG size bytes: 7121559
+PNG SHA256: 713f6f37789e7671ed00e53fef78d4dfe2cea43378ac021adc50970cb9d27640
+
+PDF local path: I:\shengxinfenxi\bioinformatics-reproduction\projects\pan-cancer-mono-mac\desktop_exchange\uploads\20260704_supp_fig_s4_s5_spatial_featureplots\pc_supp_fig_s4_s5_spatial_featureplots_results\figures\supp_fig_s4_s5_spatial_featureplots.pdf
+PDF size bytes: 8741054
+PDF SHA256: c983b0b3f2944047c7eb33dc9fa2b6248bbac7c01de4a1d4ef599d39b7c5672f
+
+GSE274103 raw tar local path: I:\shengxinfenxi\bioinformatics-reproduction\projects\pan-cancer-mono-mac\desktop_exchange\requests\20260704_supp_fig_s4_s5_spatial_featureplots\data\GSE274103\GSE274103_RAW.tar
+GSE274103 raw tar size bytes: 186603520
+GSE274103 raw tar SHA256: 3d77df521640e60cf43480c3e3d92ddb8628f771fd42f28e6b4f26d19c8522a8
+
+Raw data, chunk files, H5 matrices, extracted Visium spatial folders, and standardized Seurat input folders are intentionally not uploaded to GitHub.
