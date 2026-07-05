@@ -1,0 +1,7 @@
+dataset	file	exact_columns	selected_annotation_field	notes
+LUAD	GSE131907_Lung_Cancer_cell_annotation.txt.gz	Index;Barcode;Sample;Sample_Origin;Cell_type;Cell_type.refined;Cell_subtype	Cell_type.refined	Sample_Origin filtered to tLung and nLung
+LIHC-CHOL	GSE125449_Set1_samples.txt.gz;GSE125449_Set2_samples.txt.gz	Sample;Cell Barcode;Type	Type	Set-specific cell IDs use Set1__/Set2__ prefix
+Healthy lung	GSE122960_RAW.tar donor filtered h5 files	10x h5 matrix/features/name and matrix/barcodes	none_observed	Global cell type assigned by marker_score_panel
+Healthy liver	GSE115469_CellClusterType.txt.gz	CellName;Sample;Cell#;Cluster#;CellType	CellType	Expression matrix first column is V1 gene identifier
+NSCLC-GSE148071	GSE148071_RAW.tar *_exp.txt.gz	first row cell IDs; subsequent rows gene plus counts	none_observed	Global cell type assigned by marker_score_panel
+HCC-GSE156625	GSE156625_HCCscanpyobj.h5ad	obs: n_genes;percent_mito;n_counts;louvain;patient_id;patient_tumorsection;NormalvsTumor;patientno;PNC;PIC;ViralvsNonViral; obsm: X_pca;X_umap	louvain	louvain clusters mapped from rank_genes_groups markers
