@@ -1,0 +1,5 @@
+dataset_id	selected_path	status
+10x_GBM	I:\shengxinfenxi\bioinformatics-reproduction\projects\pan-cancer-mono-mac\desktop_exchange\requests\20260704_supp_fig_s4_s5_spatial_featureplots/data/CytAssist_11mm_FFPE_Human_Glioblastoma	loaded
+10x_CRC	I:\shengxinfenxi\bioinformatics-reproduction\projects\pan-cancer-mono-mac\desktop_exchange\requests\20260704_supp_fig_s4_s5_spatial_featureplots/data/CytAssist_11mm_FFPE_Human_Colorectal_Cancer	loaded
+GSE274103_PDAC	I:\shengxinfenxi\bioinformatics-reproduction\projects\pan-cancer-mono-mac\desktop_exchange\requests\20260704_supp_fig_s4_s5_spatial_featureplots/data/GSE274103/52906-10_spatial	loaded
+GSE226997_CRC		skipped_by_env
