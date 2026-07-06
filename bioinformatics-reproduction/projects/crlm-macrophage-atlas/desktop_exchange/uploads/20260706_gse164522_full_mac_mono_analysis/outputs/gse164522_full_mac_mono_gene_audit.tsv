@@ -1,0 +1,7 @@
+expression_group	file_name	genes	duplicate_gene_names
+LN	GSE164522_CRLM_LN_expression.csv.gz	24662	0
+MN	GSE164522_CRLM_MN_expression.csv.gz	24662	0
+MT	GSE164522_CRLM_MT_expression.csv.gz	24662	0
+PBMC	GSE164522_CRLM_PBMC_expression.csv.gz	24662	0
+PN	GSE164522_CRLM_PN_expression.csv.gz	24662	0
+PT	GSE164522_CRLM_PT_expression.csv.gz	24662	0
