@@ -1,0 +1,9 @@
+item	value
+raw_root	I:\shengxinfenxi\bioinformatics-reproduction\projects\crlm-macrophage-atlas\desktop_exchange\requests\20260706_core_geo_download_audit\raw_core_geo
+metadata_path	I:\shengxinfenxi\bioinformatics-reproduction\projects\crlm-macrophage-atlas\desktop_exchange\requests\20260706_core_geo_download_audit\raw_core_geo/GSE164522/GSE164522_CRLM_metadata.csv.gz
+selected_major_labels	Macrophage,Monocyte
+selected_cells	15853
+genes	24662
+clusters_res_0_6	23
+object_path_local_only	I:\shengxinfenxi\bioinformatics-reproduction\projects\crlm-macrophage-atlas\desktop_exchange\requests\20260706_gse164522_full_mac_mono_analysis/local_objects_not_for_github/gse164522_full_mac_mono_seurat.rds
+object_bytes_local_only	170993924
