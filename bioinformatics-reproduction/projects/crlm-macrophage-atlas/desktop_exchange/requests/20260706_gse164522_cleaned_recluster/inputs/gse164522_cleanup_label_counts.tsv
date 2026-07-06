@@ -1,0 +1,7 @@
+cleanup_label	broad_clean_singlet	core_clean_singlet	cells
+batch_sensitive_retained_singlet	TRUE	FALSE	5917
+core_retained_singlet	TRUE	TRUE	3478
+doublet_exclude	FALSE	FALSE	669
+doublet_sensitive_retained_singlet	TRUE	FALSE	544
+mixed_holdout	FALSE	FALSE	1417
+strong_lineage_exclude	FALSE	FALSE	3828

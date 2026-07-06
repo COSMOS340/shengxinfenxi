@@ -1,0 +1,7 @@
+outputs/
+local_objects_not_for_github/
+.Rhistory
+.RData
+*.tmp
+__pycache__/
+*.pyc
