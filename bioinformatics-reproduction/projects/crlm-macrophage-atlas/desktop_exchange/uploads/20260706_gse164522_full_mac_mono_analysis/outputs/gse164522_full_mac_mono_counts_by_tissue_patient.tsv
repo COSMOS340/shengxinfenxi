@@ -1,0 +1,564 @@
+tissue	celltype_major	celltype_sub	patient	expression_group	N
+PBMC	Macrophage	hC48_Mph-FCN1	patient08	PBMC	7
+PBMC	Macrophage	hC48_Mph-FCN1	patient11	PBMC	1
+PBMC	Macrophage	hC48_Mph-FCN1	patient12	PBMC	14
+PBMC	Macrophage	hC48_Mph-FCN1	patient14	PBMC	1
+PBMC	Macrophage	hC48_Mph-FCN1	patient15	PBMC	2
+PBMC	Macrophage	hC48_Mph-FCN1	patient16	PBMC	1
+PBMC	Macrophage	hC48_Mph-FCN1	patient17	PBMC	5
+PBMC	Macrophage	hC50_Mph-IL1B	patient10	PBMC	1
+PBMC	Macrophage	hC50_Mph-IL1B	patient12	PBMC	1
+PBMC	Macrophage	hC50_Mph-IL1B	patient14	PBMC	1
+PBMC	Macrophage	hC54_Mph-SPP1	patient08	PBMC	5
+PBMC	Macrophage	hC56_Mph-CD3E	patient08	PBMC	104
+PBMC	Macrophage	hC56_Mph-CD3E	patient09	PBMC	7
+PBMC	Macrophage	hC56_Mph-CD3E	patient10	PBMC	10
+PBMC	Macrophage	hC56_Mph-CD3E	patient12	PBMC	17
+PBMC	Macrophage	hC56_Mph-CD3E	patient13	PBMC	54
+PBMC	Macrophage	hC56_Mph-CD3E	patient14	PBMC	29
+PBMC	Macrophage	hC56_Mph-CD3E	patient15	PBMC	4
+PBMC	Macrophage	hC56_Mph-CD3E	patient16	PBMC	2
+PBMC	Macrophage	hC56_Mph-CD3E	patient17	PBMC	12
+PBMC	Monocyte	hC43_MonoDC-CLEC10A	patient10	PBMC	1
+PBMC	Monocyte	hC44_Mono-CD14	patient08	PBMC	510
+PBMC	Monocyte	hC44_Mono-CD14	patient09	PBMC	16
+PBMC	Monocyte	hC44_Mono-CD14	patient10	PBMC	141
+PBMC	Monocyte	hC44_Mono-CD14	patient11	PBMC	220
+PBMC	Monocyte	hC44_Mono-CD14	patient12	PBMC	121
+PBMC	Monocyte	hC44_Mono-CD14	patient13	PBMC	352
+PBMC	Monocyte	hC44_Mono-CD14	patient14	PBMC	123
+PBMC	Monocyte	hC44_Mono-CD14	patient15	PBMC	20
+PBMC	Monocyte	hC44_Mono-CD14	patient16	PBMC	11
+PBMC	Monocyte	hC44_Mono-CD14	patient17	PBMC	99
+PBMC	Monocyte	hC45_Mono-FCGR3A	patient08	PBMC	69
+PBMC	Monocyte	hC45_Mono-FCGR3A	patient09	PBMC	37
+PBMC	Monocyte	hC45_Mono-FCGR3A	patient10	PBMC	82
+PBMC	Monocyte	hC45_Mono-FCGR3A	patient11	PBMC	8
+PBMC	Monocyte	hC45_Mono-FCGR3A	patient12	PBMC	38
+PBMC	Monocyte	hC45_Mono-FCGR3A	patient13	PBMC	52
+PBMC	Monocyte	hC45_Mono-FCGR3A	patient14	PBMC	99
+PBMC	Monocyte	hC45_Mono-FCGR3A	patient15	PBMC	106
+PBMC	Monocyte	hC45_Mono-FCGR3A	patient16	PBMC	11
+PBMC	Monocyte	hC45_Mono-FCGR3A	patient17	PBMC	304
+PBMC	Monocyte	hC46_Mono-CD14|FCGR3A	patient08	PBMC	22
+PBMC	Monocyte	hC46_Mono-CD14|FCGR3A	patient09	PBMC	3
+PBMC	Monocyte	hC46_Mono-CD14|FCGR3A	patient10	PBMC	10
+PBMC	Monocyte	hC46_Mono-CD14|FCGR3A	patient11	PBMC	3
+PBMC	Monocyte	hC46_Mono-CD14|FCGR3A	patient12	PBMC	9
+PBMC	Monocyte	hC46_Mono-CD14|FCGR3A	patient13	PBMC	7
+PBMC	Monocyte	hC46_Mono-CD14|FCGR3A	patient14	PBMC	12
+PBMC	Monocyte	hC46_Mono-CD14|FCGR3A	patient15	PBMC	2
+PBMC	Monocyte	hC46_Mono-CD14|FCGR3A	patient17	PBMC	7
+PBMC	Monocyte	hC47_Mono-CD3E	patient08	PBMC	19
+PBMC	Monocyte	hC47_Mono-CD3E	patient09	PBMC	2
+PBMC	Monocyte	hC47_Mono-CD3E	patient10	PBMC	28
+PBMC	Monocyte	hC47_Mono-CD3E	patient12	PBMC	8
+PBMC	Monocyte	hC47_Mono-CD3E	patient13	PBMC	20
+PBMC	Monocyte	hC47_Mono-CD3E	patient14	PBMC	18
+PBMC	Monocyte	hC47_Mono-CD3E	patient15	PBMC	12
+PBMC	Monocyte	hC47_Mono-CD3E	patient16	PBMC	1
+PBMC	Monocyte	hC47_Mono-CD3E	patient17	PBMC	32
+lymph node	Macrophage	hC48_Mph-FCN1	patient09	LN	1
+lymph node	Macrophage	hC48_Mph-FCN1	patient11	LN	9
+lymph node	Macrophage	hC48_Mph-FCN1	patient12	LN	1
+lymph node	Macrophage	hC48_Mph-FCN1	patient14	LN	1
+lymph node	Macrophage	hC48_Mph-FCN1	patient15	LN	1
+lymph node	Macrophage	hC48_Mph-FCN1	patient17	LN	8
+lymph node	Macrophage	hC49_Mph-NLRP3	patient09	LN	6
+lymph node	Macrophage	hC49_Mph-NLRP3	patient10	LN	5
+lymph node	Macrophage	hC49_Mph-NLRP3	patient11	LN	29
+lymph node	Macrophage	hC49_Mph-NLRP3	patient12	LN	12
+lymph node	Macrophage	hC49_Mph-NLRP3	patient13	LN	22
+lymph node	Macrophage	hC49_Mph-NLRP3	patient14	LN	15
+lymph node	Macrophage	hC49_Mph-NLRP3	patient15	LN	4
+lymph node	Macrophage	hC49_Mph-NLRP3	patient16	LN	15
+lymph node	Macrophage	hC49_Mph-NLRP3	patient17	LN	39
+lymph node	Macrophage	hC50_Mph-IL1B	patient09	LN	2
+lymph node	Macrophage	hC50_Mph-IL1B	patient10	LN	2
+lymph node	Macrophage	hC50_Mph-IL1B	patient11	LN	7
+lymph node	Macrophage	hC50_Mph-IL1B	patient12	LN	10
+lymph node	Macrophage	hC50_Mph-IL1B	patient15	LN	1
+lymph node	Macrophage	hC50_Mph-IL1B	patient16	LN	4
+lymph node	Macrophage	hC50_Mph-IL1B	patient17	LN	17
+lymph node	Macrophage	hC51_Mph-PLTP	patient09	LN	5
+lymph node	Macrophage	hC51_Mph-PLTP	patient10	LN	1
+lymph node	Macrophage	hC51_Mph-PLTP	patient11	LN	2
+lymph node	Macrophage	hC51_Mph-PLTP	patient12	LN	1
+lymph node	Macrophage	hC51_Mph-PLTP	patient15	LN	1
+lymph node	Macrophage	hC51_Mph-PLTP	patient16	LN	49
+lymph node	Macrophage	hC51_Mph-PLTP	patient17	LN	2
+lymph node	Macrophage	hC52_Mph-CXCL12	patient11	LN	1
+lymph node	Macrophage	hC52_Mph-CXCL12	patient12	LN	2
+lymph node	Macrophage	hC52_Mph-CXCL12	patient17	LN	1
+lymph node	Macrophage	hC53_Mph-C1QC	patient09	LN	4
+lymph node	Macrophage	hC53_Mph-C1QC	patient10	LN	2
+lymph node	Macrophage	hC53_Mph-C1QC	patient11	LN	6
+lymph node	Macrophage	hC53_Mph-C1QC	patient12	LN	6
+lymph node	Macrophage	hC53_Mph-C1QC	patient13	LN	3
+lymph node	Macrophage	hC53_Mph-C1QC	patient14	LN	1
+lymph node	Macrophage	hC53_Mph-C1QC	patient15	LN	3
+lymph node	Macrophage	hC53_Mph-C1QC	patient16	LN	2
+lymph node	Macrophage	hC53_Mph-C1QC	patient17	LN	7
+lymph node	Macrophage	hC54_Mph-SPP1	patient09	LN	1
+lymph node	Macrophage	hC54_Mph-SPP1	patient11	LN	17
+lymph node	Macrophage	hC54_Mph-SPP1	patient15	LN	1
+lymph node	Macrophage	hC54_Mph-SPP1	patient17	LN	1
+lymph node	Macrophage	hC55_Mph-MKI67	patient17	LN	1
+lymph node	Macrophage	hC56_Mph-CD3E	patient09	LN	5
+lymph node	Macrophage	hC56_Mph-CD3E	patient10	LN	2
+lymph node	Macrophage	hC56_Mph-CD3E	patient11	LN	8
+lymph node	Macrophage	hC56_Mph-CD3E	patient12	LN	6
+lymph node	Macrophage	hC56_Mph-CD3E	patient13	LN	3
+lymph node	Macrophage	hC56_Mph-CD3E	patient14	LN	2
+lymph node	Macrophage	hC56_Mph-CD3E	patient15	LN	8
+lymph node	Macrophage	hC56_Mph-CD3E	patient16	LN	22
+lymph node	Macrophage	hC56_Mph-CD3E	patient17	LN	23
+lymph node	Monocyte	hC43_MonoDC-CLEC10A	patient09	LN	3
+lymph node	Monocyte	hC43_MonoDC-CLEC10A	patient10	LN	2
+lymph node	Monocyte	hC43_MonoDC-CLEC10A	patient11	LN	18
+lymph node	Monocyte	hC43_MonoDC-CLEC10A	patient12	LN	13
+lymph node	Monocyte	hC43_MonoDC-CLEC10A	patient13	LN	3
+lymph node	Monocyte	hC43_MonoDC-CLEC10A	patient14	LN	12
+lymph node	Monocyte	hC43_MonoDC-CLEC10A	patient17	LN	74
+lymph node	Monocyte	hC44_Mono-CD14	patient11	LN	1
+lymph node	Monocyte	hC44_Mono-CD14	patient16	LN	2
+lymph node	Monocyte	hC45_Mono-FCGR3A	patient09	LN	2
+lymph node	Monocyte	hC45_Mono-FCGR3A	patient11	LN	4
+lymph node	Monocyte	hC45_Mono-FCGR3A	patient16	LN	2
+lymph node	Monocyte	hC45_Mono-FCGR3A	patient17	LN	4
+lymph node	Monocyte	hC46_Mono-CD14|FCGR3A	patient11	LN	2
+lymph node	Monocyte	hC46_Mono-CD14|FCGR3A	patient17	LN	6
+metastasis normal	Macrophage	hC48_Mph-FCN1	patient08	MN	11
+metastasis normal	Macrophage	hC48_Mph-FCN1	patient09	MN	146
+metastasis normal	Macrophage	hC48_Mph-FCN1	patient10	MN	2
+metastasis normal	Macrophage	hC48_Mph-FCN1	patient11	MN	422
+metastasis normal	Macrophage	hC48_Mph-FCN1	patient12	MN	25
+metastasis normal	Macrophage	hC48_Mph-FCN1	patient13	MN	207
+metastasis normal	Macrophage	hC48_Mph-FCN1	patient14	MN	29
+metastasis normal	Macrophage	hC48_Mph-FCN1	patient15	MN	19
+metastasis normal	Macrophage	hC48_Mph-FCN1	patient16	MN	38
+metastasis normal	Macrophage	hC48_Mph-FCN1	patient17	MN	581
+metastasis normal	Macrophage	hC49_Mph-NLRP3	patient08	MN	3
+metastasis normal	Macrophage	hC49_Mph-NLRP3	patient09	MN	5
+metastasis normal	Macrophage	hC49_Mph-NLRP3	patient11	MN	24
+metastasis normal	Macrophage	hC49_Mph-NLRP3	patient12	MN	93
+metastasis normal	Macrophage	hC49_Mph-NLRP3	patient13	MN	18
+metastasis normal	Macrophage	hC49_Mph-NLRP3	patient14	MN	6
+metastasis normal	Macrophage	hC49_Mph-NLRP3	patient16	MN	12
+metastasis normal	Macrophage	hC49_Mph-NLRP3	patient17	MN	94
+metastasis normal	Macrophage	hC50_Mph-IL1B	patient08	MN	8
+metastasis normal	Macrophage	hC50_Mph-IL1B	patient09	MN	15
+metastasis normal	Macrophage	hC50_Mph-IL1B	patient10	MN	3
+metastasis normal	Macrophage	hC50_Mph-IL1B	patient11	MN	161
+metastasis normal	Macrophage	hC50_Mph-IL1B	patient12	MN	80
+metastasis normal	Macrophage	hC50_Mph-IL1B	patient13	MN	40
+metastasis normal	Macrophage	hC50_Mph-IL1B	patient14	MN	14
+metastasis normal	Macrophage	hC50_Mph-IL1B	patient15	MN	8
+metastasis normal	Macrophage	hC50_Mph-IL1B	patient16	MN	19
+metastasis normal	Macrophage	hC50_Mph-IL1B	patient17	MN	77
+metastasis normal	Macrophage	hC51_Mph-PLTP	patient09	MN	1
+metastasis normal	Macrophage	hC51_Mph-PLTP	patient11	MN	4
+metastasis normal	Macrophage	hC51_Mph-PLTP	patient12	MN	12
+metastasis normal	Macrophage	hC51_Mph-PLTP	patient13	MN	4
+metastasis normal	Macrophage	hC51_Mph-PLTP	patient14	MN	3
+metastasis normal	Macrophage	hC51_Mph-PLTP	patient15	MN	1
+metastasis normal	Macrophage	hC51_Mph-PLTP	patient16	MN	8
+metastasis normal	Macrophage	hC51_Mph-PLTP	patient17	MN	20
+metastasis normal	Macrophage	hC52_Mph-CXCL12	patient09	MN	4
+metastasis normal	Macrophage	hC52_Mph-CXCL12	patient10	MN	4
+metastasis normal	Macrophage	hC52_Mph-CXCL12	patient11	MN	13
+metastasis normal	Macrophage	hC52_Mph-CXCL12	patient12	MN	5
+metastasis normal	Macrophage	hC52_Mph-CXCL12	patient13	MN	24
+metastasis normal	Macrophage	hC52_Mph-CXCL12	patient14	MN	3
+metastasis normal	Macrophage	hC52_Mph-CXCL12	patient15	MN	7
+metastasis normal	Macrophage	hC52_Mph-CXCL12	patient16	MN	10
+metastasis normal	Macrophage	hC52_Mph-CXCL12	patient17	MN	182
+metastasis normal	Macrophage	hC53_Mph-C1QC	patient09	MN	5
+metastasis normal	Macrophage	hC53_Mph-C1QC	patient11	MN	2
+metastasis normal	Macrophage	hC53_Mph-C1QC	patient12	MN	1
+metastasis normal	Macrophage	hC53_Mph-C1QC	patient13	MN	2
+metastasis normal	Macrophage	hC53_Mph-C1QC	patient16	MN	8
+metastasis normal	Macrophage	hC53_Mph-C1QC	patient17	MN	16
+metastasis normal	Macrophage	hC54_Mph-SPP1	patient08	MN	1
+metastasis normal	Macrophage	hC54_Mph-SPP1	patient09	MN	4
+metastasis normal	Macrophage	hC54_Mph-SPP1	patient11	MN	2
+metastasis normal	Macrophage	hC54_Mph-SPP1	patient12	MN	1
+metastasis normal	Macrophage	hC54_Mph-SPP1	patient13	MN	2
+metastasis normal	Macrophage	hC54_Mph-SPP1	patient14	MN	5
+metastasis normal	Macrophage	hC54_Mph-SPP1	patient16	MN	5
+metastasis normal	Macrophage	hC54_Mph-SPP1	patient17	MN	1
+metastasis normal	Macrophage	hC55_Mph-MKI67	patient11	MN	9
+metastasis normal	Macrophage	hC55_Mph-MKI67	patient12	MN	4
+metastasis normal	Macrophage	hC55_Mph-MKI67	patient14	MN	1
+metastasis normal	Macrophage	hC55_Mph-MKI67	patient15	MN	1
+metastasis normal	Macrophage	hC55_Mph-MKI67	patient16	MN	1
+metastasis normal	Macrophage	hC55_Mph-MKI67	patient17	MN	5
+metastasis normal	Macrophage	hC56_Mph-CD3E	patient08	MN	65
+metastasis normal	Macrophage	hC56_Mph-CD3E	patient09	MN	66
+metastasis normal	Macrophage	hC56_Mph-CD3E	patient10	MN	30
+metastasis normal	Macrophage	hC56_Mph-CD3E	patient11	MN	72
+metastasis normal	Macrophage	hC56_Mph-CD3E	patient12	MN	50
+metastasis normal	Macrophage	hC56_Mph-CD3E	patient13	MN	41
+metastasis normal	Macrophage	hC56_Mph-CD3E	patient14	MN	35
+metastasis normal	Macrophage	hC56_Mph-CD3E	patient15	MN	33
+metastasis normal	Macrophage	hC56_Mph-CD3E	patient16	MN	128
+metastasis normal	Macrophage	hC56_Mph-CD3E	patient17	MN	108
+metastasis normal	Monocyte	hC43_MonoDC-CLEC10A	patient08	MN	8
+metastasis normal	Monocyte	hC43_MonoDC-CLEC10A	patient09	MN	15
+metastasis normal	Monocyte	hC43_MonoDC-CLEC10A	patient11	MN	59
+metastasis normal	Monocyte	hC43_MonoDC-CLEC10A	patient12	MN	30
+metastasis normal	Monocyte	hC43_MonoDC-CLEC10A	patient13	MN	6
+metastasis normal	Monocyte	hC43_MonoDC-CLEC10A	patient14	MN	13
+metastasis normal	Monocyte	hC43_MonoDC-CLEC10A	patient15	MN	13
+metastasis normal	Monocyte	hC43_MonoDC-CLEC10A	patient16	MN	12
+metastasis normal	Monocyte	hC43_MonoDC-CLEC10A	patient17	MN	13
+metastasis normal	Monocyte	hC44_Mono-CD14	patient08	MN	4
+metastasis normal	Monocyte	hC44_Mono-CD14	patient09	MN	11
+metastasis normal	Monocyte	hC44_Mono-CD14	patient11	MN	46
+metastasis normal	Monocyte	hC44_Mono-CD14	patient12	MN	21
+metastasis normal	Monocyte	hC44_Mono-CD14	patient13	MN	39
+metastasis normal	Monocyte	hC44_Mono-CD14	patient14	MN	2
+metastasis normal	Monocyte	hC44_Mono-CD14	patient16	MN	6
+metastasis normal	Monocyte	hC44_Mono-CD14	patient17	MN	20
+metastasis normal	Monocyte	hC45_Mono-FCGR3A	patient08	MN	28
+metastasis normal	Monocyte	hC45_Mono-FCGR3A	patient09	MN	16
+metastasis normal	Monocyte	hC45_Mono-FCGR3A	patient10	MN	12
+metastasis normal	Monocyte	hC45_Mono-FCGR3A	patient11	MN	414
+metastasis normal	Monocyte	hC45_Mono-FCGR3A	patient12	MN	113
+metastasis normal	Monocyte	hC45_Mono-FCGR3A	patient13	MN	21
+metastasis normal	Monocyte	hC45_Mono-FCGR3A	patient14	MN	77
+metastasis normal	Monocyte	hC45_Mono-FCGR3A	patient15	MN	33
+metastasis normal	Monocyte	hC45_Mono-FCGR3A	patient16	MN	41
+metastasis normal	Monocyte	hC45_Mono-FCGR3A	patient17	MN	144
+metastasis normal	Monocyte	hC46_Mono-CD14|FCGR3A	patient08	MN	9
+metastasis normal	Monocyte	hC46_Mono-CD14|FCGR3A	patient09	MN	27
+metastasis normal	Monocyte	hC46_Mono-CD14|FCGR3A	patient10	MN	6
+metastasis normal	Monocyte	hC46_Mono-CD14|FCGR3A	patient11	MN	469
+metastasis normal	Monocyte	hC46_Mono-CD14|FCGR3A	patient12	MN	56
+metastasis normal	Monocyte	hC46_Mono-CD14|FCGR3A	patient13	MN	17
+metastasis normal	Monocyte	hC46_Mono-CD14|FCGR3A	patient14	MN	27
+metastasis normal	Monocyte	hC46_Mono-CD14|FCGR3A	patient15	MN	6
+metastasis normal	Monocyte	hC46_Mono-CD14|FCGR3A	patient16	MN	25
+metastasis normal	Monocyte	hC46_Mono-CD14|FCGR3A	patient17	MN	43
+metastasis normal	Monocyte	hC47_Mono-CD3E	patient08	MN	4
+metastasis normal	Monocyte	hC47_Mono-CD3E	patient09	MN	15
+metastasis normal	Monocyte	hC47_Mono-CD3E	patient10	MN	4
+metastasis normal	Monocyte	hC47_Mono-CD3E	patient11	MN	29
+metastasis normal	Monocyte	hC47_Mono-CD3E	patient12	MN	26
+metastasis normal	Monocyte	hC47_Mono-CD3E	patient13	MN	20
+metastasis normal	Monocyte	hC47_Mono-CD3E	patient14	MN	13
+metastasis normal	Monocyte	hC47_Mono-CD3E	patient15	MN	8
+metastasis normal	Monocyte	hC47_Mono-CD3E	patient16	MN	48
+metastasis normal	Monocyte	hC47_Mono-CD3E	patient17	MN	29
+metastasis tumor	Macrophage	hC48_Mph-FCN1	patient08	MT	7
+metastasis tumor	Macrophage	hC48_Mph-FCN1	patient09	MT	1
+metastasis tumor	Macrophage	hC48_Mph-FCN1	patient10	MT	16
+metastasis tumor	Macrophage	hC48_Mph-FCN1	patient11	MT	94
+metastasis tumor	Macrophage	hC48_Mph-FCN1	patient12	MT	11
+metastasis tumor	Macrophage	hC48_Mph-FCN1	patient13	MT	78
+metastasis tumor	Macrophage	hC48_Mph-FCN1	patient14	MT	27
+metastasis tumor	Macrophage	hC48_Mph-FCN1	patient15	MT	53
+metastasis tumor	Macrophage	hC48_Mph-FCN1	patient16	MT	98
+metastasis tumor	Macrophage	hC48_Mph-FCN1	patient17	MT	125
+metastasis tumor	Macrophage	hC49_Mph-NLRP3	patient08	MT	3
+metastasis tumor	Macrophage	hC49_Mph-NLRP3	patient09	MT	3
+metastasis tumor	Macrophage	hC49_Mph-NLRP3	patient10	MT	6
+metastasis tumor	Macrophage	hC49_Mph-NLRP3	patient11	MT	22
+metastasis tumor	Macrophage	hC49_Mph-NLRP3	patient12	MT	133
+metastasis tumor	Macrophage	hC49_Mph-NLRP3	patient13	MT	23
+metastasis tumor	Macrophage	hC49_Mph-NLRP3	patient14	MT	6
+metastasis tumor	Macrophage	hC49_Mph-NLRP3	patient15	MT	17
+metastasis tumor	Macrophage	hC49_Mph-NLRP3	patient16	MT	45
+metastasis tumor	Macrophage	hC49_Mph-NLRP3	patient17	MT	112
+metastasis tumor	Macrophage	hC50_Mph-IL1B	patient08	MT	2
+metastasis tumor	Macrophage	hC50_Mph-IL1B	patient09	MT	7
+metastasis tumor	Macrophage	hC50_Mph-IL1B	patient10	MT	10
+metastasis tumor	Macrophage	hC50_Mph-IL1B	patient11	MT	110
+metastasis tumor	Macrophage	hC50_Mph-IL1B	patient12	MT	21
+metastasis tumor	Macrophage	hC50_Mph-IL1B	patient13	MT	69
+metastasis tumor	Macrophage	hC50_Mph-IL1B	patient14	MT	61
+metastasis tumor	Macrophage	hC50_Mph-IL1B	patient15	MT	26
+metastasis tumor	Macrophage	hC50_Mph-IL1B	patient16	MT	41
+metastasis tumor	Macrophage	hC50_Mph-IL1B	patient17	MT	85
+metastasis tumor	Macrophage	hC51_Mph-PLTP	patient08	MT	1
+metastasis tumor	Macrophage	hC51_Mph-PLTP	patient11	MT	1
+metastasis tumor	Macrophage	hC51_Mph-PLTP	patient12	MT	14
+metastasis tumor	Macrophage	hC51_Mph-PLTP	patient13	MT	7
+metastasis tumor	Macrophage	hC51_Mph-PLTP	patient14	MT	5
+metastasis tumor	Macrophage	hC51_Mph-PLTP	patient15	MT	2
+metastasis tumor	Macrophage	hC51_Mph-PLTP	patient16	MT	8
+metastasis tumor	Macrophage	hC51_Mph-PLTP	patient17	MT	6
+metastasis tumor	Macrophage	hC52_Mph-CXCL12	patient12	MT	4
+metastasis tumor	Macrophage	hC52_Mph-CXCL12	patient13	MT	8
+metastasis tumor	Macrophage	hC52_Mph-CXCL12	patient14	MT	4
+metastasis tumor	Macrophage	hC52_Mph-CXCL12	patient15	MT	1
+metastasis tumor	Macrophage	hC52_Mph-CXCL12	patient16	MT	1
+metastasis tumor	Macrophage	hC52_Mph-CXCL12	patient17	MT	4
+metastasis tumor	Macrophage	hC53_Mph-C1QC	patient09	MT	9
+metastasis tumor	Macrophage	hC53_Mph-C1QC	patient10	MT	5
+metastasis tumor	Macrophage	hC53_Mph-C1QC	patient11	MT	38
+metastasis tumor	Macrophage	hC53_Mph-C1QC	patient12	MT	36
+metastasis tumor	Macrophage	hC53_Mph-C1QC	patient13	MT	82
+metastasis tumor	Macrophage	hC53_Mph-C1QC	patient14	MT	41
+metastasis tumor	Macrophage	hC53_Mph-C1QC	patient15	MT	53
+metastasis tumor	Macrophage	hC53_Mph-C1QC	patient16	MT	141
+metastasis tumor	Macrophage	hC53_Mph-C1QC	patient17	MT	102
+metastasis tumor	Macrophage	hC54_Mph-SPP1	patient08	MT	5
+metastasis tumor	Macrophage	hC54_Mph-SPP1	patient09	MT	12
+metastasis tumor	Macrophage	hC54_Mph-SPP1	patient10	MT	18
+metastasis tumor	Macrophage	hC54_Mph-SPP1	patient11	MT	82
+metastasis tumor	Macrophage	hC54_Mph-SPP1	patient12	MT	39
+metastasis tumor	Macrophage	hC54_Mph-SPP1	patient13	MT	24
+metastasis tumor	Macrophage	hC54_Mph-SPP1	patient14	MT	17
+metastasis tumor	Macrophage	hC54_Mph-SPP1	patient15	MT	127
+metastasis tumor	Macrophage	hC54_Mph-SPP1	patient16	MT	652
+metastasis tumor	Macrophage	hC54_Mph-SPP1	patient17	MT	169
+metastasis tumor	Macrophage	hC55_Mph-MKI67	patient11	MT	5
+metastasis tumor	Macrophage	hC55_Mph-MKI67	patient12	MT	1
+metastasis tumor	Macrophage	hC55_Mph-MKI67	patient13	MT	3
+metastasis tumor	Macrophage	hC55_Mph-MKI67	patient14	MT	3
+metastasis tumor	Macrophage	hC55_Mph-MKI67	patient15	MT	4
+metastasis tumor	Macrophage	hC55_Mph-MKI67	patient16	MT	4
+metastasis tumor	Macrophage	hC55_Mph-MKI67	patient17	MT	3
+metastasis tumor	Macrophage	hC56_Mph-CD3E	patient08	MT	24
+metastasis tumor	Macrophage	hC56_Mph-CD3E	patient09	MT	15
+metastasis tumor	Macrophage	hC56_Mph-CD3E	patient10	MT	72
+metastasis tumor	Macrophage	hC56_Mph-CD3E	patient11	MT	69
+metastasis tumor	Macrophage	hC56_Mph-CD3E	patient12	MT	34
+metastasis tumor	Macrophage	hC56_Mph-CD3E	patient13	MT	93
+metastasis tumor	Macrophage	hC56_Mph-CD3E	patient14	MT	185
+metastasis tumor	Macrophage	hC56_Mph-CD3E	patient15	MT	93
+metastasis tumor	Macrophage	hC56_Mph-CD3E	patient16	MT	252
+metastasis tumor	Macrophage	hC56_Mph-CD3E	patient17	MT	95
+metastasis tumor	Monocyte	hC43_MonoDC-CLEC10A	patient08	MT	2
+metastasis tumor	Monocyte	hC43_MonoDC-CLEC10A	patient10	MT	3
+metastasis tumor	Monocyte	hC43_MonoDC-CLEC10A	patient11	MT	21
+metastasis tumor	Monocyte	hC43_MonoDC-CLEC10A	patient12	MT	4
+metastasis tumor	Monocyte	hC43_MonoDC-CLEC10A	patient13	MT	7
+metastasis tumor	Monocyte	hC43_MonoDC-CLEC10A	patient14	MT	24
+metastasis tumor	Monocyte	hC43_MonoDC-CLEC10A	patient15	MT	3
+metastasis tumor	Monocyte	hC43_MonoDC-CLEC10A	patient16	MT	6
+metastasis tumor	Monocyte	hC43_MonoDC-CLEC10A	patient17	MT	27
+metastasis tumor	Monocyte	hC44_Mono-CD14	patient08	MT	1
+metastasis tumor	Monocyte	hC44_Mono-CD14	patient09	MT	1
+metastasis tumor	Monocyte	hC44_Mono-CD14	patient11	MT	5
+metastasis tumor	Monocyte	hC44_Mono-CD14	patient12	MT	7
+metastasis tumor	Monocyte	hC44_Mono-CD14	patient13	MT	8
+metastasis tumor	Monocyte	hC44_Mono-CD14	patient14	MT	1
+metastasis tumor	Monocyte	hC44_Mono-CD14	patient15	MT	3
+metastasis tumor	Monocyte	hC44_Mono-CD14	patient16	MT	18
+metastasis tumor	Monocyte	hC44_Mono-CD14	patient17	MT	4
+metastasis tumor	Monocyte	hC45_Mono-FCGR3A	patient08	MT	2
+metastasis tumor	Monocyte	hC45_Mono-FCGR3A	patient10	MT	7
+metastasis tumor	Monocyte	hC45_Mono-FCGR3A	patient11	MT	18
+metastasis tumor	Monocyte	hC45_Mono-FCGR3A	patient12	MT	4
+metastasis tumor	Monocyte	hC45_Mono-FCGR3A	patient13	MT	15
+metastasis tumor	Monocyte	hC45_Mono-FCGR3A	patient14	MT	34
+metastasis tumor	Monocyte	hC45_Mono-FCGR3A	patient15	MT	3
+metastasis tumor	Monocyte	hC45_Mono-FCGR3A	patient16	MT	11
+metastasis tumor	Monocyte	hC45_Mono-FCGR3A	patient17	MT	8
+metastasis tumor	Monocyte	hC46_Mono-CD14|FCGR3A	patient08	MT	5
+metastasis tumor	Monocyte	hC46_Mono-CD14|FCGR3A	patient09	MT	1
+metastasis tumor	Monocyte	hC46_Mono-CD14|FCGR3A	patient10	MT	5
+metastasis tumor	Monocyte	hC46_Mono-CD14|FCGR3A	patient11	MT	26
+metastasis tumor	Monocyte	hC46_Mono-CD14|FCGR3A	patient12	MT	16
+metastasis tumor	Monocyte	hC46_Mono-CD14|FCGR3A	patient13	MT	6
+metastasis tumor	Monocyte	hC46_Mono-CD14|FCGR3A	patient14	MT	38
+metastasis tumor	Monocyte	hC46_Mono-CD14|FCGR3A	patient15	MT	4
+metastasis tumor	Monocyte	hC46_Mono-CD14|FCGR3A	patient16	MT	13
+metastasis tumor	Monocyte	hC46_Mono-CD14|FCGR3A	patient17	MT	15
+metastasis tumor	Monocyte	hC47_Mono-CD3E	patient08	MT	1
+metastasis tumor	Monocyte	hC47_Mono-CD3E	patient09	MT	2
+metastasis tumor	Monocyte	hC47_Mono-CD3E	patient10	MT	2
+metastasis tumor	Monocyte	hC47_Mono-CD3E	patient11	MT	3
+metastasis tumor	Monocyte	hC47_Mono-CD3E	patient12	MT	2
+metastasis tumor	Monocyte	hC47_Mono-CD3E	patient13	MT	19
+metastasis tumor	Monocyte	hC47_Mono-CD3E	patient14	MT	5
+metastasis tumor	Monocyte	hC47_Mono-CD3E	patient15	MT	4
+metastasis tumor	Monocyte	hC47_Mono-CD3E	patient16	MT	4
+primary normal	Macrophage	hC48_Mph-FCN1	patient08	PN	1
+primary normal	Macrophage	hC48_Mph-FCN1	patient11	PN	3
+primary normal	Macrophage	hC48_Mph-FCN1	patient13	PN	6
+primary normal	Macrophage	hC48_Mph-FCN1	patient14	PN	7
+primary normal	Macrophage	hC48_Mph-FCN1	patient15	PN	1
+primary normal	Macrophage	hC48_Mph-FCN1	patient16	PN	1
+primary normal	Macrophage	hC48_Mph-FCN1	patient17	PN	3
+primary normal	Macrophage	hC49_Mph-NLRP3	patient08	PN	1
+primary normal	Macrophage	hC49_Mph-NLRP3	patient09	PN	3
+primary normal	Macrophage	hC49_Mph-NLRP3	patient11	PN	28
+primary normal	Macrophage	hC49_Mph-NLRP3	patient12	PN	2
+primary normal	Macrophage	hC49_Mph-NLRP3	patient13	PN	28
+primary normal	Macrophage	hC49_Mph-NLRP3	patient14	PN	13
+primary normal	Macrophage	hC49_Mph-NLRP3	patient15	PN	6
+primary normal	Macrophage	hC49_Mph-NLRP3	patient16	PN	29
+primary normal	Macrophage	hC49_Mph-NLRP3	patient17	PN	32
+primary normal	Macrophage	hC50_Mph-IL1B	patient10	PN	1
+primary normal	Macrophage	hC50_Mph-IL1B	patient11	PN	5
+primary normal	Macrophage	hC50_Mph-IL1B	patient13	PN	7
+primary normal	Macrophage	hC50_Mph-IL1B	patient14	PN	6
+primary normal	Macrophage	hC50_Mph-IL1B	patient15	PN	1
+primary normal	Macrophage	hC50_Mph-IL1B	patient16	PN	6
+primary normal	Macrophage	hC50_Mph-IL1B	patient17	PN	6
+primary normal	Macrophage	hC51_Mph-PLTP	patient09	PN	1
+primary normal	Macrophage	hC51_Mph-PLTP	patient10	PN	2
+primary normal	Macrophage	hC51_Mph-PLTP	patient11	PN	9
+primary normal	Macrophage	hC51_Mph-PLTP	patient12	PN	1
+primary normal	Macrophage	hC51_Mph-PLTP	patient13	PN	10
+primary normal	Macrophage	hC51_Mph-PLTP	patient14	PN	10
+primary normal	Macrophage	hC51_Mph-PLTP	patient15	PN	2
+primary normal	Macrophage	hC51_Mph-PLTP	patient16	PN	138
+primary normal	Macrophage	hC51_Mph-PLTP	patient17	PN	37
+primary normal	Macrophage	hC52_Mph-CXCL12	patient13	PN	1
+primary normal	Macrophage	hC52_Mph-CXCL12	patient16	PN	1
+primary normal	Macrophage	hC53_Mph-C1QC	patient10	PN	1
+primary normal	Macrophage	hC53_Mph-C1QC	patient11	PN	3
+primary normal	Macrophage	hC53_Mph-C1QC	patient15	PN	3
+primary normal	Macrophage	hC53_Mph-C1QC	patient16	PN	7
+primary normal	Macrophage	hC53_Mph-C1QC	patient17	PN	6
+primary normal	Macrophage	hC54_Mph-SPP1	patient08	PN	1
+primary normal	Macrophage	hC54_Mph-SPP1	patient14	PN	1
+primary normal	Macrophage	hC55_Mph-MKI67	patient15	PN	1
+primary normal	Macrophage	hC55_Mph-MKI67	patient16	PN	1
+primary normal	Macrophage	hC56_Mph-CD3E	patient08	PN	1
+primary normal	Macrophage	hC56_Mph-CD3E	patient09	PN	1
+primary normal	Macrophage	hC56_Mph-CD3E	patient10	PN	1
+primary normal	Macrophage	hC56_Mph-CD3E	patient11	PN	14
+primary normal	Macrophage	hC56_Mph-CD3E	patient12	PN	2
+primary normal	Macrophage	hC56_Mph-CD3E	patient13	PN	3
+primary normal	Macrophage	hC56_Mph-CD3E	patient14	PN	18
+primary normal	Macrophage	hC56_Mph-CD3E	patient15	PN	11
+primary normal	Macrophage	hC56_Mph-CD3E	patient16	PN	100
+primary normal	Macrophage	hC56_Mph-CD3E	patient17	PN	27
+primary normal	Monocyte	hC43_MonoDC-CLEC10A	patient09	PN	1
+primary normal	Monocyte	hC43_MonoDC-CLEC10A	patient11	PN	1
+primary normal	Monocyte	hC43_MonoDC-CLEC10A	patient13	PN	1
+primary normal	Monocyte	hC43_MonoDC-CLEC10A	patient14	PN	2
+primary normal	Monocyte	hC43_MonoDC-CLEC10A	patient16	PN	2
+primary normal	Monocyte	hC43_MonoDC-CLEC10A	patient17	PN	1
+primary normal	Monocyte	hC44_Mono-CD14	patient10	PN	1
+primary normal	Monocyte	hC44_Mono-CD14	patient11	PN	4
+primary normal	Monocyte	hC44_Mono-CD14	patient13	PN	3
+primary normal	Monocyte	hC44_Mono-CD14	patient14	PN	9
+primary normal	Monocyte	hC44_Mono-CD14	patient16	PN	5
+primary normal	Monocyte	hC44_Mono-CD14	patient17	PN	2
+primary normal	Monocyte	hC45_Mono-FCGR3A	patient09	PN	1
+primary normal	Monocyte	hC45_Mono-FCGR3A	patient10	PN	1
+primary normal	Monocyte	hC45_Mono-FCGR3A	patient11	PN	1
+primary normal	Monocyte	hC45_Mono-FCGR3A	patient12	PN	2
+primary normal	Monocyte	hC45_Mono-FCGR3A	patient14	PN	1
+primary normal	Monocyte	hC45_Mono-FCGR3A	patient16	PN	2
+primary normal	Monocyte	hC45_Mono-FCGR3A	patient17	PN	1
+primary normal	Monocyte	hC46_Mono-CD14|FCGR3A	patient11	PN	1
+primary normal	Monocyte	hC46_Mono-CD14|FCGR3A	patient12	PN	1
+primary normal	Monocyte	hC46_Mono-CD14|FCGR3A	patient13	PN	1
+primary normal	Monocyte	hC46_Mono-CD14|FCGR3A	patient14	PN	1
+primary normal	Monocyte	hC46_Mono-CD14|FCGR3A	patient16	PN	1
+primary normal	Monocyte	hC46_Mono-CD14|FCGR3A	patient17	PN	1
+primary normal	Monocyte	hC47_Mono-CD3E	patient16	PN	1
+primary tumor	Macrophage	hC48_Mph-FCN1	patient10	PT	4
+primary tumor	Macrophage	hC48_Mph-FCN1	patient11	PT	13
+primary tumor	Macrophage	hC48_Mph-FCN1	patient12	PT	6
+primary tumor	Macrophage	hC48_Mph-FCN1	patient13	PT	5
+primary tumor	Macrophage	hC48_Mph-FCN1	patient15	PT	9
+primary tumor	Macrophage	hC48_Mph-FCN1	patient16	PT	19
+primary tumor	Macrophage	hC48_Mph-FCN1	patient17	PT	1
+primary tumor	Macrophage	hC49_Mph-NLRP3	patient08	PT	1
+primary tumor	Macrophage	hC49_Mph-NLRP3	patient09	PT	4
+primary tumor	Macrophage	hC49_Mph-NLRP3	patient10	PT	49
+primary tumor	Macrophage	hC49_Mph-NLRP3	patient11	PT	69
+primary tumor	Macrophage	hC49_Mph-NLRP3	patient12	PT	27
+primary tumor	Macrophage	hC49_Mph-NLRP3	patient13	PT	11
+primary tumor	Macrophage	hC49_Mph-NLRP3	patient14	PT	28
+primary tumor	Macrophage	hC49_Mph-NLRP3	patient15	PT	141
+primary tumor	Macrophage	hC49_Mph-NLRP3	patient16	PT	125
+primary tumor	Macrophage	hC49_Mph-NLRP3	patient17	PT	40
+primary tumor	Macrophage	hC50_Mph-IL1B	patient08	PT	2
+primary tumor	Macrophage	hC50_Mph-IL1B	patient10	PT	6
+primary tumor	Macrophage	hC50_Mph-IL1B	patient11	PT	11
+primary tumor	Macrophage	hC50_Mph-IL1B	patient12	PT	5
+primary tumor	Macrophage	hC50_Mph-IL1B	patient13	PT	13
+primary tumor	Macrophage	hC50_Mph-IL1B	patient14	PT	9
+primary tumor	Macrophage	hC50_Mph-IL1B	patient15	PT	6
+primary tumor	Macrophage	hC50_Mph-IL1B	patient16	PT	36
+primary tumor	Macrophage	hC50_Mph-IL1B	patient17	PT	2
+primary tumor	Macrophage	hC51_Mph-PLTP	patient08	PT	4
+primary tumor	Macrophage	hC51_Mph-PLTP	patient10	PT	2
+primary tumor	Macrophage	hC51_Mph-PLTP	patient11	PT	4
+primary tumor	Macrophage	hC51_Mph-PLTP	patient12	PT	2
+primary tumor	Macrophage	hC51_Mph-PLTP	patient13	PT	3
+primary tumor	Macrophage	hC51_Mph-PLTP	patient15	PT	5
+primary tumor	Macrophage	hC51_Mph-PLTP	patient16	PT	210
+primary tumor	Macrophage	hC52_Mph-CXCL12	patient10	PT	1
+primary tumor	Macrophage	hC52_Mph-CXCL12	patient16	PT	5
+primary tumor	Macrophage	hC53_Mph-C1QC	patient08	PT	4
+primary tumor	Macrophage	hC53_Mph-C1QC	patient09	PT	3
+primary tumor	Macrophage	hC53_Mph-C1QC	patient10	PT	11
+primary tumor	Macrophage	hC53_Mph-C1QC	patient11	PT	13
+primary tumor	Macrophage	hC53_Mph-C1QC	patient12	PT	27
+primary tumor	Macrophage	hC53_Mph-C1QC	patient13	PT	44
+primary tumor	Macrophage	hC53_Mph-C1QC	patient14	PT	42
+primary tumor	Macrophage	hC53_Mph-C1QC	patient15	PT	41
+primary tumor	Macrophage	hC53_Mph-C1QC	patient16	PT	43
+primary tumor	Macrophage	hC53_Mph-C1QC	patient17	PT	105
+primary tumor	Macrophage	hC54_Mph-SPP1	patient08	PT	5
+primary tumor	Macrophage	hC54_Mph-SPP1	patient10	PT	13
+primary tumor	Macrophage	hC54_Mph-SPP1	patient11	PT	23
+primary tumor	Macrophage	hC54_Mph-SPP1	patient12	PT	15
+primary tumor	Macrophage	hC54_Mph-SPP1	patient13	PT	25
+primary tumor	Macrophage	hC54_Mph-SPP1	patient14	PT	5
+primary tumor	Macrophage	hC54_Mph-SPP1	patient15	PT	33
+primary tumor	Macrophage	hC54_Mph-SPP1	patient16	PT	25
+primary tumor	Macrophage	hC54_Mph-SPP1	patient17	PT	1
+primary tumor	Macrophage	hC55_Mph-MKI67	patient08	PT	2
+primary tumor	Macrophage	hC55_Mph-MKI67	patient09	PT	1
+primary tumor	Macrophage	hC55_Mph-MKI67	patient10	PT	4
+primary tumor	Macrophage	hC55_Mph-MKI67	patient11	PT	6
+primary tumor	Macrophage	hC55_Mph-MKI67	patient12	PT	4
+primary tumor	Macrophage	hC55_Mph-MKI67	patient13	PT	11
+primary tumor	Macrophage	hC55_Mph-MKI67	patient14	PT	7
+primary tumor	Macrophage	hC55_Mph-MKI67	patient15	PT	5
+primary tumor	Macrophage	hC55_Mph-MKI67	patient16	PT	4
+primary tumor	Macrophage	hC55_Mph-MKI67	patient17	PT	5
+primary tumor	Macrophage	hC56_Mph-CD3E	patient08	PT	5
+primary tumor	Macrophage	hC56_Mph-CD3E	patient09	PT	1
+primary tumor	Macrophage	hC56_Mph-CD3E	patient10	PT	39
+primary tumor	Macrophage	hC56_Mph-CD3E	patient11	PT	23
+primary tumor	Macrophage	hC56_Mph-CD3E	patient12	PT	17
+primary tumor	Macrophage	hC56_Mph-CD3E	patient13	PT	30
+primary tumor	Macrophage	hC56_Mph-CD3E	patient14	PT	60
+primary tumor	Macrophage	hC56_Mph-CD3E	patient15	PT	181
+primary tumor	Macrophage	hC56_Mph-CD3E	patient16	PT	74
+primary tumor	Macrophage	hC56_Mph-CD3E	patient17	PT	39
+primary tumor	Monocyte	hC43_MonoDC-CLEC10A	patient08	PT	1
+primary tumor	Monocyte	hC43_MonoDC-CLEC10A	patient10	PT	5
+primary tumor	Monocyte	hC43_MonoDC-CLEC10A	patient11	PT	7
+primary tumor	Monocyte	hC43_MonoDC-CLEC10A	patient12	PT	1
+primary tumor	Monocyte	hC43_MonoDC-CLEC10A	patient14	PT	3
+primary tumor	Monocyte	hC43_MonoDC-CLEC10A	patient15	PT	1
+primary tumor	Monocyte	hC43_MonoDC-CLEC10A	patient16	PT	2
+primary tumor	Monocyte	hC43_MonoDC-CLEC10A	patient17	PT	2
+primary tumor	Monocyte	hC44_Mono-CD14	patient08	PT	1
+primary tumor	Monocyte	hC44_Mono-CD14	patient09	PT	5
+primary tumor	Monocyte	hC44_Mono-CD14	patient10	PT	1
+primary tumor	Monocyte	hC44_Mono-CD14	patient11	PT	9
+primary tumor	Monocyte	hC44_Mono-CD14	patient12	PT	1
+primary tumor	Monocyte	hC44_Mono-CD14	patient13	PT	34
+primary tumor	Monocyte	hC44_Mono-CD14	patient14	PT	3
+primary tumor	Monocyte	hC44_Mono-CD14	patient15	PT	4
+primary tumor	Monocyte	hC44_Mono-CD14	patient16	PT	29
+primary tumor	Monocyte	hC45_Mono-FCGR3A	patient08	PT	1
+primary tumor	Monocyte	hC45_Mono-FCGR3A	patient10	PT	1
+primary tumor	Monocyte	hC45_Mono-FCGR3A	patient14	PT	4
+primary tumor	Monocyte	hC45_Mono-FCGR3A	patient15	PT	3
+primary tumor	Monocyte	hC45_Mono-FCGR3A	patient16	PT	4
+primary tumor	Monocyte	hC45_Mono-FCGR3A	patient17	PT	4
+primary tumor	Monocyte	hC46_Mono-CD14|FCGR3A	patient08	PT	1
+primary tumor	Monocyte	hC46_Mono-CD14|FCGR3A	patient09	PT	2
+primary tumor	Monocyte	hC46_Mono-CD14|FCGR3A	patient11	PT	9
+primary tumor	Monocyte	hC46_Mono-CD14|FCGR3A	patient12	PT	1
+primary tumor	Monocyte	hC46_Mono-CD14|FCGR3A	patient13	PT	17
+primary tumor	Monocyte	hC46_Mono-CD14|FCGR3A	patient14	PT	5
+primary tumor	Monocyte	hC46_Mono-CD14|FCGR3A	patient15	PT	3
+primary tumor	Monocyte	hC46_Mono-CD14|FCGR3A	patient16	PT	6
+primary tumor	Monocyte	hC47_Mono-CD3E	patient12	PT	1
+primary tumor	Monocyte	hC47_Mono-CD3E	patient16	PT	9
