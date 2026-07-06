@@ -1,0 +1,3 @@
+set_name	cells	genes	clean_clusters_res_0_6	original_clusters	cleanup_labels	batch_sensitive_cells	doublet_sensitive_cluster_cells
+broad_refined_singlets	9834	24662	16	13	batch_sensitive_retained_singlet;core_retained_singlet;doublet_sensitive_retained_singlet	5915	544
+core_refined_singlets	3443	24662	10	4	core_retained_singlet	0	0
