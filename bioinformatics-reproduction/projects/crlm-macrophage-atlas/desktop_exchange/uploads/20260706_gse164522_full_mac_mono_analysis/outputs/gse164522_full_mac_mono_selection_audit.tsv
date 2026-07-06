@@ -1,0 +1,7 @@
+expression_group	file_name	expression_columns	selected_metadata_cells	selected_overlap_cells
+LN	GSE164522_CRLM_LN_expression.csv.gz	47523	15853	558
+MN	GSE164522_CRLM_MN_expression.csv.gz	58664	15853	5267
+MT	GSE164522_CRLM_MT_expression.csv.gz	37359	15853	4403
+PBMC	GSE164522_CRLM_PBMC_expression.csv.gz	46973	15853	2913
+PN	GSE164522_CRLM_PN_expression.csv.gz	29795	15853	658
+PT	GSE164522_CRLM_PT_expression.csv.gz	37529	15853	2054
