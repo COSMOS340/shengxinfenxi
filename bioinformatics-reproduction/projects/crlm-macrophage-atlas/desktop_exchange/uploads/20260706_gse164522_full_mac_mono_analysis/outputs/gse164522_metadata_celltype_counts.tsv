@@ -1,0 +1,466 @@
+celltype_major	celltype_sub	tissue	N
+Bcell	hC68_B-CD79B	PBMC	1433
+Bcell	hC68_B-CD79B	lymph node	1166
+Bcell	hC68_B-CD79B	metastasis normal	116
+Bcell	hC68_B-CD79B	metastasis tumor	32
+Bcell	hC68_B-CD79B	primary normal	432
+Bcell	hC68_B-CD79B	primary tumor	151
+Bcell	hC69_B-CD55	PBMC	16
+Bcell	hC69_B-CD55	lymph node	3577
+Bcell	hC69_B-CD55	metastasis normal	280
+Bcell	hC69_B-CD55	metastasis tumor	287
+Bcell	hC69_B-CD55	primary normal	2177
+Bcell	hC69_B-CD55	primary tumor	531
+Bcell	hC70_B-GPR183	PBMC	1282
+Bcell	hC70_B-GPR183	lymph node	6603
+Bcell	hC70_B-GPR183	metastasis normal	542
+Bcell	hC70_B-GPR183	metastasis tumor	901
+Bcell	hC70_B-GPR183	primary normal	1923
+Bcell	hC70_B-GPR183	primary tumor	1699
+Bcell	hC71_B-HSPA1A	PBMC	2
+Bcell	hC71_B-HSPA1A	lymph node	4397
+Bcell	hC71_B-HSPA1A	metastasis normal	90
+Bcell	hC71_B-HSPA1A	metastasis tumor	134
+Bcell	hC71_B-HSPA1A	primary normal	680
+Bcell	hC71_B-HSPA1A	primary tumor	509
+Bcell	hC72_B-IGLC3	PBMC	2113
+Bcell	hC72_B-IGLC3	lymph node	155
+Bcell	hC72_B-IGLC3	metastasis normal	170
+Bcell	hC72_B-IGLC3	metastasis tumor	128
+Bcell	hC72_B-IGLC3	primary normal	41
+Bcell	hC72_B-IGLC3	primary tumor	96
+Bcell	hC73_B-RGS13	lymph node	355
+Bcell	hC73_B-RGS13	metastasis normal	12
+Bcell	hC73_B-RGS13	metastasis tumor	2
+Bcell	hC73_B-RGS13	primary normal	819
+Bcell	hC73_B-RGS13	primary tumor	86
+Bcell	hC74_B-MKI67	PBMC	43
+Bcell	hC74_B-MKI67	lymph node	653
+Bcell	hC74_B-MKI67	metastasis normal	59
+Bcell	hC74_B-MKI67	metastasis tumor	57
+Bcell	hC74_B-MKI67	primary normal	755
+Bcell	hC74_B-MKI67	primary tumor	314
+Bcell	hC75_B-CD3E	PBMC	507
+Bcell	hC75_B-CD3E	lymph node	1445
+Bcell	hC75_B-CD3E	metastasis normal	384
+Bcell	hC75_B-CD3E	metastasis tumor	364
+Bcell	hC75_B-CD3E	primary normal	1301
+Bcell	hC75_B-CD3E	primary tumor	1125
+Bcell	hC76_plasmaB-IGHA1	PBMC	29
+Bcell	hC76_plasmaB-IGHA1	lymph node	322
+Bcell	hC76_plasmaB-IGHA1	metastasis normal	223
+Bcell	hC76_plasmaB-IGHA1	metastasis tumor	228
+Bcell	hC76_plasmaB-IGHA1	primary normal	2664
+Bcell	hC76_plasmaB-IGHA1	primary tumor	2405
+Bcell	hC77_plasmaB-IGHA1|IGLC2	PBMC	434
+Bcell	hC77_plasmaB-IGHA1|IGLC2	lymph node	1174
+Bcell	hC77_plasmaB-IGHA1|IGLC2	metastasis normal	315
+Bcell	hC77_plasmaB-IGHA1|IGLC2	metastasis tumor	306
+Bcell	hC77_plasmaB-IGHA1|IGLC2	primary normal	4146
+Bcell	hC77_plasmaB-IGHA1|IGLC2	primary tumor	3410
+Bcell	hC78_plasmaB-IGHG1	PBMC	12
+Bcell	hC78_plasmaB-IGHG1	lymph node	321
+Bcell	hC78_plasmaB-IGHG1	metastasis normal	202
+Bcell	hC78_plasmaB-IGHG1	metastasis tumor	369
+Bcell	hC78_plasmaB-IGHG1	primary normal	93
+Bcell	hC78_plasmaB-IGHG1	primary tumor	756
+CD4 T	hC15_CD4_Tn-CCR7	PBMC	8058
+CD4 T	hC15_CD4_Tn-CCR7	lymph node	1360
+CD4 T	hC15_CD4_Tn-CCR7	metastasis normal	141
+CD4 T	hC15_CD4_Tn-CCR7	metastasis tumor	48
+CD4 T	hC15_CD4_Tn-CCR7	primary normal	540
+CD4 T	hC15_CD4_Tn-CCR7	primary tumor	265
+CD4 T	hC16_CD4_Tcm-ANXA1	PBMC	5072
+CD4 T	hC16_CD4_Tcm-ANXA1	lymph node	253
+CD4 T	hC16_CD4_Tcm-ANXA1	metastasis normal	448
+CD4 T	hC16_CD4_Tcm-ANXA1	metastasis tumor	535
+CD4 T	hC16_CD4_Tcm-ANXA1	primary normal	143
+CD4 T	hC16_CD4_Tcm-ANXA1	primary tumor	1082
+CD4 T	hC17_CD4_Temra-GNLY	PBMC	1823
+CD4 T	hC17_CD4_Temra-GNLY	lymph node	3
+CD4 T	hC17_CD4_Temra-GNLY	metastasis normal	146
+CD4 T	hC17_CD4_Temra-GNLY	metastasis tumor	14
+CD4 T	hC17_CD4_Temra-GNLY	primary normal	4
+CD4 T	hC17_CD4_Temra-GNLY	primary tumor	33
+CD4 T	hC18_CD4_Temra-GNLY|RGS1	PBMC	18
+CD4 T	hC18_CD4_Temra-GNLY|RGS1	lymph node	14
+CD4 T	hC18_CD4_Temra-GNLY|RGS1	metastasis normal	503
+CD4 T	hC18_CD4_Temra-GNLY|RGS1	metastasis tumor	151
+CD4 T	hC18_CD4_Temra-GNLY|RGS1	primary normal	21
+CD4 T	hC18_CD4_Temra-GNLY|RGS1	primary tumor	40
+CD4 T	hC19_CD4_Tn-TCF7	PBMC	95
+CD4 T	hC19_CD4_Tn-TCF7	lymph node	5116
+CD4 T	hC19_CD4_Tn-TCF7	metastasis normal	143
+CD4 T	hC19_CD4_Tn-TCF7	metastasis tumor	169
+CD4 T	hC19_CD4_Tn-TCF7	primary normal	793
+CD4 T	hC19_CD4_Tn-TCF7	primary tumor	171
+CD4 T	hC20_CD4_Tfh-CXCR5	PBMC	1
+CD4 T	hC20_CD4_Tfh-CXCR5	lymph node	1114
+CD4 T	hC20_CD4_Tfh-CXCR5	metastasis normal	113
+CD4 T	hC20_CD4_Tfh-CXCR5	metastasis tumor	314
+CD4 T	hC20_CD4_Tfh-CXCR5	primary normal	455
+CD4 T	hC20_CD4_Tfh-CXCR5	primary tumor	331
+CD4 T	hC21_CD4_Tem-GZMK	lymph node	225
+CD4 T	hC21_CD4_Tem-GZMK	metastasis normal	1146
+CD4 T	hC21_CD4_Tem-GZMK	metastasis tumor	2517
+CD4 T	hC21_CD4_Tem-GZMK	primary normal	648
+CD4 T	hC21_CD4_Tem-GZMK	primary tumor	346
+CD4 T	hC22_CD4_Trm-CXCR6	PBMC	10
+CD4 T	hC22_CD4_Trm-CXCR6	lymph node	1475
+CD4 T	hC22_CD4_Trm-CXCR6	metastasis normal	1253
+CD4 T	hC22_CD4_Trm-CXCR6	metastasis tumor	6004
+CD4 T	hC22_CD4_Trm-CXCR6	primary normal	825
+CD4 T	hC22_CD4_Trm-CXCR6	primary tumor	1483
+CD4 T	hC23_CD4_Th17-IL23R	PBMC	10
+CD4 T	hC23_CD4_Th17-IL23R	lymph node	3
+CD4 T	hC23_CD4_Th17-IL23R	metastasis normal	25
+CD4 T	hC23_CD4_Th17-IL23R	metastasis tumor	85
+CD4 T	hC23_CD4_Th17-IL23R	primary normal	4
+CD4 T	hC23_CD4_Th17-IL23R	primary tumor	1895
+CD4 T	hC24_CD4_Th1-CXCL13	PBMC	9
+CD4 T	hC24_CD4_Th1-CXCL13	lymph node	1887
+CD4 T	hC24_CD4_Th1-CXCL13	metastasis normal	99
+CD4 T	hC24_CD4_Th1-CXCL13	metastasis tumor	780
+CD4 T	hC24_CD4_Th1-CXCL13	primary normal	680
+CD4 T	hC24_CD4_Th1-CXCL13	primary tumor	759
+CD4 T	hC25_CD4_Treg-FOXP3	PBMC	603
+CD4 T	hC25_CD4_Treg-FOXP3	lymph node	175
+CD4 T	hC25_CD4_Treg-FOXP3	metastasis normal	38
+CD4 T	hC25_CD4_Treg-FOXP3	metastasis tumor	62
+CD4 T	hC25_CD4_Treg-FOXP3	primary normal	17
+CD4 T	hC25_CD4_Treg-FOXP3	primary tumor	216
+CD4 T	hC26_CD4_Tfr-IL10	PBMC	1
+CD4 T	hC26_CD4_Tfr-IL10	lymph node	311
+CD4 T	hC26_CD4_Tfr-IL10	metastasis normal	19
+CD4 T	hC26_CD4_Tfr-IL10	metastasis tumor	81
+CD4 T	hC26_CD4_Tfr-IL10	primary normal	172
+CD4 T	hC26_CD4_Tfr-IL10	primary tumor	819
+CD4 T	hC27_CD4_Treg-CTLA4	PBMC	3
+CD4 T	hC27_CD4_Treg-CTLA4	lymph node	1995
+CD4 T	hC27_CD4_Treg-CTLA4	metastasis normal	202
+CD4 T	hC27_CD4_Treg-CTLA4	metastasis tumor	2252
+CD4 T	hC27_CD4_Treg-CTLA4	primary normal	172
+CD4 T	hC27_CD4_Treg-CTLA4	primary tumor	3241
+CD4 T	hC28_CD4_HSPA1A	PBMC	1
+CD4 T	hC28_CD4_HSPA1A	lymph node	3793
+CD4 T	hC28_CD4_HSPA1A	metastasis normal	154
+CD4 T	hC28_CD4_HSPA1A	metastasis tumor	191
+CD4 T	hC28_CD4_HSPA1A	primary normal	853
+CD4 T	hC28_CD4_HSPA1A	primary tumor	1639
+CD4 T	hC29_CD4_MKI67	PBMC	63
+CD4 T	hC29_CD4_MKI67	lymph node	391
+CD4 T	hC29_CD4_MKI67	metastasis normal	121
+CD4 T	hC29_CD4_MKI67	metastasis tumor	213
+CD4 T	hC29_CD4_MKI67	primary normal	38
+CD4 T	hC29_CD4_MKI67	primary tumor	426
+CD45-	CD45-	PBMC	26
+CD45-	CD45-	lymph node	212
+CD45-	CD45-	metastasis normal	619
+CD45-	CD45-	metastasis tumor	850
+CD45-	CD45-	primary normal	1202
+CD45-	CD45-	primary tumor	1031
+CD8 T	hC01_CD8_Tn-LEF1	PBMC	1198
+CD8 T	hC01_CD8_Tn-LEF1	lymph node	75
+CD8 T	hC01_CD8_Tn-LEF1	metastasis normal	26
+CD8 T	hC01_CD8_Tn-LEF1	metastasis tumor	7
+CD8 T	hC01_CD8_Tn-LEF1	primary normal	27
+CD8 T	hC01_CD8_Tn-LEF1	primary tumor	19
+CD8 T	hC02_CD8_Tcm-GPR183	PBMC	96
+CD8 T	hC02_CD8_Tcm-GPR183	lymph node	993
+CD8 T	hC02_CD8_Tcm-GPR183	metastasis normal	102
+CD8 T	hC02_CD8_Tcm-GPR183	metastasis tumor	52
+CD8 T	hC02_CD8_Tcm-GPR183	primary normal	479
+CD8 T	hC02_CD8_Tcm-GPR183	primary tumor	99
+CD8 T	hC03_CD8_Temra-CX3CR1	PBMC	3286
+CD8 T	hC03_CD8_Temra-CX3CR1	lymph node	5
+CD8 T	hC03_CD8_Temra-CX3CR1	metastasis normal	281
+CD8 T	hC03_CD8_Temra-CX3CR1	metastasis tumor	38
+CD8 T	hC03_CD8_Temra-CX3CR1	primary normal	10
+CD8 T	hC03_CD8_Temra-CX3CR1	primary tumor	75
+CD8 T	hC04_CD8_Temra-CX3CR1|RGS1	PBMC	16
+CD8 T	hC04_CD8_Temra-CX3CR1|RGS1	lymph node	32
+CD8 T	hC04_CD8_Temra-CX3CR1|RGS1	metastasis normal	827
+CD8 T	hC04_CD8_Temra-CX3CR1|RGS1	metastasis tumor	192
+CD8 T	hC04_CD8_Temra-CX3CR1|RGS1	primary normal	60
+CD8 T	hC04_CD8_Temra-CX3CR1|RGS1	primary tumor	94
+CD8 T	hC05_CD8_Tem-GZMK	PBMC	1082
+CD8 T	hC05_CD8_Tem-GZMK	lymph node	283
+CD8 T	hC05_CD8_Tem-GZMK	metastasis normal	1616
+CD8 T	hC05_CD8_Tem-GZMK	metastasis tumor	353
+CD8 T	hC05_CD8_Tem-GZMK	primary normal	144
+CD8 T	hC05_CD8_Tem-GZMK	primary tumor	858
+CD8 T	hC06_CD8_Tem-CXCR5	PBMC	1
+CD8 T	hC06_CD8_Tem-CXCR5	lymph node	1349
+CD8 T	hC06_CD8_Tem-CXCR5	metastasis normal	2327
+CD8 T	hC06_CD8_Tem-CXCR5	metastasis tumor	3126
+CD8 T	hC06_CD8_Tem-CXCR5	primary normal	425
+CD8 T	hC06_CD8_Tem-CXCR5	primary tumor	1297
+CD8 T	hC07_CD8_IEL-CD160	PBMC	1
+CD8 T	hC07_CD8_IEL-CD160	lymph node	195
+CD8 T	hC07_CD8_IEL-CD160	metastasis normal	52
+CD8 T	hC07_CD8_IEL-CD160	metastasis tumor	73
+CD8 T	hC07_CD8_IEL-CD160	primary normal	2346
+CD8 T	hC07_CD8_IEL-CD160	primary tumor	856
+CD8 T	hC08_CD8_Trm-CD6	PBMC	2
+CD8 T	hC08_CD8_Trm-CD6	lymph node	229
+CD8 T	hC08_CD8_Trm-CD6	metastasis normal	376
+CD8 T	hC08_CD8_Trm-CD6	metastasis tumor	438
+CD8 T	hC08_CD8_Trm-CD6	primary normal	1779
+CD8 T	hC08_CD8_Trm-CD6	primary tumor	1021
+CD8 T	hC09_CD8_Trm-XCL1	lymph node	17
+CD8 T	hC09_CD8_Trm-XCL1	metastasis normal	702
+CD8 T	hC09_CD8_Trm-XCL1	metastasis tumor	101
+CD8 T	hC09_CD8_Trm-XCL1	primary normal	3
+CD8 T	hC09_CD8_Trm-XCL1	primary tumor	13
+CD8 T	hC10_CD8_Trm-KLRB1	PBMC	1
+CD8 T	hC10_CD8_Trm-KLRB1	lymph node	152
+CD8 T	hC10_CD8_Trm-KLRB1	metastasis normal	8016
+CD8 T	hC10_CD8_Trm-KLRB1	metastasis tumor	1272
+CD8 T	hC10_CD8_Trm-KLRB1	primary normal	132
+CD8 T	hC10_CD8_Trm-KLRB1	primary tumor	151
+CD8 T	hC11_CD8_Tex-LAYN	lymph node	63
+CD8 T	hC11_CD8_Tex-LAYN	metastasis normal	50
+CD8 T	hC11_CD8_Tex-LAYN	metastasis tumor	1236
+CD8 T	hC11_CD8_Tex-LAYN	primary normal	21
+CD8 T	hC11_CD8_Tex-LAYN	primary tumor	922
+CD8 T	hC12_CD8-HSPA1A	lymph node	876
+CD8 T	hC12_CD8-HSPA1A	metastasis normal	688
+CD8 T	hC12_CD8-HSPA1A	metastasis tumor	105
+CD8 T	hC12_CD8-HSPA1A	primary normal	199
+CD8 T	hC12_CD8-HSPA1A	primary tumor	418
+CD8 T	hC13_CD8-MKI67	PBMC	19
+CD8 T	hC13_CD8-MKI67	lymph node	69
+CD8 T	hC13_CD8-MKI67	metastasis normal	185
+CD8 T	hC13_CD8-MKI67	metastasis tumor	205
+CD8 T	hC13_CD8-MKI67	primary normal	12
+CD8 T	hC13_CD8-MKI67	primary tumor	131
+CD8 T	hC14_CD8_MAIT-SLC4A10	PBMC	276
+CD8 T	hC14_CD8_MAIT-SLC4A10	lymph node	144
+CD8 T	hC14_CD8_MAIT-SLC4A10	metastasis normal	9730
+CD8 T	hC14_CD8_MAIT-SLC4A10	metastasis tumor	2213
+CD8 T	hC14_CD8_MAIT-SLC4A10	primary normal	154
+CD8 T	hC14_CD8_MAIT-SLC4A10	primary tumor	712
+DC	hC33_cDC-LAMP3	lymph node	191
+DC	hC33_cDC-LAMP3	metastasis normal	27
+DC	hC33_cDC-LAMP3	metastasis tumor	47
+DC	hC33_cDC-LAMP3	primary normal	5
+DC	hC33_cDC-LAMP3	primary tumor	93
+DC	hC34_cDC-MKI67	PBMC	1
+DC	hC34_cDC-MKI67	lymph node	15
+DC	hC34_cDC-MKI67	metastasis normal	333
+DC	hC34_cDC-MKI67	metastasis tumor	39
+DC	hC34_cDC-MKI67	primary normal	6
+DC	hC34_cDC-MKI67	primary tumor	46
+DC	hC35_cDC1-CLEC9A	PBMC	10
+DC	hC35_cDC1-CLEC9A	lymph node	51
+DC	hC35_cDC1-CLEC9A	metastasis normal	821
+DC	hC35_cDC1-CLEC9A	metastasis tumor	91
+DC	hC35_cDC1-CLEC9A	primary normal	17
+DC	hC35_cDC1-CLEC9A	primary tumor	37
+DC	hC36_cDC1-CD3E	lymph node	4
+DC	hC36_cDC1-CD3E	metastasis normal	173
+DC	hC36_cDC1-CD3E	metastasis tumor	15
+DC	hC36_cDC1-CD3E	primary normal	3
+DC	hC36_cDC1-CD3E	primary tumor	4
+DC	hC37_cDC2-CD1C	PBMC	120
+DC	hC37_cDC2-CD1C	lymph node	114
+DC	hC37_cDC2-CD1C	metastasis normal	1087
+DC	hC37_cDC2-CD1C	metastasis tumor	119
+DC	hC37_cDC2-CD1C	primary normal	40
+DC	hC37_cDC2-CD1C	primary tumor	88
+DC	hC38_cDC2-C1QC	PBMC	1
+DC	hC38_cDC2-C1QC	lymph node	90
+DC	hC38_cDC2-C1QC	metastasis normal	1091
+DC	hC38_cDC2-C1QC	metastasis tumor	204
+DC	hC38_cDC2-C1QC	primary normal	101
+DC	hC38_cDC2-C1QC	primary tumor	206
+DC	hC39_cDC2-FCN1	PBMC	141
+DC	hC39_cDC2-FCN1	lymph node	47
+DC	hC39_cDC2-FCN1	metastasis normal	535
+DC	hC39_cDC2-FCN1	metastasis tumor	239
+DC	hC39_cDC2-FCN1	primary normal	28
+DC	hC39_cDC2-FCN1	primary tumor	98
+DC	hC40_cDC2-TIMP1	PBMC	4
+DC	hC40_cDC2-TIMP1	lymph node	222
+DC	hC40_cDC2-TIMP1	metastasis normal	585
+DC	hC40_cDC2-TIMP1	metastasis tumor	383
+DC	hC40_cDC2-TIMP1	primary normal	34
+DC	hC40_cDC2-TIMP1	primary tumor	55
+DC	hC41_cDC2-CD3E	PBMC	12
+DC	hC41_cDC2-CD3E	lymph node	46
+DC	hC41_cDC2-CD3E	metastasis normal	662
+DC	hC41_cDC2-CD3E	metastasis tumor	226
+DC	hC41_cDC2-CD3E	primary normal	45
+DC	hC41_cDC2-CD3E	primary tumor	78
+DC	hC42_pDC-LILRA4	PBMC	36
+DC	hC42_pDC-LILRA4	lymph node	154
+DC	hC42_pDC-LILRA4	metastasis normal	289
+DC	hC42_pDC-LILRA4	metastasis tumor	196
+DC	hC42_pDC-LILRA4	primary normal	37
+DC	hC42_pDC-LILRA4	primary tumor	71
+ILC3	hC58_ILC3-KIT	PBMC	9
+ILC3	hC58_ILC3-KIT	lymph node	107
+ILC3	hC58_ILC3-KIT	metastasis normal	46
+ILC3	hC58_ILC3-KIT	metastasis tumor	66
+ILC3	hC58_ILC3-KIT	primary normal	267
+ILC3	hC58_ILC3-KIT	primary tumor	227
+MAST	hC57_Mast-CPA3	PBMC	8
+MAST	hC57_Mast-CPA3	lymph node	52
+MAST	hC57_Mast-CPA3	metastasis normal	13
+MAST	hC57_Mast-CPA3	metastasis tumor	139
+MAST	hC57_Mast-CPA3	primary normal	164
+MAST	hC57_Mast-CPA3	primary tumor	1112
+Macrophage	hC48_Mph-FCN1	PBMC	31
+Macrophage	hC48_Mph-FCN1	lymph node	21
+Macrophage	hC48_Mph-FCN1	metastasis normal	1480
+Macrophage	hC48_Mph-FCN1	metastasis tumor	510
+Macrophage	hC48_Mph-FCN1	primary normal	22
+Macrophage	hC48_Mph-FCN1	primary tumor	57
+Macrophage	hC49_Mph-NLRP3	lymph node	147
+Macrophage	hC49_Mph-NLRP3	metastasis normal	255
+Macrophage	hC49_Mph-NLRP3	metastasis tumor	370
+Macrophage	hC49_Mph-NLRP3	primary normal	142
+Macrophage	hC49_Mph-NLRP3	primary tumor	495
+Macrophage	hC50_Mph-IL1B	PBMC	3
+Macrophage	hC50_Mph-IL1B	lymph node	43
+Macrophage	hC50_Mph-IL1B	metastasis normal	425
+Macrophage	hC50_Mph-IL1B	metastasis tumor	432
+Macrophage	hC50_Mph-IL1B	primary normal	32
+Macrophage	hC50_Mph-IL1B	primary tumor	90
+Macrophage	hC51_Mph-PLTP	lymph node	61
+Macrophage	hC51_Mph-PLTP	metastasis normal	53
+Macrophage	hC51_Mph-PLTP	metastasis tumor	44
+Macrophage	hC51_Mph-PLTP	primary normal	210
+Macrophage	hC51_Mph-PLTP	primary tumor	230
+Macrophage	hC52_Mph-CXCL12	lymph node	4
+Macrophage	hC52_Mph-CXCL12	metastasis normal	252
+Macrophage	hC52_Mph-CXCL12	metastasis tumor	22
+Macrophage	hC52_Mph-CXCL12	primary normal	2
+Macrophage	hC52_Mph-CXCL12	primary tumor	6
+Macrophage	hC53_Mph-C1QC	lymph node	34
+Macrophage	hC53_Mph-C1QC	metastasis normal	34
+Macrophage	hC53_Mph-C1QC	metastasis tumor	507
+Macrophage	hC53_Mph-C1QC	primary normal	20
+Macrophage	hC53_Mph-C1QC	primary tumor	333
+Macrophage	hC54_Mph-SPP1	PBMC	5
+Macrophage	hC54_Mph-SPP1	lymph node	20
+Macrophage	hC54_Mph-SPP1	metastasis normal	21
+Macrophage	hC54_Mph-SPP1	metastasis tumor	1145
+Macrophage	hC54_Mph-SPP1	primary normal	2
+Macrophage	hC54_Mph-SPP1	primary tumor	145
+Macrophage	hC55_Mph-MKI67	lymph node	1
+Macrophage	hC55_Mph-MKI67	metastasis normal	21
+Macrophage	hC55_Mph-MKI67	metastasis tumor	23
+Macrophage	hC55_Mph-MKI67	primary normal	2
+Macrophage	hC55_Mph-MKI67	primary tumor	49
+Macrophage	hC56_Mph-CD3E	PBMC	239
+Macrophage	hC56_Mph-CD3E	lymph node	79
+Macrophage	hC56_Mph-CD3E	metastasis normal	628
+Macrophage	hC56_Mph-CD3E	metastasis tumor	932
+Macrophage	hC56_Mph-CD3E	primary normal	178
+Macrophage	hC56_Mph-CD3E	primary tumor	469
+Monocyte	hC43_MonoDC-CLEC10A	PBMC	1
+Monocyte	hC43_MonoDC-CLEC10A	lymph node	125
+Monocyte	hC43_MonoDC-CLEC10A	metastasis normal	169
+Monocyte	hC43_MonoDC-CLEC10A	metastasis tumor	97
+Monocyte	hC43_MonoDC-CLEC10A	primary normal	8
+Monocyte	hC43_MonoDC-CLEC10A	primary tumor	22
+Monocyte	hC44_Mono-CD14	PBMC	1613
+Monocyte	hC44_Mono-CD14	lymph node	3
+Monocyte	hC44_Mono-CD14	metastasis normal	149
+Monocyte	hC44_Mono-CD14	metastasis tumor	48
+Monocyte	hC44_Mono-CD14	primary normal	24
+Monocyte	hC44_Mono-CD14	primary tumor	87
+Monocyte	hC45_Mono-FCGR3A	PBMC	806
+Monocyte	hC45_Mono-FCGR3A	lymph node	12
+Monocyte	hC45_Mono-FCGR3A	metastasis normal	899
+Monocyte	hC45_Mono-FCGR3A	metastasis tumor	102
+Monocyte	hC45_Mono-FCGR3A	primary normal	9
+Monocyte	hC45_Mono-FCGR3A	primary tumor	17
+Monocyte	hC46_Mono-CD14|FCGR3A	PBMC	75
+Monocyte	hC46_Mono-CD14|FCGR3A	lymph node	8
+Monocyte	hC46_Mono-CD14|FCGR3A	metastasis normal	685
+Monocyte	hC46_Mono-CD14|FCGR3A	metastasis tumor	129
+Monocyte	hC46_Mono-CD14|FCGR3A	primary normal	6
+Monocyte	hC46_Mono-CD14|FCGR3A	primary tumor	44
+Monocyte	hC47_Mono-CD3E	PBMC	140
+Monocyte	hC47_Mono-CD3E	metastasis normal	196
+Monocyte	hC47_Mono-CD3E	metastasis tumor	42
+Monocyte	hC47_Mono-CD3E	primary normal	1
+Monocyte	hC47_Mono-CD3E	primary tumor	10
+NK cell	CD3D-CD4+	PBMC	842
+NK cell	CD3D-CD4+	lymph node	1631
+NK cell	CD3D-CD4+	metastasis normal	443
+NK cell	CD3D-CD4+	metastasis tumor	1033
+NK cell	CD3D-CD4+	primary normal	349
+NK cell	CD3D-CD4+	primary tumor	612
+NK cell	hC59_NK-FCGR3A	PBMC	10110
+NK cell	hC59_NK-FCGR3A	lymph node	6
+NK cell	hC59_NK-FCGR3A	metastasis normal	902
+NK cell	hC59_NK-FCGR3A	metastasis tumor	106
+NK cell	hC59_NK-FCGR3A	primary normal	40
+NK cell	hC59_NK-FCGR3A	primary tumor	130
+NK cell	hC60_NK-SELL	PBMC	558
+NK cell	hC60_NK-SELL	lymph node	36
+NK cell	hC60_NK-SELL	metastasis normal	94
+NK cell	hC60_NK-SELL	metastasis tumor	11
+NK cell	hC60_NK-SELL	primary normal	9
+NK cell	hC60_NK-SELL	primary tumor	35
+NK cell	hC61_NK-FCGR3A|IFNG	PBMC	31
+NK cell	hC61_NK-FCGR3A|IFNG	lymph node	66
+NK cell	hC61_NK-FCGR3A|IFNG	metastasis normal	3141
+NK cell	hC61_NK-FCGR3A|IFNG	metastasis tumor	717
+NK cell	hC61_NK-FCGR3A|IFNG	primary normal	138
+NK cell	hC61_NK-FCGR3A|IFNG	primary tumor	218
+NK cell	hC62_NK-DUSP4	PBMC	1
+NK cell	hC62_NK-DUSP4	lymph node	153
+NK cell	hC62_NK-DUSP4	metastasis normal	98
+NK cell	hC62_NK-DUSP4	metastasis tumor	207
+NK cell	hC62_NK-DUSP4	primary normal	100
+NK cell	hC62_NK-DUSP4	primary tumor	231
+NK cell	hC63_NK-CD160	lymph node	30
+NK cell	hC63_NK-CD160	metastasis normal	2692
+NK cell	hC63_NK-CD160	metastasis tumor	375
+NK cell	hC63_NK-CD160	primary normal	8
+NK cell	hC63_NK-CD160	primary tumor	24
+NK cell	hC64_NK-CD160|IFNG	PBMC	66
+NK cell	hC64_NK-CD160|IFNG	lymph node	62
+NK cell	hC64_NK-CD160|IFNG	metastasis normal	1272
+NK cell	hC64_NK-CD160|IFNG	metastasis tumor	89
+NK cell	hC64_NK-CD160|IFNG	primary normal	29
+NK cell	hC64_NK-CD160|IFNG	primary tumor	51
+NK cell	hC65_NK-CD160|ICAM1	lymph node	58
+NK cell	hC65_NK-CD160|ICAM1	metastasis normal	1585
+NK cell	hC65_NK-CD160|ICAM1	metastasis tumor	279
+NK cell	hC65_NK-CD160|ICAM1	primary normal	16
+NK cell	hC65_NK-CD160|ICAM1	primary tumor	27
+NK cell	hC66_NK-MKI67	PBMC	63
+NK cell	hC66_NK-MKI67	lymph node	32
+NK cell	hC66_NK-MKI67	metastasis normal	359
+NK cell	hC66_NK-MKI67	metastasis tumor	68
+NK cell	hC66_NK-MKI67	primary normal	16
+NK cell	hC66_NK-MKI67	primary tumor	28
+NK cell	hC67_NK-IL7R	PBMC	1
+NK cell	hC67_NK-IL7R	lymph node	324
+NK cell	hC67_NK-IL7R	metastasis normal	2485
+NK cell	hC67_NK-IL7R	metastasis tumor	1009
+NK cell	hC67_NK-IL7R	primary normal	144
+NK cell	hC67_NK-IL7R	primary tumor	252
+NKT	hC30_NKT-FCGR3A	PBMC	3532
+NKT	hC30_NKT-FCGR3A	lymph node	18
+NKT	hC30_NKT-FCGR3A	metastasis normal	1120
+NKT	hC30_NKT-FCGR3A	metastasis tumor	271
+NKT	hC30_NKT-FCGR3A	primary normal	47
+NKT	hC30_NKT-FCGR3A	primary tumor	96
+NKT	hC31_NKT-CD27	PBMC	130
+NKT	hC31_NKT-CD27	lymph node	319
+NKT	hC31_NKT-CD27	metastasis normal	24
+NKT	hC31_NKT-CD27	metastasis tumor	34
+NKT	hC31_NKT-CD27	primary normal	39
+NKT	hC31_NKT-CD27	primary tumor	33
+gdT	hC32_γδT-TRDV2	PBMC	742
+gdT	hC32_γδT-TRDV2	lymph node	160
+gdT	hC32_γδT-TRDV2	metastasis normal	979
+gdT	hC32_γδT-TRDV2	metastasis tumor	508
+gdT	hC32_γδT-TRDV2	primary normal	66
+gdT	hC32_γδT-TRDV2	primary tumor	98
