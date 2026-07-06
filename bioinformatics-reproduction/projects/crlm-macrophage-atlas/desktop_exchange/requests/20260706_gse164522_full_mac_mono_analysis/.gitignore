@@ -1,0 +1,4 @@
+outputs/
+local_objects_not_for_github/
+.RData
+.Rhistory
