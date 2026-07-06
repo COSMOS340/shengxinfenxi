@@ -1,0 +1,2 @@
+set_name	requested_cells	present_cells	missing_cells	input_clusters	input_cleanup_labels
+broad_refined_singlets	9834	9834	0	13	batch_sensitive_retained_singlet;core_retained_singlet;doublet_sensitive_retained_singlet
