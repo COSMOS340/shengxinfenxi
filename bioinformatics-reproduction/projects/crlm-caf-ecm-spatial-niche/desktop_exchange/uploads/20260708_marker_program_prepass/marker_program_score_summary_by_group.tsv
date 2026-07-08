@@ -1,0 +1,379 @@
+dataset_id	object_label	sample_label	tissue_site	marker_program	n	q1	median	mean	q3
+GSE178318	gse178318_working_qc_sparse_matrix	COL07_CRC		fibroblast_ecm	14108	0	0	0.046374141854851	0
+GSE178318	gse178318_working_qc_sparse_matrix	COL07_CRC		caf_activation	14108	0	0	0.0219785782828849	0
+GSE178318	gse178318_working_qc_sparse_matrix	COL07_CRC		inflammatory_caf	14108	0	0	0.0760591045996347	0.115943814925404
+GSE178318	gse178318_working_qc_sparse_matrix	COL07_CRC		pericyte_like	14108	0	0	0.00920670832259298	0
+GSE178318	gse178318_working_qc_sparse_matrix	COL07_CRC		endothelial	14108	0	0	0.0178559715843345	0
+GSE178318	gse178318_working_qc_sparse_matrix	COL07_CRC		epithelial_tumor	14108	0	0.721267033540391	1.27868920095586	2.55100025603394
+GSE178318	gse178318_working_qc_sparse_matrix	COL07_CRC		immune_context	14108	0.503100455762202	0.902661687874419	0.947696112923864	1.42605794516004
+GSE178318	gse178318_working_qc_sparse_matrix	COL07_LM		fibroblast_ecm	13106	0	0	0.00316558806309515	0
+GSE178318	gse178318_working_qc_sparse_matrix	COL07_LM		caf_activation	13106	0	0	0.00972713613181116	0
+GSE178318	gse178318_working_qc_sparse_matrix	COL07_LM		inflammatory_caf	13106	0	0	0.0259017260855694	0
+GSE178318	gse178318_working_qc_sparse_matrix	COL07_LM		pericyte_like	13106	0	0	0.0101117183523215	0
+GSE178318	gse178318_working_qc_sparse_matrix	COL07_LM		endothelial	13106	0	0	0.0234121249998671	0
+GSE178318	gse178318_working_qc_sparse_matrix	COL07_LM		epithelial_tumor	13106	0	0	0.389690126987575	0.474856546924979
+GSE178318	gse178318_working_qc_sparse_matrix	COL07_LM		immune_context	13106	0.935179773766379	1.40500422970767	1.34190996537356	1.75544215388669
+GSE178318	gse178318_working_qc_sparse_matrix	COL12_CRC		fibroblast_ecm	9719	0	0	0.156225543279236	0
+GSE178318	gse178318_working_qc_sparse_matrix	COL12_CRC		caf_activation	9719	0	0	0.0531074588644351	0
+GSE178318	gse178318_working_qc_sparse_matrix	COL12_CRC		inflammatory_caf	9719	0	0	0.0708428725541674	0
+GSE178318	gse178318_working_qc_sparse_matrix	COL12_CRC		pericyte_like	9719	0	0	0.0166139995212232	0
+GSE178318	gse178318_working_qc_sparse_matrix	COL12_CRC		endothelial	9719	0	0	0.0300925829194962	0
+GSE178318	gse178318_working_qc_sparse_matrix	COL12_CRC		epithelial_tumor	9719	0	0	0.112630521183053	0
+GSE178318	gse178318_working_qc_sparse_matrix	COL12_CRC		immune_context	9719	0.594354227300211	1.07385591530949	1.04699146153981	1.58615430387087
+GSE178318	gse178318_working_qc_sparse_matrix	COL12_LM		fibroblast_ecm	2561	0	0	0.0127493719128293	0
+GSE178318	gse178318_working_qc_sparse_matrix	COL12_LM		caf_activation	2561	0	0	0.0240941910696306	0
+GSE178318	gse178318_working_qc_sparse_matrix	COL12_LM		inflammatory_caf	2561	0	0	0.0232385586291852	0
+GSE178318	gse178318_working_qc_sparse_matrix	COL12_LM		pericyte_like	2561	0	0	0.0312108128759674	0
+GSE178318	gse178318_working_qc_sparse_matrix	COL12_LM		endothelial	2561	0	0	0.0172058946120929	0
+GSE178318	gse178318_working_qc_sparse_matrix	COL12_LM		epithelial_tumor	2561	0	0	0.312723582901636	0
+GSE178318	gse178318_working_qc_sparse_matrix	COL12_LM		immune_context	2561	0.765674680599457	1.29029064063397	1.19032735183851	1.67267971437429
+GSE178318	gse178318_working_qc_sparse_matrix	COL12_PBMC		fibroblast_ecm	12382	0	0	0.000309432240722048	0
+GSE178318	gse178318_working_qc_sparse_matrix	COL12_PBMC		caf_activation	12382	0	0	0.00517777176058156	0
+GSE178318	gse178318_working_qc_sparse_matrix	COL12_PBMC		inflammatory_caf	12382	0	0	0.0348546633790573	0
+GSE178318	gse178318_working_qc_sparse_matrix	COL12_PBMC		pericyte_like	12382	0	0	0.0072213396154617	0
+GSE178318	gse178318_working_qc_sparse_matrix	COL12_PBMC		endothelial	12382	0	0	0.0296085210623626	0
+GSE178318	gse178318_working_qc_sparse_matrix	COL12_PBMC		epithelial_tumor	12382	0	0	0.00537458412970818	0
+GSE178318	gse178318_working_qc_sparse_matrix	COL12_PBMC		immune_context	12382	0.582904925997194	0.991426356857679	1.00466095782267	1.41222677984629
+GSE178318	gse178318_working_qc_sparse_matrix	COL15_CRC		fibroblast_ecm	3159	0	0	0.160226862369985	0
+GSE178318	gse178318_working_qc_sparse_matrix	COL15_CRC		caf_activation	3159	0	0	0.0632995988786645	0
+GSE178318	gse178318_working_qc_sparse_matrix	COL15_CRC		inflammatory_caf	3159	0	0	0.131385573743849	0.0677643377247951
+GSE178318	gse178318_working_qc_sparse_matrix	COL15_CRC		pericyte_like	3159	0	0	0.044217350997158	0
+GSE178318	gse178318_working_qc_sparse_matrix	COL15_CRC		endothelial	3159	0	0	0.041143567472	0
+GSE178318	gse178318_working_qc_sparse_matrix	COL15_CRC		epithelial_tumor	3159	0	0	0.388878435133652	0.31288668625819
+GSE178318	gse178318_working_qc_sparse_matrix	COL15_CRC		immune_context	3159	0.272447064287947	0.966092312467759	0.929080566348068	1.48793616182617
+GSE178318	gse178318_working_qc_sparse_matrix	COL15_LM		fibroblast_ecm	7930	0	0	0.0246239258083462	0
+GSE178318	gse178318_working_qc_sparse_matrix	COL15_LM		caf_activation	7930	0	0	0.0226808081735489	0
+GSE178318	gse178318_working_qc_sparse_matrix	COL15_LM		inflammatory_caf	7930	0	0	0.073177047198852	0.111778043943125
+GSE178318	gse178318_working_qc_sparse_matrix	COL15_LM		pericyte_like	7930	0	0	0.0394262178188873	0
+GSE178318	gse178318_working_qc_sparse_matrix	COL15_LM		endothelial	7930	0	0	0.044506391596376	0
+GSE178318	gse178318_working_qc_sparse_matrix	COL15_LM		epithelial_tumor	7930	0	0	0.383532017998465	0.504365026123933
+GSE178318	gse178318_working_qc_sparse_matrix	COL15_LM		immune_context	7930	0.609835426658177	1.02930964343411	0.993514683215581	1.43432467519044
+GSE178318	gse178318_working_qc_sparse_matrix	COL16_CRC		fibroblast_ecm	4865	0	0	0.0471122043403044	0
+GSE178318	gse178318_working_qc_sparse_matrix	COL16_CRC		caf_activation	4865	0	0	0.0208685368927175	0
+GSE178318	gse178318_working_qc_sparse_matrix	COL16_CRC		inflammatory_caf	4865	0	0	0.093280178057097	0.105113448253883
+GSE178318	gse178318_working_qc_sparse_matrix	COL16_CRC		pericyte_like	4865	0	0	0.00899515084696783	0
+GSE178318	gse178318_working_qc_sparse_matrix	COL16_CRC		endothelial	4865	0	0	0.0411720304398601	0
+GSE178318	gse178318_working_qc_sparse_matrix	COL16_CRC		epithelial_tumor	4865	0.180733470947223	0.620114099017224	1.21455072342863	2.08507465848099
+GSE178318	gse178318_working_qc_sparse_matrix	COL16_CRC		immune_context	4865	0.557019223450502	0.952546569583125	0.997504238456375	1.47509052487315
+GSE178318	gse178318_working_qc_sparse_matrix	COL16_LM		fibroblast_ecm	7946	0	0	0.00326420382301951	0
+GSE178318	gse178318_working_qc_sparse_matrix	COL16_LM		caf_activation	7946	0	0	0.012164848505227	0
+GSE178318	gse178318_working_qc_sparse_matrix	COL16_LM		inflammatory_caf	7946	0	0	0.0175453403385254	0
+GSE178318	gse178318_working_qc_sparse_matrix	COL16_LM		pericyte_like	7946	0	0	0.0132726293851237	0
+GSE178318	gse178318_working_qc_sparse_matrix	COL16_LM		endothelial	7946	0	0	0.0298885397417396	0
+GSE178318	gse178318_working_qc_sparse_matrix	COL16_LM		epithelial_tumor	7946	0	0	0.128590040029046	0
+GSE178318	gse178318_working_qc_sparse_matrix	COL16_LM		immune_context	7946	0.923416026611811	1.33105761784516	1.27616505776662	1.63149628625227
+GSE178318	gse178318_working_qc_sparse_matrix	COL17_CRC		fibroblast_ecm	8421	0	0	0.0176114592656701	0
+GSE178318	gse178318_working_qc_sparse_matrix	COL17_CRC		caf_activation	8421	0	0	0.0153963929126571	0
+GSE178318	gse178318_working_qc_sparse_matrix	COL17_CRC		inflammatory_caf	8421	0	0	0.0204124968641722	0
+GSE178318	gse178318_working_qc_sparse_matrix	COL17_CRC		pericyte_like	8421	0	0	0.0137592586022588	0
+GSE178318	gse178318_working_qc_sparse_matrix	COL17_CRC		endothelial	8421	0	0	0.0342578845932278	0
+GSE178318	gse178318_working_qc_sparse_matrix	COL17_CRC		epithelial_tumor	8421	0	0	0.0393218894405102	0
+GSE178318	gse178318_working_qc_sparse_matrix	COL17_CRC		immune_context	8421	0.427426259075044	0.967122530856898	0.937689883744361	1.46390618768516
+GSE178318	gse178318_working_qc_sparse_matrix	COL17_LM		fibroblast_ecm	9582	0	0	0.0216965416385457	0
+GSE178318	gse178318_working_qc_sparse_matrix	COL17_LM		caf_activation	9582	0	0	0.0252417166291763	0
+GSE178318	gse178318_working_qc_sparse_matrix	COL17_LM		inflammatory_caf	9582	0	0	0.0306151594214613	0
+GSE178318	gse178318_working_qc_sparse_matrix	COL17_LM		pericyte_like	9582	0	0	0.0148020201853714	0
+GSE178318	gse178318_working_qc_sparse_matrix	COL17_LM		endothelial	9582	0	0	0.0298910781600807	0
+GSE178318	gse178318_working_qc_sparse_matrix	COL17_LM		epithelial_tumor	9582	0	0	0.0283621804174022	0
+GSE178318	gse178318_working_qc_sparse_matrix	COL17_LM		immune_context	9582	0.68733225534786	1.16792193257967	1.11667561025038	1.52391283319839
+GSE178318	gse178318_working_qc_sparse_matrix	COL17_PBMC		fibroblast_ecm	6679	0	0	0.000164077669751408	0
+GSE178318	gse178318_working_qc_sparse_matrix	COL17_PBMC		caf_activation	6679	0	0	0.00681728246247957	0
+GSE178318	gse178318_working_qc_sparse_matrix	COL17_PBMC		inflammatory_caf	6679	0	0	0.0118244654077751	0
+GSE178318	gse178318_working_qc_sparse_matrix	COL17_PBMC		pericyte_like	6679	0	0	0.00635690421226638	0
+GSE178318	gse178318_working_qc_sparse_matrix	COL17_PBMC		endothelial	6679	0	0	0.0269281865371182	0
+GSE178318	gse178318_working_qc_sparse_matrix	COL17_PBMC		epithelial_tumor	6679	0	0	0.00407069317622438	0
+GSE178318	gse178318_working_qc_sparse_matrix	COL17_PBMC		immune_context	6679	0.533302180365958	0.845089006725354	0.876583719045237	1.25143700970076
+GSE178318	gse178318_working_qc_sparse_matrix	COL18_CRC		fibroblast_ecm	7942	0	0	0.114230671732609	0
+GSE178318	gse178318_working_qc_sparse_matrix	COL18_CRC		caf_activation	7942	0	0	0.0419504495358002	0
+GSE178318	gse178318_working_qc_sparse_matrix	COL18_CRC		inflammatory_caf	7942	0	0	0.0771843083401726	0
+GSE178318	gse178318_working_qc_sparse_matrix	COL18_CRC		pericyte_like	7942	0	0	0.0283361983550754	0
+GSE178318	gse178318_working_qc_sparse_matrix	COL18_CRC		endothelial	7942	0	0	0.0312759267639624	0
+GSE178318	gse178318_working_qc_sparse_matrix	COL18_CRC		epithelial_tumor	7942	0	0	0.0738481304165174	0
+GSE178318	gse178318_working_qc_sparse_matrix	COL18_CRC		immune_context	7942	0.0920980746863024	0.864875482169387	0.885370784346035	1.49744961537827
+GSE178318	gse178318_working_qc_sparse_matrix	COL18_LM		fibroblast_ecm	10064	0	0	0.0155974194998238	0
+GSE178318	gse178318_working_qc_sparse_matrix	COL18_LM		caf_activation	10064	0	0	0.0193401362657603	0
+GSE178318	gse178318_working_qc_sparse_matrix	COL18_LM		inflammatory_caf	10064	0	0	0.0207506470288137	0
+GSE178318	gse178318_working_qc_sparse_matrix	COL18_LM		pericyte_like	10064	0	0	0.0143903948672671	0
+GSE178318	gse178318_working_qc_sparse_matrix	COL18_LM		endothelial	10064	0	0	0.0259774846424192	0
+GSE178318	gse178318_working_qc_sparse_matrix	COL18_LM		epithelial_tumor	10064	0	0	0.124694741881357	0
+GSE178318	gse178318_working_qc_sparse_matrix	COL18_LM		immune_context	10064	0.711331270520194	1.21852193614502	1.14128157815692	1.58003319400895
+GSE178318	gse178318_working_qc_sparse_matrix	COL18_PBMC		fibroblast_ecm	7839	0	0	0.000241471357286088	0
+GSE178318	gse178318_working_qc_sparse_matrix	COL18_PBMC		caf_activation	7839	0	0	0.00965169034789078	0
+GSE178318	gse178318_working_qc_sparse_matrix	COL18_PBMC		inflammatory_caf	7839	0	0	0.0328408725947635	0
+GSE178318	gse178318_working_qc_sparse_matrix	COL18_PBMC		pericyte_like	7839	0	0	0.0112166913800518	0
+GSE178318	gse178318_working_qc_sparse_matrix	COL18_PBMC		endothelial	7839	0	0	0.0478346015430039	0
+GSE178318	gse178318_working_qc_sparse_matrix	COL18_PBMC		epithelial_tumor	7839	0	0	0.00246294057393242	0
+GSE178318	gse178318_working_qc_sparse_matrix	COL18_PBMC		immune_context	7839	0.599977254967412	1.05253076863422	1.0540545615588	1.48012156977925
+GSE245552	gse245552_Pt01_T1_working_qc_sparse_matrix	Pt01_T1	primary tumor	fibroblast_ecm	3854	0	0	0.0631511371494249	0
+GSE245552	gse245552_Pt01_T1_working_qc_sparse_matrix	Pt01_T1	primary tumor	caf_activation	3854	0	0	0.0317709477960568	0
+GSE245552	gse245552_Pt01_T1_working_qc_sparse_matrix	Pt01_T1	primary tumor	inflammatory_caf	3854	0	0	0.0571446091323577	0
+GSE245552	gse245552_Pt01_T1_working_qc_sparse_matrix	Pt01_T1	primary tumor	pericyte_like	3854	0	0	0.0240233258440215	0
+GSE245552	gse245552_Pt01_T1_working_qc_sparse_matrix	Pt01_T1	primary tumor	endothelial	3854	0	0	0.0559118683130665	0
+GSE245552	gse245552_Pt01_T1_working_qc_sparse_matrix	Pt01_T1	primary tumor	epithelial_tumor	3854	0	0	1.09564864800363	2.63154519150833
+GSE245552	gse245552_Pt01_T1_working_qc_sparse_matrix	Pt01_T1	primary tumor	immune_context	3854	0	0.691373191138943	0.8456825579649	1.5432785356234
+GSE245552	gse245552_Pt01_T2_working_qc_sparse_matrix	Pt01_T2	liver metastasis	fibroblast_ecm	6002	0	0	0.118458905355878	0
+GSE245552	gse245552_Pt01_T2_working_qc_sparse_matrix	Pt01_T2	liver metastasis	caf_activation	6002	0	0	0.0830141729661111	0
+GSE245552	gse245552_Pt01_T2_working_qc_sparse_matrix	Pt01_T2	liver metastasis	inflammatory_caf	6002	0	0	0.0502694839355086	0
+GSE245552	gse245552_Pt01_T2_working_qc_sparse_matrix	Pt01_T2	liver metastasis	pericyte_like	6002	0	0	0.0735718973836064	0
+GSE245552	gse245552_Pt01_T2_working_qc_sparse_matrix	Pt01_T2	liver metastasis	endothelial	6002	0	0	0.114104665272267	0.134965076436891
+GSE245552	gse245552_Pt01_T2_working_qc_sparse_matrix	Pt01_T2	liver metastasis	epithelial_tumor	6002	0	0.478686910181072	1.33761199424968	2.86251751396165
+GSE245552	gse245552_Pt01_T2_working_qc_sparse_matrix	Pt01_T2	liver metastasis	immune_context	6002	0.148229697521307	0.783399967763967	0.861303892045822	1.4664138217351
+GSE245552	gse245552_Pt02_T1_working_qc_sparse_matrix	Pt02_T1	primary tumor	fibroblast_ecm	3269	0	0	0.418032228008637	0
+GSE245552	gse245552_Pt02_T1_working_qc_sparse_matrix	Pt02_T1	primary tumor	caf_activation	3269	0	0	0.224965602287992	0.0600505495899689
+GSE245552	gse245552_Pt02_T1_working_qc_sparse_matrix	Pt02_T1	primary tumor	inflammatory_caf	3269	0	0	0.217245405654092	0.212405475314753
+GSE245552	gse245552_Pt02_T1_working_qc_sparse_matrix	Pt02_T1	primary tumor	pericyte_like	3269	0	0	0.229391115313688	0
+GSE245552	gse245552_Pt02_T1_working_qc_sparse_matrix	Pt02_T1	primary tumor	endothelial	3269	0	0	0.189339427838764	0
+GSE245552	gse245552_Pt02_T1_working_qc_sparse_matrix	Pt02_T1	primary tumor	epithelial_tumor	3269	0	0	0.986828978837876	2.68370042120352
+GSE245552	gse245552_Pt02_T1_working_qc_sparse_matrix	Pt02_T1	primary tumor	immune_context	3269	0	0.133990299084922	0.537634194052171	0.888689215865989
+GSE245552	gse245552_Pt02_T2_working_qc_sparse_matrix	Pt02_T2	liver metastasis	fibroblast_ecm	5969	0	0	0.118933766591231	0
+GSE245552	gse245552_Pt02_T2_working_qc_sparse_matrix	Pt02_T2	liver metastasis	caf_activation	5969	0	0	0.0918770514380489	0
+GSE245552	gse245552_Pt02_T2_working_qc_sparse_matrix	Pt02_T2	liver metastasis	inflammatory_caf	5969	0	0	0.0524753822994919	0
+GSE245552	gse245552_Pt02_T2_working_qc_sparse_matrix	Pt02_T2	liver metastasis	pericyte_like	5969	0	0	0.185968690099996	0
+GSE245552	gse245552_Pt02_T2_working_qc_sparse_matrix	Pt02_T2	liver metastasis	endothelial	5969	0	0	0.0698901133856151	0
+GSE245552	gse245552_Pt02_T2_working_qc_sparse_matrix	Pt02_T2	liver metastasis	epithelial_tumor	5969	0	0.248004147663482	1.28716897180162	3.22130710324774
+GSE245552	gse245552_Pt02_T2_working_qc_sparse_matrix	Pt02_T2	liver metastasis	immune_context	5969	0	0.799753341996636	0.87468156693918	1.6164534255413
+GSE245552	gse245552_Pt03_T1_working_qc_sparse_matrix	Pt03_T1	primary tumor	fibroblast_ecm	2220	0	0	0.0416291286991937	0
+GSE245552	gse245552_Pt03_T1_working_qc_sparse_matrix	Pt03_T1	primary tumor	caf_activation	2220	0	0	0.0254948282263463	0
+GSE245552	gse245552_Pt03_T1_working_qc_sparse_matrix	Pt03_T1	primary tumor	inflammatory_caf	2220	0	0	0.0478999572907503	0
+GSE245552	gse245552_Pt03_T1_working_qc_sparse_matrix	Pt03_T1	primary tumor	pericyte_like	2220	0	0	0.0261749986430778	0
+GSE245552	gse245552_Pt03_T1_working_qc_sparse_matrix	Pt03_T1	primary tumor	endothelial	2220	0	0	0.0372020054083647	0
+GSE245552	gse245552_Pt03_T1_working_qc_sparse_matrix	Pt03_T1	primary tumor	epithelial_tumor	2220	0	2.91500408083645	2.11015693807891	3.28450082411947
+GSE245552	gse245552_Pt03_T1_working_qc_sparse_matrix	Pt03_T1	primary tumor	immune_context	2220	0	0.185149846599625	0.471307896162479	0.661838570970801
+GSE245552	gse245552_Pt03_T2_working_qc_sparse_matrix	Pt03_T2	liver metastasis	fibroblast_ecm	3218	0	0	0.03446401974825	0
+GSE245552	gse245552_Pt03_T2_working_qc_sparse_matrix	Pt03_T2	liver metastasis	caf_activation	3218	0	0	0.0307112243965024	0
+GSE245552	gse245552_Pt03_T2_working_qc_sparse_matrix	Pt03_T2	liver metastasis	inflammatory_caf	3218	0	0	0.103685845301123	0.124156864256628
+GSE245552	gse245552_Pt03_T2_working_qc_sparse_matrix	Pt03_T2	liver metastasis	pericyte_like	3218	0	0	0.0248883345868628	0
+GSE245552	gse245552_Pt03_T2_working_qc_sparse_matrix	Pt03_T2	liver metastasis	endothelial	3218	0	0	0.0472417832113241	0
+GSE245552	gse245552_Pt03_T2_working_qc_sparse_matrix	Pt03_T2	liver metastasis	epithelial_tumor	3218	0	2.95152190506057	2.15942816802142	3.33277036881414
+GSE245552	gse245552_Pt03_T2_working_qc_sparse_matrix	Pt03_T2	liver metastasis	immune_context	3218	0	0	0.416575144545295	0.835774095886903
+GSE245552	gse245552_Pt04_T1_working_qc_sparse_matrix	Pt04_T1	primary tumor	fibroblast_ecm	1997	0	0	0.128176744439349	0
+GSE245552	gse245552_Pt04_T1_working_qc_sparse_matrix	Pt04_T1	primary tumor	caf_activation	1997	0	0	0.0694422973213247	0
+GSE245552	gse245552_Pt04_T1_working_qc_sparse_matrix	Pt04_T1	primary tumor	inflammatory_caf	1997	0	0	0.0680912925060822	0
+GSE245552	gse245552_Pt04_T1_working_qc_sparse_matrix	Pt04_T1	primary tumor	pericyte_like	1997	0	0	0.0516898660875934	0
+GSE245552	gse245552_Pt04_T1_working_qc_sparse_matrix	Pt04_T1	primary tumor	endothelial	1997	0	0	0.0955551966709448	0
+GSE245552	gse245552_Pt04_T1_working_qc_sparse_matrix	Pt04_T1	primary tumor	epithelial_tumor	1997	0	0	0.642613989562502	0.403261549833978
+GSE245552	gse245552_Pt04_T1_working_qc_sparse_matrix	Pt04_T1	primary tumor	immune_context	1997	0	0.203287304465309	0.616977587435557	1.14140752544794
+GSE245552	gse245552_Pt04_T2_working_qc_sparse_matrix	Pt04_T2	liver metastasis	fibroblast_ecm	3389	0	0	0.188823590535199	0
+GSE245552	gse245552_Pt04_T2_working_qc_sparse_matrix	Pt04_T2	liver metastasis	caf_activation	3389	0	0	0.132435477527417	0
+GSE245552	gse245552_Pt04_T2_working_qc_sparse_matrix	Pt04_T2	liver metastasis	inflammatory_caf	3389	0	0	0.0720082624632869	0.122063738746028
+GSE245552	gse245552_Pt04_T2_working_qc_sparse_matrix	Pt04_T2	liver metastasis	pericyte_like	3389	0	0	0.0686698397732659	0
+GSE245552	gse245552_Pt04_T2_working_qc_sparse_matrix	Pt04_T2	liver metastasis	endothelial	3389	0	0	0.0171277458971498	0
+GSE245552	gse245552_Pt04_T2_working_qc_sparse_matrix	Pt04_T2	liver metastasis	epithelial_tumor	3389	2.50425245544805	3.27469199113356	2.75062358042721	3.56425546456308
+GSE245552	gse245552_Pt04_T2_working_qc_sparse_matrix	Pt04_T2	liver metastasis	immune_context	3389	0	0	0.151669555064174	0
+GSE245552	gse245552_Pt05_T1_working_qc_sparse_matrix	Pt05_T1	primary tumor	fibroblast_ecm	1971	0	0	0.0040522630459589	0
+GSE245552	gse245552_Pt05_T1_working_qc_sparse_matrix	Pt05_T1	primary tumor	caf_activation	1971	0	0	0.00612291511143081	0
+GSE245552	gse245552_Pt05_T1_working_qc_sparse_matrix	Pt05_T1	primary tumor	inflammatory_caf	1971	0	0	0.0637658902687549	0.0922726988119764
+GSE245552	gse245552_Pt05_T1_working_qc_sparse_matrix	Pt05_T1	primary tumor	pericyte_like	1971	0	0	0.00735106875126355	0
+GSE245552	gse245552_Pt05_T1_working_qc_sparse_matrix	Pt05_T1	primary tumor	endothelial	1971	0	0	0.167314911494255	0
+GSE245552	gse245552_Pt05_T1_working_qc_sparse_matrix	Pt05_T1	primary tumor	epithelial_tumor	1971	0	0.109158663384179	1.32735145900365	3.19456664264935
+GSE245552	gse245552_Pt05_T1_working_qc_sparse_matrix	Pt05_T1	primary tumor	immune_context	1971	0	0.357362954350158	0.661681267686409	1.13529312417188
+GSE245552	gse245552_Pt05_T2_working_qc_sparse_matrix	Pt05_T2	liver metastasis	fibroblast_ecm	3393	0	0	0.0280811184441225	0
+GSE245552	gse245552_Pt05_T2_working_qc_sparse_matrix	Pt05_T2	liver metastasis	caf_activation	3393	0	0	0.0211725470978374	0
+GSE245552	gse245552_Pt05_T2_working_qc_sparse_matrix	Pt05_T2	liver metastasis	inflammatory_caf	3393	0	0	0.044737015873255	0
+GSE245552	gse245552_Pt05_T2_working_qc_sparse_matrix	Pt05_T2	liver metastasis	pericyte_like	3393	0	0	0.0278408916440556	0
+GSE245552	gse245552_Pt05_T2_working_qc_sparse_matrix	Pt05_T2	liver metastasis	endothelial	3393	0	0	0.130697338847042	0
+GSE245552	gse245552_Pt05_T2_working_qc_sparse_matrix	Pt05_T2	liver metastasis	epithelial_tumor	3393	0	0	0.251419283909959	0
+GSE245552	gse245552_Pt05_T2_working_qc_sparse_matrix	Pt05_T2	liver metastasis	immune_context	3393	0.69204121022145	1.15769518564684	1.13599798052228	1.7402735136727
+GSE245552	gse245552_Pt05_T3_working_qc_sparse_matrix	Pt05_T3	liver metastasis	fibroblast_ecm	2936	0	0	0.00106654533729605	0
+GSE245552	gse245552_Pt05_T3_working_qc_sparse_matrix	Pt05_T3	liver metastasis	caf_activation	2936	0	0	0.0114465212064925	0
+GSE245552	gse245552_Pt05_T3_working_qc_sparse_matrix	Pt05_T3	liver metastasis	inflammatory_caf	2936	0	0	0.0153025779874988	0
+GSE245552	gse245552_Pt05_T3_working_qc_sparse_matrix	Pt05_T3	liver metastasis	pericyte_like	2936	0	0	0.0263397481503018	0
+GSE245552	gse245552_Pt05_T3_working_qc_sparse_matrix	Pt05_T3	liver metastasis	endothelial	2936	0	0	0.139047981388073	0.237731987339565
+GSE245552	gse245552_Pt05_T3_working_qc_sparse_matrix	Pt05_T3	liver metastasis	epithelial_tumor	2936	0	0	0.0511235361785512	0
+GSE245552	gse245552_Pt05_T3_working_qc_sparse_matrix	Pt05_T3	liver metastasis	immune_context	2936	1.87465113653819	2.16794259147143	2.07759350060999	2.44331434358028
+GSE245552	gse245552_Pt06_T1_working_qc_sparse_matrix	Pt06_T1	primary tumor	fibroblast_ecm	733	0	0	0.255977177169546	0
+GSE245552	gse245552_Pt06_T1_working_qc_sparse_matrix	Pt06_T1	primary tumor	caf_activation	733	0	0	0.120775919932356	0
+GSE245552	gse245552_Pt06_T1_working_qc_sparse_matrix	Pt06_T1	primary tumor	inflammatory_caf	733	0	0	0.117383503211802	0
+GSE245552	gse245552_Pt06_T1_working_qc_sparse_matrix	Pt06_T1	primary tumor	pericyte_like	733	0	0	0.0800472976911497	0
+GSE245552	gse245552_Pt06_T1_working_qc_sparse_matrix	Pt06_T1	primary tumor	endothelial	733	0	0	0.0703611218150914	0
+GSE245552	gse245552_Pt06_T1_working_qc_sparse_matrix	Pt06_T1	primary tumor	epithelial_tumor	733	0	1.7415266218705	1.53042990192043	2.89654800067473
+GSE245552	gse245552_Pt06_T1_working_qc_sparse_matrix	Pt06_T1	primary tumor	immune_context	733	0	0.501583942691566	0.631646173403061	0.962061980996585
+GSE245552	gse245552_Pt06_T2_working_qc_sparse_matrix	Pt06_T2	liver metastasis	fibroblast_ecm	1304	0	0	0.458554982184253	0
+GSE245552	gse245552_Pt06_T2_working_qc_sparse_matrix	Pt06_T2	liver metastasis	caf_activation	1304	0	0	0.284071705675768	0.101796158064397
+GSE245552	gse245552_Pt06_T2_working_qc_sparse_matrix	Pt06_T2	liver metastasis	inflammatory_caf	1304	0	0	0.198489635446642	0.345307158334333
+GSE245552	gse245552_Pt06_T2_working_qc_sparse_matrix	Pt06_T2	liver metastasis	pericyte_like	1304	0	0	0.227552625273564	0
+GSE245552	gse245552_Pt06_T2_working_qc_sparse_matrix	Pt06_T2	liver metastasis	endothelial	1304	0	0	0.194249607956803	0.35458902311378
+GSE245552	gse245552_Pt06_T2_working_qc_sparse_matrix	Pt06_T2	liver metastasis	epithelial_tumor	1304	0	0	0.296452569717411	0.0672364209097569
+GSE245552	gse245552_Pt06_T2_working_qc_sparse_matrix	Pt06_T2	liver metastasis	immune_context	1304	0.590725857211454	1.27961555764212	1.09934241652885	1.60906277110796
+GSE245552	gse245552_Pt06_T3_working_qc_sparse_matrix	Pt06_T3	liver metastasis	fibroblast_ecm	6534	0	0	0.357071339774202	0
+GSE245552	gse245552_Pt06_T3_working_qc_sparse_matrix	Pt06_T3	liver metastasis	caf_activation	6534	0	0	0.222786325366981	0
+GSE245552	gse245552_Pt06_T3_working_qc_sparse_matrix	Pt06_T3	liver metastasis	inflammatory_caf	6534	0	0.0850974285898519	0.199398094297147	0.355639548311121
+GSE245552	gse245552_Pt06_T3_working_qc_sparse_matrix	Pt06_T3	liver metastasis	pericyte_like	6534	0	0	0.128531523168629	0
+GSE245552	gse245552_Pt06_T3_working_qc_sparse_matrix	Pt06_T3	liver metastasis	endothelial	6534	0	0	0.156758184350525	0.297440941254846
+GSE245552	gse245552_Pt06_T3_working_qc_sparse_matrix	Pt06_T3	liver metastasis	epithelial_tumor	6534	0	0	0.548585392272806	0.538528864787532
+GSE245552	gse245552_Pt06_T3_working_qc_sparse_matrix	Pt06_T3	liver metastasis	immune_context	6534	0.557039841920951	1.00350406313086	0.965161408234433	1.43671587097127
+GSE245552	gse245552_Pt07_T1_working_qc_sparse_matrix	Pt07_T1	primary tumor	fibroblast_ecm	3784	0	0	0.126901464034306	0
+GSE245552	gse245552_Pt07_T1_working_qc_sparse_matrix	Pt07_T1	primary tumor	caf_activation	3784	0	0	0.0772873332006059	0
+GSE245552	gse245552_Pt07_T1_working_qc_sparse_matrix	Pt07_T1	primary tumor	inflammatory_caf	3784	0	0	0.0540350645571178	0
+GSE245552	gse245552_Pt07_T1_working_qc_sparse_matrix	Pt07_T1	primary tumor	pericyte_like	3784	0	0	0.170567447637911	0
+GSE245552	gse245552_Pt07_T1_working_qc_sparse_matrix	Pt07_T1	primary tumor	endothelial	3784	0	0	0.107361213835402	0
+GSE245552	gse245552_Pt07_T1_working_qc_sparse_matrix	Pt07_T1	primary tumor	epithelial_tumor	3784	0	0	0.414728460673856	0
+GSE245552	gse245552_Pt07_T1_working_qc_sparse_matrix	Pt07_T1	primary tumor	immune_context	3784	0	0.557898647420132	0.761000999106651	1.56596504580809
+GSE245552	gse245552_Pt07_T2_working_qc_sparse_matrix	Pt07_T2	liver metastasis	fibroblast_ecm	2758	0	0	0.0121177191431895	0
+GSE245552	gse245552_Pt07_T2_working_qc_sparse_matrix	Pt07_T2	liver metastasis	caf_activation	2758	0	0	0.0134714976491827	0
+GSE245552	gse245552_Pt07_T2_working_qc_sparse_matrix	Pt07_T2	liver metastasis	inflammatory_caf	2758	0	0	0.101469150662456	0.179299899154869
+GSE245552	gse245552_Pt07_T2_working_qc_sparse_matrix	Pt07_T2	liver metastasis	pericyte_like	2758	0	0	0.0171493647877214	0
+GSE245552	gse245552_Pt07_T2_working_qc_sparse_matrix	Pt07_T2	liver metastasis	endothelial	2758	0	0	0.1155980050921	0.111269458888019
+GSE245552	gse245552_Pt07_T2_working_qc_sparse_matrix	Pt07_T2	liver metastasis	epithelial_tumor	2758	0	0	1.03948642369487	2.91846790006133
+GSE245552	gse245552_Pt07_T2_working_qc_sparse_matrix	Pt07_T2	liver metastasis	immune_context	2758	0.182210586909713	1.31346822776518	1.10839356171433	1.78492604383603
+GSE245552	gse245552_Pt08_T1_working_qc_sparse_matrix	Pt08_T1	primary tumor	fibroblast_ecm	6993	0	0	0.145064360549036	0
+GSE245552	gse245552_Pt08_T1_working_qc_sparse_matrix	Pt08_T1	primary tumor	caf_activation	6993	0	0	0.0816917027792368	0
+GSE245552	gse245552_Pt08_T1_working_qc_sparse_matrix	Pt08_T1	primary tumor	inflammatory_caf	6993	0	0	0.0710747584509546	0
+GSE245552	gse245552_Pt08_T1_working_qc_sparse_matrix	Pt08_T1	primary tumor	pericyte_like	6993	0	0	0.126371457299611	0
+GSE245552	gse245552_Pt08_T1_working_qc_sparse_matrix	Pt08_T1	primary tumor	endothelial	6993	0	0	0.098117285913358	0
+GSE245552	gse245552_Pt08_T1_working_qc_sparse_matrix	Pt08_T1	primary tumor	epithelial_tumor	6993	0	0	0.22255600979927	0
+GSE245552	gse245552_Pt08_T1_working_qc_sparse_matrix	Pt08_T1	primary tumor	immune_context	6993	0	1.46923533178064	1.13837337694385	1.92625079121521
+GSE245552	gse245552_Pt08_T2_working_qc_sparse_matrix	Pt08_T2	primary tumor	fibroblast_ecm	3318	0	0	0.158558076280682	0
+GSE245552	gse245552_Pt08_T2_working_qc_sparse_matrix	Pt08_T2	primary tumor	caf_activation	3318	0	0	0.0779851108111611	0
+GSE245552	gse245552_Pt08_T2_working_qc_sparse_matrix	Pt08_T2	primary tumor	inflammatory_caf	3318	0	0	0.104227790598334	0
+GSE245552	gse245552_Pt08_T2_working_qc_sparse_matrix	Pt08_T2	primary tumor	pericyte_like	3318	0	0	0.101057034652615	0
+GSE245552	gse245552_Pt08_T2_working_qc_sparse_matrix	Pt08_T2	primary tumor	endothelial	3318	0	0	0.125368647584653	0
+GSE245552	gse245552_Pt08_T2_working_qc_sparse_matrix	Pt08_T2	primary tumor	epithelial_tumor	3318	0	0	0.365732926171644	0
+GSE245552	gse245552_Pt08_T2_working_qc_sparse_matrix	Pt08_T2	primary tumor	immune_context	3318	0.156280520905218	1.46896835658455	1.22086771355787	2.01863199917988
+GSE245552	gse245552_Pt08_T3_working_qc_sparse_matrix	Pt08_T3	liver metastasis	fibroblast_ecm	4262	0	0	0.0710311676698946	0
+GSE245552	gse245552_Pt08_T3_working_qc_sparse_matrix	Pt08_T3	liver metastasis	caf_activation	4262	0	0	0.0493603104685838	0
+GSE245552	gse245552_Pt08_T3_working_qc_sparse_matrix	Pt08_T3	liver metastasis	inflammatory_caf	4262	0	0	0.143113196753314	0.276167473013525
+GSE245552	gse245552_Pt08_T3_working_qc_sparse_matrix	Pt08_T3	liver metastasis	pericyte_like	4262	0	0	0.047670036749793	0
+GSE245552	gse245552_Pt08_T3_working_qc_sparse_matrix	Pt08_T3	liver metastasis	endothelial	4262	0	0	0.0676997879845428	0
+GSE245552	gse245552_Pt08_T3_working_qc_sparse_matrix	Pt08_T3	liver metastasis	epithelial_tumor	4262	0	1.97588646641184	1.56103804406786	2.82684042343494
+GSE245552	gse245552_Pt08_T3_working_qc_sparse_matrix	Pt08_T3	liver metastasis	immune_context	4262	0.620555692958904	0.879778648607746	1.03307531080703	1.54218386621433
+GSE245552	gse245552_Pt08_T4_working_qc_sparse_matrix	Pt08_T4	liver metastasis	fibroblast_ecm	4096	0	0	0.0264927084323148	0
+GSE245552	gse245552_Pt08_T4_working_qc_sparse_matrix	Pt08_T4	liver metastasis	caf_activation	4096	0	0	0.0190641991912502	0
+GSE245552	gse245552_Pt08_T4_working_qc_sparse_matrix	Pt08_T4	liver metastasis	inflammatory_caf	4096	0	0	0.104171095847524	0.198873413085265
+GSE245552	gse245552_Pt08_T4_working_qc_sparse_matrix	Pt08_T4	liver metastasis	pericyte_like	4096	0	0	0.0159528414011596	0
+GSE245552	gse245552_Pt08_T4_working_qc_sparse_matrix	Pt08_T4	liver metastasis	endothelial	4096	0	0	0.0451547432249326	0
+GSE245552	gse245552_Pt08_T4_working_qc_sparse_matrix	Pt08_T4	liver metastasis	epithelial_tumor	4096	0.655196091161019	2.71296987363494	2.1988578840761	3.34738724768832
+GSE245552	gse245552_Pt08_T4_working_qc_sparse_matrix	Pt08_T4	liver metastasis	immune_context	4096	0	0.54148110837084	0.629543697473293	0.905238758553852
+GSE245552	gse245552_Pt09_T1_working_qc_sparse_matrix	Pt09_T1	primary tumor	fibroblast_ecm	4533	0	0	0.239421309361813	0
+GSE245552	gse245552_Pt09_T1_working_qc_sparse_matrix	Pt09_T1	primary tumor	caf_activation	4533	0	0	0.122097886656413	0
+GSE245552	gse245552_Pt09_T1_working_qc_sparse_matrix	Pt09_T1	primary tumor	inflammatory_caf	4533	0	0	0.152624240811026	0
+GSE245552	gse245552_Pt09_T1_working_qc_sparse_matrix	Pt09_T1	primary tumor	pericyte_like	4533	0	0	0.0749031262502638	0
+GSE245552	gse245552_Pt09_T1_working_qc_sparse_matrix	Pt09_T1	primary tumor	endothelial	4533	0	0	0.1127524582171	0
+GSE245552	gse245552_Pt09_T1_working_qc_sparse_matrix	Pt09_T1	primary tumor	epithelial_tumor	4533	0	0	0.204352017744513	0.0961056042713938
+GSE245552	gse245552_Pt09_T1_working_qc_sparse_matrix	Pt09_T1	primary tumor	immune_context	4533	0	0.603087816157678	0.839867426355335	1.73311581756375
+GSE245552	gse245552_Pt10_T1_working_qc_sparse_matrix	Pt10_T1	primary tumor	fibroblast_ecm	6748	0	0	0.00312015532122025	0
+GSE245552	gse245552_Pt10_T1_working_qc_sparse_matrix	Pt10_T1	primary tumor	caf_activation	6748	0	0	0.00471005959736991	0
+GSE245552	gse245552_Pt10_T1_working_qc_sparse_matrix	Pt10_T1	primary tumor	inflammatory_caf	6748	0	0	0.0196682723937402	0
+GSE245552	gse245552_Pt10_T1_working_qc_sparse_matrix	Pt10_T1	primary tumor	pericyte_like	6748	0	0	0.00634169307962019	0
+GSE245552	gse245552_Pt10_T1_working_qc_sparse_matrix	Pt10_T1	primary tumor	endothelial	6748	0	0	0.0484934023091543	0
+GSE245552	gse245552_Pt10_T1_working_qc_sparse_matrix	Pt10_T1	primary tumor	epithelial_tumor	6748	0	0	0.277214158147187	0
+GSE245552	gse245552_Pt10_T1_working_qc_sparse_matrix	Pt10_T1	primary tumor	immune_context	6748	0	0.595041288124479	0.739247461907093	1.40246244460035
+GSE245552	gse245552_Pt10_T2_working_qc_sparse_matrix	Pt10_T2	liver metastasis	fibroblast_ecm	7345	0	0	0.0986446381949083	0
+GSE245552	gse245552_Pt10_T2_working_qc_sparse_matrix	Pt10_T2	liver metastasis	caf_activation	7345	0	0	0.057711980212468	0
+GSE245552	gse245552_Pt10_T2_working_qc_sparse_matrix	Pt10_T2	liver metastasis	inflammatory_caf	7345	0	0	0.0729591639212867	0
+GSE245552	gse245552_Pt10_T2_working_qc_sparse_matrix	Pt10_T2	liver metastasis	pericyte_like	7345	0	0	0.0456138591764632	0
+GSE245552	gse245552_Pt10_T2_working_qc_sparse_matrix	Pt10_T2	liver metastasis	endothelial	7345	0	0	0.0998807188161499	0
+GSE245552	gse245552_Pt10_T2_working_qc_sparse_matrix	Pt10_T2	liver metastasis	epithelial_tumor	7345	0	0	0.0966124551462722	0
+GSE245552	gse245552_Pt10_T2_working_qc_sparse_matrix	Pt10_T2	liver metastasis	immune_context	7345	0.86888903300287	1.39527690583761	1.26791688457549	1.71460189687717
+GSE245552	gse245552_Pt11_T1_working_qc_sparse_matrix	Pt11_T1	primary tumor	fibroblast_ecm	6023	0	0	0.0974847021378301	0
+GSE245552	gse245552_Pt11_T1_working_qc_sparse_matrix	Pt11_T1	primary tumor	caf_activation	6023	0	0	0.0539444156659603	0
+GSE245552	gse245552_Pt11_T1_working_qc_sparse_matrix	Pt11_T1	primary tumor	inflammatory_caf	6023	0	0	0.0673319717305429	0
+GSE245552	gse245552_Pt11_T1_working_qc_sparse_matrix	Pt11_T1	primary tumor	pericyte_like	6023	0	0	0.0604030584940027	0
+GSE245552	gse245552_Pt11_T1_working_qc_sparse_matrix	Pt11_T1	primary tumor	endothelial	6023	0	0	0.0882844929522568	0
+GSE245552	gse245552_Pt11_T1_working_qc_sparse_matrix	Pt11_T1	primary tumor	epithelial_tumor	6023	0	0.176089094864321	1.13659485092969	2.66031910921388
+GSE245552	gse245552_Pt11_T1_working_qc_sparse_matrix	Pt11_T1	primary tumor	immune_context	6023	0	0.279456662141156	0.617641836354408	1.06856912228249
+GSE245552	gse245552_Pt11_T2_working_qc_sparse_matrix	Pt11_T2	liver metastasis	fibroblast_ecm	4970	0	0	0.0685461077740094	0
+GSE245552	gse245552_Pt11_T2_working_qc_sparse_matrix	Pt11_T2	liver metastasis	caf_activation	4970	0	0	0.040049160832354	0
+GSE245552	gse245552_Pt11_T2_working_qc_sparse_matrix	Pt11_T2	liver metastasis	inflammatory_caf	4970	0	0	0.054448881064613	0
+GSE245552	gse245552_Pt11_T2_working_qc_sparse_matrix	Pt11_T2	liver metastasis	pericyte_like	4970	0	0	0.0593197474728344	0
+GSE245552	gse245552_Pt11_T2_working_qc_sparse_matrix	Pt11_T2	liver metastasis	endothelial	4970	0	0	0.0702132142292768	0
+GSE245552	gse245552_Pt11_T2_working_qc_sparse_matrix	Pt11_T2	liver metastasis	epithelial_tumor	4970	0	0	0.36279226436966	0
+GSE245552	gse245552_Pt11_T2_working_qc_sparse_matrix	Pt11_T2	liver metastasis	immune_context	4970	1.1285127923648	1.87542146604112	1.58806285673933	2.17200423053801
+GSE245552	gse245552_Pt13_T1_working_qc_sparse_matrix	Pt13_T1	primary tumor	fibroblast_ecm	3415	0	0	0.0191552221962387	0
+GSE245552	gse245552_Pt13_T1_working_qc_sparse_matrix	Pt13_T1	primary tumor	caf_activation	3415	0	0	0.016094763481565	0
+GSE245552	gse245552_Pt13_T1_working_qc_sparse_matrix	Pt13_T1	primary tumor	inflammatory_caf	3415	0	0	0.0219312204414155	0
+GSE245552	gse245552_Pt13_T1_working_qc_sparse_matrix	Pt13_T1	primary tumor	pericyte_like	3415	0	0	0.0319709645012655	0
+GSE245552	gse245552_Pt13_T1_working_qc_sparse_matrix	Pt13_T1	primary tumor	endothelial	3415	0	0	0.0556749971470332	0
+GSE245552	gse245552_Pt13_T1_working_qc_sparse_matrix	Pt13_T1	primary tumor	epithelial_tumor	3415	0	0	0.287828650371001	0
+GSE245552	gse245552_Pt13_T1_working_qc_sparse_matrix	Pt13_T1	primary tumor	immune_context	3415	0	0.963101723890981	0.915726001131438	1.66135050754383
+GSE245552	gse245552_Pt13_Z1_working_qc_sparse_matrix	Pt13_Z1	colon adjacent tissue	fibroblast_ecm	5547	0	0	0.0111923005167005	0
+GSE245552	gse245552_Pt13_Z1_working_qc_sparse_matrix	Pt13_Z1	colon adjacent tissue	caf_activation	5547	0	0	0.0104817971012708	0
+GSE245552	gse245552_Pt13_Z1_working_qc_sparse_matrix	Pt13_Z1	colon adjacent tissue	inflammatory_caf	5547	0	0	0.0156194168979441	0
+GSE245552	gse245552_Pt13_Z1_working_qc_sparse_matrix	Pt13_Z1	colon adjacent tissue	pericyte_like	5547	0	0	0.0100080814843676	0
+GSE245552	gse245552_Pt13_Z1_working_qc_sparse_matrix	Pt13_Z1	colon adjacent tissue	endothelial	5547	0	0	0.030077493542418	0
+GSE245552	gse245552_Pt13_Z1_working_qc_sparse_matrix	Pt13_Z1	colon adjacent tissue	epithelial_tumor	5547	0	0	0.804171349346012	1.7722294994811
+GSE245552	gse245552_Pt13_Z1_working_qc_sparse_matrix	Pt13_Z1	colon adjacent tissue	immune_context	5547	0	0	0.109310623644007	0
+GSE245552	gse245552_Pt15_T1_working_qc_sparse_matrix	Pt15_T1	primary tumor	fibroblast_ecm	8355	0	0	0.650529965614852	1.15150281979139
+GSE245552	gse245552_Pt15_T1_working_qc_sparse_matrix	Pt15_T1	primary tumor	caf_activation	8355	0	0	0.315416617509072	0.516452059298248
+GSE245552	gse245552_Pt15_T1_working_qc_sparse_matrix	Pt15_T1	primary tumor	inflammatory_caf	8355	0	0	0.338571464346411	0.34285791274364
+GSE245552	gse245552_Pt15_T1_working_qc_sparse_matrix	Pt15_T1	primary tumor	pericyte_like	8355	0	0	0.395774675652015	0.455557510443766
+GSE245552	gse245552_Pt15_T1_working_qc_sparse_matrix	Pt15_T1	primary tumor	endothelial	8355	0	0	0.236748081517476	0
+GSE245552	gse245552_Pt15_T1_working_qc_sparse_matrix	Pt15_T1	primary tumor	epithelial_tumor	8355	0	0	0.432093273328489	0.653687333256757
+GSE245552	gse245552_Pt15_T1_working_qc_sparse_matrix	Pt15_T1	primary tumor	immune_context	8355	0	0	0.632864570965391	1.23074546013526
+GSE245552	gse245552_Pt15_T2_working_qc_sparse_matrix	Pt15_T2	liver metastasis	fibroblast_ecm	4698	0	0	0.0740939569682805	0.0921892024958048
+GSE245552	gse245552_Pt15_T2_working_qc_sparse_matrix	Pt15_T2	liver metastasis	caf_activation	4698	0	0	0.0512216664312727	0.0640277238195396
+GSE245552	gse245552_Pt15_T2_working_qc_sparse_matrix	Pt15_T2	liver metastasis	inflammatory_caf	4698	0	0	0.0311445545748314	0
+GSE245552	gse245552_Pt15_T2_working_qc_sparse_matrix	Pt15_T2	liver metastasis	pericyte_like	4698	0	0	0.0348981276595585	0
+GSE245552	gse245552_Pt15_T2_working_qc_sparse_matrix	Pt15_T2	liver metastasis	endothelial	4698	0	0	0.0242515929613622	0
+GSE245552	gse245552_Pt15_T2_working_qc_sparse_matrix	Pt15_T2	liver metastasis	epithelial_tumor	4698	2.43344050681608	3.15630169662465	2.82861289539169	3.50952098889472
+GSE245552	gse245552_Pt15_T2_working_qc_sparse_matrix	Pt15_T2	liver metastasis	immune_context	4698	0	0	0.165584528767492	0
+GSE245552	gse245552_Pt15_Z1_working_qc_sparse_matrix	Pt15_Z1	colon adjacent tissue	fibroblast_ecm	5170	0	0	0.00830196255635454	0
+GSE245552	gse245552_Pt15_Z1_working_qc_sparse_matrix	Pt15_Z1	colon adjacent tissue	caf_activation	5170	0	0	0.010675793458344	0
+GSE245552	gse245552_Pt15_Z1_working_qc_sparse_matrix	Pt15_Z1	colon adjacent tissue	inflammatory_caf	5170	0	0	0.0326656022816839	0
+GSE245552	gse245552_Pt15_Z1_working_qc_sparse_matrix	Pt15_Z1	colon adjacent tissue	pericyte_like	5170	0	0	0.00639208026776363	0
+GSE245552	gse245552_Pt15_Z1_working_qc_sparse_matrix	Pt15_Z1	colon adjacent tissue	endothelial	5170	0	0	0.0177187807471519	0
+GSE245552	gse245552_Pt15_Z1_working_qc_sparse_matrix	Pt15_Z1	colon adjacent tissue	epithelial_tumor	5170	1.54292541672709	2.41932204914725	2.05584198801472	2.83766991516789
+GSE245552	gse245552_Pt15_Z1_working_qc_sparse_matrix	Pt15_Z1	colon adjacent tissue	immune_context	5170	0	0	0.282198503206739	0.247116461805519
+GSE245552	gse245552_Pt16_T1_working_qc_sparse_matrix	Pt16_T1	liver metastasis	fibroblast_ecm	347	0	0	0.0268920936152429	0
+GSE245552	gse245552_Pt16_T1_working_qc_sparse_matrix	Pt16_T1	liver metastasis	caf_activation	347	0	0	0.013980118440309	0
+GSE245552	gse245552_Pt16_T1_working_qc_sparse_matrix	Pt16_T1	liver metastasis	inflammatory_caf	347	0	0	0.0204612889353732	0
+GSE245552	gse245552_Pt16_T1_working_qc_sparse_matrix	Pt16_T1	liver metastasis	pericyte_like	347	0	0	0.015041358611228	0
+GSE245552	gse245552_Pt16_T1_working_qc_sparse_matrix	Pt16_T1	liver metastasis	endothelial	347	0	0	0.0606000323323283	0
+GSE245552	gse245552_Pt16_T1_working_qc_sparse_matrix	Pt16_T1	liver metastasis	epithelial_tumor	347	0	0	0.270529293697086	0
+GSE245552	gse245552_Pt16_T1_working_qc_sparse_matrix	Pt16_T1	liver metastasis	immune_context	347	0.818823028951481	1.20764528159309	1.15144710638914	1.57995187202561
+GSE245552	gse245552_Pt16_Z1_working_qc_sparse_matrix	Pt16_Z1	liver adjacent tissue	fibroblast_ecm	255	0	0	0.0272106829172675	0
+GSE245552	gse245552_Pt16_Z1_working_qc_sparse_matrix	Pt16_Z1	liver adjacent tissue	caf_activation	255	0	0	0.0446071508505473	0
+GSE245552	gse245552_Pt16_Z1_working_qc_sparse_matrix	Pt16_Z1	liver adjacent tissue	inflammatory_caf	255	0	0	0.0748738777327396	0
+GSE245552	gse245552_Pt16_Z1_working_qc_sparse_matrix	Pt16_Z1	liver adjacent tissue	pericyte_like	255	0	0	0.10059742265939	0
+GSE245552	gse245552_Pt16_Z1_working_qc_sparse_matrix	Pt16_Z1	liver adjacent tissue	endothelial	255	0	0	0.164313690205222	0.2400495293658
+GSE245552	gse245552_Pt16_Z1_working_qc_sparse_matrix	Pt16_Z1	liver adjacent tissue	epithelial_tumor	255	0	0	0.207130869022481	0
+GSE245552	gse245552_Pt16_Z1_working_qc_sparse_matrix	Pt16_Z1	liver adjacent tissue	immune_context	255	0.721386204123878	1.13497549014023	1.08272708636475	1.57048200474733
+GSE245552	gse245552_Pt17_T1_working_qc_sparse_matrix	Pt17_T1	primary tumor	fibroblast_ecm	1517	0	0	0.234177613706327	0
+GSE245552	gse245552_Pt17_T1_working_qc_sparse_matrix	Pt17_T1	primary tumor	caf_activation	1517	0	0	0.124977456546134	0
+GSE245552	gse245552_Pt17_T1_working_qc_sparse_matrix	Pt17_T1	primary tumor	inflammatory_caf	1517	0	0	0.127564752045094	0
+GSE245552	gse245552_Pt17_T1_working_qc_sparse_matrix	Pt17_T1	primary tumor	pericyte_like	1517	0	0	0.147028917813252	0
+GSE245552	gse245552_Pt17_T1_working_qc_sparse_matrix	Pt17_T1	primary tumor	endothelial	1517	0	0	0.0772729519085825	0
+GSE245552	gse245552_Pt17_T1_working_qc_sparse_matrix	Pt17_T1	primary tumor	epithelial_tumor	1517	0	0	0.0766398156463858	0
+GSE245552	gse245552_Pt17_T1_working_qc_sparse_matrix	Pt17_T1	primary tumor	immune_context	1517	0.104127279892965	1.23931274784941	1.0744353501078	1.76795298778163
+GSE245552	gse245552_Pt17_T2_working_qc_sparse_matrix	Pt17_T2	liver metastasis	fibroblast_ecm	1804	0	0	0.0417908639941504	0
+GSE245552	gse245552_Pt17_T2_working_qc_sparse_matrix	Pt17_T2	liver metastasis	caf_activation	1804	0	0	0.0392337667568695	0
+GSE245552	gse245552_Pt17_T2_working_qc_sparse_matrix	Pt17_T2	liver metastasis	inflammatory_caf	1804	0	0	0.0763702762758302	0
+GSE245552	gse245552_Pt17_T2_working_qc_sparse_matrix	Pt17_T2	liver metastasis	pericyte_like	1804	0	0	0.0623502278685804	0
+GSE245552	gse245552_Pt17_T2_working_qc_sparse_matrix	Pt17_T2	liver metastasis	endothelial	1804	0	0	0.0964298841295688	0
+GSE245552	gse245552_Pt17_T2_working_qc_sparse_matrix	Pt17_T2	liver metastasis	epithelial_tumor	1804	0	0	0.404415264238084	0
+GSE245552	gse245552_Pt17_T2_working_qc_sparse_matrix	Pt17_T2	liver metastasis	immune_context	1804	0.835524787355477	1.36697487583217	1.21953945701303	1.7162111642724
+GSE245552	gse245552_Pt17_Z1_working_qc_sparse_matrix	Pt17_Z1	colon adjacent tissue	fibroblast_ecm	3570	0	0	0.0456322880663031	0
+GSE245552	gse245552_Pt17_Z1_working_qc_sparse_matrix	Pt17_Z1	colon adjacent tissue	caf_activation	3570	0	0	0.0407345646788089	0
+GSE245552	gse245552_Pt17_Z1_working_qc_sparse_matrix	Pt17_Z1	colon adjacent tissue	inflammatory_caf	3570	0	0	0.0633951466579669	0
+GSE245552	gse245552_Pt17_Z1_working_qc_sparse_matrix	Pt17_Z1	colon adjacent tissue	pericyte_like	3570	0	0	0.0132305808885916	0
+GSE245552	gse245552_Pt17_Z1_working_qc_sparse_matrix	Pt17_Z1	colon adjacent tissue	endothelial	3570	0	0	0.0576623901394016	0
+GSE245552	gse245552_Pt17_Z1_working_qc_sparse_matrix	Pt17_Z1	colon adjacent tissue	epithelial_tumor	3570	0	0	0.438098176877395	0
+GSE245552	gse245552_Pt17_Z1_working_qc_sparse_matrix	Pt17_Z1	colon adjacent tissue	immune_context	3570	0	0.673643098932966	0.746105542272292	1.33546848372632
+GSE245552	gse245552_Pt18_T1_working_qc_sparse_matrix	Pt18_T1	primary tumor	fibroblast_ecm	3264	0	0	0.0450733958357888	0
+GSE245552	gse245552_Pt18_T1_working_qc_sparse_matrix	Pt18_T1	primary tumor	caf_activation	3264	0	0	0.0262582429311433	0
+GSE245552	gse245552_Pt18_T1_working_qc_sparse_matrix	Pt18_T1	primary tumor	inflammatory_caf	3264	0	0	0.0995469855396614	0.118938979739449
+GSE245552	gse245552_Pt18_T1_working_qc_sparse_matrix	Pt18_T1	primary tumor	pericyte_like	3264	0	0	0.0192967760194698	0
+GSE245552	gse245552_Pt18_T1_working_qc_sparse_matrix	Pt18_T1	primary tumor	endothelial	3264	0	0	0.0290293595013458	0
+GSE245552	gse245552_Pt18_T1_working_qc_sparse_matrix	Pt18_T1	primary tumor	epithelial_tumor	3264	0	2.35951986388586	1.70817951934805	3.13238781221256
+GSE245552	gse245552_Pt18_T1_working_qc_sparse_matrix	Pt18_T1	primary tumor	immune_context	3264	0	0	0.57663711788575	1.2278803774592
+GSE245552	gse245552_Pt18_T2_working_qc_sparse_matrix	Pt18_T2	liver metastasis	fibroblast_ecm	4759	0	0	0.110502669768535	0
+GSE245552	gse245552_Pt18_T2_working_qc_sparse_matrix	Pt18_T2	liver metastasis	caf_activation	4759	0	0	0.0707852507689003	0
+GSE245552	gse245552_Pt18_T2_working_qc_sparse_matrix	Pt18_T2	liver metastasis	inflammatory_caf	4759	0	0	0.0335311050180154	0
+GSE245552	gse245552_Pt18_T2_working_qc_sparse_matrix	Pt18_T2	liver metastasis	pericyte_like	4759	0	0	0.1011378386142	0
+GSE245552	gse245552_Pt18_T2_working_qc_sparse_matrix	Pt18_T2	liver metastasis	endothelial	4759	0	0	0.0104045979823313	0
+GSE245552	gse245552_Pt18_T2_working_qc_sparse_matrix	Pt18_T2	liver metastasis	epithelial_tumor	4759	2.48240495354038	3.10966360952989	2.6839008238721	3.42264188587455
+GSE245552	gse245552_Pt18_T2_working_qc_sparse_matrix	Pt18_T2	liver metastasis	immune_context	4759	0	0	0.183181902396193	0
+GSE245552	gse245552_Pt18_Z1_working_qc_sparse_matrix	Pt18_Z1	colon adjacent tissue	fibroblast_ecm	2793	0	0	0.472929057647623	0
+GSE245552	gse245552_Pt18_Z1_working_qc_sparse_matrix	Pt18_Z1	colon adjacent tissue	caf_activation	2793	0	0	0.092545674677355	0
+GSE245552	gse245552_Pt18_Z1_working_qc_sparse_matrix	Pt18_Z1	colon adjacent tissue	inflammatory_caf	2793	0	0	0.316051437983909	0.130848453246344
+GSE245552	gse245552_Pt18_Z1_working_qc_sparse_matrix	Pt18_Z1	colon adjacent tissue	pericyte_like	2793	0	0	0.041734284415893	0
+GSE245552	gse245552_Pt18_Z1_working_qc_sparse_matrix	Pt18_Z1	colon adjacent tissue	endothelial	2793	0	0	0.0389329314763587	0
+GSE245552	gse245552_Pt18_Z1_working_qc_sparse_matrix	Pt18_Z1	colon adjacent tissue	epithelial_tumor	2793	0	0	0.7583929761669	1.82842232227937
+GSE245552	gse245552_Pt18_Z1_working_qc_sparse_matrix	Pt18_Z1	colon adjacent tissue	immune_context	2793	0	0	0.517125830856631	0.89577628325439
+GSE245552	gse245552_Pt18_Z2_working_qc_sparse_matrix	Pt18_Z2	liver adjacent tissue	fibroblast_ecm	5952	0	0	0.0322736613077012	0
+GSE245552	gse245552_Pt18_Z2_working_qc_sparse_matrix	Pt18_Z2	liver adjacent tissue	caf_activation	5952	0	0	0.0367727262658108	0
+GSE245552	gse245552_Pt18_Z2_working_qc_sparse_matrix	Pt18_Z2	liver adjacent tissue	inflammatory_caf	5952	0	0	0.0656053395866734	0
+GSE245552	gse245552_Pt18_Z2_working_qc_sparse_matrix	Pt18_Z2	liver adjacent tissue	pericyte_like	5952	0	0	0.0695951309641717	0
+GSE245552	gse245552_Pt18_Z2_working_qc_sparse_matrix	Pt18_Z2	liver adjacent tissue	endothelial	5952	0	0	0.253661793076168	0.424654766240163
+GSE245552	gse245552_Pt18_Z2_working_qc_sparse_matrix	Pt18_Z2	liver adjacent tissue	epithelial_tumor	5952	0	0	0.0213657229353283	0
+GSE245552	gse245552_Pt18_Z2_working_qc_sparse_matrix	Pt18_Z2	liver adjacent tissue	immune_context	5952	0.961077333180588	1.5017190181461	1.33804683969339	1.81922345781796
