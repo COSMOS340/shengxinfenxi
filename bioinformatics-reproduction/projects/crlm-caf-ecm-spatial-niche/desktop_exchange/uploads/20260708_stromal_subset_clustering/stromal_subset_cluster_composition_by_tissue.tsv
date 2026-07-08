@@ -1,0 +1,75 @@
+dataset_id	main_cluster	tissue_site	N
+GSE178318	2		2194
+GSE178318	10		328
+GSE178318	1		2295
+GSE178318	0		2789
+GSE178318	4		1020
+GSE178318	9		422
+GSE178318	3		1542
+GSE178318	8		462
+GSE178318	7		463
+GSE178318	12		202
+GSE178318	11		237
+GSE178318	13		74
+GSE178318	6		579
+GSE178318	5		896
+GSE178318	14		16
+GSE245552	9	primary tumor	152
+GSE245552	17	primary tumor	34
+GSE245552	6	primary tumor	737
+GSE245552	14	primary tumor	118
+GSE245552	7	primary tumor	431
+GSE245552	0	primary tumor	4408
+GSE245552	1	primary tumor	4281
+GSE245552	8	primary tumor	469
+GSE245552	3	primary tumor	1512
+GSE245552	2	primary tumor	2916
+GSE245552	11	primary tumor	410
+GSE245552	4	primary tumor	1286
+GSE245552	5	primary tumor	44
+GSE245552	16	primary tumor	74
+GSE245552	9	liver metastasis	492
+GSE245552	6	liver metastasis	140
+GSE245552	17	liver metastasis	16
+GSE245552	7	liver metastasis	473
+GSE245552	14	liver metastasis	63
+GSE245552	1	liver metastasis	835
+GSE245552	0	liver metastasis	707
+GSE245552	10	liver metastasis	378
+GSE245552	8	liver metastasis	118
+GSE245552	5	liver metastasis	1282
+GSE245552	3	liver metastasis	1104
+GSE245552	4	liver metastasis	344
+GSE245552	12	liver metastasis	69
+GSE245552	2	liver metastasis	52
+GSE245552	10	primary tumor	230
+GSE245552	16	liver metastasis	24
+GSE245552	15	colon adjacent tissue	104
+GSE245552	7	colon adjacent tissue	77
+GSE245552	0	colon adjacent tissue	2245
+GSE245552	1	colon adjacent tissue	961
+GSE245552	8	colon adjacent tissue	101
+GSE245552	11	colon adjacent tissue	61
+GSE245552	3	colon adjacent tissue	31
+GSE245552	2	colon adjacent tissue	34
+GSE245552	13	colon adjacent tissue	373
+GSE245552	4	colon adjacent tissue	62
+GSE245552	6	colon adjacent tissue	228
+GSE245552	10	colon adjacent tissue	1
+GSE245552	7	liver adjacent tissue	33
+GSE245552	6	liver adjacent tissue	42
+GSE245552	1	liver adjacent tissue	20
+GSE245552	3	liver adjacent tissue	116
+GSE245552	12	liver adjacent tissue	352
+GSE245552	4	liver adjacent tissue	175
+GSE245552	5	colon adjacent tissue	2
+GSE245552	9	colon adjacent tissue	5
+GSE245552	0	liver adjacent tissue	4
+GSE245552	17	liver adjacent tissue	15
+GSE245552	8	liver adjacent tissue	2
+GSE245552	9	liver adjacent tissue	29
+GSE245552	10	liver adjacent tissue	1
+GSE245552	14	liver adjacent tissue	2
+GSE245552	5	liver adjacent tissue	11
+GSE245552	13	liver adjacent tissue	1
+GSE245552	2	liver adjacent tissue	1

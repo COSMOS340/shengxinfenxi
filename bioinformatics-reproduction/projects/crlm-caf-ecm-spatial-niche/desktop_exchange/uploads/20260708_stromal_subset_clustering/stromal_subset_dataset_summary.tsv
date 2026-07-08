@@ -1,0 +1,3 @@
+dataset_id	total_working_cells_reviewed	stromal_subset_cells	stromal_subset_fraction	features	variable_features	pca_dims_used	main_cluster_column	main_cluster_count
+GSE178318	126303	13519	0.107036254087393	33660	3000	20	RNA_snn_res.0.4	15
+GSE245552	153065	28288	0.184810374677425	29922	3000	20	RNA_snn_res.0.4	18
