@@ -1,0 +1,55 @@
+dataset_id	object_label	sample_label	tissue_site	total_cells	caf_ecm_review_cells	caf_ecm_review_fraction	pericyte_review_cells	endothelial_review_cells	epithelial_review_cells	immune_review_cells
+GSE178318	gse178318_working_qc_sparse_matrix	COL18_CRC		7942	1692	0.213044573155376	115	236	321	5578
+GSE178318	gse178318_working_qc_sparse_matrix	COL12_CRC		9719	1501	0.154439757176664	56	121	409	7632
+GSE178318	gse178318_working_qc_sparse_matrix	COL17_CRC		8421	1165	0.138344614653842	75	355	195	6631
+GSE178318	gse178318_working_qc_sparse_matrix	COL17_PBMC		6679	795	0.119029794879473	36	68	15	5765
+GSE178318	gse178318_working_qc_sparse_matrix	COL15_CRC		3159	368	0.116492560937005	38	65	488	2200
+GSE178318	gse178318_working_qc_sparse_matrix	COL12_PBMC		12382	1329	0.107333225650137	60	89	18	10886
+GSE178318	gse178318_working_qc_sparse_matrix	COL18_PBMC		7839	683	0.0871284602627886	59	109	11	6977
+GSE178318	gse178318_working_qc_sparse_matrix	COL17_LM		9582	755	0.0787935712794824	57	109	105	8556
+GSE178318	gse178318_working_qc_sparse_matrix	COL18_LM		10064	749	0.0744236883942766	65	105	466	8679
+GSE178318	gse178318_working_qc_sparse_matrix	COL15_LM		7930	517	0.0651954602774275	146	66	1143	6058
+GSE178318	gse178318_working_qc_sparse_matrix	COL07_CRC		14108	628	0.0445137510632265	22	59	6708	6691
+GSE178318	gse178318_working_qc_sparse_matrix	COL12_LM		2561	108	0.0421710269426005	42	13	232	2166
+GSE178318	gse178318_working_qc_sparse_matrix	COL16_CRC		4865	201	0.0413155190133607	7	34	1885	2738
+GSE178318	gse178318_working_qc_sparse_matrix	COL16_LM		7946	262	0.0329725648124843	27	30	291	7336
+GSE178318	gse178318_working_qc_sparse_matrix	COL07_LM		13106	374	0.0285365481458874	17	111	1678	10926
+GSE245552	gse245552_Pt13_Z1_working_qc_sparse_matrix	Pt13_Z1	colon adjacent tissue	5547	1918	0.345772489634036	36	514	2460	619
+GSE245552	gse245552_Pt15_T1_working_qc_sparse_matrix	Pt15_T1	primary tumor	8355	2207	0.264153201675643	801	844	975	3528
+GSE245552	gse245552_Pt18_Z1_working_qc_sparse_matrix	Pt18_Z1	colon adjacent tissue	2793	707	0.2531328320802	9	144	892	1041
+GSE245552	gse245552_Pt10_T1_working_qc_sparse_matrix	Pt10_T1	primary tumor	6748	1435	0.212655601659751	26	642	957	3688
+GSE245552	gse245552_Pt09_T1_working_qc_sparse_matrix	Pt09_T1	primary tumor	4533	888	0.195896757114494	58	630	419	2538
+GSE245552	gse245552_Pt17_Z1_working_qc_sparse_matrix	Pt17_Z1	colon adjacent tissue	3570	633	0.177310924369748	4	225	683	2025
+GSE245552	gse245552_Pt02_T1_working_qc_sparse_matrix	Pt02_T1	primary tumor	3269	579	0.177118384827164	164	527	1031	968
+GSE245552	gse245552_Pt07_T1_working_qc_sparse_matrix	Pt07_T1	primary tumor	3784	667	0.176268498942918	181	333	558	2045
+GSE245552	gse245552_Pt04_T1_working_qc_sparse_matrix	Pt04_T1	primary tumor	1997	338	0.169253880821232	24	301	421	913
+GSE245552	gse245552_Pt17_T1_working_qc_sparse_matrix	Pt17_T1	primary tumor	1517	251	0.165458141067897	46	112	36	1072
+GSE245552	gse245552_Pt06_T3_working_qc_sparse_matrix	Pt06_T3	liver metastasis	6534	944	0.144475053565963	82	328	997	4183
+GSE245552	gse245552_Pt06_T2_working_qc_sparse_matrix	Pt06_T2	liver metastasis	1304	173	0.132668711656442	46	68	92	925
+GSE245552	gse245552_Pt01_T1_working_qc_sparse_matrix	Pt01_T1	primary tumor	3854	448	0.116242864556305	18	176	1560	1652
+GSE245552	gse245552_Pt06_T1_working_qc_sparse_matrix	Pt06_T1	primary tumor	733	80	0.109140518417462	9	32	416	196
+GSE245552	gse245552_Pt13_T1_working_qc_sparse_matrix	Pt13_T1	primary tumor	3415	341	0.0998535871156662	28	428	514	2104
+GSE245552	gse245552_Pt11_T1_working_qc_sparse_matrix	Pt11_T1	primary tumor	6023	580	0.0962975261497593	78	591	2555	2219
+GSE245552	gse245552_Pt08_T2_working_qc_sparse_matrix	Pt08_T2	primary tumor	3318	298	0.0898131404460518	49	480	386	2105
+GSE245552	gse245552_Pt08_T1_working_qc_sparse_matrix	Pt08_T1	primary tumor	6993	581	0.0830830830830831	167	1000	565	4680
+GSE245552	gse245552_Pt10_T2_working_qc_sparse_matrix	Pt10_T2	liver metastasis	7345	520	0.0707964601769911	52	160	168	6445
+GSE245552	gse245552_Pt04_T2_working_qc_sparse_matrix	Pt04_T2	liver metastasis	3389	219	0.0646208321038654	24	18	2796	332
+GSE245552	gse245552_Pt05_T2_working_qc_sparse_matrix	Pt05_T2	liver metastasis	3393	209	0.0615974064249926	19	218	322	2625
+GSE245552	gse245552_Pt01_T2_working_qc_sparse_matrix	Pt01_T2	liver metastasis	6002	322	0.0536487837387538	87	556	2788	2249
+GSE245552	gse245552_Pt05_T1_working_qc_sparse_matrix	Pt05_T1	primary tumor	1971	102	0.0517503805175038	2	165	830	872
+GSE245552	gse245552_Pt18_T1_working_qc_sparse_matrix	Pt18_T1	primary tumor	3264	162	0.0496323529411765	8	45	1828	1221
+GSE245552	gse245552_Pt03_T1_working_qc_sparse_matrix	Pt03_T1	primary tumor	2220	100	0.045045045045045	11	69	1515	525
+GSE245552	gse245552_Pt16_Z1_working_qc_sparse_matrix	Pt16_Z1	liver adjacent tissue	255	11	0.0431372549019608	11	11	22	200
+GSE245552	gse245552_Pt08_T3_working_qc_sparse_matrix	Pt08_T3	liver metastasis	4262	177	0.0415297982167996	43	80	2386	1576
+GSE245552	gse245552_Pt16_T1_working_qc_sparse_matrix	Pt16_T1	liver metastasis	347	12	0.0345821325648415	1	5	27	302
+GSE245552	gse245552_Pt17_T2_working_qc_sparse_matrix	Pt17_T2	liver metastasis	1804	56	0.0310421286031042	24	66	199	1459
+GSE245552	gse245552_Pt02_T2_working_qc_sparse_matrix	Pt02_T2	liver metastasis	5969	145	0.024292176243927	332	129	2199	3164
+GSE245552	gse245552_Pt11_T2_working_qc_sparse_matrix	Pt11_T2	liver metastasis	4970	117	0.0235412474849095	37	93	609	4114
+GSE245552	gse245552_Pt03_T2_working_qc_sparse_matrix	Pt03_T2	liver metastasis	3218	73	0.0226848974518334	13	29	2197	906
+GSE245552	gse245552_Pt18_T2_working_qc_sparse_matrix	Pt18_T2	liver metastasis	4759	107	0.0224837150661904	112	8	4016	516
+GSE245552	gse245552_Pt18_Z2_working_qc_sparse_matrix	Pt18_Z2	liver adjacent tissue	5952	117	0.0196572580645161	102	552	10	5171
+GSE245552	gse245552_Pt07_T2_working_qc_sparse_matrix	Pt07_T2	liver metastasis	2758	52	0.018854242204496	4	36	815	1851
+GSE245552	gse245552_Pt08_T4_working_qc_sparse_matrix	Pt08_T4	liver metastasis	4096	44	0.0107421875	9	105	3011	927
+GSE245552	gse245552_Pt15_Z1_working_qc_sparse_matrix	Pt15_Z1	colon adjacent tissue	5170	55	0.0106382978723404	8	32	4244	831
+GSE245552	gse245552_Pt05_T3_working_qc_sparse_matrix	Pt05_T3	liver metastasis	2936	15	0.00510899182561308	1	46	8	2866
+GSE245552	gse245552_Pt15_T2_working_qc_sparse_matrix	Pt15_T2	liver metastasis	4698	15	0.00319284802043423	22	44	4324	293
