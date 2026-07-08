@@ -1,0 +1,841 @@
+dataset_id	sample_label	tissue_site	marker_group	gene_symbol	present
+GSE178318	all		caf_activation	ACTA2	TRUE
+GSE178318	all		caf_activation	FAP	TRUE
+GSE178318	all		caf_activation	POSTN	TRUE
+GSE178318	all		caf_activation	THBS2	TRUE
+GSE178318	all		endothelial	KDR	TRUE
+GSE178318	all		endothelial	PECAM1	TRUE
+GSE178318	all		endothelial	VWF	TRUE
+GSE178318	all		epithelial_tumor	EPCAM	TRUE
+GSE178318	all		epithelial_tumor	KRT18	TRUE
+GSE178318	all		epithelial_tumor	KRT8	TRUE
+GSE178318	all		fibroblast_ecm	COL1A1	TRUE
+GSE178318	all		fibroblast_ecm	COL1A2	TRUE
+GSE178318	all		fibroblast_ecm	COL3A1	TRUE
+GSE178318	all		fibroblast_ecm	DCN	TRUE
+GSE178318	all		fibroblast_ecm	LUM	TRUE
+GSE178318	all		immune_context	CD3D	TRUE
+GSE178318	all		immune_context	LYZ	TRUE
+GSE178318	all		immune_context	PTPRC	TRUE
+GSE178318	all		pericyte_like	MCAM	TRUE
+GSE178318	all		pericyte_like	PDGFRB	TRUE
+GSE178318	all		pericyte_like	RGS5	TRUE
+GSE245552	Pt01_T1	primary tumor	caf_activation	ACTA2	TRUE
+GSE245552	Pt01_T1	primary tumor	caf_activation	FAP	TRUE
+GSE245552	Pt01_T1	primary tumor	caf_activation	POSTN	TRUE
+GSE245552	Pt01_T1	primary tumor	caf_activation	THBS2	TRUE
+GSE245552	Pt01_T1	primary tumor	endothelial	KDR	TRUE
+GSE245552	Pt01_T1	primary tumor	endothelial	PECAM1	TRUE
+GSE245552	Pt01_T1	primary tumor	endothelial	VWF	TRUE
+GSE245552	Pt01_T1	primary tumor	epithelial_tumor	EPCAM	TRUE
+GSE245552	Pt01_T1	primary tumor	epithelial_tumor	KRT18	TRUE
+GSE245552	Pt01_T1	primary tumor	epithelial_tumor	KRT8	TRUE
+GSE245552	Pt01_T1	primary tumor	fibroblast_ecm	COL1A1	TRUE
+GSE245552	Pt01_T1	primary tumor	fibroblast_ecm	COL1A2	TRUE
+GSE245552	Pt01_T1	primary tumor	fibroblast_ecm	COL3A1	TRUE
+GSE245552	Pt01_T1	primary tumor	fibroblast_ecm	DCN	TRUE
+GSE245552	Pt01_T1	primary tumor	fibroblast_ecm	LUM	TRUE
+GSE245552	Pt01_T1	primary tumor	immune_context	CD3D	TRUE
+GSE245552	Pt01_T1	primary tumor	immune_context	LYZ	TRUE
+GSE245552	Pt01_T1	primary tumor	immune_context	PTPRC	TRUE
+GSE245552	Pt01_T1	primary tumor	pericyte_like	MCAM	TRUE
+GSE245552	Pt01_T1	primary tumor	pericyte_like	PDGFRB	TRUE
+GSE245552	Pt01_T1	primary tumor	pericyte_like	RGS5	TRUE
+GSE245552	Pt01_T2	liver metastasis	caf_activation	ACTA2	TRUE
+GSE245552	Pt01_T2	liver metastasis	caf_activation	FAP	TRUE
+GSE245552	Pt01_T2	liver metastasis	caf_activation	POSTN	TRUE
+GSE245552	Pt01_T2	liver metastasis	caf_activation	THBS2	TRUE
+GSE245552	Pt01_T2	liver metastasis	endothelial	KDR	TRUE
+GSE245552	Pt01_T2	liver metastasis	endothelial	PECAM1	TRUE
+GSE245552	Pt01_T2	liver metastasis	endothelial	VWF	TRUE
+GSE245552	Pt01_T2	liver metastasis	epithelial_tumor	EPCAM	TRUE
+GSE245552	Pt01_T2	liver metastasis	epithelial_tumor	KRT18	TRUE
+GSE245552	Pt01_T2	liver metastasis	epithelial_tumor	KRT8	TRUE
+GSE245552	Pt01_T2	liver metastasis	fibroblast_ecm	COL1A1	TRUE
+GSE245552	Pt01_T2	liver metastasis	fibroblast_ecm	COL1A2	TRUE
+GSE245552	Pt01_T2	liver metastasis	fibroblast_ecm	COL3A1	TRUE
+GSE245552	Pt01_T2	liver metastasis	fibroblast_ecm	DCN	TRUE
+GSE245552	Pt01_T2	liver metastasis	fibroblast_ecm	LUM	TRUE
+GSE245552	Pt01_T2	liver metastasis	immune_context	CD3D	TRUE
+GSE245552	Pt01_T2	liver metastasis	immune_context	LYZ	TRUE
+GSE245552	Pt01_T2	liver metastasis	immune_context	PTPRC	TRUE
+GSE245552	Pt01_T2	liver metastasis	pericyte_like	MCAM	TRUE
+GSE245552	Pt01_T2	liver metastasis	pericyte_like	PDGFRB	TRUE
+GSE245552	Pt01_T2	liver metastasis	pericyte_like	RGS5	TRUE
+GSE245552	Pt02_T1	primary tumor	caf_activation	ACTA2	TRUE
+GSE245552	Pt02_T1	primary tumor	caf_activation	FAP	TRUE
+GSE245552	Pt02_T1	primary tumor	caf_activation	POSTN	TRUE
+GSE245552	Pt02_T1	primary tumor	caf_activation	THBS2	TRUE
+GSE245552	Pt02_T1	primary tumor	endothelial	KDR	TRUE
+GSE245552	Pt02_T1	primary tumor	endothelial	PECAM1	TRUE
+GSE245552	Pt02_T1	primary tumor	endothelial	VWF	TRUE
+GSE245552	Pt02_T1	primary tumor	epithelial_tumor	EPCAM	TRUE
+GSE245552	Pt02_T1	primary tumor	epithelial_tumor	KRT18	TRUE
+GSE245552	Pt02_T1	primary tumor	epithelial_tumor	KRT8	TRUE
+GSE245552	Pt02_T1	primary tumor	fibroblast_ecm	COL1A1	TRUE
+GSE245552	Pt02_T1	primary tumor	fibroblast_ecm	COL1A2	TRUE
+GSE245552	Pt02_T1	primary tumor	fibroblast_ecm	COL3A1	TRUE
+GSE245552	Pt02_T1	primary tumor	fibroblast_ecm	DCN	TRUE
+GSE245552	Pt02_T1	primary tumor	fibroblast_ecm	LUM	TRUE
+GSE245552	Pt02_T1	primary tumor	immune_context	CD3D	TRUE
+GSE245552	Pt02_T1	primary tumor	immune_context	LYZ	TRUE
+GSE245552	Pt02_T1	primary tumor	immune_context	PTPRC	TRUE
+GSE245552	Pt02_T1	primary tumor	pericyte_like	MCAM	TRUE
+GSE245552	Pt02_T1	primary tumor	pericyte_like	PDGFRB	TRUE
+GSE245552	Pt02_T1	primary tumor	pericyte_like	RGS5	TRUE
+GSE245552	Pt02_T2	liver metastasis	caf_activation	ACTA2	TRUE
+GSE245552	Pt02_T2	liver metastasis	caf_activation	FAP	TRUE
+GSE245552	Pt02_T2	liver metastasis	caf_activation	POSTN	TRUE
+GSE245552	Pt02_T2	liver metastasis	caf_activation	THBS2	TRUE
+GSE245552	Pt02_T2	liver metastasis	endothelial	KDR	TRUE
+GSE245552	Pt02_T2	liver metastasis	endothelial	PECAM1	TRUE
+GSE245552	Pt02_T2	liver metastasis	endothelial	VWF	TRUE
+GSE245552	Pt02_T2	liver metastasis	epithelial_tumor	EPCAM	TRUE
+GSE245552	Pt02_T2	liver metastasis	epithelial_tumor	KRT18	TRUE
+GSE245552	Pt02_T2	liver metastasis	epithelial_tumor	KRT8	TRUE
+GSE245552	Pt02_T2	liver metastasis	fibroblast_ecm	COL1A1	TRUE
+GSE245552	Pt02_T2	liver metastasis	fibroblast_ecm	COL1A2	TRUE
+GSE245552	Pt02_T2	liver metastasis	fibroblast_ecm	COL3A1	TRUE
+GSE245552	Pt02_T2	liver metastasis	fibroblast_ecm	DCN	TRUE
+GSE245552	Pt02_T2	liver metastasis	fibroblast_ecm	LUM	TRUE
+GSE245552	Pt02_T2	liver metastasis	immune_context	CD3D	TRUE
+GSE245552	Pt02_T2	liver metastasis	immune_context	LYZ	TRUE
+GSE245552	Pt02_T2	liver metastasis	immune_context	PTPRC	TRUE
+GSE245552	Pt02_T2	liver metastasis	pericyte_like	MCAM	TRUE
+GSE245552	Pt02_T2	liver metastasis	pericyte_like	PDGFRB	TRUE
+GSE245552	Pt02_T2	liver metastasis	pericyte_like	RGS5	TRUE
+GSE245552	Pt03_T1	primary tumor	caf_activation	ACTA2	TRUE
+GSE245552	Pt03_T1	primary tumor	caf_activation	FAP	TRUE
+GSE245552	Pt03_T1	primary tumor	caf_activation	POSTN	TRUE
+GSE245552	Pt03_T1	primary tumor	caf_activation	THBS2	TRUE
+GSE245552	Pt03_T1	primary tumor	endothelial	KDR	TRUE
+GSE245552	Pt03_T1	primary tumor	endothelial	PECAM1	TRUE
+GSE245552	Pt03_T1	primary tumor	endothelial	VWF	TRUE
+GSE245552	Pt03_T1	primary tumor	epithelial_tumor	EPCAM	TRUE
+GSE245552	Pt03_T1	primary tumor	epithelial_tumor	KRT18	TRUE
+GSE245552	Pt03_T1	primary tumor	epithelial_tumor	KRT8	TRUE
+GSE245552	Pt03_T1	primary tumor	fibroblast_ecm	COL1A1	TRUE
+GSE245552	Pt03_T1	primary tumor	fibroblast_ecm	COL1A2	TRUE
+GSE245552	Pt03_T1	primary tumor	fibroblast_ecm	COL3A1	TRUE
+GSE245552	Pt03_T1	primary tumor	fibroblast_ecm	DCN	TRUE
+GSE245552	Pt03_T1	primary tumor	fibroblast_ecm	LUM	TRUE
+GSE245552	Pt03_T1	primary tumor	immune_context	CD3D	TRUE
+GSE245552	Pt03_T1	primary tumor	immune_context	LYZ	TRUE
+GSE245552	Pt03_T1	primary tumor	immune_context	PTPRC	TRUE
+GSE245552	Pt03_T1	primary tumor	pericyte_like	MCAM	TRUE
+GSE245552	Pt03_T1	primary tumor	pericyte_like	PDGFRB	TRUE
+GSE245552	Pt03_T1	primary tumor	pericyte_like	RGS5	TRUE
+GSE245552	Pt03_T2	liver metastasis	caf_activation	ACTA2	TRUE
+GSE245552	Pt03_T2	liver metastasis	caf_activation	FAP	TRUE
+GSE245552	Pt03_T2	liver metastasis	caf_activation	POSTN	TRUE
+GSE245552	Pt03_T2	liver metastasis	caf_activation	THBS2	TRUE
+GSE245552	Pt03_T2	liver metastasis	endothelial	KDR	TRUE
+GSE245552	Pt03_T2	liver metastasis	endothelial	PECAM1	TRUE
+GSE245552	Pt03_T2	liver metastasis	endothelial	VWF	TRUE
+GSE245552	Pt03_T2	liver metastasis	epithelial_tumor	EPCAM	TRUE
+GSE245552	Pt03_T2	liver metastasis	epithelial_tumor	KRT18	TRUE
+GSE245552	Pt03_T2	liver metastasis	epithelial_tumor	KRT8	TRUE
+GSE245552	Pt03_T2	liver metastasis	fibroblast_ecm	COL1A1	TRUE
+GSE245552	Pt03_T2	liver metastasis	fibroblast_ecm	COL1A2	TRUE
+GSE245552	Pt03_T2	liver metastasis	fibroblast_ecm	COL3A1	TRUE
+GSE245552	Pt03_T2	liver metastasis	fibroblast_ecm	DCN	TRUE
+GSE245552	Pt03_T2	liver metastasis	fibroblast_ecm	LUM	TRUE
+GSE245552	Pt03_T2	liver metastasis	immune_context	CD3D	TRUE
+GSE245552	Pt03_T2	liver metastasis	immune_context	LYZ	TRUE
+GSE245552	Pt03_T2	liver metastasis	immune_context	PTPRC	TRUE
+GSE245552	Pt03_T2	liver metastasis	pericyte_like	MCAM	TRUE
+GSE245552	Pt03_T2	liver metastasis	pericyte_like	PDGFRB	TRUE
+GSE245552	Pt03_T2	liver metastasis	pericyte_like	RGS5	TRUE
+GSE245552	Pt04_T1	primary tumor	caf_activation	ACTA2	TRUE
+GSE245552	Pt04_T1	primary tumor	caf_activation	FAP	TRUE
+GSE245552	Pt04_T1	primary tumor	caf_activation	POSTN	TRUE
+GSE245552	Pt04_T1	primary tumor	caf_activation	THBS2	TRUE
+GSE245552	Pt04_T1	primary tumor	endothelial	KDR	TRUE
+GSE245552	Pt04_T1	primary tumor	endothelial	PECAM1	TRUE
+GSE245552	Pt04_T1	primary tumor	endothelial	VWF	TRUE
+GSE245552	Pt04_T1	primary tumor	epithelial_tumor	EPCAM	TRUE
+GSE245552	Pt04_T1	primary tumor	epithelial_tumor	KRT18	TRUE
+GSE245552	Pt04_T1	primary tumor	epithelial_tumor	KRT8	TRUE
+GSE245552	Pt04_T1	primary tumor	fibroblast_ecm	COL1A1	TRUE
+GSE245552	Pt04_T1	primary tumor	fibroblast_ecm	COL1A2	TRUE
+GSE245552	Pt04_T1	primary tumor	fibroblast_ecm	COL3A1	TRUE
+GSE245552	Pt04_T1	primary tumor	fibroblast_ecm	DCN	TRUE
+GSE245552	Pt04_T1	primary tumor	fibroblast_ecm	LUM	TRUE
+GSE245552	Pt04_T1	primary tumor	immune_context	CD3D	TRUE
+GSE245552	Pt04_T1	primary tumor	immune_context	LYZ	TRUE
+GSE245552	Pt04_T1	primary tumor	immune_context	PTPRC	TRUE
+GSE245552	Pt04_T1	primary tumor	pericyte_like	MCAM	TRUE
+GSE245552	Pt04_T1	primary tumor	pericyte_like	PDGFRB	TRUE
+GSE245552	Pt04_T1	primary tumor	pericyte_like	RGS5	TRUE
+GSE245552	Pt04_T2	liver metastasis	caf_activation	ACTA2	TRUE
+GSE245552	Pt04_T2	liver metastasis	caf_activation	FAP	TRUE
+GSE245552	Pt04_T2	liver metastasis	caf_activation	POSTN	TRUE
+GSE245552	Pt04_T2	liver metastasis	caf_activation	THBS2	TRUE
+GSE245552	Pt04_T2	liver metastasis	endothelial	KDR	TRUE
+GSE245552	Pt04_T2	liver metastasis	endothelial	PECAM1	TRUE
+GSE245552	Pt04_T2	liver metastasis	endothelial	VWF	TRUE
+GSE245552	Pt04_T2	liver metastasis	epithelial_tumor	EPCAM	TRUE
+GSE245552	Pt04_T2	liver metastasis	epithelial_tumor	KRT18	TRUE
+GSE245552	Pt04_T2	liver metastasis	epithelial_tumor	KRT8	TRUE
+GSE245552	Pt04_T2	liver metastasis	fibroblast_ecm	COL1A1	TRUE
+GSE245552	Pt04_T2	liver metastasis	fibroblast_ecm	COL1A2	TRUE
+GSE245552	Pt04_T2	liver metastasis	fibroblast_ecm	COL3A1	TRUE
+GSE245552	Pt04_T2	liver metastasis	fibroblast_ecm	DCN	TRUE
+GSE245552	Pt04_T2	liver metastasis	fibroblast_ecm	LUM	TRUE
+GSE245552	Pt04_T2	liver metastasis	immune_context	CD3D	TRUE
+GSE245552	Pt04_T2	liver metastasis	immune_context	LYZ	TRUE
+GSE245552	Pt04_T2	liver metastasis	immune_context	PTPRC	TRUE
+GSE245552	Pt04_T2	liver metastasis	pericyte_like	MCAM	TRUE
+GSE245552	Pt04_T2	liver metastasis	pericyte_like	PDGFRB	TRUE
+GSE245552	Pt04_T2	liver metastasis	pericyte_like	RGS5	TRUE
+GSE245552	Pt05_T1	primary tumor	caf_activation	ACTA2	TRUE
+GSE245552	Pt05_T1	primary tumor	caf_activation	FAP	TRUE
+GSE245552	Pt05_T1	primary tumor	caf_activation	POSTN	TRUE
+GSE245552	Pt05_T1	primary tumor	caf_activation	THBS2	TRUE
+GSE245552	Pt05_T1	primary tumor	endothelial	KDR	TRUE
+GSE245552	Pt05_T1	primary tumor	endothelial	PECAM1	TRUE
+GSE245552	Pt05_T1	primary tumor	endothelial	VWF	TRUE
+GSE245552	Pt05_T1	primary tumor	epithelial_tumor	EPCAM	TRUE
+GSE245552	Pt05_T1	primary tumor	epithelial_tumor	KRT18	TRUE
+GSE245552	Pt05_T1	primary tumor	epithelial_tumor	KRT8	TRUE
+GSE245552	Pt05_T1	primary tumor	fibroblast_ecm	COL1A1	TRUE
+GSE245552	Pt05_T1	primary tumor	fibroblast_ecm	COL1A2	TRUE
+GSE245552	Pt05_T1	primary tumor	fibroblast_ecm	COL3A1	TRUE
+GSE245552	Pt05_T1	primary tumor	fibroblast_ecm	DCN	TRUE
+GSE245552	Pt05_T1	primary tumor	fibroblast_ecm	LUM	TRUE
+GSE245552	Pt05_T1	primary tumor	immune_context	CD3D	TRUE
+GSE245552	Pt05_T1	primary tumor	immune_context	LYZ	TRUE
+GSE245552	Pt05_T1	primary tumor	immune_context	PTPRC	TRUE
+GSE245552	Pt05_T1	primary tumor	pericyte_like	MCAM	TRUE
+GSE245552	Pt05_T1	primary tumor	pericyte_like	PDGFRB	TRUE
+GSE245552	Pt05_T1	primary tumor	pericyte_like	RGS5	TRUE
+GSE245552	Pt05_T2	liver metastasis	caf_activation	ACTA2	TRUE
+GSE245552	Pt05_T2	liver metastasis	caf_activation	FAP	TRUE
+GSE245552	Pt05_T2	liver metastasis	caf_activation	POSTN	TRUE
+GSE245552	Pt05_T2	liver metastasis	caf_activation	THBS2	TRUE
+GSE245552	Pt05_T2	liver metastasis	endothelial	KDR	TRUE
+GSE245552	Pt05_T2	liver metastasis	endothelial	PECAM1	TRUE
+GSE245552	Pt05_T2	liver metastasis	endothelial	VWF	TRUE
+GSE245552	Pt05_T2	liver metastasis	epithelial_tumor	EPCAM	TRUE
+GSE245552	Pt05_T2	liver metastasis	epithelial_tumor	KRT18	TRUE
+GSE245552	Pt05_T2	liver metastasis	epithelial_tumor	KRT8	TRUE
+GSE245552	Pt05_T2	liver metastasis	fibroblast_ecm	COL1A1	TRUE
+GSE245552	Pt05_T2	liver metastasis	fibroblast_ecm	COL1A2	TRUE
+GSE245552	Pt05_T2	liver metastasis	fibroblast_ecm	COL3A1	TRUE
+GSE245552	Pt05_T2	liver metastasis	fibroblast_ecm	DCN	TRUE
+GSE245552	Pt05_T2	liver metastasis	fibroblast_ecm	LUM	TRUE
+GSE245552	Pt05_T2	liver metastasis	immune_context	CD3D	TRUE
+GSE245552	Pt05_T2	liver metastasis	immune_context	LYZ	TRUE
+GSE245552	Pt05_T2	liver metastasis	immune_context	PTPRC	TRUE
+GSE245552	Pt05_T2	liver metastasis	pericyte_like	MCAM	TRUE
+GSE245552	Pt05_T2	liver metastasis	pericyte_like	PDGFRB	TRUE
+GSE245552	Pt05_T2	liver metastasis	pericyte_like	RGS5	TRUE
+GSE245552	Pt05_T3	liver metastasis	caf_activation	ACTA2	TRUE
+GSE245552	Pt05_T3	liver metastasis	caf_activation	FAP	TRUE
+GSE245552	Pt05_T3	liver metastasis	caf_activation	POSTN	TRUE
+GSE245552	Pt05_T3	liver metastasis	caf_activation	THBS2	TRUE
+GSE245552	Pt05_T3	liver metastasis	endothelial	KDR	TRUE
+GSE245552	Pt05_T3	liver metastasis	endothelial	PECAM1	TRUE
+GSE245552	Pt05_T3	liver metastasis	endothelial	VWF	TRUE
+GSE245552	Pt05_T3	liver metastasis	epithelial_tumor	EPCAM	TRUE
+GSE245552	Pt05_T3	liver metastasis	epithelial_tumor	KRT18	TRUE
+GSE245552	Pt05_T3	liver metastasis	epithelial_tumor	KRT8	TRUE
+GSE245552	Pt05_T3	liver metastasis	fibroblast_ecm	COL1A1	TRUE
+GSE245552	Pt05_T3	liver metastasis	fibroblast_ecm	COL1A2	TRUE
+GSE245552	Pt05_T3	liver metastasis	fibroblast_ecm	COL3A1	TRUE
+GSE245552	Pt05_T3	liver metastasis	fibroblast_ecm	DCN	TRUE
+GSE245552	Pt05_T3	liver metastasis	fibroblast_ecm	LUM	TRUE
+GSE245552	Pt05_T3	liver metastasis	immune_context	CD3D	TRUE
+GSE245552	Pt05_T3	liver metastasis	immune_context	LYZ	TRUE
+GSE245552	Pt05_T3	liver metastasis	immune_context	PTPRC	TRUE
+GSE245552	Pt05_T3	liver metastasis	pericyte_like	MCAM	TRUE
+GSE245552	Pt05_T3	liver metastasis	pericyte_like	PDGFRB	TRUE
+GSE245552	Pt05_T3	liver metastasis	pericyte_like	RGS5	TRUE
+GSE245552	Pt06_T1	primary tumor	caf_activation	ACTA2	TRUE
+GSE245552	Pt06_T1	primary tumor	caf_activation	FAP	TRUE
+GSE245552	Pt06_T1	primary tumor	caf_activation	POSTN	TRUE
+GSE245552	Pt06_T1	primary tumor	caf_activation	THBS2	TRUE
+GSE245552	Pt06_T1	primary tumor	endothelial	KDR	TRUE
+GSE245552	Pt06_T1	primary tumor	endothelial	PECAM1	TRUE
+GSE245552	Pt06_T1	primary tumor	endothelial	VWF	TRUE
+GSE245552	Pt06_T1	primary tumor	epithelial_tumor	EPCAM	TRUE
+GSE245552	Pt06_T1	primary tumor	epithelial_tumor	KRT18	TRUE
+GSE245552	Pt06_T1	primary tumor	epithelial_tumor	KRT8	TRUE
+GSE245552	Pt06_T1	primary tumor	fibroblast_ecm	COL1A1	TRUE
+GSE245552	Pt06_T1	primary tumor	fibroblast_ecm	COL1A2	TRUE
+GSE245552	Pt06_T1	primary tumor	fibroblast_ecm	COL3A1	TRUE
+GSE245552	Pt06_T1	primary tumor	fibroblast_ecm	DCN	TRUE
+GSE245552	Pt06_T1	primary tumor	fibroblast_ecm	LUM	TRUE
+GSE245552	Pt06_T1	primary tumor	immune_context	CD3D	TRUE
+GSE245552	Pt06_T1	primary tumor	immune_context	LYZ	TRUE
+GSE245552	Pt06_T1	primary tumor	immune_context	PTPRC	TRUE
+GSE245552	Pt06_T1	primary tumor	pericyte_like	MCAM	TRUE
+GSE245552	Pt06_T1	primary tumor	pericyte_like	PDGFRB	TRUE
+GSE245552	Pt06_T1	primary tumor	pericyte_like	RGS5	TRUE
+GSE245552	Pt06_T2	liver metastasis	caf_activation	ACTA2	TRUE
+GSE245552	Pt06_T2	liver metastasis	caf_activation	FAP	TRUE
+GSE245552	Pt06_T2	liver metastasis	caf_activation	POSTN	TRUE
+GSE245552	Pt06_T2	liver metastasis	caf_activation	THBS2	TRUE
+GSE245552	Pt06_T2	liver metastasis	endothelial	KDR	TRUE
+GSE245552	Pt06_T2	liver metastasis	endothelial	PECAM1	TRUE
+GSE245552	Pt06_T2	liver metastasis	endothelial	VWF	TRUE
+GSE245552	Pt06_T2	liver metastasis	epithelial_tumor	EPCAM	TRUE
+GSE245552	Pt06_T2	liver metastasis	epithelial_tumor	KRT18	TRUE
+GSE245552	Pt06_T2	liver metastasis	epithelial_tumor	KRT8	TRUE
+GSE245552	Pt06_T2	liver metastasis	fibroblast_ecm	COL1A1	TRUE
+GSE245552	Pt06_T2	liver metastasis	fibroblast_ecm	COL1A2	TRUE
+GSE245552	Pt06_T2	liver metastasis	fibroblast_ecm	COL3A1	TRUE
+GSE245552	Pt06_T2	liver metastasis	fibroblast_ecm	DCN	TRUE
+GSE245552	Pt06_T2	liver metastasis	fibroblast_ecm	LUM	TRUE
+GSE245552	Pt06_T2	liver metastasis	immune_context	CD3D	TRUE
+GSE245552	Pt06_T2	liver metastasis	immune_context	LYZ	TRUE
+GSE245552	Pt06_T2	liver metastasis	immune_context	PTPRC	TRUE
+GSE245552	Pt06_T2	liver metastasis	pericyte_like	MCAM	TRUE
+GSE245552	Pt06_T2	liver metastasis	pericyte_like	PDGFRB	TRUE
+GSE245552	Pt06_T2	liver metastasis	pericyte_like	RGS5	TRUE
+GSE245552	Pt06_T3	liver metastasis	caf_activation	ACTA2	TRUE
+GSE245552	Pt06_T3	liver metastasis	caf_activation	FAP	TRUE
+GSE245552	Pt06_T3	liver metastasis	caf_activation	POSTN	TRUE
+GSE245552	Pt06_T3	liver metastasis	caf_activation	THBS2	TRUE
+GSE245552	Pt06_T3	liver metastasis	endothelial	KDR	TRUE
+GSE245552	Pt06_T3	liver metastasis	endothelial	PECAM1	TRUE
+GSE245552	Pt06_T3	liver metastasis	endothelial	VWF	TRUE
+GSE245552	Pt06_T3	liver metastasis	epithelial_tumor	EPCAM	TRUE
+GSE245552	Pt06_T3	liver metastasis	epithelial_tumor	KRT18	TRUE
+GSE245552	Pt06_T3	liver metastasis	epithelial_tumor	KRT8	TRUE
+GSE245552	Pt06_T3	liver metastasis	fibroblast_ecm	COL1A1	TRUE
+GSE245552	Pt06_T3	liver metastasis	fibroblast_ecm	COL1A2	TRUE
+GSE245552	Pt06_T3	liver metastasis	fibroblast_ecm	COL3A1	TRUE
+GSE245552	Pt06_T3	liver metastasis	fibroblast_ecm	DCN	TRUE
+GSE245552	Pt06_T3	liver metastasis	fibroblast_ecm	LUM	TRUE
+GSE245552	Pt06_T3	liver metastasis	immune_context	CD3D	TRUE
+GSE245552	Pt06_T3	liver metastasis	immune_context	LYZ	TRUE
+GSE245552	Pt06_T3	liver metastasis	immune_context	PTPRC	TRUE
+GSE245552	Pt06_T3	liver metastasis	pericyte_like	MCAM	TRUE
+GSE245552	Pt06_T3	liver metastasis	pericyte_like	PDGFRB	TRUE
+GSE245552	Pt06_T3	liver metastasis	pericyte_like	RGS5	TRUE
+GSE245552	Pt07_T1	primary tumor	caf_activation	ACTA2	TRUE
+GSE245552	Pt07_T1	primary tumor	caf_activation	FAP	TRUE
+GSE245552	Pt07_T1	primary tumor	caf_activation	POSTN	TRUE
+GSE245552	Pt07_T1	primary tumor	caf_activation	THBS2	TRUE
+GSE245552	Pt07_T1	primary tumor	endothelial	KDR	TRUE
+GSE245552	Pt07_T1	primary tumor	endothelial	PECAM1	TRUE
+GSE245552	Pt07_T1	primary tumor	endothelial	VWF	TRUE
+GSE245552	Pt07_T1	primary tumor	epithelial_tumor	EPCAM	TRUE
+GSE245552	Pt07_T1	primary tumor	epithelial_tumor	KRT18	TRUE
+GSE245552	Pt07_T1	primary tumor	epithelial_tumor	KRT8	TRUE
+GSE245552	Pt07_T1	primary tumor	fibroblast_ecm	COL1A1	TRUE
+GSE245552	Pt07_T1	primary tumor	fibroblast_ecm	COL1A2	TRUE
+GSE245552	Pt07_T1	primary tumor	fibroblast_ecm	COL3A1	TRUE
+GSE245552	Pt07_T1	primary tumor	fibroblast_ecm	DCN	TRUE
+GSE245552	Pt07_T1	primary tumor	fibroblast_ecm	LUM	TRUE
+GSE245552	Pt07_T1	primary tumor	immune_context	CD3D	TRUE
+GSE245552	Pt07_T1	primary tumor	immune_context	LYZ	TRUE
+GSE245552	Pt07_T1	primary tumor	immune_context	PTPRC	TRUE
+GSE245552	Pt07_T1	primary tumor	pericyte_like	MCAM	TRUE
+GSE245552	Pt07_T1	primary tumor	pericyte_like	PDGFRB	TRUE
+GSE245552	Pt07_T1	primary tumor	pericyte_like	RGS5	TRUE
+GSE245552	Pt07_T2	liver metastasis	caf_activation	ACTA2	TRUE
+GSE245552	Pt07_T2	liver metastasis	caf_activation	FAP	TRUE
+GSE245552	Pt07_T2	liver metastasis	caf_activation	POSTN	TRUE
+GSE245552	Pt07_T2	liver metastasis	caf_activation	THBS2	TRUE
+GSE245552	Pt07_T2	liver metastasis	endothelial	KDR	TRUE
+GSE245552	Pt07_T2	liver metastasis	endothelial	PECAM1	TRUE
+GSE245552	Pt07_T2	liver metastasis	endothelial	VWF	TRUE
+GSE245552	Pt07_T2	liver metastasis	epithelial_tumor	EPCAM	TRUE
+GSE245552	Pt07_T2	liver metastasis	epithelial_tumor	KRT18	TRUE
+GSE245552	Pt07_T2	liver metastasis	epithelial_tumor	KRT8	TRUE
+GSE245552	Pt07_T2	liver metastasis	fibroblast_ecm	COL1A1	TRUE
+GSE245552	Pt07_T2	liver metastasis	fibroblast_ecm	COL1A2	TRUE
+GSE245552	Pt07_T2	liver metastasis	fibroblast_ecm	COL3A1	TRUE
+GSE245552	Pt07_T2	liver metastasis	fibroblast_ecm	DCN	TRUE
+GSE245552	Pt07_T2	liver metastasis	fibroblast_ecm	LUM	TRUE
+GSE245552	Pt07_T2	liver metastasis	immune_context	CD3D	TRUE
+GSE245552	Pt07_T2	liver metastasis	immune_context	LYZ	TRUE
+GSE245552	Pt07_T2	liver metastasis	immune_context	PTPRC	TRUE
+GSE245552	Pt07_T2	liver metastasis	pericyte_like	MCAM	TRUE
+GSE245552	Pt07_T2	liver metastasis	pericyte_like	PDGFRB	TRUE
+GSE245552	Pt07_T2	liver metastasis	pericyte_like	RGS5	TRUE
+GSE245552	Pt08_T1	primary tumor	caf_activation	ACTA2	TRUE
+GSE245552	Pt08_T1	primary tumor	caf_activation	FAP	TRUE
+GSE245552	Pt08_T1	primary tumor	caf_activation	POSTN	TRUE
+GSE245552	Pt08_T1	primary tumor	caf_activation	THBS2	TRUE
+GSE245552	Pt08_T1	primary tumor	endothelial	KDR	TRUE
+GSE245552	Pt08_T1	primary tumor	endothelial	PECAM1	TRUE
+GSE245552	Pt08_T1	primary tumor	endothelial	VWF	TRUE
+GSE245552	Pt08_T1	primary tumor	epithelial_tumor	EPCAM	TRUE
+GSE245552	Pt08_T1	primary tumor	epithelial_tumor	KRT18	TRUE
+GSE245552	Pt08_T1	primary tumor	epithelial_tumor	KRT8	TRUE
+GSE245552	Pt08_T1	primary tumor	fibroblast_ecm	COL1A1	TRUE
+GSE245552	Pt08_T1	primary tumor	fibroblast_ecm	COL1A2	TRUE
+GSE245552	Pt08_T1	primary tumor	fibroblast_ecm	COL3A1	TRUE
+GSE245552	Pt08_T1	primary tumor	fibroblast_ecm	DCN	TRUE
+GSE245552	Pt08_T1	primary tumor	fibroblast_ecm	LUM	TRUE
+GSE245552	Pt08_T1	primary tumor	immune_context	CD3D	TRUE
+GSE245552	Pt08_T1	primary tumor	immune_context	LYZ	TRUE
+GSE245552	Pt08_T1	primary tumor	immune_context	PTPRC	TRUE
+GSE245552	Pt08_T1	primary tumor	pericyte_like	MCAM	TRUE
+GSE245552	Pt08_T1	primary tumor	pericyte_like	PDGFRB	TRUE
+GSE245552	Pt08_T1	primary tumor	pericyte_like	RGS5	TRUE
+GSE245552	Pt08_T2	primary tumor	caf_activation	ACTA2	TRUE
+GSE245552	Pt08_T2	primary tumor	caf_activation	FAP	TRUE
+GSE245552	Pt08_T2	primary tumor	caf_activation	POSTN	TRUE
+GSE245552	Pt08_T2	primary tumor	caf_activation	THBS2	TRUE
+GSE245552	Pt08_T2	primary tumor	endothelial	KDR	TRUE
+GSE245552	Pt08_T2	primary tumor	endothelial	PECAM1	TRUE
+GSE245552	Pt08_T2	primary tumor	endothelial	VWF	TRUE
+GSE245552	Pt08_T2	primary tumor	epithelial_tumor	EPCAM	TRUE
+GSE245552	Pt08_T2	primary tumor	epithelial_tumor	KRT18	TRUE
+GSE245552	Pt08_T2	primary tumor	epithelial_tumor	KRT8	TRUE
+GSE245552	Pt08_T2	primary tumor	fibroblast_ecm	COL1A1	TRUE
+GSE245552	Pt08_T2	primary tumor	fibroblast_ecm	COL1A2	TRUE
+GSE245552	Pt08_T2	primary tumor	fibroblast_ecm	COL3A1	TRUE
+GSE245552	Pt08_T2	primary tumor	fibroblast_ecm	DCN	TRUE
+GSE245552	Pt08_T2	primary tumor	fibroblast_ecm	LUM	TRUE
+GSE245552	Pt08_T2	primary tumor	immune_context	CD3D	TRUE
+GSE245552	Pt08_T2	primary tumor	immune_context	LYZ	TRUE
+GSE245552	Pt08_T2	primary tumor	immune_context	PTPRC	TRUE
+GSE245552	Pt08_T2	primary tumor	pericyte_like	MCAM	TRUE
+GSE245552	Pt08_T2	primary tumor	pericyte_like	PDGFRB	TRUE
+GSE245552	Pt08_T2	primary tumor	pericyte_like	RGS5	TRUE
+GSE245552	Pt08_T3	liver metastasis	caf_activation	ACTA2	TRUE
+GSE245552	Pt08_T3	liver metastasis	caf_activation	FAP	TRUE
+GSE245552	Pt08_T3	liver metastasis	caf_activation	POSTN	TRUE
+GSE245552	Pt08_T3	liver metastasis	caf_activation	THBS2	TRUE
+GSE245552	Pt08_T3	liver metastasis	endothelial	KDR	TRUE
+GSE245552	Pt08_T3	liver metastasis	endothelial	PECAM1	TRUE
+GSE245552	Pt08_T3	liver metastasis	endothelial	VWF	TRUE
+GSE245552	Pt08_T3	liver metastasis	epithelial_tumor	EPCAM	TRUE
+GSE245552	Pt08_T3	liver metastasis	epithelial_tumor	KRT18	TRUE
+GSE245552	Pt08_T3	liver metastasis	epithelial_tumor	KRT8	TRUE
+GSE245552	Pt08_T3	liver metastasis	fibroblast_ecm	COL1A1	TRUE
+GSE245552	Pt08_T3	liver metastasis	fibroblast_ecm	COL1A2	TRUE
+GSE245552	Pt08_T3	liver metastasis	fibroblast_ecm	COL3A1	TRUE
+GSE245552	Pt08_T3	liver metastasis	fibroblast_ecm	DCN	TRUE
+GSE245552	Pt08_T3	liver metastasis	fibroblast_ecm	LUM	TRUE
+GSE245552	Pt08_T3	liver metastasis	immune_context	CD3D	TRUE
+GSE245552	Pt08_T3	liver metastasis	immune_context	LYZ	TRUE
+GSE245552	Pt08_T3	liver metastasis	immune_context	PTPRC	TRUE
+GSE245552	Pt08_T3	liver metastasis	pericyte_like	MCAM	TRUE
+GSE245552	Pt08_T3	liver metastasis	pericyte_like	PDGFRB	TRUE
+GSE245552	Pt08_T3	liver metastasis	pericyte_like	RGS5	TRUE
+GSE245552	Pt08_T4	liver metastasis	caf_activation	ACTA2	TRUE
+GSE245552	Pt08_T4	liver metastasis	caf_activation	FAP	TRUE
+GSE245552	Pt08_T4	liver metastasis	caf_activation	POSTN	TRUE
+GSE245552	Pt08_T4	liver metastasis	caf_activation	THBS2	TRUE
+GSE245552	Pt08_T4	liver metastasis	endothelial	KDR	TRUE
+GSE245552	Pt08_T4	liver metastasis	endothelial	PECAM1	TRUE
+GSE245552	Pt08_T4	liver metastasis	endothelial	VWF	TRUE
+GSE245552	Pt08_T4	liver metastasis	epithelial_tumor	EPCAM	TRUE
+GSE245552	Pt08_T4	liver metastasis	epithelial_tumor	KRT18	TRUE
+GSE245552	Pt08_T4	liver metastasis	epithelial_tumor	KRT8	TRUE
+GSE245552	Pt08_T4	liver metastasis	fibroblast_ecm	COL1A1	TRUE
+GSE245552	Pt08_T4	liver metastasis	fibroblast_ecm	COL1A2	TRUE
+GSE245552	Pt08_T4	liver metastasis	fibroblast_ecm	COL3A1	TRUE
+GSE245552	Pt08_T4	liver metastasis	fibroblast_ecm	DCN	TRUE
+GSE245552	Pt08_T4	liver metastasis	fibroblast_ecm	LUM	TRUE
+GSE245552	Pt08_T4	liver metastasis	immune_context	CD3D	TRUE
+GSE245552	Pt08_T4	liver metastasis	immune_context	LYZ	TRUE
+GSE245552	Pt08_T4	liver metastasis	immune_context	PTPRC	TRUE
+GSE245552	Pt08_T4	liver metastasis	pericyte_like	MCAM	TRUE
+GSE245552	Pt08_T4	liver metastasis	pericyte_like	PDGFRB	TRUE
+GSE245552	Pt08_T4	liver metastasis	pericyte_like	RGS5	TRUE
+GSE245552	Pt09_T1	primary tumor	caf_activation	ACTA2	TRUE
+GSE245552	Pt09_T1	primary tumor	caf_activation	FAP	TRUE
+GSE245552	Pt09_T1	primary tumor	caf_activation	POSTN	TRUE
+GSE245552	Pt09_T1	primary tumor	caf_activation	THBS2	TRUE
+GSE245552	Pt09_T1	primary tumor	endothelial	KDR	TRUE
+GSE245552	Pt09_T1	primary tumor	endothelial	PECAM1	TRUE
+GSE245552	Pt09_T1	primary tumor	endothelial	VWF	TRUE
+GSE245552	Pt09_T1	primary tumor	epithelial_tumor	EPCAM	TRUE
+GSE245552	Pt09_T1	primary tumor	epithelial_tumor	KRT18	TRUE
+GSE245552	Pt09_T1	primary tumor	epithelial_tumor	KRT8	TRUE
+GSE245552	Pt09_T1	primary tumor	fibroblast_ecm	COL1A1	TRUE
+GSE245552	Pt09_T1	primary tumor	fibroblast_ecm	COL1A2	TRUE
+GSE245552	Pt09_T1	primary tumor	fibroblast_ecm	COL3A1	TRUE
+GSE245552	Pt09_T1	primary tumor	fibroblast_ecm	DCN	TRUE
+GSE245552	Pt09_T1	primary tumor	fibroblast_ecm	LUM	TRUE
+GSE245552	Pt09_T1	primary tumor	immune_context	CD3D	TRUE
+GSE245552	Pt09_T1	primary tumor	immune_context	LYZ	TRUE
+GSE245552	Pt09_T1	primary tumor	immune_context	PTPRC	TRUE
+GSE245552	Pt09_T1	primary tumor	pericyte_like	MCAM	TRUE
+GSE245552	Pt09_T1	primary tumor	pericyte_like	PDGFRB	TRUE
+GSE245552	Pt09_T1	primary tumor	pericyte_like	RGS5	TRUE
+GSE245552	Pt10_T1	primary tumor	caf_activation	ACTA2	TRUE
+GSE245552	Pt10_T1	primary tumor	caf_activation	FAP	TRUE
+GSE245552	Pt10_T1	primary tumor	caf_activation	POSTN	TRUE
+GSE245552	Pt10_T1	primary tumor	caf_activation	THBS2	TRUE
+GSE245552	Pt10_T1	primary tumor	endothelial	KDR	TRUE
+GSE245552	Pt10_T1	primary tumor	endothelial	PECAM1	TRUE
+GSE245552	Pt10_T1	primary tumor	endothelial	VWF	TRUE
+GSE245552	Pt10_T1	primary tumor	epithelial_tumor	EPCAM	TRUE
+GSE245552	Pt10_T1	primary tumor	epithelial_tumor	KRT18	TRUE
+GSE245552	Pt10_T1	primary tumor	epithelial_tumor	KRT8	TRUE
+GSE245552	Pt10_T1	primary tumor	fibroblast_ecm	COL1A1	TRUE
+GSE245552	Pt10_T1	primary tumor	fibroblast_ecm	COL1A2	TRUE
+GSE245552	Pt10_T1	primary tumor	fibroblast_ecm	COL3A1	TRUE
+GSE245552	Pt10_T1	primary tumor	fibroblast_ecm	DCN	TRUE
+GSE245552	Pt10_T1	primary tumor	fibroblast_ecm	LUM	TRUE
+GSE245552	Pt10_T1	primary tumor	immune_context	CD3D	TRUE
+GSE245552	Pt10_T1	primary tumor	immune_context	LYZ	TRUE
+GSE245552	Pt10_T1	primary tumor	immune_context	PTPRC	TRUE
+GSE245552	Pt10_T1	primary tumor	pericyte_like	MCAM	TRUE
+GSE245552	Pt10_T1	primary tumor	pericyte_like	PDGFRB	TRUE
+GSE245552	Pt10_T1	primary tumor	pericyte_like	RGS5	TRUE
+GSE245552	Pt10_T2	liver metastasis	caf_activation	ACTA2	TRUE
+GSE245552	Pt10_T2	liver metastasis	caf_activation	FAP	TRUE
+GSE245552	Pt10_T2	liver metastasis	caf_activation	POSTN	TRUE
+GSE245552	Pt10_T2	liver metastasis	caf_activation	THBS2	TRUE
+GSE245552	Pt10_T2	liver metastasis	endothelial	KDR	TRUE
+GSE245552	Pt10_T2	liver metastasis	endothelial	PECAM1	TRUE
+GSE245552	Pt10_T2	liver metastasis	endothelial	VWF	TRUE
+GSE245552	Pt10_T2	liver metastasis	epithelial_tumor	EPCAM	TRUE
+GSE245552	Pt10_T2	liver metastasis	epithelial_tumor	KRT18	TRUE
+GSE245552	Pt10_T2	liver metastasis	epithelial_tumor	KRT8	TRUE
+GSE245552	Pt10_T2	liver metastasis	fibroblast_ecm	COL1A1	TRUE
+GSE245552	Pt10_T2	liver metastasis	fibroblast_ecm	COL1A2	TRUE
+GSE245552	Pt10_T2	liver metastasis	fibroblast_ecm	COL3A1	TRUE
+GSE245552	Pt10_T2	liver metastasis	fibroblast_ecm	DCN	TRUE
+GSE245552	Pt10_T2	liver metastasis	fibroblast_ecm	LUM	TRUE
+GSE245552	Pt10_T2	liver metastasis	immune_context	CD3D	TRUE
+GSE245552	Pt10_T2	liver metastasis	immune_context	LYZ	TRUE
+GSE245552	Pt10_T2	liver metastasis	immune_context	PTPRC	TRUE
+GSE245552	Pt10_T2	liver metastasis	pericyte_like	MCAM	TRUE
+GSE245552	Pt10_T2	liver metastasis	pericyte_like	PDGFRB	TRUE
+GSE245552	Pt10_T2	liver metastasis	pericyte_like	RGS5	TRUE
+GSE245552	Pt11_T1	primary tumor	caf_activation	ACTA2	TRUE
+GSE245552	Pt11_T1	primary tumor	caf_activation	FAP	TRUE
+GSE245552	Pt11_T1	primary tumor	caf_activation	POSTN	TRUE
+GSE245552	Pt11_T1	primary tumor	caf_activation	THBS2	TRUE
+GSE245552	Pt11_T1	primary tumor	endothelial	KDR	TRUE
+GSE245552	Pt11_T1	primary tumor	endothelial	PECAM1	TRUE
+GSE245552	Pt11_T1	primary tumor	endothelial	VWF	TRUE
+GSE245552	Pt11_T1	primary tumor	epithelial_tumor	EPCAM	TRUE
+GSE245552	Pt11_T1	primary tumor	epithelial_tumor	KRT18	TRUE
+GSE245552	Pt11_T1	primary tumor	epithelial_tumor	KRT8	TRUE
+GSE245552	Pt11_T1	primary tumor	fibroblast_ecm	COL1A1	TRUE
+GSE245552	Pt11_T1	primary tumor	fibroblast_ecm	COL1A2	TRUE
+GSE245552	Pt11_T1	primary tumor	fibroblast_ecm	COL3A1	TRUE
+GSE245552	Pt11_T1	primary tumor	fibroblast_ecm	DCN	TRUE
+GSE245552	Pt11_T1	primary tumor	fibroblast_ecm	LUM	TRUE
+GSE245552	Pt11_T1	primary tumor	immune_context	CD3D	TRUE
+GSE245552	Pt11_T1	primary tumor	immune_context	LYZ	TRUE
+GSE245552	Pt11_T1	primary tumor	immune_context	PTPRC	TRUE
+GSE245552	Pt11_T1	primary tumor	pericyte_like	MCAM	TRUE
+GSE245552	Pt11_T1	primary tumor	pericyte_like	PDGFRB	TRUE
+GSE245552	Pt11_T1	primary tumor	pericyte_like	RGS5	TRUE
+GSE245552	Pt11_T2	liver metastasis	caf_activation	ACTA2	TRUE
+GSE245552	Pt11_T2	liver metastasis	caf_activation	FAP	TRUE
+GSE245552	Pt11_T2	liver metastasis	caf_activation	POSTN	TRUE
+GSE245552	Pt11_T2	liver metastasis	caf_activation	THBS2	TRUE
+GSE245552	Pt11_T2	liver metastasis	endothelial	KDR	TRUE
+GSE245552	Pt11_T2	liver metastasis	endothelial	PECAM1	TRUE
+GSE245552	Pt11_T2	liver metastasis	endothelial	VWF	TRUE
+GSE245552	Pt11_T2	liver metastasis	epithelial_tumor	EPCAM	TRUE
+GSE245552	Pt11_T2	liver metastasis	epithelial_tumor	KRT18	TRUE
+GSE245552	Pt11_T2	liver metastasis	epithelial_tumor	KRT8	TRUE
+GSE245552	Pt11_T2	liver metastasis	fibroblast_ecm	COL1A1	TRUE
+GSE245552	Pt11_T2	liver metastasis	fibroblast_ecm	COL1A2	TRUE
+GSE245552	Pt11_T2	liver metastasis	fibroblast_ecm	COL3A1	TRUE
+GSE245552	Pt11_T2	liver metastasis	fibroblast_ecm	DCN	TRUE
+GSE245552	Pt11_T2	liver metastasis	fibroblast_ecm	LUM	TRUE
+GSE245552	Pt11_T2	liver metastasis	immune_context	CD3D	TRUE
+GSE245552	Pt11_T2	liver metastasis	immune_context	LYZ	TRUE
+GSE245552	Pt11_T2	liver metastasis	immune_context	PTPRC	TRUE
+GSE245552	Pt11_T2	liver metastasis	pericyte_like	MCAM	TRUE
+GSE245552	Pt11_T2	liver metastasis	pericyte_like	PDGFRB	TRUE
+GSE245552	Pt11_T2	liver metastasis	pericyte_like	RGS5	TRUE
+GSE245552	Pt13_T1	primary tumor	caf_activation	ACTA2	TRUE
+GSE245552	Pt13_T1	primary tumor	caf_activation	FAP	TRUE
+GSE245552	Pt13_T1	primary tumor	caf_activation	POSTN	TRUE
+GSE245552	Pt13_T1	primary tumor	caf_activation	THBS2	TRUE
+GSE245552	Pt13_T1	primary tumor	endothelial	KDR	TRUE
+GSE245552	Pt13_T1	primary tumor	endothelial	PECAM1	TRUE
+GSE245552	Pt13_T1	primary tumor	endothelial	VWF	TRUE
+GSE245552	Pt13_T1	primary tumor	epithelial_tumor	EPCAM	TRUE
+GSE245552	Pt13_T1	primary tumor	epithelial_tumor	KRT18	TRUE
+GSE245552	Pt13_T1	primary tumor	epithelial_tumor	KRT8	TRUE
+GSE245552	Pt13_T1	primary tumor	fibroblast_ecm	COL1A1	TRUE
+GSE245552	Pt13_T1	primary tumor	fibroblast_ecm	COL1A2	TRUE
+GSE245552	Pt13_T1	primary tumor	fibroblast_ecm	COL3A1	TRUE
+GSE245552	Pt13_T1	primary tumor	fibroblast_ecm	DCN	TRUE
+GSE245552	Pt13_T1	primary tumor	fibroblast_ecm	LUM	TRUE
+GSE245552	Pt13_T1	primary tumor	immune_context	CD3D	TRUE
+GSE245552	Pt13_T1	primary tumor	immune_context	LYZ	TRUE
+GSE245552	Pt13_T1	primary tumor	immune_context	PTPRC	TRUE
+GSE245552	Pt13_T1	primary tumor	pericyte_like	MCAM	TRUE
+GSE245552	Pt13_T1	primary tumor	pericyte_like	PDGFRB	TRUE
+GSE245552	Pt13_T1	primary tumor	pericyte_like	RGS5	TRUE
+GSE245552	Pt13_Z1	colon adjacent tissue	caf_activation	ACTA2	TRUE
+GSE245552	Pt13_Z1	colon adjacent tissue	caf_activation	FAP	TRUE
+GSE245552	Pt13_Z1	colon adjacent tissue	caf_activation	POSTN	TRUE
+GSE245552	Pt13_Z1	colon adjacent tissue	caf_activation	THBS2	TRUE
+GSE245552	Pt13_Z1	colon adjacent tissue	endothelial	KDR	TRUE
+GSE245552	Pt13_Z1	colon adjacent tissue	endothelial	PECAM1	TRUE
+GSE245552	Pt13_Z1	colon adjacent tissue	endothelial	VWF	TRUE
+GSE245552	Pt13_Z1	colon adjacent tissue	epithelial_tumor	EPCAM	TRUE
+GSE245552	Pt13_Z1	colon adjacent tissue	epithelial_tumor	KRT18	TRUE
+GSE245552	Pt13_Z1	colon adjacent tissue	epithelial_tumor	KRT8	TRUE
+GSE245552	Pt13_Z1	colon adjacent tissue	fibroblast_ecm	COL1A1	TRUE
+GSE245552	Pt13_Z1	colon adjacent tissue	fibroblast_ecm	COL1A2	TRUE
+GSE245552	Pt13_Z1	colon adjacent tissue	fibroblast_ecm	COL3A1	TRUE
+GSE245552	Pt13_Z1	colon adjacent tissue	fibroblast_ecm	DCN	TRUE
+GSE245552	Pt13_Z1	colon adjacent tissue	fibroblast_ecm	LUM	TRUE
+GSE245552	Pt13_Z1	colon adjacent tissue	immune_context	CD3D	TRUE
+GSE245552	Pt13_Z1	colon adjacent tissue	immune_context	LYZ	TRUE
+GSE245552	Pt13_Z1	colon adjacent tissue	immune_context	PTPRC	TRUE
+GSE245552	Pt13_Z1	colon adjacent tissue	pericyte_like	MCAM	TRUE
+GSE245552	Pt13_Z1	colon adjacent tissue	pericyte_like	PDGFRB	TRUE
+GSE245552	Pt13_Z1	colon adjacent tissue	pericyte_like	RGS5	TRUE
+GSE245552	Pt15_T1	primary tumor	caf_activation	ACTA2	TRUE
+GSE245552	Pt15_T1	primary tumor	caf_activation	FAP	TRUE
+GSE245552	Pt15_T1	primary tumor	caf_activation	POSTN	TRUE
+GSE245552	Pt15_T1	primary tumor	caf_activation	THBS2	TRUE
+GSE245552	Pt15_T1	primary tumor	endothelial	KDR	TRUE
+GSE245552	Pt15_T1	primary tumor	endothelial	PECAM1	TRUE
+GSE245552	Pt15_T1	primary tumor	endothelial	VWF	TRUE
+GSE245552	Pt15_T1	primary tumor	epithelial_tumor	EPCAM	TRUE
+GSE245552	Pt15_T1	primary tumor	epithelial_tumor	KRT18	TRUE
+GSE245552	Pt15_T1	primary tumor	epithelial_tumor	KRT8	TRUE
+GSE245552	Pt15_T1	primary tumor	fibroblast_ecm	COL1A1	TRUE
+GSE245552	Pt15_T1	primary tumor	fibroblast_ecm	COL1A2	TRUE
+GSE245552	Pt15_T1	primary tumor	fibroblast_ecm	COL3A1	TRUE
+GSE245552	Pt15_T1	primary tumor	fibroblast_ecm	DCN	TRUE
+GSE245552	Pt15_T1	primary tumor	fibroblast_ecm	LUM	TRUE
+GSE245552	Pt15_T1	primary tumor	immune_context	CD3D	TRUE
+GSE245552	Pt15_T1	primary tumor	immune_context	LYZ	TRUE
+GSE245552	Pt15_T1	primary tumor	immune_context	PTPRC	TRUE
+GSE245552	Pt15_T1	primary tumor	pericyte_like	MCAM	TRUE
+GSE245552	Pt15_T1	primary tumor	pericyte_like	PDGFRB	TRUE
+GSE245552	Pt15_T1	primary tumor	pericyte_like	RGS5	TRUE
+GSE245552	Pt15_T2	liver metastasis	caf_activation	ACTA2	TRUE
+GSE245552	Pt15_T2	liver metastasis	caf_activation	FAP	TRUE
+GSE245552	Pt15_T2	liver metastasis	caf_activation	POSTN	TRUE
+GSE245552	Pt15_T2	liver metastasis	caf_activation	THBS2	TRUE
+GSE245552	Pt15_T2	liver metastasis	endothelial	KDR	TRUE
+GSE245552	Pt15_T2	liver metastasis	endothelial	PECAM1	TRUE
+GSE245552	Pt15_T2	liver metastasis	endothelial	VWF	TRUE
+GSE245552	Pt15_T2	liver metastasis	epithelial_tumor	EPCAM	TRUE
+GSE245552	Pt15_T2	liver metastasis	epithelial_tumor	KRT18	TRUE
+GSE245552	Pt15_T2	liver metastasis	epithelial_tumor	KRT8	TRUE
+GSE245552	Pt15_T2	liver metastasis	fibroblast_ecm	COL1A1	TRUE
+GSE245552	Pt15_T2	liver metastasis	fibroblast_ecm	COL1A2	TRUE
+GSE245552	Pt15_T2	liver metastasis	fibroblast_ecm	COL3A1	TRUE
+GSE245552	Pt15_T2	liver metastasis	fibroblast_ecm	DCN	TRUE
+GSE245552	Pt15_T2	liver metastasis	fibroblast_ecm	LUM	TRUE
+GSE245552	Pt15_T2	liver metastasis	immune_context	CD3D	TRUE
+GSE245552	Pt15_T2	liver metastasis	immune_context	LYZ	TRUE
+GSE245552	Pt15_T2	liver metastasis	immune_context	PTPRC	TRUE
+GSE245552	Pt15_T2	liver metastasis	pericyte_like	MCAM	TRUE
+GSE245552	Pt15_T2	liver metastasis	pericyte_like	PDGFRB	TRUE
+GSE245552	Pt15_T2	liver metastasis	pericyte_like	RGS5	TRUE
+GSE245552	Pt15_Z1	colon adjacent tissue	caf_activation	ACTA2	TRUE
+GSE245552	Pt15_Z1	colon adjacent tissue	caf_activation	FAP	TRUE
+GSE245552	Pt15_Z1	colon adjacent tissue	caf_activation	POSTN	TRUE
+GSE245552	Pt15_Z1	colon adjacent tissue	caf_activation	THBS2	TRUE
+GSE245552	Pt15_Z1	colon adjacent tissue	endothelial	KDR	TRUE
+GSE245552	Pt15_Z1	colon adjacent tissue	endothelial	PECAM1	TRUE
+GSE245552	Pt15_Z1	colon adjacent tissue	endothelial	VWF	TRUE
+GSE245552	Pt15_Z1	colon adjacent tissue	epithelial_tumor	EPCAM	TRUE
+GSE245552	Pt15_Z1	colon adjacent tissue	epithelial_tumor	KRT18	TRUE
+GSE245552	Pt15_Z1	colon adjacent tissue	epithelial_tumor	KRT8	TRUE
+GSE245552	Pt15_Z1	colon adjacent tissue	fibroblast_ecm	COL1A1	TRUE
+GSE245552	Pt15_Z1	colon adjacent tissue	fibroblast_ecm	COL1A2	TRUE
+GSE245552	Pt15_Z1	colon adjacent tissue	fibroblast_ecm	COL3A1	TRUE
+GSE245552	Pt15_Z1	colon adjacent tissue	fibroblast_ecm	DCN	TRUE
+GSE245552	Pt15_Z1	colon adjacent tissue	fibroblast_ecm	LUM	TRUE
+GSE245552	Pt15_Z1	colon adjacent tissue	immune_context	CD3D	TRUE
+GSE245552	Pt15_Z1	colon adjacent tissue	immune_context	LYZ	TRUE
+GSE245552	Pt15_Z1	colon adjacent tissue	immune_context	PTPRC	TRUE
+GSE245552	Pt15_Z1	colon adjacent tissue	pericyte_like	MCAM	TRUE
+GSE245552	Pt15_Z1	colon adjacent tissue	pericyte_like	PDGFRB	TRUE
+GSE245552	Pt15_Z1	colon adjacent tissue	pericyte_like	RGS5	TRUE
+GSE245552	Pt16_T1	liver metastasis	caf_activation	ACTA2	TRUE
+GSE245552	Pt16_T1	liver metastasis	caf_activation	FAP	TRUE
+GSE245552	Pt16_T1	liver metastasis	caf_activation	POSTN	TRUE
+GSE245552	Pt16_T1	liver metastasis	caf_activation	THBS2	TRUE
+GSE245552	Pt16_T1	liver metastasis	endothelial	KDR	TRUE
+GSE245552	Pt16_T1	liver metastasis	endothelial	PECAM1	TRUE
+GSE245552	Pt16_T1	liver metastasis	endothelial	VWF	TRUE
+GSE245552	Pt16_T1	liver metastasis	epithelial_tumor	EPCAM	TRUE
+GSE245552	Pt16_T1	liver metastasis	epithelial_tumor	KRT18	TRUE
+GSE245552	Pt16_T1	liver metastasis	epithelial_tumor	KRT8	TRUE
+GSE245552	Pt16_T1	liver metastasis	fibroblast_ecm	COL1A1	TRUE
+GSE245552	Pt16_T1	liver metastasis	fibroblast_ecm	COL1A2	TRUE
+GSE245552	Pt16_T1	liver metastasis	fibroblast_ecm	COL3A1	TRUE
+GSE245552	Pt16_T1	liver metastasis	fibroblast_ecm	DCN	TRUE
+GSE245552	Pt16_T1	liver metastasis	fibroblast_ecm	LUM	TRUE
+GSE245552	Pt16_T1	liver metastasis	immune_context	CD3D	TRUE
+GSE245552	Pt16_T1	liver metastasis	immune_context	LYZ	TRUE
+GSE245552	Pt16_T1	liver metastasis	immune_context	PTPRC	TRUE
+GSE245552	Pt16_T1	liver metastasis	pericyte_like	MCAM	TRUE
+GSE245552	Pt16_T1	liver metastasis	pericyte_like	PDGFRB	TRUE
+GSE245552	Pt16_T1	liver metastasis	pericyte_like	RGS5	TRUE
+GSE245552	Pt16_Z1	liver adjacent tissue	caf_activation	ACTA2	TRUE
+GSE245552	Pt16_Z1	liver adjacent tissue	caf_activation	FAP	TRUE
+GSE245552	Pt16_Z1	liver adjacent tissue	caf_activation	POSTN	TRUE
+GSE245552	Pt16_Z1	liver adjacent tissue	caf_activation	THBS2	TRUE
+GSE245552	Pt16_Z1	liver adjacent tissue	endothelial	KDR	TRUE
+GSE245552	Pt16_Z1	liver adjacent tissue	endothelial	PECAM1	TRUE
+GSE245552	Pt16_Z1	liver adjacent tissue	endothelial	VWF	TRUE
+GSE245552	Pt16_Z1	liver adjacent tissue	epithelial_tumor	EPCAM	TRUE
+GSE245552	Pt16_Z1	liver adjacent tissue	epithelial_tumor	KRT18	TRUE
+GSE245552	Pt16_Z1	liver adjacent tissue	epithelial_tumor	KRT8	TRUE
+GSE245552	Pt16_Z1	liver adjacent tissue	fibroblast_ecm	COL1A1	TRUE
+GSE245552	Pt16_Z1	liver adjacent tissue	fibroblast_ecm	COL1A2	TRUE
+GSE245552	Pt16_Z1	liver adjacent tissue	fibroblast_ecm	COL3A1	TRUE
+GSE245552	Pt16_Z1	liver adjacent tissue	fibroblast_ecm	DCN	TRUE
+GSE245552	Pt16_Z1	liver adjacent tissue	fibroblast_ecm	LUM	TRUE
+GSE245552	Pt16_Z1	liver adjacent tissue	immune_context	CD3D	TRUE
+GSE245552	Pt16_Z1	liver adjacent tissue	immune_context	LYZ	TRUE
+GSE245552	Pt16_Z1	liver adjacent tissue	immune_context	PTPRC	TRUE
+GSE245552	Pt16_Z1	liver adjacent tissue	pericyte_like	MCAM	TRUE
+GSE245552	Pt16_Z1	liver adjacent tissue	pericyte_like	PDGFRB	TRUE
+GSE245552	Pt16_Z1	liver adjacent tissue	pericyte_like	RGS5	TRUE
+GSE245552	Pt17_T1	primary tumor	caf_activation	ACTA2	TRUE
+GSE245552	Pt17_T1	primary tumor	caf_activation	FAP	TRUE
+GSE245552	Pt17_T1	primary tumor	caf_activation	POSTN	TRUE
+GSE245552	Pt17_T1	primary tumor	caf_activation	THBS2	TRUE
+GSE245552	Pt17_T1	primary tumor	endothelial	KDR	TRUE
+GSE245552	Pt17_T1	primary tumor	endothelial	PECAM1	TRUE
+GSE245552	Pt17_T1	primary tumor	endothelial	VWF	TRUE
+GSE245552	Pt17_T1	primary tumor	epithelial_tumor	EPCAM	TRUE
+GSE245552	Pt17_T1	primary tumor	epithelial_tumor	KRT18	TRUE
+GSE245552	Pt17_T1	primary tumor	epithelial_tumor	KRT8	TRUE
+GSE245552	Pt17_T1	primary tumor	fibroblast_ecm	COL1A1	TRUE
+GSE245552	Pt17_T1	primary tumor	fibroblast_ecm	COL1A2	TRUE
+GSE245552	Pt17_T1	primary tumor	fibroblast_ecm	COL3A1	TRUE
+GSE245552	Pt17_T1	primary tumor	fibroblast_ecm	DCN	TRUE
+GSE245552	Pt17_T1	primary tumor	fibroblast_ecm	LUM	TRUE
+GSE245552	Pt17_T1	primary tumor	immune_context	CD3D	TRUE
+GSE245552	Pt17_T1	primary tumor	immune_context	LYZ	TRUE
+GSE245552	Pt17_T1	primary tumor	immune_context	PTPRC	TRUE
+GSE245552	Pt17_T1	primary tumor	pericyte_like	MCAM	TRUE
+GSE245552	Pt17_T1	primary tumor	pericyte_like	PDGFRB	TRUE
+GSE245552	Pt17_T1	primary tumor	pericyte_like	RGS5	TRUE
+GSE245552	Pt17_T2	liver metastasis	caf_activation	ACTA2	TRUE
+GSE245552	Pt17_T2	liver metastasis	caf_activation	FAP	TRUE
+GSE245552	Pt17_T2	liver metastasis	caf_activation	POSTN	TRUE
+GSE245552	Pt17_T2	liver metastasis	caf_activation	THBS2	TRUE
+GSE245552	Pt17_T2	liver metastasis	endothelial	KDR	TRUE
+GSE245552	Pt17_T2	liver metastasis	endothelial	PECAM1	TRUE
+GSE245552	Pt17_T2	liver metastasis	endothelial	VWF	TRUE
+GSE245552	Pt17_T2	liver metastasis	epithelial_tumor	EPCAM	TRUE
+GSE245552	Pt17_T2	liver metastasis	epithelial_tumor	KRT18	TRUE
+GSE245552	Pt17_T2	liver metastasis	epithelial_tumor	KRT8	TRUE
+GSE245552	Pt17_T2	liver metastasis	fibroblast_ecm	COL1A1	TRUE
+GSE245552	Pt17_T2	liver metastasis	fibroblast_ecm	COL1A2	TRUE
+GSE245552	Pt17_T2	liver metastasis	fibroblast_ecm	COL3A1	TRUE
+GSE245552	Pt17_T2	liver metastasis	fibroblast_ecm	DCN	TRUE
+GSE245552	Pt17_T2	liver metastasis	fibroblast_ecm	LUM	TRUE
+GSE245552	Pt17_T2	liver metastasis	immune_context	CD3D	TRUE
+GSE245552	Pt17_T2	liver metastasis	immune_context	LYZ	TRUE
+GSE245552	Pt17_T2	liver metastasis	immune_context	PTPRC	TRUE
+GSE245552	Pt17_T2	liver metastasis	pericyte_like	MCAM	TRUE
+GSE245552	Pt17_T2	liver metastasis	pericyte_like	PDGFRB	TRUE
+GSE245552	Pt17_T2	liver metastasis	pericyte_like	RGS5	TRUE
+GSE245552	Pt17_Z1	colon adjacent tissue	caf_activation	ACTA2	TRUE
+GSE245552	Pt17_Z1	colon adjacent tissue	caf_activation	FAP	TRUE
+GSE245552	Pt17_Z1	colon adjacent tissue	caf_activation	POSTN	TRUE
+GSE245552	Pt17_Z1	colon adjacent tissue	caf_activation	THBS2	TRUE
+GSE245552	Pt17_Z1	colon adjacent tissue	endothelial	KDR	TRUE
+GSE245552	Pt17_Z1	colon adjacent tissue	endothelial	PECAM1	TRUE
+GSE245552	Pt17_Z1	colon adjacent tissue	endothelial	VWF	TRUE
+GSE245552	Pt17_Z1	colon adjacent tissue	epithelial_tumor	EPCAM	TRUE
+GSE245552	Pt17_Z1	colon adjacent tissue	epithelial_tumor	KRT18	TRUE
+GSE245552	Pt17_Z1	colon adjacent tissue	epithelial_tumor	KRT8	TRUE
+GSE245552	Pt17_Z1	colon adjacent tissue	fibroblast_ecm	COL1A1	TRUE
+GSE245552	Pt17_Z1	colon adjacent tissue	fibroblast_ecm	COL1A2	TRUE
+GSE245552	Pt17_Z1	colon adjacent tissue	fibroblast_ecm	COL3A1	TRUE
+GSE245552	Pt17_Z1	colon adjacent tissue	fibroblast_ecm	DCN	TRUE
+GSE245552	Pt17_Z1	colon adjacent tissue	fibroblast_ecm	LUM	TRUE
+GSE245552	Pt17_Z1	colon adjacent tissue	immune_context	CD3D	TRUE
+GSE245552	Pt17_Z1	colon adjacent tissue	immune_context	LYZ	TRUE
+GSE245552	Pt17_Z1	colon adjacent tissue	immune_context	PTPRC	TRUE
+GSE245552	Pt17_Z1	colon adjacent tissue	pericyte_like	MCAM	TRUE
+GSE245552	Pt17_Z1	colon adjacent tissue	pericyte_like	PDGFRB	TRUE
+GSE245552	Pt17_Z1	colon adjacent tissue	pericyte_like	RGS5	TRUE
+GSE245552	Pt18_T1	primary tumor	caf_activation	ACTA2	TRUE
+GSE245552	Pt18_T1	primary tumor	caf_activation	FAP	TRUE
+GSE245552	Pt18_T1	primary tumor	caf_activation	POSTN	TRUE
+GSE245552	Pt18_T1	primary tumor	caf_activation	THBS2	TRUE
+GSE245552	Pt18_T1	primary tumor	endothelial	KDR	TRUE
+GSE245552	Pt18_T1	primary tumor	endothelial	PECAM1	TRUE
+GSE245552	Pt18_T1	primary tumor	endothelial	VWF	TRUE
+GSE245552	Pt18_T1	primary tumor	epithelial_tumor	EPCAM	TRUE
+GSE245552	Pt18_T1	primary tumor	epithelial_tumor	KRT18	TRUE
+GSE245552	Pt18_T1	primary tumor	epithelial_tumor	KRT8	TRUE
+GSE245552	Pt18_T1	primary tumor	fibroblast_ecm	COL1A1	TRUE
+GSE245552	Pt18_T1	primary tumor	fibroblast_ecm	COL1A2	TRUE
+GSE245552	Pt18_T1	primary tumor	fibroblast_ecm	COL3A1	TRUE
+GSE245552	Pt18_T1	primary tumor	fibroblast_ecm	DCN	TRUE
+GSE245552	Pt18_T1	primary tumor	fibroblast_ecm	LUM	TRUE
+GSE245552	Pt18_T1	primary tumor	immune_context	CD3D	TRUE
+GSE245552	Pt18_T1	primary tumor	immune_context	LYZ	TRUE
+GSE245552	Pt18_T1	primary tumor	immune_context	PTPRC	TRUE
+GSE245552	Pt18_T1	primary tumor	pericyte_like	MCAM	TRUE
+GSE245552	Pt18_T1	primary tumor	pericyte_like	PDGFRB	TRUE
+GSE245552	Pt18_T1	primary tumor	pericyte_like	RGS5	TRUE
+GSE245552	Pt18_T2	liver metastasis	caf_activation	ACTA2	TRUE
+GSE245552	Pt18_T2	liver metastasis	caf_activation	FAP	TRUE
+GSE245552	Pt18_T2	liver metastasis	caf_activation	POSTN	TRUE
+GSE245552	Pt18_T2	liver metastasis	caf_activation	THBS2	TRUE
+GSE245552	Pt18_T2	liver metastasis	endothelial	KDR	TRUE
+GSE245552	Pt18_T2	liver metastasis	endothelial	PECAM1	TRUE
+GSE245552	Pt18_T2	liver metastasis	endothelial	VWF	TRUE
+GSE245552	Pt18_T2	liver metastasis	epithelial_tumor	EPCAM	TRUE
+GSE245552	Pt18_T2	liver metastasis	epithelial_tumor	KRT18	TRUE
+GSE245552	Pt18_T2	liver metastasis	epithelial_tumor	KRT8	TRUE
+GSE245552	Pt18_T2	liver metastasis	fibroblast_ecm	COL1A1	TRUE
+GSE245552	Pt18_T2	liver metastasis	fibroblast_ecm	COL1A2	TRUE
+GSE245552	Pt18_T2	liver metastasis	fibroblast_ecm	COL3A1	TRUE
+GSE245552	Pt18_T2	liver metastasis	fibroblast_ecm	DCN	TRUE
+GSE245552	Pt18_T2	liver metastasis	fibroblast_ecm	LUM	TRUE
+GSE245552	Pt18_T2	liver metastasis	immune_context	CD3D	TRUE
+GSE245552	Pt18_T2	liver metastasis	immune_context	LYZ	TRUE
+GSE245552	Pt18_T2	liver metastasis	immune_context	PTPRC	TRUE
+GSE245552	Pt18_T2	liver metastasis	pericyte_like	MCAM	TRUE
+GSE245552	Pt18_T2	liver metastasis	pericyte_like	PDGFRB	TRUE
+GSE245552	Pt18_T2	liver metastasis	pericyte_like	RGS5	TRUE
+GSE245552	Pt18_Z1	colon adjacent tissue	caf_activation	ACTA2	TRUE
+GSE245552	Pt18_Z1	colon adjacent tissue	caf_activation	FAP	TRUE
+GSE245552	Pt18_Z1	colon adjacent tissue	caf_activation	POSTN	TRUE
+GSE245552	Pt18_Z1	colon adjacent tissue	caf_activation	THBS2	TRUE
+GSE245552	Pt18_Z1	colon adjacent tissue	endothelial	KDR	TRUE
+GSE245552	Pt18_Z1	colon adjacent tissue	endothelial	PECAM1	TRUE
+GSE245552	Pt18_Z1	colon adjacent tissue	endothelial	VWF	TRUE
+GSE245552	Pt18_Z1	colon adjacent tissue	epithelial_tumor	EPCAM	TRUE
+GSE245552	Pt18_Z1	colon adjacent tissue	epithelial_tumor	KRT18	TRUE
+GSE245552	Pt18_Z1	colon adjacent tissue	epithelial_tumor	KRT8	TRUE
+GSE245552	Pt18_Z1	colon adjacent tissue	fibroblast_ecm	COL1A1	TRUE
+GSE245552	Pt18_Z1	colon adjacent tissue	fibroblast_ecm	COL1A2	TRUE
+GSE245552	Pt18_Z1	colon adjacent tissue	fibroblast_ecm	COL3A1	TRUE
+GSE245552	Pt18_Z1	colon adjacent tissue	fibroblast_ecm	DCN	TRUE
+GSE245552	Pt18_Z1	colon adjacent tissue	fibroblast_ecm	LUM	TRUE
+GSE245552	Pt18_Z1	colon adjacent tissue	immune_context	CD3D	TRUE
+GSE245552	Pt18_Z1	colon adjacent tissue	immune_context	LYZ	TRUE
+GSE245552	Pt18_Z1	colon adjacent tissue	immune_context	PTPRC	TRUE
+GSE245552	Pt18_Z1	colon adjacent tissue	pericyte_like	MCAM	TRUE
+GSE245552	Pt18_Z1	colon adjacent tissue	pericyte_like	PDGFRB	TRUE
+GSE245552	Pt18_Z1	colon adjacent tissue	pericyte_like	RGS5	TRUE
+GSE245552	Pt18_Z2	liver adjacent tissue	caf_activation	ACTA2	TRUE
+GSE245552	Pt18_Z2	liver adjacent tissue	caf_activation	FAP	TRUE
+GSE245552	Pt18_Z2	liver adjacent tissue	caf_activation	POSTN	TRUE
+GSE245552	Pt18_Z2	liver adjacent tissue	caf_activation	THBS2	TRUE
+GSE245552	Pt18_Z2	liver adjacent tissue	endothelial	KDR	TRUE
+GSE245552	Pt18_Z2	liver adjacent tissue	endothelial	PECAM1	TRUE
+GSE245552	Pt18_Z2	liver adjacent tissue	endothelial	VWF	TRUE
+GSE245552	Pt18_Z2	liver adjacent tissue	epithelial_tumor	EPCAM	TRUE
+GSE245552	Pt18_Z2	liver adjacent tissue	epithelial_tumor	KRT18	TRUE
+GSE245552	Pt18_Z2	liver adjacent tissue	epithelial_tumor	KRT8	TRUE
+GSE245552	Pt18_Z2	liver adjacent tissue	fibroblast_ecm	COL1A1	TRUE
+GSE245552	Pt18_Z2	liver adjacent tissue	fibroblast_ecm	COL1A2	TRUE
+GSE245552	Pt18_Z2	liver adjacent tissue	fibroblast_ecm	COL3A1	TRUE
+GSE245552	Pt18_Z2	liver adjacent tissue	fibroblast_ecm	DCN	TRUE
+GSE245552	Pt18_Z2	liver adjacent tissue	fibroblast_ecm	LUM	TRUE
+GSE245552	Pt18_Z2	liver adjacent tissue	immune_context	CD3D	TRUE
+GSE245552	Pt18_Z2	liver adjacent tissue	immune_context	LYZ	TRUE
+GSE245552	Pt18_Z2	liver adjacent tissue	immune_context	PTPRC	TRUE
+GSE245552	Pt18_Z2	liver adjacent tissue	pericyte_like	MCAM	TRUE
+GSE245552	Pt18_Z2	liver adjacent tissue	pericyte_like	PDGFRB	TRUE
+GSE245552	Pt18_Z2	liver adjacent tissue	pericyte_like	RGS5	TRUE
