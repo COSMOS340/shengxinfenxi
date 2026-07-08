@@ -1,0 +1,4 @@
+dataset_id	filter_scope	min_features	min_counts	max_percent_mt	notes
+GSE225857_nonimmune	author_metadata_only				Use exact author non-immune metadata and source clusters; no re-filtering in this request.
+GSE178318	working_qc	500		15	Working checkpoint from sensitivity table; not final inclusion.
+GSE245552	working_qc	500	1000		Mitochondrial percentage excluded because feature files differ by tissue group.
