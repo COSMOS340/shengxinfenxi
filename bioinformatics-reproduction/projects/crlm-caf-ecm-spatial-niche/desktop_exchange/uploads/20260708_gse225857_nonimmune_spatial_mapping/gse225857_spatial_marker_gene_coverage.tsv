@@ -1,0 +1,319 @@
+gene_symbol	program	spatial_sample	tissue_site	lesion_type	present
+ACTA2	caf_activation	C1	colorectal tissue	primary tumor sample 1	TRUE
+FAP	caf_activation	C1	colorectal tissue	primary tumor sample 1	TRUE
+MMP11	caf_activation	C1	colorectal tissue	primary tumor sample 1	TRUE
+MMP2	caf_activation	C1	colorectal tissue	primary tumor sample 1	TRUE
+POSTN	caf_activation	C1	colorectal tissue	primary tumor sample 1	TRUE
+THBS2	caf_activation	C1	colorectal tissue	primary tumor sample 1	TRUE
+KDR	endothelial	C1	colorectal tissue	primary tumor sample 1	TRUE
+PECAM1	endothelial	C1	colorectal tissue	primary tumor sample 1	TRUE
+VWF	endothelial	C1	colorectal tissue	primary tumor sample 1	TRUE
+EPCAM	epithelial_tumor	C1	colorectal tissue	primary tumor sample 1	TRUE
+KRT18	epithelial_tumor	C1	colorectal tissue	primary tumor sample 1	TRUE
+KRT19	epithelial_tumor	C1	colorectal tissue	primary tumor sample 1	FALSE
+KRT8	epithelial_tumor	C1	colorectal tissue	primary tumor sample 1	TRUE
+COL1A1	f01_prelp	C1	colorectal tissue	primary tumor sample 1	TRUE
+COL1A2	f01_prelp	C1	colorectal tissue	primary tumor sample 1	TRUE
+DCN	f01_prelp	C1	colorectal tissue	primary tumor sample 1	TRUE
+LUM	f01_prelp	C1	colorectal tissue	primary tumor sample 1	TRUE
+PRELP	f01_prelp	C1	colorectal tissue	primary tumor sample 1	TRUE
+ACTA2	f02_mcam	C1	colorectal tissue	primary tumor sample 1	TRUE
+CSPG4	f02_mcam	C1	colorectal tissue	primary tumor sample 1	TRUE
+MCAM	f02_mcam	C1	colorectal tissue	primary tumor sample 1	TRUE
+PDGFRB	f02_mcam	C1	colorectal tissue	primary tumor sample 1	TRUE
+RGS5	f02_mcam	C1	colorectal tissue	primary tumor sample 1	TRUE
+TAGLN	f02_mcam	C1	colorectal tissue	primary tumor sample 1	TRUE
+C3	f03_cxcl14	C1	colorectal tissue	primary tumor sample 1	TRUE
+CFD	f03_cxcl14	C1	colorectal tissue	primary tumor sample 1	TRUE
+CXCL12	f03_cxcl14	C1	colorectal tissue	primary tumor sample 1	TRUE
+CXCL14	f03_cxcl14	C1	colorectal tissue	primary tumor sample 1	TRUE
+SFRP1	f03_cxcl14	C1	colorectal tissue	primary tumor sample 1	TRUE
+C3	f04_c3	C1	colorectal tissue	primary tumor sample 1	TRUE
+CCL2	f04_c3	C1	colorectal tissue	primary tumor sample 1	TRUE
+CFD	f04_c3	C1	colorectal tissue	primary tumor sample 1	TRUE
+CXCL12	f04_c3	C1	colorectal tissue	primary tumor sample 1	TRUE
+COCH	f05_coch	C1	colorectal tissue	primary tumor sample 1	TRUE
+COL14A1	f05_coch	C1	colorectal tissue	primary tumor sample 1	TRUE
+PI16	f05_coch	C1	colorectal tissue	primary tumor sample 1	TRUE
+CENPF	f06_cycling	C1	colorectal tissue	primary tumor sample 1	TRUE
+MKI67	f06_cycling	C1	colorectal tissue	primary tumor sample 1	TRUE
+TOP2A	f06_cycling	C1	colorectal tissue	primary tumor sample 1	TRUE
+COL1A1	fibroblast_ecm	C1	colorectal tissue	primary tumor sample 1	TRUE
+COL1A2	fibroblast_ecm	C1	colorectal tissue	primary tumor sample 1	TRUE
+COL3A1	fibroblast_ecm	C1	colorectal tissue	primary tumor sample 1	TRUE
+DCN	fibroblast_ecm	C1	colorectal tissue	primary tumor sample 1	TRUE
+LUM	fibroblast_ecm	C1	colorectal tissue	primary tumor sample 1	TRUE
+PRELP	fibroblast_ecm	C1	colorectal tissue	primary tumor sample 1	TRUE
+CD3D	immune_context	C1	colorectal tissue	primary tumor sample 1	TRUE
+LYZ	immune_context	C1	colorectal tissue	primary tumor sample 1	TRUE
+PTPRC	immune_context	C1	colorectal tissue	primary tumor sample 1	TRUE
+ACTA2	pericyte_smc	C1	colorectal tissue	primary tumor sample 1	TRUE
+CSPG4	pericyte_smc	C1	colorectal tissue	primary tumor sample 1	TRUE
+MCAM	pericyte_smc	C1	colorectal tissue	primary tumor sample 1	TRUE
+PDGFRB	pericyte_smc	C1	colorectal tissue	primary tumor sample 1	TRUE
+RGS5	pericyte_smc	C1	colorectal tissue	primary tumor sample 1	TRUE
+ACTA2	caf_activation	C2	colorectal tissue	primary tumor sample 2	TRUE
+FAP	caf_activation	C2	colorectal tissue	primary tumor sample 2	TRUE
+MMP11	caf_activation	C2	colorectal tissue	primary tumor sample 2	TRUE
+MMP2	caf_activation	C2	colorectal tissue	primary tumor sample 2	TRUE
+POSTN	caf_activation	C2	colorectal tissue	primary tumor sample 2	TRUE
+THBS2	caf_activation	C2	colorectal tissue	primary tumor sample 2	TRUE
+KDR	endothelial	C2	colorectal tissue	primary tumor sample 2	TRUE
+PECAM1	endothelial	C2	colorectal tissue	primary tumor sample 2	TRUE
+VWF	endothelial	C2	colorectal tissue	primary tumor sample 2	TRUE
+EPCAM	epithelial_tumor	C2	colorectal tissue	primary tumor sample 2	TRUE
+KRT18	epithelial_tumor	C2	colorectal tissue	primary tumor sample 2	TRUE
+KRT19	epithelial_tumor	C2	colorectal tissue	primary tumor sample 2	FALSE
+KRT8	epithelial_tumor	C2	colorectal tissue	primary tumor sample 2	TRUE
+COL1A1	f01_prelp	C2	colorectal tissue	primary tumor sample 2	TRUE
+COL1A2	f01_prelp	C2	colorectal tissue	primary tumor sample 2	TRUE
+DCN	f01_prelp	C2	colorectal tissue	primary tumor sample 2	TRUE
+LUM	f01_prelp	C2	colorectal tissue	primary tumor sample 2	TRUE
+PRELP	f01_prelp	C2	colorectal tissue	primary tumor sample 2	TRUE
+ACTA2	f02_mcam	C2	colorectal tissue	primary tumor sample 2	TRUE
+CSPG4	f02_mcam	C2	colorectal tissue	primary tumor sample 2	TRUE
+MCAM	f02_mcam	C2	colorectal tissue	primary tumor sample 2	TRUE
+PDGFRB	f02_mcam	C2	colorectal tissue	primary tumor sample 2	TRUE
+RGS5	f02_mcam	C2	colorectal tissue	primary tumor sample 2	TRUE
+TAGLN	f02_mcam	C2	colorectal tissue	primary tumor sample 2	TRUE
+C3	f03_cxcl14	C2	colorectal tissue	primary tumor sample 2	TRUE
+CFD	f03_cxcl14	C2	colorectal tissue	primary tumor sample 2	TRUE
+CXCL12	f03_cxcl14	C2	colorectal tissue	primary tumor sample 2	TRUE
+CXCL14	f03_cxcl14	C2	colorectal tissue	primary tumor sample 2	TRUE
+SFRP1	f03_cxcl14	C2	colorectal tissue	primary tumor sample 2	TRUE
+C3	f04_c3	C2	colorectal tissue	primary tumor sample 2	TRUE
+CCL2	f04_c3	C2	colorectal tissue	primary tumor sample 2	TRUE
+CFD	f04_c3	C2	colorectal tissue	primary tumor sample 2	TRUE
+CXCL12	f04_c3	C2	colorectal tissue	primary tumor sample 2	TRUE
+COCH	f05_coch	C2	colorectal tissue	primary tumor sample 2	TRUE
+COL14A1	f05_coch	C2	colorectal tissue	primary tumor sample 2	TRUE
+PI16	f05_coch	C2	colorectal tissue	primary tumor sample 2	TRUE
+CENPF	f06_cycling	C2	colorectal tissue	primary tumor sample 2	TRUE
+MKI67	f06_cycling	C2	colorectal tissue	primary tumor sample 2	TRUE
+TOP2A	f06_cycling	C2	colorectal tissue	primary tumor sample 2	TRUE
+COL1A1	fibroblast_ecm	C2	colorectal tissue	primary tumor sample 2	TRUE
+COL1A2	fibroblast_ecm	C2	colorectal tissue	primary tumor sample 2	TRUE
+COL3A1	fibroblast_ecm	C2	colorectal tissue	primary tumor sample 2	TRUE
+DCN	fibroblast_ecm	C2	colorectal tissue	primary tumor sample 2	TRUE
+LUM	fibroblast_ecm	C2	colorectal tissue	primary tumor sample 2	TRUE
+PRELP	fibroblast_ecm	C2	colorectal tissue	primary tumor sample 2	TRUE
+CD3D	immune_context	C2	colorectal tissue	primary tumor sample 2	TRUE
+LYZ	immune_context	C2	colorectal tissue	primary tumor sample 2	TRUE
+PTPRC	immune_context	C2	colorectal tissue	primary tumor sample 2	TRUE
+ACTA2	pericyte_smc	C2	colorectal tissue	primary tumor sample 2	TRUE
+CSPG4	pericyte_smc	C2	colorectal tissue	primary tumor sample 2	TRUE
+MCAM	pericyte_smc	C2	colorectal tissue	primary tumor sample 2	TRUE
+PDGFRB	pericyte_smc	C2	colorectal tissue	primary tumor sample 2	TRUE
+RGS5	pericyte_smc	C2	colorectal tissue	primary tumor sample 2	TRUE
+ACTA2	caf_activation	C3	colorectal tissue	primary tumor sample 3	TRUE
+FAP	caf_activation	C3	colorectal tissue	primary tumor sample 3	TRUE
+MMP11	caf_activation	C3	colorectal tissue	primary tumor sample 3	TRUE
+MMP2	caf_activation	C3	colorectal tissue	primary tumor sample 3	TRUE
+POSTN	caf_activation	C3	colorectal tissue	primary tumor sample 3	TRUE
+THBS2	caf_activation	C3	colorectal tissue	primary tumor sample 3	TRUE
+KDR	endothelial	C3	colorectal tissue	primary tumor sample 3	TRUE
+PECAM1	endothelial	C3	colorectal tissue	primary tumor sample 3	TRUE
+VWF	endothelial	C3	colorectal tissue	primary tumor sample 3	TRUE
+EPCAM	epithelial_tumor	C3	colorectal tissue	primary tumor sample 3	TRUE
+KRT18	epithelial_tumor	C3	colorectal tissue	primary tumor sample 3	TRUE
+KRT19	epithelial_tumor	C3	colorectal tissue	primary tumor sample 3	FALSE
+KRT8	epithelial_tumor	C3	colorectal tissue	primary tumor sample 3	TRUE
+COL1A1	f01_prelp	C3	colorectal tissue	primary tumor sample 3	TRUE
+COL1A2	f01_prelp	C3	colorectal tissue	primary tumor sample 3	TRUE
+DCN	f01_prelp	C3	colorectal tissue	primary tumor sample 3	TRUE
+LUM	f01_prelp	C3	colorectal tissue	primary tumor sample 3	TRUE
+PRELP	f01_prelp	C3	colorectal tissue	primary tumor sample 3	TRUE
+ACTA2	f02_mcam	C3	colorectal tissue	primary tumor sample 3	TRUE
+CSPG4	f02_mcam	C3	colorectal tissue	primary tumor sample 3	TRUE
+MCAM	f02_mcam	C3	colorectal tissue	primary tumor sample 3	TRUE
+PDGFRB	f02_mcam	C3	colorectal tissue	primary tumor sample 3	TRUE
+RGS5	f02_mcam	C3	colorectal tissue	primary tumor sample 3	TRUE
+TAGLN	f02_mcam	C3	colorectal tissue	primary tumor sample 3	TRUE
+C3	f03_cxcl14	C3	colorectal tissue	primary tumor sample 3	TRUE
+CFD	f03_cxcl14	C3	colorectal tissue	primary tumor sample 3	TRUE
+CXCL12	f03_cxcl14	C3	colorectal tissue	primary tumor sample 3	TRUE
+CXCL14	f03_cxcl14	C3	colorectal tissue	primary tumor sample 3	TRUE
+SFRP1	f03_cxcl14	C3	colorectal tissue	primary tumor sample 3	TRUE
+C3	f04_c3	C3	colorectal tissue	primary tumor sample 3	TRUE
+CCL2	f04_c3	C3	colorectal tissue	primary tumor sample 3	TRUE
+CFD	f04_c3	C3	colorectal tissue	primary tumor sample 3	TRUE
+CXCL12	f04_c3	C3	colorectal tissue	primary tumor sample 3	TRUE
+COCH	f05_coch	C3	colorectal tissue	primary tumor sample 3	TRUE
+COL14A1	f05_coch	C3	colorectal tissue	primary tumor sample 3	TRUE
+PI16	f05_coch	C3	colorectal tissue	primary tumor sample 3	TRUE
+CENPF	f06_cycling	C3	colorectal tissue	primary tumor sample 3	TRUE
+MKI67	f06_cycling	C3	colorectal tissue	primary tumor sample 3	TRUE
+TOP2A	f06_cycling	C3	colorectal tissue	primary tumor sample 3	TRUE
+COL1A1	fibroblast_ecm	C3	colorectal tissue	primary tumor sample 3	TRUE
+COL1A2	fibroblast_ecm	C3	colorectal tissue	primary tumor sample 3	TRUE
+COL3A1	fibroblast_ecm	C3	colorectal tissue	primary tumor sample 3	TRUE
+DCN	fibroblast_ecm	C3	colorectal tissue	primary tumor sample 3	TRUE
+LUM	fibroblast_ecm	C3	colorectal tissue	primary tumor sample 3	TRUE
+PRELP	fibroblast_ecm	C3	colorectal tissue	primary tumor sample 3	TRUE
+CD3D	immune_context	C3	colorectal tissue	primary tumor sample 3	TRUE
+LYZ	immune_context	C3	colorectal tissue	primary tumor sample 3	TRUE
+PTPRC	immune_context	C3	colorectal tissue	primary tumor sample 3	TRUE
+ACTA2	pericyte_smc	C3	colorectal tissue	primary tumor sample 3	TRUE
+CSPG4	pericyte_smc	C3	colorectal tissue	primary tumor sample 3	TRUE
+MCAM	pericyte_smc	C3	colorectal tissue	primary tumor sample 3	TRUE
+PDGFRB	pericyte_smc	C3	colorectal tissue	primary tumor sample 3	TRUE
+RGS5	pericyte_smc	C3	colorectal tissue	primary tumor sample 3	TRUE
+ACTA2	caf_activation	C4	colorectal tissue	primary tumor sample 4	TRUE
+FAP	caf_activation	C4	colorectal tissue	primary tumor sample 4	TRUE
+MMP11	caf_activation	C4	colorectal tissue	primary tumor sample 4	TRUE
+MMP2	caf_activation	C4	colorectal tissue	primary tumor sample 4	TRUE
+POSTN	caf_activation	C4	colorectal tissue	primary tumor sample 4	TRUE
+THBS2	caf_activation	C4	colorectal tissue	primary tumor sample 4	TRUE
+KDR	endothelial	C4	colorectal tissue	primary tumor sample 4	TRUE
+PECAM1	endothelial	C4	colorectal tissue	primary tumor sample 4	TRUE
+VWF	endothelial	C4	colorectal tissue	primary tumor sample 4	TRUE
+EPCAM	epithelial_tumor	C4	colorectal tissue	primary tumor sample 4	TRUE
+KRT18	epithelial_tumor	C4	colorectal tissue	primary tumor sample 4	TRUE
+KRT19	epithelial_tumor	C4	colorectal tissue	primary tumor sample 4	FALSE
+KRT8	epithelial_tumor	C4	colorectal tissue	primary tumor sample 4	TRUE
+COL1A1	f01_prelp	C4	colorectal tissue	primary tumor sample 4	TRUE
+COL1A2	f01_prelp	C4	colorectal tissue	primary tumor sample 4	TRUE
+DCN	f01_prelp	C4	colorectal tissue	primary tumor sample 4	TRUE
+LUM	f01_prelp	C4	colorectal tissue	primary tumor sample 4	TRUE
+PRELP	f01_prelp	C4	colorectal tissue	primary tumor sample 4	TRUE
+ACTA2	f02_mcam	C4	colorectal tissue	primary tumor sample 4	TRUE
+CSPG4	f02_mcam	C4	colorectal tissue	primary tumor sample 4	TRUE
+MCAM	f02_mcam	C4	colorectal tissue	primary tumor sample 4	TRUE
+PDGFRB	f02_mcam	C4	colorectal tissue	primary tumor sample 4	TRUE
+RGS5	f02_mcam	C4	colorectal tissue	primary tumor sample 4	TRUE
+TAGLN	f02_mcam	C4	colorectal tissue	primary tumor sample 4	TRUE
+C3	f03_cxcl14	C4	colorectal tissue	primary tumor sample 4	TRUE
+CFD	f03_cxcl14	C4	colorectal tissue	primary tumor sample 4	TRUE
+CXCL12	f03_cxcl14	C4	colorectal tissue	primary tumor sample 4	TRUE
+CXCL14	f03_cxcl14	C4	colorectal tissue	primary tumor sample 4	TRUE
+SFRP1	f03_cxcl14	C4	colorectal tissue	primary tumor sample 4	TRUE
+C3	f04_c3	C4	colorectal tissue	primary tumor sample 4	TRUE
+CCL2	f04_c3	C4	colorectal tissue	primary tumor sample 4	TRUE
+CFD	f04_c3	C4	colorectal tissue	primary tumor sample 4	TRUE
+CXCL12	f04_c3	C4	colorectal tissue	primary tumor sample 4	TRUE
+COCH	f05_coch	C4	colorectal tissue	primary tumor sample 4	TRUE
+COL14A1	f05_coch	C4	colorectal tissue	primary tumor sample 4	TRUE
+PI16	f05_coch	C4	colorectal tissue	primary tumor sample 4	TRUE
+CENPF	f06_cycling	C4	colorectal tissue	primary tumor sample 4	TRUE
+MKI67	f06_cycling	C4	colorectal tissue	primary tumor sample 4	TRUE
+TOP2A	f06_cycling	C4	colorectal tissue	primary tumor sample 4	TRUE
+COL1A1	fibroblast_ecm	C4	colorectal tissue	primary tumor sample 4	TRUE
+COL1A2	fibroblast_ecm	C4	colorectal tissue	primary tumor sample 4	TRUE
+COL3A1	fibroblast_ecm	C4	colorectal tissue	primary tumor sample 4	TRUE
+DCN	fibroblast_ecm	C4	colorectal tissue	primary tumor sample 4	TRUE
+LUM	fibroblast_ecm	C4	colorectal tissue	primary tumor sample 4	TRUE
+PRELP	fibroblast_ecm	C4	colorectal tissue	primary tumor sample 4	TRUE
+CD3D	immune_context	C4	colorectal tissue	primary tumor sample 4	TRUE
+LYZ	immune_context	C4	colorectal tissue	primary tumor sample 4	TRUE
+PTPRC	immune_context	C4	colorectal tissue	primary tumor sample 4	TRUE
+ACTA2	pericyte_smc	C4	colorectal tissue	primary tumor sample 4	TRUE
+CSPG4	pericyte_smc	C4	colorectal tissue	primary tumor sample 4	TRUE
+MCAM	pericyte_smc	C4	colorectal tissue	primary tumor sample 4	TRUE
+PDGFRB	pericyte_smc	C4	colorectal tissue	primary tumor sample 4	TRUE
+RGS5	pericyte_smc	C4	colorectal tissue	primary tumor sample 4	TRUE
+ACTA2	caf_activation	L1	liver tissue	liver metastatic tumor sample 1	TRUE
+FAP	caf_activation	L1	liver tissue	liver metastatic tumor sample 1	TRUE
+MMP11	caf_activation	L1	liver tissue	liver metastatic tumor sample 1	TRUE
+MMP2	caf_activation	L1	liver tissue	liver metastatic tumor sample 1	TRUE
+POSTN	caf_activation	L1	liver tissue	liver metastatic tumor sample 1	TRUE
+THBS2	caf_activation	L1	liver tissue	liver metastatic tumor sample 1	TRUE
+KDR	endothelial	L1	liver tissue	liver metastatic tumor sample 1	TRUE
+PECAM1	endothelial	L1	liver tissue	liver metastatic tumor sample 1	TRUE
+VWF	endothelial	L1	liver tissue	liver metastatic tumor sample 1	TRUE
+EPCAM	epithelial_tumor	L1	liver tissue	liver metastatic tumor sample 1	TRUE
+KRT18	epithelial_tumor	L1	liver tissue	liver metastatic tumor sample 1	TRUE
+KRT19	epithelial_tumor	L1	liver tissue	liver metastatic tumor sample 1	FALSE
+KRT8	epithelial_tumor	L1	liver tissue	liver metastatic tumor sample 1	TRUE
+COL1A1	f01_prelp	L1	liver tissue	liver metastatic tumor sample 1	TRUE
+COL1A2	f01_prelp	L1	liver tissue	liver metastatic tumor sample 1	TRUE
+DCN	f01_prelp	L1	liver tissue	liver metastatic tumor sample 1	TRUE
+LUM	f01_prelp	L1	liver tissue	liver metastatic tumor sample 1	TRUE
+PRELP	f01_prelp	L1	liver tissue	liver metastatic tumor sample 1	TRUE
+ACTA2	f02_mcam	L1	liver tissue	liver metastatic tumor sample 1	TRUE
+CSPG4	f02_mcam	L1	liver tissue	liver metastatic tumor sample 1	TRUE
+MCAM	f02_mcam	L1	liver tissue	liver metastatic tumor sample 1	TRUE
+PDGFRB	f02_mcam	L1	liver tissue	liver metastatic tumor sample 1	TRUE
+RGS5	f02_mcam	L1	liver tissue	liver metastatic tumor sample 1	TRUE
+TAGLN	f02_mcam	L1	liver tissue	liver metastatic tumor sample 1	TRUE
+C3	f03_cxcl14	L1	liver tissue	liver metastatic tumor sample 1	TRUE
+CFD	f03_cxcl14	L1	liver tissue	liver metastatic tumor sample 1	TRUE
+CXCL12	f03_cxcl14	L1	liver tissue	liver metastatic tumor sample 1	TRUE
+CXCL14	f03_cxcl14	L1	liver tissue	liver metastatic tumor sample 1	TRUE
+SFRP1	f03_cxcl14	L1	liver tissue	liver metastatic tumor sample 1	TRUE
+C3	f04_c3	L1	liver tissue	liver metastatic tumor sample 1	TRUE
+CCL2	f04_c3	L1	liver tissue	liver metastatic tumor sample 1	TRUE
+CFD	f04_c3	L1	liver tissue	liver metastatic tumor sample 1	TRUE
+CXCL12	f04_c3	L1	liver tissue	liver metastatic tumor sample 1	TRUE
+COCH	f05_coch	L1	liver tissue	liver metastatic tumor sample 1	TRUE
+COL14A1	f05_coch	L1	liver tissue	liver metastatic tumor sample 1	TRUE
+PI16	f05_coch	L1	liver tissue	liver metastatic tumor sample 1	TRUE
+CENPF	f06_cycling	L1	liver tissue	liver metastatic tumor sample 1	TRUE
+MKI67	f06_cycling	L1	liver tissue	liver metastatic tumor sample 1	TRUE
+TOP2A	f06_cycling	L1	liver tissue	liver metastatic tumor sample 1	TRUE
+COL1A1	fibroblast_ecm	L1	liver tissue	liver metastatic tumor sample 1	TRUE
+COL1A2	fibroblast_ecm	L1	liver tissue	liver metastatic tumor sample 1	TRUE
+COL3A1	fibroblast_ecm	L1	liver tissue	liver metastatic tumor sample 1	TRUE
+DCN	fibroblast_ecm	L1	liver tissue	liver metastatic tumor sample 1	TRUE
+LUM	fibroblast_ecm	L1	liver tissue	liver metastatic tumor sample 1	TRUE
+PRELP	fibroblast_ecm	L1	liver tissue	liver metastatic tumor sample 1	TRUE
+CD3D	immune_context	L1	liver tissue	liver metastatic tumor sample 1	TRUE
+LYZ	immune_context	L1	liver tissue	liver metastatic tumor sample 1	TRUE
+PTPRC	immune_context	L1	liver tissue	liver metastatic tumor sample 1	TRUE
+ACTA2	pericyte_smc	L1	liver tissue	liver metastatic tumor sample 1	TRUE
+CSPG4	pericyte_smc	L1	liver tissue	liver metastatic tumor sample 1	TRUE
+MCAM	pericyte_smc	L1	liver tissue	liver metastatic tumor sample 1	TRUE
+PDGFRB	pericyte_smc	L1	liver tissue	liver metastatic tumor sample 1	TRUE
+RGS5	pericyte_smc	L1	liver tissue	liver metastatic tumor sample 1	TRUE
+ACTA2	caf_activation	L2	liver tissue	liver metastatic tumor sample 2	TRUE
+FAP	caf_activation	L2	liver tissue	liver metastatic tumor sample 2	TRUE
+MMP11	caf_activation	L2	liver tissue	liver metastatic tumor sample 2	TRUE
+MMP2	caf_activation	L2	liver tissue	liver metastatic tumor sample 2	TRUE
+POSTN	caf_activation	L2	liver tissue	liver metastatic tumor sample 2	TRUE
+THBS2	caf_activation	L2	liver tissue	liver metastatic tumor sample 2	TRUE
+KDR	endothelial	L2	liver tissue	liver metastatic tumor sample 2	TRUE
+PECAM1	endothelial	L2	liver tissue	liver metastatic tumor sample 2	TRUE
+VWF	endothelial	L2	liver tissue	liver metastatic tumor sample 2	TRUE
+EPCAM	epithelial_tumor	L2	liver tissue	liver metastatic tumor sample 2	TRUE
+KRT18	epithelial_tumor	L2	liver tissue	liver metastatic tumor sample 2	TRUE
+KRT19	epithelial_tumor	L2	liver tissue	liver metastatic tumor sample 2	FALSE
+KRT8	epithelial_tumor	L2	liver tissue	liver metastatic tumor sample 2	TRUE
+COL1A1	f01_prelp	L2	liver tissue	liver metastatic tumor sample 2	TRUE
+COL1A2	f01_prelp	L2	liver tissue	liver metastatic tumor sample 2	TRUE
+DCN	f01_prelp	L2	liver tissue	liver metastatic tumor sample 2	TRUE
+LUM	f01_prelp	L2	liver tissue	liver metastatic tumor sample 2	TRUE
+PRELP	f01_prelp	L2	liver tissue	liver metastatic tumor sample 2	TRUE
+ACTA2	f02_mcam	L2	liver tissue	liver metastatic tumor sample 2	TRUE
+CSPG4	f02_mcam	L2	liver tissue	liver metastatic tumor sample 2	TRUE
+MCAM	f02_mcam	L2	liver tissue	liver metastatic tumor sample 2	TRUE
+PDGFRB	f02_mcam	L2	liver tissue	liver metastatic tumor sample 2	TRUE
+RGS5	f02_mcam	L2	liver tissue	liver metastatic tumor sample 2	TRUE
+TAGLN	f02_mcam	L2	liver tissue	liver metastatic tumor sample 2	TRUE
+C3	f03_cxcl14	L2	liver tissue	liver metastatic tumor sample 2	TRUE
+CFD	f03_cxcl14	L2	liver tissue	liver metastatic tumor sample 2	TRUE
+CXCL12	f03_cxcl14	L2	liver tissue	liver metastatic tumor sample 2	TRUE
+CXCL14	f03_cxcl14	L2	liver tissue	liver metastatic tumor sample 2	TRUE
+SFRP1	f03_cxcl14	L2	liver tissue	liver metastatic tumor sample 2	TRUE
+C3	f04_c3	L2	liver tissue	liver metastatic tumor sample 2	TRUE
+CCL2	f04_c3	L2	liver tissue	liver metastatic tumor sample 2	TRUE
+CFD	f04_c3	L2	liver tissue	liver metastatic tumor sample 2	TRUE
+CXCL12	f04_c3	L2	liver tissue	liver metastatic tumor sample 2	TRUE
+COCH	f05_coch	L2	liver tissue	liver metastatic tumor sample 2	TRUE
+COL14A1	f05_coch	L2	liver tissue	liver metastatic tumor sample 2	TRUE
+PI16	f05_coch	L2	liver tissue	liver metastatic tumor sample 2	TRUE
+CENPF	f06_cycling	L2	liver tissue	liver metastatic tumor sample 2	TRUE
+MKI67	f06_cycling	L2	liver tissue	liver metastatic tumor sample 2	TRUE
+TOP2A	f06_cycling	L2	liver tissue	liver metastatic tumor sample 2	TRUE
+COL1A1	fibroblast_ecm	L2	liver tissue	liver metastatic tumor sample 2	TRUE
+COL1A2	fibroblast_ecm	L2	liver tissue	liver metastatic tumor sample 2	TRUE
+COL3A1	fibroblast_ecm	L2	liver tissue	liver metastatic tumor sample 2	TRUE
+DCN	fibroblast_ecm	L2	liver tissue	liver metastatic tumor sample 2	TRUE
+LUM	fibroblast_ecm	L2	liver tissue	liver metastatic tumor sample 2	TRUE
+PRELP	fibroblast_ecm	L2	liver tissue	liver metastatic tumor sample 2	TRUE
+CD3D	immune_context	L2	liver tissue	liver metastatic tumor sample 2	TRUE
+LYZ	immune_context	L2	liver tissue	liver metastatic tumor sample 2	TRUE
+PTPRC	immune_context	L2	liver tissue	liver metastatic tumor sample 2	TRUE
+ACTA2	pericyte_smc	L2	liver tissue	liver metastatic tumor sample 2	TRUE
+CSPG4	pericyte_smc	L2	liver tissue	liver metastatic tumor sample 2	TRUE
+MCAM	pericyte_smc	L2	liver tissue	liver metastatic tumor sample 2	TRUE
+PDGFRB	pericyte_smc	L2	liver tissue	liver metastatic tumor sample 2	TRUE
+RGS5	pericyte_smc	L2	liver tissue	liver metastatic tumor sample 2	TRUE

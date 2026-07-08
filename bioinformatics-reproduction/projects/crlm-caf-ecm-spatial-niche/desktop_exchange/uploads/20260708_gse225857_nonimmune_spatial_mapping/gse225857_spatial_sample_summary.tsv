@@ -1,0 +1,7 @@
+gsm	spatial_sample	tissue_site	lesion_type	features	spots	nonzero	marker_genes_present
+GSM7058756	C1	colorectal tissue	primary tumor sample 1	17943	2054	13705400	38
+GSM7058757	C2	colorectal tissue	primary tumor sample 2	17943	3305	12510703	38
+GSM7058758	C3	colorectal tissue	primary tumor sample 3	17943	3417	13868048	38
+GSM7058759	C4	colorectal tissue	primary tumor sample 4	17943	4016	7289724	38
+GSM7058760	L1	liver tissue	liver metastatic tumor sample 1	17943	4672	12835869	38
+GSM7058761	L2	liver tissue	liver metastatic tumor sample 2	17943	4796	6415541	38
