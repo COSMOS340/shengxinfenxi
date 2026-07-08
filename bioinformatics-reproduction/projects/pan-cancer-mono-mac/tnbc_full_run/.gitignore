@@ -1,6 +1,0 @@
-inputs/
-outputs/
-*.log
-*.part
-__pycache__/
-.DS_Store

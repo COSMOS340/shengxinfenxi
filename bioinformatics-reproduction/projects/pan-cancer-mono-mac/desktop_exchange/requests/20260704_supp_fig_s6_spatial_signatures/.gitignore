@@ -1,6 +1,0 @@
-data/
-outputs/
-*.tar
-*.h5
-*.rds
-*.tsv.gz
