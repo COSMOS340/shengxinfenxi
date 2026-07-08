@@ -1,0 +1,118 @@
+member_name	member_size	summary_type	primary_count	secondary_count	third_count	notes
+GSM7844812_Pt01_T1_barcodes.tsv.gz	23576	not_parsed				
+GSM7844812_Pt01_T1_features.tsv.gz	212926	not_parsed				
+GSM7844812_Pt01_T1_matrix.mtx.gz	27818578	matrix_market_dimensions	29569	4593	9178559	
+GSM7844813_Pt01_T2_barcodes.tsv.gz	32098	not_parsed				
+GSM7844813_Pt01_T2_features.tsv.gz	212926	not_parsed				
+GSM7844813_Pt01_T2_matrix.mtx.gz	52007152	matrix_market_dimensions	29569	6464	17134905	
+GSM7844814_Pt02_T1_barcodes.tsv.gz	19907	not_parsed				
+GSM7844814_Pt02_T1_features.tsv.gz	212926	not_parsed				
+GSM7844814_Pt02_T1_matrix.mtx.gz	31382614	matrix_market_dimensions	29569	3704	10375119	
+GSM7844815_Pt02_T2_barcodes.tsv.gz	30682	not_parsed				
+GSM7844815_Pt02_T2_features.tsv.gz	212926	not_parsed				
+GSM7844815_Pt02_T2_matrix.mtx.gz	51413109	matrix_market_dimensions	29569	6243	16964498	
+GSM7844816_Pt03_T1_barcodes.tsv.gz	13307	not_parsed				
+GSM7844816_Pt03_T1_features.tsv.gz	212926	not_parsed				
+GSM7844816_Pt03_T1_matrix.mtx.gz	22749120	matrix_market_dimensions	29569	2526	7553920	
+GSM7844817_Pt03_T2_barcodes.tsv.gz	18547	not_parsed				
+GSM7844817_Pt03_T2_features.tsv.gz	212926	not_parsed				
+GSM7844817_Pt03_T2_matrix.mtx.gz	30016425	matrix_market_dimensions	29569	3693	9903269	
+GSM7844818_Pt04_T1_barcodes.tsv.gz	15146	not_parsed				
+GSM7844818_Pt04_T1_features.tsv.gz	212926	not_parsed				
+GSM7844818_Pt04_T1_matrix.mtx.gz	14724905	matrix_market_dimensions	29569	2775	4827800	
+GSM7844819_Pt04_T2_barcodes.tsv.gz	19940	not_parsed				
+GSM7844819_Pt04_T2_features.tsv.gz	212926	not_parsed				
+GSM7844819_Pt04_T2_matrix.mtx.gz	26197573	matrix_market_dimensions	29569	4111	8644318	
+GSM7844820_Pt05_T1_barcodes.tsv.gz	19413	not_parsed				
+GSM7844820_Pt05_T1_features.tsv.gz	212926	not_parsed				
+GSM7844820_Pt05_T1_matrix.mtx.gz	20246488	matrix_market_dimensions	29569	3842	6545621	
+GSM7844821_Pt05_T2_barcodes.tsv.gz	22902	not_parsed				
+GSM7844821_Pt05_T2_features.tsv.gz	212926	not_parsed				
+GSM7844821_Pt05_T2_matrix.mtx.gz	21369202	matrix_market_dimensions	29569	4447	7013990	
+GSM7844822_Pt05_T3_barcodes.tsv.gz	14689	not_parsed				
+GSM7844822_Pt05_T3_features.tsv.gz	212926	not_parsed				
+GSM7844822_Pt05_T3_matrix.mtx.gz	18536441	matrix_market_dimensions	29569	2981	6100536	
+GSM7844823_Pt06_T1_barcodes.tsv.gz	4755	not_parsed				
+GSM7844823_Pt06_T1_features.tsv.gz	212926	not_parsed				
+GSM7844823_Pt06_T1_matrix.mtx.gz	6130771	matrix_market_dimensions	29569	815	2059508	
+GSM7844824_Pt06_T2_barcodes.tsv.gz	8271	not_parsed				
+GSM7844824_Pt06_T2_features.tsv.gz	212926	not_parsed				
+GSM7844824_Pt06_T2_matrix.mtx.gz	11446699	matrix_market_dimensions	29569	1454	3798478	
+GSM7844825_Pt06_T3_barcodes.tsv.gz	35613	not_parsed				
+GSM7844825_Pt06_T3_features.tsv.gz	212926	not_parsed				
+GSM7844825_Pt06_T3_matrix.mtx.gz	42820103	matrix_market_dimensions	29569	7277	14084276	
+GSM7844826_Pt07_T1_barcodes.tsv.gz	23368	not_parsed				
+GSM7844826_Pt07_T1_features.tsv.gz	212926	not_parsed				
+GSM7844826_Pt07_T1_matrix.mtx.gz	19838229	matrix_market_dimensions	29569	4513	6467478	
+GSM7844827_Pt07_T2_barcodes.tsv.gz	25523	not_parsed				
+GSM7844827_Pt07_T2_features.tsv.gz	212926	not_parsed				
+GSM7844827_Pt07_T2_matrix.mtx.gz	21967485	matrix_market_dimensions	29569	5018	7158010	
+GSM7844828_Pt08_T1_barcodes.tsv.gz	37413	not_parsed				
+GSM7844828_Pt08_T1_features.tsv.gz	212926	not_parsed				
+GSM7844828_Pt08_T1_matrix.mtx.gz	42849443	matrix_market_dimensions	29569	7745	14004075	
+GSM7844829_Pt08_T2_barcodes.tsv.gz	20694	not_parsed				
+GSM7844829_Pt08_T2_features.tsv.gz	212926	not_parsed				
+GSM7844829_Pt08_T2_matrix.mtx.gz	20669883	matrix_market_dimensions	29569	3950	6744969	
+GSM7844830_Pt08_T3_barcodes.tsv.gz	30804	not_parsed				
+GSM7844830_Pt08_T3_features.tsv.gz	212926	not_parsed				
+GSM7844830_Pt08_T3_matrix.mtx.gz	27344414	matrix_market_dimensions	29569	6327	8932685	
+GSM7844831_Pt08_T4_barcodes.tsv.gz	28872	not_parsed				
+GSM7844831_Pt08_T4_features.tsv.gz	212926	not_parsed				
+GSM7844831_Pt08_T4_matrix.mtx.gz	35281228	matrix_market_dimensions	29569	6152	11647389	
+GSM7844832_Pt09_T1_barcodes.tsv.gz	27287	not_parsed				
+GSM7844832_Pt09_T1_features.tsv.gz	212926	not_parsed				
+GSM7844832_Pt09_T1_matrix.mtx.gz	22399073	matrix_market_dimensions	29569	5516	7314721	
+GSM7844833_Pt10_T1_barcodes.tsv.gz	39673	not_parsed				
+GSM7844833_Pt10_T1_features.tsv.gz	212926	not_parsed				
+GSM7844833_Pt10_T1_matrix.mtx.gz	31392234	matrix_market_dimensions	29569	8176	10203942	
+GSM7844834_Pt10_T2_barcodes.tsv.gz	40322	not_parsed				
+GSM7844834_Pt10_T2_features.tsv.gz	212926	not_parsed				
+GSM7844834_Pt10_T2_matrix.mtx.gz	41367970	matrix_market_dimensions	29569	8503	13523471	
+GSM7844835_Pt11_T1_barcodes.tsv.gz	35626	not_parsed				
+GSM7844835_Pt11_T1_features.tsv.gz	212926	not_parsed				
+GSM7844835_Pt11_T1_matrix.mtx.gz	50007826	matrix_market_dimensions	29569	7175	16332016	
+GSM7844836_Pt11_T2_barcodes.tsv.gz	26275	not_parsed				
+GSM7844836_Pt11_T2_features.tsv.gz	212926	not_parsed				
+GSM7844836_Pt11_T2_matrix.mtx.gz	28527323	matrix_market_dimensions	29569	5356	9322084	
+GSM7844837_Pt13_T1_barcodes.tsv.gz	22391	not_parsed				
+GSM7844837_Pt13_T1_features.tsv.gz	212926	not_parsed				
+GSM7844837_Pt13_T1_matrix.mtx.gz	20133061	matrix_market_dimensions	29569	4471	6597821	
+GSM7844838_Pt13_Z1_barcodes.tsv.gz	37883	not_parsed				
+GSM7844838_Pt13_Z1_features.tsv.gz	215711	not_parsed				
+GSM7844838_Pt13_Z1_matrix.mtx.gz	26248539	matrix_market_dimensions	29922	8136	8524519	
+GSM7844839_Pt15_T1_barcodes.tsv.gz	53598	not_parsed				
+GSM7844839_Pt15_T1_features.tsv.gz	212926	not_parsed				
+GSM7844839_Pt15_T1_matrix.mtx.gz	45051657	matrix_market_dimensions	29569	11377	14743655	
+GSM7844840_Pt15_T2_barcodes.tsv.gz	26660	not_parsed				
+GSM7844840_Pt15_T2_features.tsv.gz	212926	not_parsed				
+GSM7844840_Pt15_T2_matrix.mtx.gz	45712494	matrix_market_dimensions	29569	5752	15214304	
+GSM7844841_Pt15_Z1_barcodes.tsv.gz	27305	not_parsed				
+GSM7844841_Pt15_Z1_features.tsv.gz	215711	not_parsed				
+GSM7844841_Pt15_Z1_matrix.mtx.gz	36595930	matrix_market_dimensions	29922	5853	11968101	
+GSM7844842_Pt16_T1_barcodes.tsv.gz	2462	not_parsed				
+GSM7844842_Pt16_T1_features.tsv.gz	212926	not_parsed				
+GSM7844842_Pt16_T1_matrix.mtx.gz	1919719	matrix_market_dimensions	29569	396	640357	
+GSM7844843_Pt16_Z1_barcodes.tsv.gz	1848	not_parsed				
+GSM7844843_Pt16_Z1_features.tsv.gz	215711	not_parsed				
+GSM7844843_Pt16_Z1_matrix.mtx.gz	1492469	matrix_market_dimensions	29922	285	497335	
+GSM7844844_Pt17_T1_barcodes.tsv.gz	9197	not_parsed				
+GSM7844844_Pt17_T1_features.tsv.gz	212926	not_parsed				
+GSM7844844_Pt17_T1_matrix.mtx.gz	8288820	matrix_market_dimensions	29569	1677	2720316	
+GSM7844845_Pt17_T2_barcodes.tsv.gz	10296	not_parsed				
+GSM7844845_Pt17_T2_features.tsv.gz	212926	not_parsed				
+GSM7844845_Pt17_T2_matrix.mtx.gz	11950548	matrix_market_dimensions	29569	1907	3925939	
+GSM7844846_Pt17_Z1_barcodes.tsv.gz	23949	not_parsed				
+GSM7844846_Pt17_Z1_features.tsv.gz	215711	not_parsed				
+GSM7844846_Pt17_Z1_matrix.mtx.gz	16655635	matrix_market_dimensions	29922	4801	5423414	
+GSM7844847_Pt18_T1_barcodes.tsv.gz	23219	not_parsed				
+GSM7844847_Pt18_T1_features.tsv.gz	212926	not_parsed				
+GSM7844847_Pt18_T1_matrix.mtx.gz	28894880	matrix_market_dimensions	29569	4639	9556995	
+GSM7844848_Pt18_T2_barcodes.tsv.gz	32056	not_parsed				
+GSM7844848_Pt18_T2_features.tsv.gz	212926	not_parsed				
+GSM7844848_Pt18_T2_matrix.mtx.gz	42213304	matrix_market_dimensions	29569	7009	14047997	
+GSM7844849_Pt18_Z1_barcodes.tsv.gz	16412	not_parsed				
+GSM7844849_Pt18_Z1_features.tsv.gz	215711	not_parsed				
+GSM7844849_Pt18_Z1_matrix.mtx.gz	14786390	matrix_market_dimensions	29922	3089	4857885	
+GSM7844850_Pt18_Z2_barcodes.tsv.gz	35775	not_parsed				
+GSM7844850_Pt18_Z2_features.tsv.gz	215711	not_parsed				
+GSM7844850_Pt18_Z2_matrix.mtx.gz	37949154	matrix_market_dimensions	29922	7442	12495495	
