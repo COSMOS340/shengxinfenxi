@@ -1,0 +1,59 @@
+member_name	member_size	summary_type	primary_count	secondary_count	third_count	notes
+GSM7058754_immune_counts.txt.gz	224338701	gzip_tabular_rows_columns	17066	196474		"""""	""s0920_SampleTag08-176080s8-3_4""	""s0920_SampleTag06-175934s8-3_4""	""s0920_SampleTag06-153421s8-3_4""	""s0920_SampleTag06-687985s8-3_4""	""s0920_SampleTag06-731572s8-3_4""	""s0920_SampleTag06-351753s8-3_4""	""s0920_SampleTag08-590588s8-3_4""	""s0920_SampleTag08-79316s8-3_4""	""s0920_SampleTag08-22916s8-3_4""	""s"
+GSM7058754_immune_meta.txt.gz	10089020	gzip_tabular_rows_columns	196473	21		"""""	""orig.ident""	""nCount_RNA""	""nFeature_RNA""	""nCount_antibody""	""nFeature_antibody""	""patients""	""sampletag""	""organs""	""percent.mt""	""percent.ribo""	""log10GenesPerUMI""	""batch""	""integrated_snn_res.0.5""	""seurat_clusters""	""samples""	""doublet.score""	""predicted.doublet""	""cluster""	""doublet""	""patients_organ"""
+GSM7058755_non_immune_counts.txt.gz	90363024	gzip_tabular_rows_columns	17515	41893		"""""	""s1231_SampleTag06.710210s4""	""s1231_SampleTag06.527732s4""	""s1231_SampleTag06.384716s4""	""s1231_SampleTag06.724127s4""	""s1231_SampleTag06.309004s4""	""s1231_SampleTag06.165204s4""	""s1231_SampleTag06.129567s4""	""s1231_SampleTag05.594586s4""	""s1231_SampleTag05.762875s4""	""s1231_SampleTag06.52287s4""	""s1231_S"
+GSM7058755_non_immune_meta.txt.gz	1979260	gzip_tabular_rows_columns	41892	19		"""""	""orig.ident""	""nCount_RNA""	""nFeature_RNA""	""patients""	""sampletag""	""organs""	""percent.mt""	""percent.ribo""	""log10GenesPerUMI""	""integrated_snn_res.0.5""	""seurat_clusters""	""batch""	""doublet.score""	""predicted.doublet""	""doublet""	""cluster""	""integrated_snn_res.0.1""	""patients_organ"""
+GSM7058756_C1.barcodes.tsv.gz	11983	gzip_line_count	2054			
+GSM7058756_C1.features.tsv.gz	155265	gzip_line_count	17943			
+GSM7058756_C1.matrix.mtx.gz	48358651	matrix_market_dimensions	17943	2054	13705400	
+GSM7058756_C1_aligned_fiducials.jpg.gz	1774954	not_parsed				
+GSM7058756_C1_detected_tissue_image.jpg.gz	2320739	not_parsed				
+GSM7058756_C1_scalefactors_json.json.gz	162	not_parsed				
+GSM7058756_C1_tissue_hires_image.png.gz	4974590	not_parsed				
+GSM7058756_C1_tissue_lowres_image.png.gz	466373	not_parsed				
+GSM7058756_C1_tissue_positions_list.csv.gz	54319	not_parsed				
+GSM7058757_C2.barcodes.tsv.gz	18909	gzip_line_count	3305			
+GSM7058757_C2.features.tsv.gz	155265	gzip_line_count	17943			
+GSM7058757_C2.matrix.mtx.gz	44188962	matrix_market_dimensions	17943	3305	12510703	
+GSM7058757_C2_aligned_fiducials.jpg.gz	2213556	not_parsed				
+GSM7058757_C2_detected_tissue_image.jpg.gz	2530526	not_parsed				
+GSM7058757_C2_scalefactors_json.json.gz	160	not_parsed				
+GSM7058757_C2_tissue_hires_image.png.gz	6375769	not_parsed				
+GSM7058757_C2_tissue_lowres_image.png.gz	589061	not_parsed				
+GSM7058757_C2_tissue_positions_list.csv.gz	54463	not_parsed				
+GSM7058758_C3.barcodes.tsv.gz	19589	gzip_line_count	3417			
+GSM7058758_C3.features.tsv.gz	155265	gzip_line_count	17943			
+GSM7058758_C3.matrix.mtx.gz	48983684	matrix_market_dimensions	17943	3417	13868048	
+GSM7058758_C3_aligned_fiducials.jpg.gz	2222881	not_parsed				
+GSM7058758_C3_detected_tissue_image.jpg.gz	2564246	not_parsed				
+GSM7058758_C3_scalefactors_json.json.gz	165	not_parsed				
+GSM7058758_C3_tissue_hires_image.png.gz	6552174	not_parsed				
+GSM7058758_C3_tissue_lowres_image.png.gz	602575	not_parsed				
+GSM7058758_C3_tissue_positions_list.csv.gz	53500	not_parsed				
+GSM7058759_C4.barcodes.tsv.gz	22885	gzip_line_count	4016			
+GSM7058759_C4.features.tsv.gz	155265	gzip_line_count	17943			
+GSM7058759_C4.matrix.mtx.gz	26096416	matrix_market_dimensions	17943	4016	7289724	
+GSM7058759_C4_aligned_fiducials.jpg.gz	2401780	not_parsed				
+GSM7058759_C4_detected_tissue_image.jpg.gz	2646679	not_parsed				
+GSM7058759_C4_scalefactors_json.json.gz	163	not_parsed				
+GSM7058759_C4_tissue_hires_image.png.gz	6858960	not_parsed				
+GSM7058759_C4_tissue_lowres_image.png.gz	612657	not_parsed				
+GSM7058759_C4_tissue_positions_list.csv.gz	65452	not_parsed				
+GSM7058760_L1.barcodes.tsv.gz	26555	gzip_line_count	4672			
+GSM7058760_L1.features.tsv.gz	155265	gzip_line_count	17943			
+GSM7058760_L1.matrix.mtx.gz	45034412	matrix_market_dimensions	17943	4672	12835869	
+GSM7058760_L1_aligned_fiducials.jpg.gz	2586067	not_parsed				
+GSM7058760_L1_detected_tissue_image.jpg.gz	2682900	not_parsed				
+GSM7058760_L1_scalefactors_json.json.gz	163	not_parsed				
+GSM7058760_L1_tissue_hires_image.png.gz	7469863	not_parsed				
+GSM7058760_L1_tissue_lowres_image.png.gz	659818	not_parsed				
+GSM7058760_L1_tissue_positions_list.csv.gz	66432	not_parsed				
+GSM7058761_L2.barcodes.tsv.gz	27222	gzip_line_count	4796			
+GSM7058761_L2.features.tsv.gz	155265	gzip_line_count	17943			
+GSM7058761_L2.matrix.mtx.gz	23055732	matrix_market_dimensions	17943	4796	6415541	
+GSM7058761_L2_aligned_fiducials.jpg.gz	2549895	not_parsed				
+GSM7058761_L2_detected_tissue_image.jpg.gz	2639290	not_parsed				
+GSM7058761_L2_scalefactors_json.json.gz	162	not_parsed				
+GSM7058761_L2_tissue_hires_image.png.gz	7566766	not_parsed				
+GSM7058761_L2_tissue_lowres_image.png.gz	685210	not_parsed				
+GSM7058761_L2_tissue_positions_list.csv.gz	67212	not_parsed				
