@@ -1,0 +1,23 @@
+sample_accession	file_name	status	cells	genes	notes
+GSM5709979	GSM5709979_matrix_inflection_DSF011.txt.gz	metadata_and_shape_imported	4639	37716	Full dense import was not run; matrix shape inspected from gzip text to avoid unnecessary memory use.
+GSM5709980	GSM5709980_matrix_inflection_DSF012.txt.gz	metadata_and_shape_imported	2546	37398	Full dense import was not run; matrix shape inspected from gzip text to avoid unnecessary memory use.
+GSM5709981	GSM5709981_matrix_inflection_DSF021.txt.gz	metadata_and_shape_imported	6589	42075	Full dense import was not run; matrix shape inspected from gzip text to avoid unnecessary memory use.
+GSM5709982	GSM5709982_matrix_inflection_DSF022.txt.gz	metadata_and_shape_imported	4230	40595	Full dense import was not run; matrix shape inspected from gzip text to avoid unnecessary memory use.
+GSM5709983	GSM5709983_matrix_inflection_DSF031.txt.gz	metadata_and_shape_imported	6420	38229	Full dense import was not run; matrix shape inspected from gzip text to avoid unnecessary memory use.
+GSM5709984	GSM5709984_matrix_inflection_DSF032.txt.gz	metadata_and_shape_imported	5693	39240	Full dense import was not run; matrix shape inspected from gzip text to avoid unnecessary memory use.
+GSM5709985	GSM5709985_matrix_inflection_DSF041.txt.gz	metadata_and_shape_imported	3184	36999	Full dense import was not run; matrix shape inspected from gzip text to avoid unnecessary memory use.
+GSM5709986	GSM5709986_matrix_inflection_DSF051.txt.gz	metadata_and_shape_imported	3533	33559	Full dense import was not run; matrix shape inspected from gzip text to avoid unnecessary memory use.
+GSM5709987	GSM5709987_matrix_inflection_DSF061.txt.gz	metadata_and_shape_imported	6651	39785	Full dense import was not run; matrix shape inspected from gzip text to avoid unnecessary memory use.
+GSM5709988	GSM5709988_matrix_inflection_DSF062.txt.gz	metadata_and_shape_imported	10022	41165	Full dense import was not run; matrix shape inspected from gzip text to avoid unnecessary memory use.
+GSM5709989	GSM5709989_matrix_inflection_DSF071.txt.gz	metadata_and_shape_imported	4977	34937	Full dense import was not run; matrix shape inspected from gzip text to avoid unnecessary memory use.
+GSM5709990	GSM5709990_matrix_inflection_DSF072.txt.gz	metadata_and_shape_imported	5659	38574	Full dense import was not run; matrix shape inspected from gzip text to avoid unnecessary memory use.
+GSM5709991	GSM5709991_matrix_inflection_DSF081.txt.gz	metadata_and_shape_imported	5184	37881	Full dense import was not run; matrix shape inspected from gzip text to avoid unnecessary memory use.
+GSM5709992	GSM5709992_matrix_inflection_DSF101.txt.gz	metadata_and_shape_imported	3939	38517	Full dense import was not run; matrix shape inspected from gzip text to avoid unnecessary memory use.
+GSM5709993	GSM5709993_matrix_inflection_DSF102.txt.gz	metadata_and_shape_imported	7428	40035	Full dense import was not run; matrix shape inspected from gzip text to avoid unnecessary memory use.
+GSM5709994	GSM5709994_matrix_inflection_DSF111.txt.gz	metadata_and_shape_imported	4476	35974	Full dense import was not run; matrix shape inspected from gzip text to avoid unnecessary memory use.
+GSM5709995	GSM5709995_matrix_inflection_DSF112.txt.gz	metadata_and_shape_imported	5955	39323	Full dense import was not run; matrix shape inspected from gzip text to avoid unnecessary memory use.
+GSM5709996	GSM5709996_matrix_inflection_DSF121.txt.gz	metadata_and_shape_imported	4928	38748	Full dense import was not run; matrix shape inspected from gzip text to avoid unnecessary memory use.
+GSM5709997	GSM5709997_matrix_inflection_DSF122.txt.gz	metadata_and_shape_imported	8903	42695	Full dense import was not run; matrix shape inspected from gzip text to avoid unnecessary memory use.
+GSM5709998	GSM5709998_matrix_inflection_DSF123.txt.gz	metadata_and_shape_imported	2738	33040	Full dense import was not run; matrix shape inspected from gzip text to avoid unnecessary memory use.
+GSM5709999	GSM5709999_matrix_inflection_DSF131.txt.gz	metadata_and_shape_imported	8955	39869	Full dense import was not run; matrix shape inspected from gzip text to avoid unnecessary memory use.
+GSM5710000	GSM5710000_matrix_inflection_DSF132.txt.gz	metadata_and_shape_imported	4803	38762	Full dense import was not run; matrix shape inspected from gzip text to avoid unnecessary memory use.

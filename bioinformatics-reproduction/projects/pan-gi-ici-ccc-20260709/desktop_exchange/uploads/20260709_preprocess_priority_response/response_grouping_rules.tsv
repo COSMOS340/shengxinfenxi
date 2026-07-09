@@ -1,0 +1,12 @@
+dataset_id	raw_label	derived_group	rule_scope	notes
+GSE189926	PR	responder	audit_only	NE preserved separately and excluded from binary response comparisons unless explicitly approved.
+GSE189926	SD	non_responder	audit_only	Suggested helper only.
+GSE189926	PD	non_responder	audit_only	Suggested helper only.
+GSE189926	NE	not_evaluable	audit_only	Preserved as its own outcome label.
+GSE235863	CR, responder	responder	audit_only	Raw response preserved.
+GSE235863	PR, responder	responder	audit_only	Raw response preserved.
+GSE235863	R	responder	audit_only	Requested suggested helper rule.
+GSE235863	PD, non-responder	non_responder	audit_only	Raw response preserved.
+GSE235863	SD, non-responder	non_responder	audit_only	Raw response preserved.
+GSE235863	NR	non_responder	audit_only	Requested suggested helper rule.
+GSE235863	NR/SD	non_responder	audit_only	Requested suggested helper rule.

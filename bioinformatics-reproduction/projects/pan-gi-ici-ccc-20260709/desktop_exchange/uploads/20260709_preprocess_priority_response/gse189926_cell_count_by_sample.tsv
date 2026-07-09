@@ -1,0 +1,23 @@
+dataset_id	sample	patient	tissue	timepoint	response_raw	cell_count
+GSE189926	GSM5709979	DSF01	gastric tumor biopsy	pre-treatment	PD	4639
+GSE189926	GSM5709980	DSF01	gastric tumor biopsy	post-treatment	PD	2546
+GSE189926	GSM5709981	DSF02	gastric tumor biopsy	pre-treatment	SD	6589
+GSE189926	GSM5709982	DSF02	gastric tumor biopsy	post-treatment	SD	4230
+GSE189926	GSM5709983	DSF03	gastric tumor biopsy	pre-treatment	SD	6420
+GSE189926	GSM5709984	DSF03	gastric tumor biopsy	post-treatment	SD	5693
+GSE189926	GSM5709985	DSF04	gastric tumor biopsy	pre-treatment	NE	3184
+GSE189926	GSM5709986	DSF05	gastric tumor biopsy	pre-treatment	NE	3533
+GSE189926	GSM5709987	DSF06	gastric tumor biopsy	pre-treatment	SD	6651
+GSE189926	GSM5709988	DSF06	gastric tumor biopsy	post-treatment	SD	10022
+GSE189926	GSM5709989	DSF07	gastric tumor biopsy	pre-treatment	PR	4977
+GSE189926	GSM5709990	DSF07	gastric tumor biopsy	post-treatment	PR	5659
+GSE189926	GSM5709991	DSF08	gastric tumor biopsy	pre-treatment	PD	5184
+GSE189926	GSM5709992	DSF10	gastric tumor biopsy	pre-treatment	NE	3939
+GSE189926	GSM5709993	DSF10	gastric tumor biopsy	post-treatment	NE	7428
+GSE189926	GSM5709994	DSF11	gastric tumor biopsy	pre-treatment	SD	4476
+GSE189926	GSM5709995	DSF11	gastric tumor biopsy	post-treatment	SD	5955
+GSE189926	GSM5709996	DSF12	gastric tumor biopsy	pre-treatment	SD	4928
+GSE189926	GSM5709997	DSF12	gastric tumor biopsy	post-treatment1	SD	8903
+GSE189926	GSM5709998	DSF12	gastric tumor biopsy	post-treatment2	SD	2738
+GSE189926	GSM5709999	DSF13	gastric tumor biopsy	pre-treatment	PR	8955
+GSE189926	GSM5710000	DSF13	gastric tumor biopsy	post-treatment	PR	4803

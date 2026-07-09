@@ -1,0 +1,6 @@
+dataset_id	join_key	h5ad_cell_count	metadata_rows	response_values	derived_groups	join_status
+GSE235863_CD8	P3	36661	9	PR, responder	responder	matched
+GSE235863_CD8	P16	27549	10	PD, non-responder	non_responder	matched
+GSE235863_CD8	P58	10747	3	R	responder	matched
+GSE235863_CD8	P57	10313	2	R	responder	matched
+GSE235863_CD8	P53	10138	2	NR	non_responder	matched

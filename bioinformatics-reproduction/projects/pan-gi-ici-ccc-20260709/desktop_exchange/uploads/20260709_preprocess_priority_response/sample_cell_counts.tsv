@@ -1,0 +1,77 @@
+dataset_id	sample	patient	tissue	timepoint	response_raw	cell_count
+GSE189926	GSM5709979	DSF01	gastric tumor biopsy	pre-treatment	PD	4639
+GSE189926	GSM5709980	DSF01	gastric tumor biopsy	post-treatment	PD	2546
+GSE189926	GSM5709981	DSF02	gastric tumor biopsy	pre-treatment	SD	6589
+GSE189926	GSM5709982	DSF02	gastric tumor biopsy	post-treatment	SD	4230
+GSE189926	GSM5709983	DSF03	gastric tumor biopsy	pre-treatment	SD	6420
+GSE189926	GSM5709984	DSF03	gastric tumor biopsy	post-treatment	SD	5693
+GSE189926	GSM5709985	DSF04	gastric tumor biopsy	pre-treatment	NE	3184
+GSE189926	GSM5709986	DSF05	gastric tumor biopsy	pre-treatment	NE	3533
+GSE189926	GSM5709987	DSF06	gastric tumor biopsy	pre-treatment	SD	6651
+GSE189926	GSM5709988	DSF06	gastric tumor biopsy	post-treatment	SD	10022
+GSE189926	GSM5709989	DSF07	gastric tumor biopsy	pre-treatment	PR	4977
+GSE189926	GSM5709990	DSF07	gastric tumor biopsy	post-treatment	PR	5659
+GSE189926	GSM5709991	DSF08	gastric tumor biopsy	pre-treatment	PD	5184
+GSE189926	GSM5709992	DSF10	gastric tumor biopsy	pre-treatment	NE	3939
+GSE189926	GSM5709993	DSF10	gastric tumor biopsy	post-treatment	NE	7428
+GSE189926	GSM5709994	DSF11	gastric tumor biopsy	pre-treatment	SD	4476
+GSE189926	GSM5709995	DSF11	gastric tumor biopsy	post-treatment	SD	5955
+GSE189926	GSM5709996	DSF12	gastric tumor biopsy	pre-treatment	SD	4928
+GSE189926	GSM5709997	DSF12	gastric tumor biopsy	post-treatment1	SD	8903
+GSE189926	GSM5709998	DSF12	gastric tumor biopsy	post-treatment2	SD	2738
+GSE189926	GSM5709999	DSF13	gastric tumor biopsy	pre-treatment	PR	8955
+GSE189926	GSM5710000	DSF13	gastric tumor biopsy	post-treatment	PR	4803
+GSE235863_CD45	P1-post-P	P1	P		SD, non-responder	6557
+GSE235863_CD45	P1-post-T	P1	T		SD, non-responder	5760
+GSE235863_CD45	P1-pre-P	P1	P		SD, non-responder	8576
+GSE235863_CD45	P11-post-P	P11	P		PR, responder	7724
+GSE235863_CD45	P11-post-T	P11	T		PR, responder	8389
+GSE235863_CD45	P11-pre-P	P11	P		PR, responder	6324
+GSE235863_CD45	P11-pre-T	P11	T		PR, responder	5623
+GSE235863_CD45	P15-post-P	P15	P		PD, non-responder	3348
+GSE235863_CD45	P15-pre-P	P15	P		PD, non-responder	8646
+GSE235863_CD45	P15-pre-T	P15	T		PD, non-responder	3800
+GSE235863_CD45	P18-post-P	P18	P		CR, responder|PR, responder	8230
+GSE235863_CD45	P18-post-T	P18	T		CR, responder|PR, responder	7033
+GSE235863_CD45	P18-pre-P	P18	P		CR, responder|PR, responder	7569
+GSE235863_CD45	P18-pre-T	P18	T		CR, responder|PR, responder	8873
+GSE235863_CD45	P26-post-P	P26	P		PD, non-responder	5267
+GSE235863_CD45	P26-post-T	P26	T		PD, non-responder	8886
+GSE235863_CD45	P26-pre-P	P26	P		PD, non-responder	3763
+GSE235863_CD45	P26-pre-T	P26	T		PD, non-responder	4941
+GSE235863_CD45	P27-post-P	P27	P		PR, responder	5374
+GSE235863_CD45	P27-post-T	P27	T		PR, responder	7681
+GSE235863_CD45	P27-pre-P	P27	P		PR, responder	4117
+GSE235863_CD45	P27-pre-T	P27	T		PR, responder	5005
+GSE235863_CD45	P5-post-P	P5	P		PR, responder	7061
+GSE235863_CD45	P5-post-T	P5	T		PR, responder	8028
+GSE235863_CD45	P5-pre-P	P5	P		PR, responder	6912
+GSE235863_CD45	P5-pre-T	P5	T		PR, responder	2496
+GSE235863_CD45	P51-post-P	P51	P		NR/SD	10374
+GSE235863_CD45	P51-post-T	P51	T		NR/SD	5227
+GSE235863_CD45	P52-post-P	P52	P		NR/SD	5341
+GSE235863_CD45	P52-post-T	P52	T		NR/SD	4510
+GSE235863_CD8	P16-N-CD45p	P16	N		PD, non-responder	25
+GSE235863_CD8	P16-P-CD8p	P16	P		PD, non-responder	7744
+GSE235863_CD8	P16-T-CD3p	P16	T		PD, non-responder	171
+GSE235863_CD8	P16-T-CD8n	P16	T		PD, non-responder	288
+GSE235863_CD8	P16-T-CD8p	P16	T		PD, non-responder	145
+GSE235863_CD8	P16-pre-P-CD8n	P16	P		PD, non-responder	1163
+GSE235863_CD8	P16-pre-P-CD8p	P16	P		PD, non-responder	12339
+GSE235863_CD8	P16-pre-T-CD8n	P16	T		PD, non-responder	1449
+GSE235863_CD8	P16-pre-T-CD8p	P16	T		PD, non-responder	4225
+GSE235863_CD8	P3-N-CD8n	P3	N		PR, responder	821
+GSE235863_CD8	P3-N-CD8p	P3	N		PR, responder	5586
+GSE235863_CD8	P3-P-CD8p	P3	P		PR, responder	2530
+GSE235863_CD8	P3-T-CD45	P3	T		PR, responder	69
+GSE235863_CD8	P3-T-CD8n	P3	T		PR, responder	648
+GSE235863_CD8	P3-T-CD8p	P3	T		PR, responder	7814
+GSE235863_CD8	P3-af-P-CD8p	P3	P		PR, responder	16744
+GSE235863_CD8	P3-pre-P-CD8p	P3	P		PR, responder	2449
+GSE235863_CD8	P53-post-P-CD8	P53	P		NR	3847
+GSE235863_CD8	P53-post-T-CD8	P53	T		NR	6291
+GSE235863_CD8	P57-post-P-CD8	P57	P		R	4939
+GSE235863_CD8	P57-post-T-CD8	P57	T		R	5374
+GSE235863_CD8	P58-post-P-CD8	P58	P		R	3771
+GSE235863_CD8	P58-post-T-CD8	P58	T		R	5538
+GSE235863_CD8	P58-post-T-DEX	P58	T		R	1438

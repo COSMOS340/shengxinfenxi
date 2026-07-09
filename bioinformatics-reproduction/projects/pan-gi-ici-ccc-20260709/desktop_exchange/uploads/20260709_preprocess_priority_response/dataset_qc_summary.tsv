@@ -1,0 +1,7 @@
+dataset_id	cell_count_before_filtering	cell_count_after_filtering	gene_count	sample_count	filtering_rule	notes
+GSE189926	121452	121452	42695	22	none	Shape-level preprocessing only; no downsampling or filtering.
+GSE235863_CD45	191435	191435	28671	30	none	Metadata/QC summarization only; existing doublet/QC fields preserved.
+GSE235863_CD8	95408	95408	26256	24	none	Metadata/QC summarization only; existing doublet/QC fields preserved.
+ICB_Zenodo_Liver_Ma	9451	9451	21324		none	Metadata summaries from Seurat object; HCC and iCCA kept separate.
+OMIX001073					none	Zip dimensions and annotation counts only; matrices not extracted.
+GSE236581	975275	975275	36027	22	none	Metadata-only summary plus matrix dimension check; features=36027; barcodes=975275; nnz=1310816895; no response-related column detected.

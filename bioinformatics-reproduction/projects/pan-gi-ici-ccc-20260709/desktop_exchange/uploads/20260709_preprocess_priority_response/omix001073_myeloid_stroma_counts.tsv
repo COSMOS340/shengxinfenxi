@@ -1,0 +1,13 @@
+annotation_set	cluster_or_label	cell_count
+myeloid	Mφ_THBS1	1780
+myeloid	Mφ_APOE	1170
+myeloid	Mono_CD14	964
+myeloid	cDC2_CD1C	770
+myeloid	Mono_FCGR3A	443
+myeloid	pDC_LILRA4	224
+myeloid	DC_LAMP3	120
+myeloid	cDC1_XCR1	81
+stroma	Fibroblasts	2712
+stroma	Endothelial cells	2584
+stroma	Smooth muscle cells	1225
+stroma	Myofibroblasts	128

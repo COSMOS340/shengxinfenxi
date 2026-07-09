@@ -1,0 +1,4 @@
+archive	matrix_rows	matrix_cols	matrix_nonzero	barcodes	features	entries
+OMIX001073-20-03.zip	24850	166533	269783730	166533	24850	barcodes.tsv.gz;features.tsv.gz;matrix.mtx.gz
+OMIX001073-20-12.zip	17206	6649	14834383	6649	17206	barcodes.tsv.gz;features.tsv.gz;matrix.mtx.gz
+OMIX001073-20-14.zip	24850	5552	12091859	5552	24850	barcodes.tsv.gz;features.tsv.gz;matrix.mtx.gz

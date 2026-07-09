@@ -1,0 +1,23 @@
+sample_accession	sample_title	patient_id	timepoint	parse_status	matrix_file_name	gsm_from_file_name	characteristics_ch1::outcome	characteristics_ch1::treatment	characteristics_ch1::mmr	characteristics_ch1::cell type	characteristics_ch1::tissue
+GSM5709979	DSF01 pre-treatment	DSF01	pre-treatment	parsed	GSM5709979_matrix_inflection_DSF011.txt.gz	GSM5709979	PD	control	pMMR	CD45+ single cell suspension	gastric tumor biopsy
+GSM5709980	DSF01 post-treatment	DSF01	post-treatment	parsed	GSM5709980_matrix_inflection_DSF012.txt.gz	GSM5709980	PD	disulfiram (160mg) plus nivolumab	pMMR	CD45+ single cell suspension	gastric tumor biopsy
+GSM5709981	DSF02 pre-treatment	DSF02	pre-treatment	parsed	GSM5709981_matrix_inflection_DSF021.txt.gz	GSM5709981	SD	control	pMMR	CD45+ single cell suspension	gastric tumor biopsy
+GSM5709982	DSF02 post-treatment	DSF02	post-treatment	parsed	GSM5709982_matrix_inflection_DSF022.txt.gz	GSM5709982	SD	disulfiram (160mg) plus nivolumab	pMMR	CD45+ single cell suspension	gastric tumor biopsy
+GSM5709983	DSF03 pre-treatment	DSF03	pre-treatment	parsed	GSM5709983_matrix_inflection_DSF031.txt.gz	GSM5709983	SD	control	pMMR	CD45+ single cell suspension	gastric tumor biopsy
+GSM5709984	DSF03 post-treatment	DSF03	post-treatment	parsed	GSM5709984_matrix_inflection_DSF032.txt.gz	GSM5709984	SD	disulfiram (160mg) plus nivolumab	pMMR	CD45+ single cell suspension	gastric tumor biopsy
+GSM5709985	DSF04 pre-treatment	DSF04	pre-treatment	parsed	GSM5709985_matrix_inflection_DSF041.txt.gz	GSM5709985	NE	control	pMMR	CD45+ single cell suspension	gastric tumor biopsy
+GSM5709986	DSF05 pre-treatment	DSF05	pre-treatment	parsed	GSM5709986_matrix_inflection_DSF051.txt.gz	GSM5709986	NE	control	pMMR	CD45+ single cell suspension	gastric tumor biopsy
+GSM5709987	DSF06 pre-treatment	DSF06	pre-treatment	parsed	GSM5709987_matrix_inflection_DSF061.txt.gz	GSM5709987	SD	control	dMMR (MSS)	CD45+ single cell suspension	gastric tumor biopsy
+GSM5709988	DSF06 post-treatment	DSF06	post-treatment	parsed	GSM5709988_matrix_inflection_DSF062.txt.gz	GSM5709988	SD	disulfiram (160mg) plus nivolumab	dMMR (MSS)	CD45+ single cell suspension	gastric tumor biopsy
+GSM5709989	DSF07 pre-treatment	DSF07	pre-treatment	parsed	GSM5709989_matrix_inflection_DSF071.txt.gz	GSM5709989	PR	control	dMMR	CD45+ single cell suspension	gastric tumor biopsy
+GSM5709990	DSF07 post-treatment	DSF07	post-treatment	parsed	GSM5709990_matrix_inflection_DSF072.txt.gz	GSM5709990	PR	disulfiram (160mg) plus nivolumab	dMMR	CD45+ single cell suspension	gastric tumor biopsy
+GSM5709991	DSF08 pre-treatment	DSF08	pre-treatment	parsed	GSM5709991_matrix_inflection_DSF081.txt.gz	GSM5709991	PD	control	pMMR	CD45+ single cell suspension	gastric tumor biopsy
+GSM5709992	DSF10 pre-treatment	DSF10	pre-treatment	parsed	GSM5709992_matrix_inflection_DSF101.txt.gz	GSM5709992	NE	control	pMMR	CD45+ single cell suspension	gastric tumor biopsy
+GSM5709993	DSF10 post-treatment	DSF10	post-treatment	parsed	GSM5709993_matrix_inflection_DSF102.txt.gz	GSM5709993	NE	disulfiram (160mg) plus nivolumab	pMMR	CD45+ single cell suspension	gastric tumor biopsy
+GSM5709994	DSF11 pre-treatment	DSF11	pre-treatment	parsed	GSM5709994_matrix_inflection_DSF111.txt.gz	GSM5709994	SD	control	pMMR	CD45+ single cell suspension	gastric tumor biopsy
+GSM5709995	DSF11 post-treatment	DSF11	post-treatment	parsed	GSM5709995_matrix_inflection_DSF112.txt.gz	GSM5709995	SD	disulfiram (160mg) plus nivolumab	pMMR	CD45+ single cell suspension	gastric tumor biopsy
+GSM5709996	DSF12 pre-treatment	DSF12	pre-treatment	parsed	GSM5709996_matrix_inflection_DSF121.txt.gz	GSM5709996	SD	control	pMMR	CD45+ single cell suspension	gastric tumor biopsy
+GSM5709997	DSF12 post-treatment1	DSF12	post-treatment1	parsed	GSM5709997_matrix_inflection_DSF122.txt.gz	GSM5709997	SD	disulfiram (160mg) plus nivolumab	pMMR	CD45+ single cell suspension	gastric tumor biopsy
+GSM5709998	DSF12 post-treatment2	DSF12	post-treatment2	parsed	GSM5709998_matrix_inflection_DSF123.txt.gz	GSM5709998	SD	disulfiram (160mg) plus nivolumab	pMMR	CD45+ single cell suspension	gastric tumor biopsy
+GSM5709999	DSF13 pre-treatment	DSF13	pre-treatment	parsed	GSM5709999_matrix_inflection_DSF131.txt.gz	GSM5709999	PR	control	pMMR	CD45+ single cell suspension	gastric tumor biopsy
+GSM5710000	DSF13 post-treatment	DSF13	post-treatment	parsed	GSM5710000_matrix_inflection_DSF132.txt.gz	GSM5710000	PR	disulfiram (160mg) plus nivolumab	pMMR	CD45+ single cell suspension	gastric tumor biopsy

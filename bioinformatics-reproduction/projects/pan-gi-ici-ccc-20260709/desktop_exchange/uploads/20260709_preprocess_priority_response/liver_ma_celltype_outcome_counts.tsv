@@ -1,0 +1,49 @@
+cell_types	outcome	Cancer_type	Freq
+B cell	Not_app	HCC	0
+CAF	Not_app	HCC	464
+HPC-like	Not_app	HCC	43
+Malignant cell	Not_app	HCC	228
+T cell	Not_app	HCC	192
+TAM	Not_app	HCC	155
+TEC	Not_app	HCC	631
+unclassified	Not_app	HCC	0
+B cell	PD-1	HCC	0
+CAF	PD-1	HCC	0
+HPC-like	PD-1	HCC	0
+Malignant cell	PD-1	HCC	0
+T cell	PD-1	HCC	0
+TAM	PD-1	HCC	0
+TEC	PD-1	HCC	0
+unclassified	PD-1	HCC	0
+B cell	PD-L1/CTLA-4	HCC	558
+CAF	PD-L1/CTLA-4	HCC	44
+HPC-like	PD-L1/CTLA-4	HCC	115
+Malignant cell	PD-L1/CTLA-4	HCC	586
+T cell	PD-L1/CTLA-4	HCC	401
+TAM	PD-L1/CTLA-4	HCC	125
+TEC	PD-L1/CTLA-4	HCC	109
+unclassified	PD-L1/CTLA-4	HCC	25
+B cell	Not_app	iCCA	150
+CAF	Not_app	iCCA	0
+HPC-like	Not_app	iCCA	0
+Malignant cell	Not_app	iCCA	47
+T cell	Not_app	iCCA	1068
+TAM	Not_app	iCCA	86
+TEC	Not_app	iCCA	0
+unclassified	Not_app	iCCA	58
+B cell	PD-1	iCCA	224
+CAF	PD-1	iCCA	215
+HPC-like	PD-1	iCCA	759
+Malignant cell	PD-1	iCCA	730
+T cell	PD-1	iCCA	566
+TAM	PD-1	iCCA	241
+TEC	PD-1	iCCA	141
+unclassified	PD-1	iCCA	0
+B cell	PD-L1/CTLA-4	iCCA	0
+CAF	PD-L1/CTLA-4	iCCA	170
+HPC-like	PD-L1/CTLA-4	iCCA	107
+Malignant cell	PD-L1/CTLA-4	iCCA	401
+T cell	PD-L1/CTLA-4	iCCA	571
+TAM	PD-L1/CTLA-4	iCCA	89
+TEC	PD-L1/CTLA-4	iCCA	152
+unclassified	PD-L1/CTLA-4	iCCA	0

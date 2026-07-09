@@ -1,0 +1,4 @@
+annotation_set	annotation_rows	barcode_column	cluster_column_used	unique_barcodes
+all_cell	166533	Unnamed: 0	cluster	166533
+myeloid	5552	Unnamed: 0	myeloid_cluster	5552
+stroma	6649	Unnamed: 0	stroma_cluster	6649

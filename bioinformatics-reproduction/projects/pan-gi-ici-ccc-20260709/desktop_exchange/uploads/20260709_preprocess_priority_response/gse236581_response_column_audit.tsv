@@ -1,0 +1,2 @@
+dataset_id	metadata_columns	response_related_columns	action_taken
+GSE236581	orig.ident,nCount_RNA,nFeature_RNA,Ident,Patient,Treatment,Tissue,MajorCellType,SubCellType		kept_out_of_response_comparisons
