@@ -1,0 +1,1055 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1" /></mate>
+    <title>OMIX</title>
+
+    <link rel="stylesheet" type="text/css" href="/omix/css/fontawesome/css/all.css">
+    <link rel="stylesheet" type="text/css" href="https://ngdc.cncb.ac.cn/cdn/css/page.min.css"/></link>
+    <link rel="stylesheet" type="text/css" href="/omix/css/bootstrap/css/bootstrap.min.css" /></link>
+    <link rel="stylesheet" type="text/css" href="/omix/css/hra/main.css"/></link>
+    <link rel="stylesheet" type="text/css" href="/omix/css/hra/bootstrapValidator.min.css"/></link>
+    <link rel="stylesheet" type="text/css" href="/omix/css/navbar.css"/></link>
+    <script type="text/javascript" src="/omix/js/jquery.min.js"></script>
+    <script type="text/javascript" src="/omix/js/popper.min.js"></script>
+    <script type="text/javascript" src="/omix/js/bootstrapValidator.min.js"></script>
+    <script type="text/javascript" src="/omix/css/bootstrap/js/bootstrap.js"></script>
+    <script src="https://ngdc.cncb.ac.cn/cdn/js/headerfooter-full.js" data-email="gsa(at)cncb.ac.cn" data-phone="86-10-84097340"></script>
+<script type="text/javascript" src="/omix/js/baidu.js"></script>
+<script src="https://ngdc.cncb.ac.cn/cdn/js/nsti.statistics.js"></script>
+
+<link rel="stylesheet" type="text/css" href="/omix/css/datatables.min.css"/></link>
+<script type="text/javascript" src="/omix/js/datatables.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="/omix/css/maintable.css"/></link>
+
+</head>
+
+<body>
+
+<!----------------------------------------------- content ---------------------------------------------------->
+<nav class="mynavbar d-flex flex-column flex-md-row px-3 px-md-4 navbar navbar-expand-lg my-nav-light col-md-12 bg-light " style="z-index: 15;background-color:#f8f9fa!important;">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbars" aria-controls="navbars" aria-expanded="false" aria-label="Toggle navigation" style="background-color: #95adbe!important;">
+            <span class="navbar-toggler-icon" style="color: #777777!important;"></span>
+        </button>
+        <div class="collapse navbar-collapse pt-1" id="navbars">
+            <a class="navbar-brand my-nav-brand" href="https://ngdc.cncb.ac.cn"><img src="/omix/img/ngdc.jpg" alt="" class="ui small image" style="width: 110px"/></a>
+
+            <ul class="navbar-nav">
+                <div style="width: 1px;margin-top: 1rem; height: 2.5rem; background-color: #eee; margin-right: 1rem;"></div>
+                <h4 class="my-0 mr-md-auto pr-3" style="color:#777;font-family:'Karla-Bold';padding-top: 1.4rem;font-size: 1.4rem;"><span>OMIX</span></h4>
+<!--                <h4 class="my-0 mr-md-auto pt-3 pr-3" style="color:#777;font-family:'Karla-Bold';"><a id="homeBtn" th:href="@{/}">OMIX</a></h4>-->
+                <li class="nav-item">
+                    <a href="/omix/" class="nav-link"><i class="fas fa-home pr-2"></i>Home</a>
+                </li>
+                <li class="nav-item"><a href="/omix/methods" class="nav-link"><i class="fas fa-upload pr-2"></i>Submit</a></li>
+                <li class="nav-item"><a href="/omix/releaseList" class="nav-link"><i class="fas fa-th-list pr-2"></i>Browse</a></li>
+                <li class="nav-item"><a href="/omix/statistics" class="nav-link"><i class="fas fa-chart-bar pr-2"></i>Statistics</a></li>
+                <!--<li class="nav-item"><a href="https://ngdc.cncb.ac.cn/search/?dbId=omix" class="nav-link"><i class="fas fa-search pr-2"></i>Search</a></li>-->
+                <li class="nav-item"><a href="/omix/docs" class="nav-link"><i class="fas fa-copy pr-2"></i>Help</a></li>
+                
+                <li class="nav-item"></li>
+            </ul>
+            <ul class="navbar-nav ml-auto"><!--text-right nav-right -->
+                <li class="nav-item">
+                    <a href="https://sso.cncb.ac.cn/account/register/personal?service=https://ngdc.cncb.ac.cn/omix/register" class="nav-link" target="_blank">
+                        <i class="fas fa-sign-in-alt pr-2"></i>Register
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <!--<a class="nav-link" href="http://192.168.164.84:9131/sso/login?service=http://localhost:9090/omix/login">-->
+                    <a class="nav-link"href="https://sso.cncb.ac.cn/login?service=https://ngdc.cncb.ac.cn/omix/login">
+                        <i class="fas fa-user pr-2"></i>Login
+                    </a>
+                </li>
+            </ul>
+            
+        </div>
+    </nav>
+
+<div class="container-fluid col-md-12">
+
+    <div class="pricing-header py-3 mx-auto text-center">
+<!--        <h1 class="display-4" style="font-family:'Karla';">OMIX</h1>-->
+<!--        <p class="lead text-muted" style="font-family:'Karla';" th:text="${omix.title}"></p>-->
+<!--        <a th:if="${omix.accessType == false}" th:href="@{/request/{omixCode}(omixCode=${omix.omixCode})}" class="btn btn-primary my-2" style="background: #adc178!important;border: none;">Request for this Data</a>-->
+    </div>
+    <div class="form-style-10 col-md-11">
+        <h1>OMIX001073</h1>
+        <div class="section" style="display: inline-block;"><span>1</span>Summary</div>
+        <div class="pt-2">
+            <table class="table table-hover col-md-12" style="border:1px solid #E3F1D5;" width="100%" id="s_table">
+                <tr>
+                    <th class="summary-th">Title</th>
+                    <td style="text-align: left;">Single cell analysis coupled with TCR sequencing of gastric tumor reveals complex intercellular interaction and an alternative T cell exhaustion trajectory</td>
+                </tr>
+                <tr>
+                    <th class="summary-th">Description</th>
+                    <td style="text-align: left;word-break:break-all;">TCR information, BCR information and processed expression matrix from single-cell RNA sequencing.</td>
+                </tr>
+                <tr>
+                    <th class="summary-th">Organism</th>
+                    <td style="text-align: left;">Homo sapiens</td>
+                </tr>
+                <tr>
+                    <th class="summary-th">Data Type</th>
+                    <td style="text-align: left;">Expression Profiling</td>
+                </tr>
+                <tr>
+                    <th class="summary-th">Data Accessibility</th>
+                    <td style="text-align: left;">Open-access</td>
+                </tr>
+                <tr>
+                    <th class="summary-th">BioProject</th>
+                    <td style="text-align: left;"><a href="https://ngdc.cncb.ac.cn/bioproject/browse/PRJCA004201" target="_blank">PRJCA004201</a></td>
+                </tr>
+                <tr>
+                    <th class="summary-th">Release Date</th>
+                    <td style="text-align: left;">2022-08-29</td>
+                </tr>
+                <tr>
+                    <th class="summary-th">Submitter</th>
+                    <td style="text-align: left;">Xun Lan (xlan@tsinghua.edu.cn)</td>
+                </tr>
+                <tr>
+                    <th class="summary-th">Organization</th>
+                    <td style="text-align: left;">Tsinghua University</td>
+                </tr>
+                <tr>
+                    <th class="summary-th">Submission Date</th>
+                    <td style="text-align: left;">2022-04-07</td>
+                </tr>
+            </table>
+        </div>
+        <input value="9606" style="display: none" id="getTaxId"/>
+        <div class="pricing-header px-3 py-1 mx-auto text-center">
+            
+            
+        </div>
+        <div class="section me-4" style="display: inline-block;">
+            <span>2</span>Files & Download
+        </div>
+        
+        <p class="lead" style="color: #2A88AD;font-size: 14px;">HTTP download speed may be slow. It is highly recommended that you download the dataset using a dedicated FTP tool (such as <a class="other" target="_blank" href="https://filezilla-project.org/download.php?type=client">FileZilla Client</a>).</p>
+        <table class="table table-hover col-md-12 pt-3" id="all_table">
+               <thead>
+               <tr>
+                   <th style="width: 120px;table-layout: fixed;">File ID</th>
+                   <th>File Title</th>
+                   <th style="width: 95px;table-layout: fixed;">Number/Samples</th>
+                   <th>File Type</th>
+                   <th>File Size</th>
+                   <th>File Suffix</th>
+<!--                   <th style="width: 85px;table-layout: fixed;">Download Times</th>-->
+                   <th>Download</th>
+               </tr>
+               </thead>
+               <tbody>
+               <tr>
+                   <td style="width: 130px;table-layout: fixed;">OMIX001073-20-01</td>
+                   <td style="max-width: 300px!important;">B_cell_matrix</td>
+                   <td style="width: 95px;table-layout: fixed;">3</td>
+                   <td>Expression Profiling</td>
+                   <td style="min-width: 70px!important;">92.89 MB</td>
+                   <td style="min-width: 80px!important;">zip</td>
+<!--                   <td style="width: 85px;table-layout: fixed;" th:text="${file.downloadTimes}"></td>-->
+                   <td style="width: 150px!important;">
+                       
+                       
+                       <!--<span th:case="*">-</span>-->
+                       <ul class="list-inline m-0">
+                           <li class="list-inline-item">
+                               <a href="ftp://download.cncb.ac.cn/OMIX/OMIX001073/" class="btn btn-primary btn-sm rounded-5"  data-toggle="tooltip" data-placement="top" title="Download">FTP</a>
+                               <a href="https://download.cncb.ac.cn/OMIX/OMIX001073/OMIX001073-20-01.zip" class="btn btn-success btn-sm rounded-5"  data-toggle="tooltip" data-placement="top" title="Download" >HTTPs</a>
+                               <!--<a th:case="*" th:href="'https://download.cncb.ac.cn/OMIX/'+${omix.omixCode}+'/'+${file.fileCode}+'.'+${file.fileSuffix}" class="btn btn-success btn-sm rounded-5"  data-toggle="tooltip" data-placement="top" title="Download"><i class="fas fa-download"></i></a>
+                               <button class="btn btn-success btn-sm rounded-5"  data-toggle="tooltip" data-placement="top" title="Edit"><i class="fas fa-edit"></i></button>-->
+                           </li>
+                       </ul>
+                   </td>
+               </tr>
+               <tr>
+                   <td style="width: 130px;table-layout: fixed;">OMIX001073-20-02</td>
+                   <td style="max-width: 300px!important;">B_cell_annotations</td>
+                   <td style="width: 95px;table-layout: fixed;">1</td>
+                   <td>Expression Profiling</td>
+                   <td style="min-width: 70px!important;">2.32 MB</td>
+                   <td style="min-width: 80px!important;">tsv</td>
+<!--                   <td style="width: 85px;table-layout: fixed;" th:text="${file.downloadTimes}"></td>-->
+                   <td style="width: 150px!important;">
+                       
+                       
+                       <!--<span th:case="*">-</span>-->
+                       <ul class="list-inline m-0">
+                           <li class="list-inline-item">
+                               <a href="ftp://download.cncb.ac.cn/OMIX/OMIX001073/" class="btn btn-primary btn-sm rounded-5"  data-toggle="tooltip" data-placement="top" title="Download">FTP</a>
+                               <a href="https://download.cncb.ac.cn/OMIX/OMIX001073/OMIX001073-20-02.tsv" class="btn btn-success btn-sm rounded-5"  data-toggle="tooltip" data-placement="top" title="Download" >HTTPs</a>
+                               <!--<a th:case="*" th:href="'https://download.cncb.ac.cn/OMIX/'+${omix.omixCode}+'/'+${file.fileCode}+'.'+${file.fileSuffix}" class="btn btn-success btn-sm rounded-5"  data-toggle="tooltip" data-placement="top" title="Download"><i class="fas fa-download"></i></a>
+                               <button class="btn btn-success btn-sm rounded-5"  data-toggle="tooltip" data-placement="top" title="Edit"><i class="fas fa-edit"></i></button>-->
+                           </li>
+                       </ul>
+                   </td>
+               </tr>
+               <tr>
+                   <td style="width: 130px;table-layout: fixed;">OMIX001073-20-03</td>
+                   <td style="max-width: 300px!important;">All_cell_matrix</td>
+                   <td style="width: 95px;table-layout: fixed;">3</td>
+                   <td>Expression Profiling</td>
+                   <td style="min-width: 70px!important;">1.05 GB</td>
+                   <td style="min-width: 80px!important;">zip</td>
+<!--                   <td style="width: 85px;table-layout: fixed;" th:text="${file.downloadTimes}"></td>-->
+                   <td style="width: 150px!important;">
+                       
+                       
+                       <!--<span th:case="*">-</span>-->
+                       <ul class="list-inline m-0">
+                           <li class="list-inline-item">
+                               <a href="ftp://download.cncb.ac.cn/OMIX/OMIX001073/" class="btn btn-primary btn-sm rounded-5"  data-toggle="tooltip" data-placement="top" title="Download">FTP</a>
+                               <a href="https://download.cncb.ac.cn/OMIX/OMIX001073/OMIX001073-20-03.zip" class="btn btn-success btn-sm rounded-5"  data-toggle="tooltip" data-placement="top" title="Download" >HTTPs</a>
+                               <!--<a th:case="*" th:href="'https://download.cncb.ac.cn/OMIX/'+${omix.omixCode}+'/'+${file.fileCode}+'.'+${file.fileSuffix}" class="btn btn-success btn-sm rounded-5"  data-toggle="tooltip" data-placement="top" title="Download"><i class="fas fa-download"></i></a>
+                               <button class="btn btn-success btn-sm rounded-5"  data-toggle="tooltip" data-placement="top" title="Edit"><i class="fas fa-edit"></i></button>-->
+                           </li>
+                       </ul>
+                   </td>
+               </tr>
+               <tr>
+                   <td style="width: 130px;table-layout: fixed;">OMIX001073-20-04</td>
+                   <td style="max-width: 300px!important;">All_cell_annotations</td>
+                   <td style="width: 95px;table-layout: fixed;">1</td>
+                   <td>Expression Profiling</td>
+                   <td style="min-width: 70px!important;">19.52 MB</td>
+                   <td style="min-width: 80px!important;">tsv</td>
+<!--                   <td style="width: 85px;table-layout: fixed;" th:text="${file.downloadTimes}"></td>-->
+                   <td style="width: 150px!important;">
+                       
+                       
+                       <!--<span th:case="*">-</span>-->
+                       <ul class="list-inline m-0">
+                           <li class="list-inline-item">
+                               <a href="ftp://download.cncb.ac.cn/OMIX/OMIX001073/" class="btn btn-primary btn-sm rounded-5"  data-toggle="tooltip" data-placement="top" title="Download">FTP</a>
+                               <a href="https://download.cncb.ac.cn/OMIX/OMIX001073/OMIX001073-20-04.tsv" class="btn btn-success btn-sm rounded-5"  data-toggle="tooltip" data-placement="top" title="Download" >HTTPs</a>
+                               <!--<a th:case="*" th:href="'https://download.cncb.ac.cn/OMIX/'+${omix.omixCode}+'/'+${file.fileCode}+'.'+${file.fileSuffix}" class="btn btn-success btn-sm rounded-5"  data-toggle="tooltip" data-placement="top" title="Download"><i class="fas fa-download"></i></a>
+                               <button class="btn btn-success btn-sm rounded-5"  data-toggle="tooltip" data-placement="top" title="Edit"><i class="fas fa-edit"></i></button>-->
+                           </li>
+                       </ul>
+                   </td>
+               </tr>
+               <tr>
+                   <td style="width: 130px;table-layout: fixed;">OMIX001073-20-06</td>
+                   <td style="max-width: 300px!important;">Epithelial_cell_matrix</td>
+                   <td style="width: 95px;table-layout: fixed;">3</td>
+                   <td>Expression Profiling</td>
+                   <td style="min-width: 70px!important;">147.81 MB</td>
+                   <td style="min-width: 80px!important;">zip</td>
+<!--                   <td style="width: 85px;table-layout: fixed;" th:text="${file.downloadTimes}"></td>-->
+                   <td style="width: 150px!important;">
+                       
+                       
+                       <!--<span th:case="*">-</span>-->
+                       <ul class="list-inline m-0">
+                           <li class="list-inline-item">
+                               <a href="ftp://download.cncb.ac.cn/OMIX/OMIX001073/" class="btn btn-primary btn-sm rounded-5"  data-toggle="tooltip" data-placement="top" title="Download">FTP</a>
+                               <a href="https://download.cncb.ac.cn/OMIX/OMIX001073/OMIX001073-20-06.zip" class="btn btn-success btn-sm rounded-5"  data-toggle="tooltip" data-placement="top" title="Download" >HTTPs</a>
+                               <!--<a th:case="*" th:href="'https://download.cncb.ac.cn/OMIX/'+${omix.omixCode}+'/'+${file.fileCode}+'.'+${file.fileSuffix}" class="btn btn-success btn-sm rounded-5"  data-toggle="tooltip" data-placement="top" title="Download"><i class="fas fa-download"></i></a>
+                               <button class="btn btn-success btn-sm rounded-5"  data-toggle="tooltip" data-placement="top" title="Edit"><i class="fas fa-edit"></i></button>-->
+                           </li>
+                       </ul>
+                   </td>
+               </tr>
+               <tr>
+                   <td style="width: 130px;table-layout: fixed;">OMIX001073-20-07</td>
+                   <td style="max-width: 300px!important;">T_cell_matrix</td>
+                   <td style="width: 95px;table-layout: fixed;">3</td>
+                   <td>Expression Profiling</td>
+                   <td style="min-width: 70px!important;">279.44 MB</td>
+                   <td style="min-width: 80px!important;">zip</td>
+<!--                   <td style="width: 85px;table-layout: fixed;" th:text="${file.downloadTimes}"></td>-->
+                   <td style="width: 150px!important;">
+                       
+                       
+                       <!--<span th:case="*">-</span>-->
+                       <ul class="list-inline m-0">
+                           <li class="list-inline-item">
+                               <a href="ftp://download.cncb.ac.cn/OMIX/OMIX001073/" class="btn btn-primary btn-sm rounded-5"  data-toggle="tooltip" data-placement="top" title="Download">FTP</a>
+                               <a href="https://download.cncb.ac.cn/OMIX/OMIX001073/OMIX001073-20-07.zip" class="btn btn-success btn-sm rounded-5"  data-toggle="tooltip" data-placement="top" title="Download" >HTTPs</a>
+                               <!--<a th:case="*" th:href="'https://download.cncb.ac.cn/OMIX/'+${omix.omixCode}+'/'+${file.fileCode}+'.'+${file.fileSuffix}" class="btn btn-success btn-sm rounded-5"  data-toggle="tooltip" data-placement="top" title="Download"><i class="fas fa-download"></i></a>
+                               <button class="btn btn-success btn-sm rounded-5"  data-toggle="tooltip" data-placement="top" title="Edit"><i class="fas fa-edit"></i></button>-->
+                           </li>
+                       </ul>
+                   </td>
+               </tr>
+               <tr>
+                   <td style="width: 130px;table-layout: fixed;">OMIX001073-20-09</td>
+                   <td style="max-width: 300px!important;">NK_cell_annotations</td>
+                   <td style="width: 95px;table-layout: fixed;">1</td>
+                   <td>Expression Profiling</td>
+                   <td style="min-width: 70px!important;">2.07 MB</td>
+                   <td style="min-width: 80px!important;">tsv</td>
+<!--                   <td style="width: 85px;table-layout: fixed;" th:text="${file.downloadTimes}"></td>-->
+                   <td style="width: 150px!important;">
+                       
+                       
+                       <!--<span th:case="*">-</span>-->
+                       <ul class="list-inline m-0">
+                           <li class="list-inline-item">
+                               <a href="ftp://download.cncb.ac.cn/OMIX/OMIX001073/" class="btn btn-primary btn-sm rounded-5"  data-toggle="tooltip" data-placement="top" title="Download">FTP</a>
+                               <a href="https://download.cncb.ac.cn/OMIX/OMIX001073/OMIX001073-20-09.tsv" class="btn btn-success btn-sm rounded-5"  data-toggle="tooltip" data-placement="top" title="Download" >HTTPs</a>
+                               <!--<a th:case="*" th:href="'https://download.cncb.ac.cn/OMIX/'+${omix.omixCode}+'/'+${file.fileCode}+'.'+${file.fileSuffix}" class="btn btn-success btn-sm rounded-5"  data-toggle="tooltip" data-placement="top" title="Download"><i class="fas fa-download"></i></a>
+                               <button class="btn btn-success btn-sm rounded-5"  data-toggle="tooltip" data-placement="top" title="Edit"><i class="fas fa-edit"></i></button>-->
+                           </li>
+                       </ul>
+                   </td>
+               </tr>
+               <tr>
+                   <td style="width: 130px;table-layout: fixed;">OMIX001073-20-10</td>
+                   <td style="max-width: 300px!important;">NK_cell_matrix</td>
+                   <td style="width: 95px;table-layout: fixed;">3</td>
+                   <td>Expression Profiling</td>
+                   <td style="min-width: 70px!important;">81.06 MB</td>
+                   <td style="min-width: 80px!important;">zip</td>
+<!--                   <td style="width: 85px;table-layout: fixed;" th:text="${file.downloadTimes}"></td>-->
+                   <td style="width: 150px!important;">
+                       
+                       
+                       <!--<span th:case="*">-</span>-->
+                       <ul class="list-inline m-0">
+                           <li class="list-inline-item">
+                               <a href="ftp://download.cncb.ac.cn/OMIX/OMIX001073/" class="btn btn-primary btn-sm rounded-5"  data-toggle="tooltip" data-placement="top" title="Download">FTP</a>
+                               <a href="https://download.cncb.ac.cn/OMIX/OMIX001073/OMIX001073-20-10.zip" class="btn btn-success btn-sm rounded-5"  data-toggle="tooltip" data-placement="top" title="Download" >HTTPs</a>
+                               <!--<a th:case="*" th:href="'https://download.cncb.ac.cn/OMIX/'+${omix.omixCode}+'/'+${file.fileCode}+'.'+${file.fileSuffix}" class="btn btn-success btn-sm rounded-5"  data-toggle="tooltip" data-placement="top" title="Download"><i class="fas fa-download"></i></a>
+                               <button class="btn btn-success btn-sm rounded-5"  data-toggle="tooltip" data-placement="top" title="Edit"><i class="fas fa-edit"></i></button>-->
+                           </li>
+                       </ul>
+                   </td>
+               </tr>
+               <tr>
+                   <td style="width: 130px;table-layout: fixed;">OMIX001073-20-11</td>
+                   <td style="max-width: 300px!important;">Stroma_cell_annotations</td>
+                   <td style="width: 95px;table-layout: fixed;">1</td>
+                   <td>Expression Profiling</td>
+                   <td style="min-width: 70px!important;">803.55 KB</td>
+                   <td style="min-width: 80px!important;">tsv</td>
+<!--                   <td style="width: 85px;table-layout: fixed;" th:text="${file.downloadTimes}"></td>-->
+                   <td style="width: 150px!important;">
+                       
+                       
+                       <!--<span th:case="*">-</span>-->
+                       <ul class="list-inline m-0">
+                           <li class="list-inline-item">
+                               <a href="ftp://download.cncb.ac.cn/OMIX/OMIX001073/" class="btn btn-primary btn-sm rounded-5"  data-toggle="tooltip" data-placement="top" title="Download">FTP</a>
+                               <a href="https://download.cncb.ac.cn/OMIX/OMIX001073/OMIX001073-20-11.tsv" class="btn btn-success btn-sm rounded-5"  data-toggle="tooltip" data-placement="top" title="Download" >HTTPs</a>
+                               <!--<a th:case="*" th:href="'https://download.cncb.ac.cn/OMIX/'+${omix.omixCode}+'/'+${file.fileCode}+'.'+${file.fileSuffix}" class="btn btn-success btn-sm rounded-5"  data-toggle="tooltip" data-placement="top" title="Download"><i class="fas fa-download"></i></a>
+                               <button class="btn btn-success btn-sm rounded-5"  data-toggle="tooltip" data-placement="top" title="Edit"><i class="fas fa-edit"></i></button>-->
+                           </li>
+                       </ul>
+                   </td>
+               </tr>
+               <tr>
+                   <td style="width: 130px;table-layout: fixed;">OMIX001073-20-12</td>
+                   <td style="max-width: 300px!important;">Stroma_cell_matrix</td>
+                   <td style="width: 95px;table-layout: fixed;">3</td>
+                   <td>Expression Profiling</td>
+                   <td style="min-width: 70px!important;">44.32 MB</td>
+                   <td style="min-width: 80px!important;">zip</td>
+<!--                   <td style="width: 85px;table-layout: fixed;" th:text="${file.downloadTimes}"></td>-->
+                   <td style="width: 150px!important;">
+                       
+                       
+                       <!--<span th:case="*">-</span>-->
+                       <ul class="list-inline m-0">
+                           <li class="list-inline-item">
+                               <a href="ftp://download.cncb.ac.cn/OMIX/OMIX001073/" class="btn btn-primary btn-sm rounded-5"  data-toggle="tooltip" data-placement="top" title="Download">FTP</a>
+                               <a href="https://download.cncb.ac.cn/OMIX/OMIX001073/OMIX001073-20-12.zip" class="btn btn-success btn-sm rounded-5"  data-toggle="tooltip" data-placement="top" title="Download" >HTTPs</a>
+                               <!--<a th:case="*" th:href="'https://download.cncb.ac.cn/OMIX/'+${omix.omixCode}+'/'+${file.fileCode}+'.'+${file.fileSuffix}" class="btn btn-success btn-sm rounded-5"  data-toggle="tooltip" data-placement="top" title="Download"><i class="fas fa-download"></i></a>
+                               <button class="btn btn-success btn-sm rounded-5"  data-toggle="tooltip" data-placement="top" title="Edit"><i class="fas fa-edit"></i></button>-->
+                           </li>
+                       </ul>
+                   </td>
+               </tr>
+               <tr>
+                   <td style="width: 130px;table-layout: fixed;">OMIX001073-20-13</td>
+                   <td style="max-width: 300px!important;">Bulk_normalized_expression</td>
+                   <td style="width: 95px;table-layout: fixed;">1</td>
+                   <td>Expression Profiling</td>
+                   <td style="min-width: 70px!important;">9.9 MB</td>
+                   <td style="min-width: 80px!important;">csv</td>
+<!--                   <td style="width: 85px;table-layout: fixed;" th:text="${file.downloadTimes}"></td>-->
+                   <td style="width: 150px!important;">
+                       
+                       
+                       <!--<span th:case="*">-</span>-->
+                       <ul class="list-inline m-0">
+                           <li class="list-inline-item">
+                               <a href="ftp://download.cncb.ac.cn/OMIX/OMIX001073/" class="btn btn-primary btn-sm rounded-5"  data-toggle="tooltip" data-placement="top" title="Download">FTP</a>
+                               <a href="https://download.cncb.ac.cn/OMIX/OMIX001073/OMIX001073-20-13.csv" class="btn btn-success btn-sm rounded-5"  data-toggle="tooltip" data-placement="top" title="Download" >HTTPs</a>
+                               <!--<a th:case="*" th:href="'https://download.cncb.ac.cn/OMIX/'+${omix.omixCode}+'/'+${file.fileCode}+'.'+${file.fileSuffix}" class="btn btn-success btn-sm rounded-5"  data-toggle="tooltip" data-placement="top" title="Download"><i class="fas fa-download"></i></a>
+                               <button class="btn btn-success btn-sm rounded-5"  data-toggle="tooltip" data-placement="top" title="Edit"><i class="fas fa-edit"></i></button>-->
+                           </li>
+                       </ul>
+                   </td>
+               </tr>
+               <tr>
+                   <td style="width: 130px;table-layout: fixed;">OMIX001073-20-14</td>
+                   <td style="max-width: 300px!important;">Myeloid_cell_matrix</td>
+                   <td style="width: 95px;table-layout: fixed;">3</td>
+                   <td>Expression Profiling</td>
+                   <td style="min-width: 70px!important;">37.73 MB</td>
+                   <td style="min-width: 80px!important;">zip</td>
+<!--                   <td style="width: 85px;table-layout: fixed;" th:text="${file.downloadTimes}"></td>-->
+                   <td style="width: 150px!important;">
+                       
+                       
+                       <!--<span th:case="*">-</span>-->
+                       <ul class="list-inline m-0">
+                           <li class="list-inline-item">
+                               <a href="ftp://download.cncb.ac.cn/OMIX/OMIX001073/" class="btn btn-primary btn-sm rounded-5"  data-toggle="tooltip" data-placement="top" title="Download">FTP</a>
+                               <a href="https://download.cncb.ac.cn/OMIX/OMIX001073/OMIX001073-20-14.zip" class="btn btn-success btn-sm rounded-5"  data-toggle="tooltip" data-placement="top" title="Download" >HTTPs</a>
+                               <!--<a th:case="*" th:href="'https://download.cncb.ac.cn/OMIX/'+${omix.omixCode}+'/'+${file.fileCode}+'.'+${file.fileSuffix}" class="btn btn-success btn-sm rounded-5"  data-toggle="tooltip" data-placement="top" title="Download"><i class="fas fa-download"></i></a>
+                               <button class="btn btn-success btn-sm rounded-5"  data-toggle="tooltip" data-placement="top" title="Edit"><i class="fas fa-edit"></i></button>-->
+                           </li>
+                       </ul>
+                   </td>
+               </tr>
+               <tr>
+                   <td style="width: 130px;table-layout: fixed;">OMIX001073-20-15</td>
+                   <td style="max-width: 300px!important;">Myeloid_cell_annotations</td>
+                   <td style="width: 95px;table-layout: fixed;">1</td>
+                   <td>Expression Profiling</td>
+                   <td style="min-width: 70px!important;">497.91 KB</td>
+                   <td style="min-width: 80px!important;">tsv</td>
+<!--                   <td style="width: 85px;table-layout: fixed;" th:text="${file.downloadTimes}"></td>-->
+                   <td style="width: 150px!important;">
+                       
+                       
+                       <!--<span th:case="*">-</span>-->
+                       <ul class="list-inline m-0">
+                           <li class="list-inline-item">
+                               <a href="ftp://download.cncb.ac.cn/OMIX/OMIX001073/" class="btn btn-primary btn-sm rounded-5"  data-toggle="tooltip" data-placement="top" title="Download">FTP</a>
+                               <a href="https://download.cncb.ac.cn/OMIX/OMIX001073/OMIX001073-20-15.tsv" class="btn btn-success btn-sm rounded-5"  data-toggle="tooltip" data-placement="top" title="Download" >HTTPs</a>
+                               <!--<a th:case="*" th:href="'https://download.cncb.ac.cn/OMIX/'+${omix.omixCode}+'/'+${file.fileCode}+'.'+${file.fileSuffix}" class="btn btn-success btn-sm rounded-5"  data-toggle="tooltip" data-placement="top" title="Download"><i class="fas fa-download"></i></a>
+                               <button class="btn btn-success btn-sm rounded-5"  data-toggle="tooltip" data-placement="top" title="Edit"><i class="fas fa-edit"></i></button>-->
+                           </li>
+                       </ul>
+                   </td>
+               </tr>
+               <tr>
+                   <td style="width: 130px;table-layout: fixed;">OMIX001073-16</td>
+                   <td style="max-width: 300px!important;">Epithelial_cell_annotations</td>
+                   <td style="width: 95px;table-layout: fixed;">1</td>
+                   <td>Expression Profiling</td>
+                   <td style="min-width: 70px!important;">3.7 MB</td>
+                   <td style="min-width: 80px!important;">tsv</td>
+<!--                   <td style="width: 85px;table-layout: fixed;" th:text="${file.downloadTimes}"></td>-->
+                   <td style="width: 150px!important;">
+                       
+                       
+                       <!--<span th:case="*">-</span>-->
+                       <ul class="list-inline m-0">
+                           <li class="list-inline-item">
+                               <a href="ftp://download.cncb.ac.cn/OMIX/OMIX001073/" class="btn btn-primary btn-sm rounded-5"  data-toggle="tooltip" data-placement="top" title="Download">FTP</a>
+                               <a href="https://download.cncb.ac.cn/OMIX/OMIX001073/OMIX001073-16.tsv" class="btn btn-success btn-sm rounded-5"  data-toggle="tooltip" data-placement="top" title="Download" >HTTPs</a>
+                               <!--<a th:case="*" th:href="'https://download.cncb.ac.cn/OMIX/'+${omix.omixCode}+'/'+${file.fileCode}+'.'+${file.fileSuffix}" class="btn btn-success btn-sm rounded-5"  data-toggle="tooltip" data-placement="top" title="Download"><i class="fas fa-download"></i></a>
+                               <button class="btn btn-success btn-sm rounded-5"  data-toggle="tooltip" data-placement="top" title="Edit"><i class="fas fa-edit"></i></button>-->
+                           </li>
+                       </ul>
+                   </td>
+               </tr>
+               <tr>
+                   <td style="width: 130px;table-layout: fixed;">OMIX001073-17</td>
+                   <td style="max-width: 300px!important;">T_cell_annotations</td>
+                   <td style="width: 95px;table-layout: fixed;">1</td>
+                   <td>Expression Profiling</td>
+                   <td style="min-width: 70px!important;">14.35 MB</td>
+                   <td style="min-width: 80px!important;">tsv</td>
+<!--                   <td style="width: 85px;table-layout: fixed;" th:text="${file.downloadTimes}"></td>-->
+                   <td style="width: 150px!important;">
+                       
+                       
+                       <!--<span th:case="*">-</span>-->
+                       <ul class="list-inline m-0">
+                           <li class="list-inline-item">
+                               <a href="ftp://download.cncb.ac.cn/OMIX/OMIX001073/" class="btn btn-primary btn-sm rounded-5"  data-toggle="tooltip" data-placement="top" title="Download">FTP</a>
+                               <a href="https://download.cncb.ac.cn/OMIX/OMIX001073/OMIX001073-17.tsv" class="btn btn-success btn-sm rounded-5"  data-toggle="tooltip" data-placement="top" title="Download" >HTTPs</a>
+                               <!--<a th:case="*" th:href="'https://download.cncb.ac.cn/OMIX/'+${omix.omixCode}+'/'+${file.fileCode}+'.'+${file.fileSuffix}" class="btn btn-success btn-sm rounded-5"  data-toggle="tooltip" data-placement="top" title="Download"><i class="fas fa-download"></i></a>
+                               <button class="btn btn-success btn-sm rounded-5"  data-toggle="tooltip" data-placement="top" title="Edit"><i class="fas fa-edit"></i></button>-->
+                           </li>
+                       </ul>
+                   </td>
+               </tr>
+               </tbody>
+        </table>
+
+        <div class="section me-4" style="display: inline-block;">
+            <span>3</span>Relevant Publications
+        </div>
+        <table class="table table-hover col-md-12 pt-3" id="paper_table">
+            <thead>
+            <tr>
+                <th>Paper Title</th>
+                <th>Journal Name</th>
+                <th>Publish Time</th>
+                <th>Accession</th>
+                <th>Citing Type</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <td><a class="set-main-blue" target="_blank" href="https://doi.org/10.1002/advs.202417593">Immunotyping the Tumor Microenvironment Reveals Molecular Heterogeneity for Personalized Immunotherapy in Cancer</a></td>
+                <td>Advanced Science</td>
+                <td>2025-05</td>
+                <td>
+                    <span class="omix-list">
+                        <span>
+                            <a class="set-main-blue omix-item"
+                               target="_blank"
+                               href="https://ngdc.cncb.ac.cn/omix/release/OMIX001073"
+                               data-index="0">OMIX001073</a>
+                            
+                        </span>
+                    </span>
+                    <a href="javascript:void(0)"
+                       class="omix-toggle set-main-blue"
+                       style="display:none;">
+                        More
+                    </a>
+                </td>
+                <td>Secondary use</td>
+            </tr>
+            <tr>
+                <td><a class="set-main-blue" target="_blank" href="https://doi.org/10.1002/tox.24064">Hypoxia‐based critical gene biomarkers as prognostic reporters for gastric adenocarcinoma</a></td>
+                <td>Environmental Toxicology</td>
+                <td>2023-12</td>
+                <td>
+                    <span class="omix-list">
+                        <span>
+                            <a class="set-main-blue omix-item"
+                               target="_blank"
+                               href="https://ngdc.cncb.ac.cn/omix/release/OMIX001073"
+                               data-index="0">OMIX001073</a>
+                            
+                        </span>
+                    </span>
+                    <a href="javascript:void(0)"
+                       class="omix-toggle set-main-blue"
+                       style="display:none;">
+                        More
+                    </a>
+                </td>
+                <td>Secondary use</td>
+            </tr>
+            <tr>
+                <td><a class="set-main-blue" target="_blank" href="https://doi.org/10.1016/j.canlet.2025.217475">FAP upregulates PD-L1 expression in cancer-associated fibroblasts to exacerbate T cells dysfunction and suppress anti-tumor immunity</a></td>
+                <td>Cancer Letters</td>
+                <td>2025-01</td>
+                <td>
+                    <span class="omix-list">
+                        <span>
+                            <a class="set-main-blue omix-item"
+                               target="_blank"
+                               href="https://ngdc.cncb.ac.cn/omix/release/OMIX001073"
+                               data-index="0">OMIX001073</a>
+                            
+                        </span>
+                    </span>
+                    <a href="javascript:void(0)"
+                       class="omix-toggle set-main-blue"
+                       style="display:none;">
+                        More
+                    </a>
+                </td>
+                <td>Secondary use</td>
+            </tr>
+            <tr>
+                <td><a class="set-main-blue" target="_blank" href="https://doi.org/10.1016/j.tranon.2025.102614">Multi-omics analysis reveals the heterogeneity and interactions among stromal and tumor cells in gastric cancer</a></td>
+                <td>Translational Oncology</td>
+                <td>2026-01</td>
+                <td>
+                    <span class="omix-list">
+                        <span>
+                            <a class="set-main-blue omix-item"
+                               target="_blank"
+                               href="https://ngdc.cncb.ac.cn/omix/release/OMIX001073"
+                               data-index="0">OMIX001073</a>
+                            
+                        </span>
+                    </span>
+                    <a href="javascript:void(0)"
+                       class="omix-toggle set-main-blue"
+                       style="display:none;">
+                        More
+                    </a>
+                </td>
+                <td>Secondary use</td>
+            </tr>
+            <tr>
+                <td><a class="set-main-blue" target="_blank" href="https://doi.org/10.1038/s41467-022-32627-z">scRNA-seq of gastric tumor shows complex intercellular interaction with an alternative T cell exhaustion trajectory</a></td>
+                <td>Nature Communications</td>
+                <td>2022-08</td>
+                <td>
+                    <span class="omix-list">
+                        <span>
+                            <a class="set-main-blue omix-item"
+                               target="_blank"
+                               href="https://ngdc.cncb.ac.cn/omix/release/OMIX001073"
+                               data-index="0">OMIX001073</a>
+                            
+                        </span>
+                    </span>
+                    <a href="javascript:void(0)"
+                       class="omix-toggle set-main-blue"
+                       style="display:none;">
+                        More
+                    </a>
+                </td>
+                <td>Deposit</td>
+            </tr>
+            <tr>
+                <td><a class="set-main-blue" target="_blank" href="https://doi.org/10.1038/s41467-025-59874-0">Oral ENPP1 inhibitor designed using generative AI as next generation STING modulator for solid tumors</a></td>
+                <td>Nature Communications</td>
+                <td>2025-05</td>
+                <td>
+                    <span class="omix-list">
+                        <span>
+                            <a class="set-main-blue omix-item"
+                               target="_blank"
+                               href="https://ngdc.cncb.ac.cn/omix/release/OMIX001073"
+                               data-index="0">OMIX001073</a>
+                            
+                        </span>
+                    </span>
+                    <a href="javascript:void(0)"
+                       class="omix-toggle set-main-blue"
+                       style="display:none;">
+                        More
+                    </a>
+                </td>
+                <td>Secondary use</td>
+            </tr>
+            <tr>
+                <td><a class="set-main-blue" target="_blank" href="https://doi.org/10.1038/s41586-025-08591-1">Nociceptive neurons promote gastric tumour progression via a CGRP–RAMP1 axis</a></td>
+                <td>Nature</td>
+                <td>2025-02</td>
+                <td>
+                    <span class="omix-list">
+                        <span>
+                            <a class="set-main-blue omix-item"
+                               target="_blank"
+                               href="https://ngdc.cncb.ac.cn/omix/release/OMIX001073"
+                               data-index="0">OMIX001073</a>
+                            
+                        </span>
+                    </span>
+                    <a href="javascript:void(0)"
+                       class="omix-toggle set-main-blue"
+                       style="display:none;">
+                        More
+                    </a>
+                </td>
+                <td>Secondary use</td>
+            </tr>
+            <tr>
+                <td><a class="set-main-blue" target="_blank" href="https://doi.org/10.1038/s41698-025-00895-9">Multi-omics analysis identifies diagnostic circulating biomarkers and potential therapeutic targets, revealing IQGAP1 as an oncogene in gastric cancer</a></td>
+                <td>npj Precision Oncology</td>
+                <td>2025-04</td>
+                <td>
+                    <span class="omix-list">
+                        <span>
+                            <a class="set-main-blue omix-item"
+                               target="_blank"
+                               href="https://ngdc.cncb.ac.cn/omix/release/OMIX001073"
+                               data-index="0">OMIX001073</a>
+                            
+                        </span>
+                    </span>
+                    <a href="javascript:void(0)"
+                       class="omix-toggle set-main-blue"
+                       style="display:none;">
+                        More
+                    </a>
+                </td>
+                <td>Secondary use</td>
+            </tr>
+            <tr>
+                <td><a class="set-main-blue" target="_blank" href="https://doi.org/10.1038/s41698-026-01359-4">AI-enabled single-cell dissection of the palmitoylation landscape identifies a multicellular prognostic program in gastric cancer</a></td>
+                <td>NPJ Precision Oncology</td>
+                <td>2026-03</td>
+                <td>
+                    <span class="omix-list">
+                        <span>
+                            <a class="set-main-blue omix-item"
+                               target="_blank"
+                               href="https://ngdc.cncb.ac.cn/omix/release/OMIX001073"
+                               data-index="0">OMIX001073</a>
+                            
+                        </span>
+                    </span>
+                    <a href="javascript:void(0)"
+                       class="omix-toggle set-main-blue"
+                       style="display:none;">
+                        More
+                    </a>
+                </td>
+                <td>Secondary use</td>
+            </tr>
+            <tr>
+                <td><a class="set-main-blue" target="_blank" href="https://doi.org/10.1101/2024.03.04.583209">Nociceptive neurons interact directly with gastric cancer cells via a CGRP/Ramp1 axis to promote tumor progression</a></td>
+                <td>bioRxiv</td>
+                <td>2024-03</td>
+                <td>
+                    <span class="omix-list">
+                        <span>
+                            <a class="set-main-blue omix-item"
+                               target="_blank"
+                               href="https://ngdc.cncb.ac.cn/omix/release/OMIX001073"
+                               data-index="0">OMIX001073</a>
+                            
+                        </span>
+                    </span>
+                    <a href="javascript:void(0)"
+                       class="omix-toggle set-main-blue"
+                       style="display:none;">
+                        More
+                    </a>
+                </td>
+                <td>Secondary use</td>
+            </tr>
+            <tr>
+                <td><a class="set-main-blue" target="_blank" href="https://doi.org/10.1111/imcb.70040">Sketching T cell atlases in the single‐cell era: challenges and recommendations</a></td>
+                <td>Immunology and Cell Biology</td>
+                <td>2025-06</td>
+                <td>
+                    <span class="omix-list">
+                        <span>
+                            <a class="set-main-blue omix-item"
+                               target="_blank"
+                               href="https://ngdc.cncb.ac.cn/omix/release/OMIX001073"
+                               data-index="0">OMIX001073</a>
+                            
+                        </span>
+                    </span>
+                    <a href="javascript:void(0)"
+                       class="omix-toggle set-main-blue"
+                       style="display:none;">
+                        More
+                    </a>
+                </td>
+                <td>Secondary use</td>
+            </tr>
+            <tr>
+                <td><a class="set-main-blue" target="_blank" href="https://doi.org/10.1136/jitc-2023-007402">Loss of ADAR1 in macrophages in combination with interferon gamma suppresses tumor growth by remodeling the tumor microenvironment</a></td>
+                <td>Journal for Immunotherapy of Cancer</td>
+                <td>2023-11</td>
+                <td>
+                    <span class="omix-list">
+                        <span>
+                            <a class="set-main-blue omix-item"
+                               target="_blank"
+                               href="https://ngdc.cncb.ac.cn/omix/release/OMIX001073"
+                               data-index="0">OMIX001073</a>
+                            
+                        </span>
+                    </span>
+                    <a href="javascript:void(0)"
+                       class="omix-toggle set-main-blue"
+                       style="display:none;">
+                        More
+                    </a>
+                </td>
+                <td>Secondary use</td>
+            </tr>
+            <tr>
+                <td><a class="set-main-blue" target="_blank" href="https://doi.org/10.1136/jitc-2024-010455">Blood TCTP as a potential biomarker associated with immunosuppressive features and poor clinical outcomes in metastatic gastric cancer</a></td>
+                <td>Journal for Immunotherapy of Cancer</td>
+                <td>2025-03</td>
+                <td>
+                    <span class="omix-list">
+                        <span>
+                            <a class="set-main-blue omix-item"
+                               target="_blank"
+                               href="https://ngdc.cncb.ac.cn/omix/release/OMIX001073"
+                               data-index="0">OMIX001073</a>
+                            
+                        </span>
+                    </span>
+                    <a href="javascript:void(0)"
+                       class="omix-toggle set-main-blue"
+                       style="display:none;">
+                        More
+                    </a>
+                </td>
+                <td>Secondary use</td>
+            </tr>
+            <tr>
+                <td><a class="set-main-blue" target="_blank" href="https://doi.org/10.1186/s12885-026-15647-6">Spatial atlas of gastric cancer reveals macrophage-driven stromal activation via ICAM1 ⁺ smooth muscle cells</a></td>
+                <td>BMC Cancer</td>
+                <td>2026-02</td>
+                <td>
+                    <span class="omix-list">
+                        <span>
+                            <a class="set-main-blue omix-item"
+                               target="_blank"
+                               href="https://ngdc.cncb.ac.cn/omix/release/OMIX001073"
+                               data-index="0">OMIX001073</a>
+                            
+                        </span>
+                    </span>
+                    <a href="javascript:void(0)"
+                       class="omix-toggle set-main-blue"
+                       style="display:none;">
+                        More
+                    </a>
+                </td>
+                <td>Secondary use</td>
+            </tr>
+            <tr>
+                <td><a class="set-main-blue" target="_blank" href="https://doi.org/10.1186/s12967-024-05503-1">Mutual exclusivity and co-occurrence patterns of immune checkpoints indicate NKG2A relates to anti-PD-1 resistance in gastric cancer</a></td>
+                <td>Journal of Translational Medicine</td>
+                <td>2024-08</td>
+                <td>
+                    <span class="omix-list">
+                        <span>
+                            <a class="set-main-blue omix-item"
+                               target="_blank"
+                               href="https://ngdc.cncb.ac.cn/omix/release/OMIX001073"
+                               data-index="0">OMIX001073</a>
+                            
+                        </span>
+                    </span>
+                    <a href="javascript:void(0)"
+                       class="omix-toggle set-main-blue"
+                       style="display:none;">
+                        More
+                    </a>
+                </td>
+                <td>Secondary use</td>
+            </tr>
+            <tr>
+                <td><a class="set-main-blue" target="_blank" href="https://doi.org/10.1186/s12967-024-05606-9">Re-analysis of single cell and spatial transcriptomics data reveals B cell landscape in gastric cancer microenvironment and its potential crosstalk with tumor cells for clinical prognosis</a></td>
+                <td>Journal of Translational Medicine</td>
+                <td>2024-08</td>
+                <td>
+                    <span class="omix-list">
+                        <span>
+                            <a class="set-main-blue omix-item"
+                               target="_blank"
+                               href="https://ngdc.cncb.ac.cn/omix/release/OMIX001073"
+                               data-index="0">OMIX001073</a>
+                            
+                        </span>
+                    </span>
+                    <a href="javascript:void(0)"
+                       class="omix-toggle set-main-blue"
+                       style="display:none;">
+                        More
+                    </a>
+                </td>
+                <td>Secondary use</td>
+            </tr>
+            <tr>
+                <td><a class="set-main-blue" target="_blank" href="https://doi.org/10.1186/s12967-024-05939-5">C3+ cancer-associated fibroblasts promote tumor growth and therapeutic resistance in gastric cancer via activation of the NF-κB signaling pathway</a></td>
+                <td>Journal of Translational Medicine</td>
+                <td>2024-12</td>
+                <td>
+                    <span class="omix-list">
+                        <span>
+                            <a class="set-main-blue omix-item"
+                               target="_blank"
+                               href="https://ngdc.cncb.ac.cn/omix/release/OMIX001073"
+                               data-index="0">OMIX001073</a>
+                            
+                        </span>
+                    </span>
+                    <a href="javascript:void(0)"
+                       class="omix-toggle set-main-blue"
+                       style="display:none;">
+                        More
+                    </a>
+                </td>
+                <td>Secondary use</td>
+            </tr>
+            <tr>
+                <td><a class="set-main-blue" target="_blank" href="https://doi.org/10.1186/s13046-025-03435-2">ESRP1 exerts anti-tumor role by promoting ferroptosis in diffuse-type gastric cancer</a></td>
+                <td>Journal of Experimental &amp; Clinical Cancer Research</td>
+                <td>2025-06</td>
+                <td>
+                    <span class="omix-list">
+                        <span>
+                            <a class="set-main-blue omix-item"
+                               target="_blank"
+                               href="https://ngdc.cncb.ac.cn/omix/release/OMIX001073"
+                               data-index="0">OMIX001073</a>
+                            
+                        </span>
+                    </span>
+                    <a href="javascript:void(0)"
+                       class="omix-toggle set-main-blue"
+                       style="display:none;">
+                        More
+                    </a>
+                </td>
+                <td>Secondary use</td>
+            </tr>
+            <tr>
+                <td><a class="set-main-blue" target="_blank" href="https://doi.org/10.3389/fimmu.2025.1562395">Integrative analysis of single-cell and bulk RNA sequencing reveals the oncogenic role of ANXA5 in gastric cancer and its association with drug resistance</a></td>
+                <td>Frontiers in Immunology</td>
+                <td>2025-03</td>
+                <td>
+                    <span class="omix-list">
+                        <span>
+                            <a class="set-main-blue omix-item"
+                               target="_blank"
+                               href="https://ngdc.cncb.ac.cn/omix/release/OMIX001073"
+                               data-index="0">OMIX001073</a>
+                            
+                        </span>
+                    </span>
+                    <a href="javascript:void(0)"
+                       class="omix-toggle set-main-blue"
+                       style="display:none;">
+                        More
+                    </a>
+                </td>
+                <td>Secondary use</td>
+            </tr>
+            <tr>
+                <td><a class="set-main-blue" target="_blank" href="https://doi.org/10.3389/fimmu.2025.1592558">Transcriptional profiling reveals H.pylori -associated genes induced inflammatory cell infiltration and chemoresistance in gastric cancer</a></td>
+                <td>Frontiers in Immunology</td>
+                <td>2025-05</td>
+                <td>
+                    <span class="omix-list">
+                        <span>
+                            <a class="set-main-blue omix-item"
+                               target="_blank"
+                               href="https://ngdc.cncb.ac.cn/omix/release/OMIX001073"
+                               data-index="0">OMIX001073</a>
+                            
+                        </span>
+                    </span>
+                    <a href="javascript:void(0)"
+                       class="omix-toggle set-main-blue"
+                       style="display:none;">
+                        More
+                    </a>
+                </td>
+                <td>Secondary use</td>
+            </tr>
+            <tr>
+                <td><a class="set-main-blue" target="_blank" href="https://doi.org/10.34133/research.1208">A Single-Cell Atlas of Pan-Cancer Liver Metastasis Reveals Dynamic Cellular Programs Driving Metastatic Progression and Immune Modulation</a></td>
+                <td>Research</td>
+                <td>2026-03</td>
+                <td>
+                    <span class="omix-list">
+                        <span>
+                            <a class="set-main-blue omix-item"
+                               target="_blank"
+                               href="https://ngdc.cncb.ac.cn/omix/release/OMIX001073"
+                               data-index="0">OMIX001073</a>
+                            
+                        </span>
+                    </span>
+                    <a href="javascript:void(0)"
+                       class="omix-toggle set-main-blue"
+                       style="display:none;">
+                        More
+                    </a>
+                </td>
+                <td>Secondary use</td>
+            </tr>
+            </tbody>
+        </table>
+
+        <div id="homo" style="display: none">
+        <div class="section"><span>4</span>Accessions in the Ministry of Science and Technology</div>
+        <div class="pt-2">
+            <table class="table table-hover col-md-12" style="border:1px solid #E3F1D5;" id="s_table">
+                <tr>
+                    <th class="summary-th">Registration number</th>
+                    <td style="text-align: left;">2022BAT2135</td>
+                </tr>
+                <tr>
+                    <th class="summary-th">Backup number</th>
+                    <td style="text-align: left;"></td>
+                </tr>
+            </table>
+        </div></div>
+        <!--       <i class="fas fa-trash-alt"><a>&nbsp;&nbsp;Remove this File</a></i>-->
+
+    </div>
+
+    <div class="pricing-header px-3 py-3 mx-auto text-center">
+         <p>
+             <a href="/omix/releaseList" class="btn btn-secondary my-2" style="border: grey;">View All Released Data of OMIX</a>
+        </p>
+    </div>
+
+</div>
+
+<!----------------------------------------------- content ---------------------------------------------------->
+</body>
+
+<script>
+
+    //showBackForm($("#getTaxId").val());
+    function showBackForm(tid) {
+        let dhomo = ["9605", "1425170", "9606", "63221", "741158", "1849111", "1131344", "2045059", "1383439", "1573476"];
+        //console.log(tid, " ", dhomo.includes(tid));
+        if (dhomo.includes(tid)) {
+            $("#homo").css('display', "block");
+        }
+        else
+        {
+            $("#homo").css('display', "none");
+        }
+    }
+
+    $('#all_table').DataTable({});
+    let myPapertable = $('#paper_table').DataTable({
+        columns: [
+            {},
+            { width: "20%" },
+            { width: "15%" },
+            { width: "6%" },
+            { width: "12%" },
+        ]
+    }).order([2, 'desc']);
+
+    myPapertable.on('draw', function () {
+        initOmixToggle();
+    });
+
+    // 首次加载
+    initOmixToggle();
+
+    $("[name^='ftpDownload']").on('click', function(){
+        window.open($(this).attr("value"));
+        console.log( $(this).attr("value"));
+    });
+
+    function initOmixToggle() {
+        $('#paper_table tbody tr').each(function () {
+            const $td = $(this).find('td').eq(3); // Accession 列
+            const $items = $td.find('.omix-item');
+
+            if ($items.length > 3) {
+                // 先隐藏第 4 个以后的
+                $items.slice(3).hide();
+
+                const $toggle = $td.find('.omix-toggle');
+                $toggle.show().text('More');
+
+                $toggle.off('click').on('click', function () {
+                    const expanded = $(this).data('expanded');
+
+                    if (expanded) {
+                        $items.slice(3).hide();
+                        $(this).text('More').data('expanded', false);
+                    } else {
+                        $items.show();
+                        $(this).text('Less').data('expanded', true);
+                    }
+                });
+            }
+        });
+    }
+
+
+</script>
