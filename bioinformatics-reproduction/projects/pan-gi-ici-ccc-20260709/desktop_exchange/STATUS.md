@@ -14,6 +14,7 @@ Do not run CellChat, LIANA, NicheNet, differential communication, manuscript fig
 
 - `20260710_gse189926_annotation_qc_refinement_manifest.tsv`
 - `20260710_gse189926_annotation_qc_refinement_request.md`
+- `20260710_gse189926_umap_repair_policy.md`
 
 ## Input Audits From Previous PC Steps
 
