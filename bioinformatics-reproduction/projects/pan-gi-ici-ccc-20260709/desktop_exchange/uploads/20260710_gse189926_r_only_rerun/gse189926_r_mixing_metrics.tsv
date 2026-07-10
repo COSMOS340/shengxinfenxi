@@ -1,0 +1,4 @@
+route_name	k_neighbors	cells_used	mean_same_sample_neighbor_fraction	median_same_sample_neighbor_fraction	mean_same_patient_neighbor_fraction	median_same_patient_neighbor_fraction	interpretation
+unfiltered_unintegrated_umap	15	121452	0.358288596866801	0.2	0.418362809999012	0.266666666666667	Lower same-sample fraction indicates less sample-dominated local structure; patient structure is retained as a separate diagnostic.
+qc_pass_unintegrated_umap	15	89587	0.355122953107036	0.2	0.406929576835925	0.266666666666667	Lower same-sample fraction indicates less sample-dominated local structure; patient structure is retained as a separate diagnostic.
+qc_pass_harmony_sample_accession_umap	15	89587	0.149203939559683	0.0666666666666667	0.204728364606472	0.133333333333333	Lower same-sample fraction indicates less sample-dominated local structure; patient structure is retained as a separate diagnostic.

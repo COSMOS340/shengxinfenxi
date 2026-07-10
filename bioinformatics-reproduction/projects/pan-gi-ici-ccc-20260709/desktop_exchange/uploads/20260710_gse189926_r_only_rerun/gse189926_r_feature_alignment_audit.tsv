@@ -1,0 +1,23 @@
+sample_accession	observed_unique_features	union_features	missing_features_filled_with_zero	alignment_status	alignment_method
+GSM5709979	37716	51757	14041	completed	union of exact feature names; missing rows represented as sparse zeros
+GSM5709980	37398	51757	14359	completed	union of exact feature names; missing rows represented as sparse zeros
+GSM5709981	42075	51757	9682	completed	union of exact feature names; missing rows represented as sparse zeros
+GSM5709982	40595	51757	11162	completed	union of exact feature names; missing rows represented as sparse zeros
+GSM5709983	38229	51757	13528	completed	union of exact feature names; missing rows represented as sparse zeros
+GSM5709984	39240	51757	12517	completed	union of exact feature names; missing rows represented as sparse zeros
+GSM5709985	36999	51757	14758	completed	union of exact feature names; missing rows represented as sparse zeros
+GSM5709986	33559	51757	18198	completed	union of exact feature names; missing rows represented as sparse zeros
+GSM5709987	39785	51757	11972	completed	union of exact feature names; missing rows represented as sparse zeros
+GSM5709988	41165	51757	10592	completed	union of exact feature names; missing rows represented as sparse zeros
+GSM5709989	34937	51757	16820	completed	union of exact feature names; missing rows represented as sparse zeros
+GSM5709990	38574	51757	13183	completed	union of exact feature names; missing rows represented as sparse zeros
+GSM5709991	37881	51757	13876	completed	union of exact feature names; missing rows represented as sparse zeros
+GSM5709992	38517	51757	13240	completed	union of exact feature names; missing rows represented as sparse zeros
+GSM5709993	40035	51757	11722	completed	union of exact feature names; missing rows represented as sparse zeros
+GSM5709994	35974	51757	15783	completed	union of exact feature names; missing rows represented as sparse zeros
+GSM5709995	39323	51757	12434	completed	union of exact feature names; missing rows represented as sparse zeros
+GSM5709996	38748	51757	13009	completed	union of exact feature names; missing rows represented as sparse zeros
+GSM5709997	42695	51757	9062	completed	union of exact feature names; missing rows represented as sparse zeros
+GSM5709998	33040	51757	18717	completed	union of exact feature names; missing rows represented as sparse zeros
+GSM5709999	39869	51757	11888	completed	union of exact feature names; missing rows represented as sparse zeros
+GSM5710000	38762	51757	12995	completed	union of exact feature names; missing rows represented as sparse zeros

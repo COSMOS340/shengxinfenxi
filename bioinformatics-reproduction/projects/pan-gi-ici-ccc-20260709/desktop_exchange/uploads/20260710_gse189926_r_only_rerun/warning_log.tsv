@@ -1,0 +1,6 @@
+dataset_id	warning_type	affected_field	affected_count	explanation	action_taken
+GSE189926	refined_label_space_limit	refined_label	17878	Cluster 0 has strong FCGR3B/CSF3R granulocyte-like evidence, but the requested refined label space has no granulocyte label.	Broad Granulocyte_like retained; refined label set to Unresolved_low_signal without forcing a monocyte subtype.
+GSE189926	nonimmune_signal_in_cd45_input	refined_label	14632	Several clusters show epithelial, stromal/perivascular, or endothelial programs despite CD45+ source metadata.	Broad nonimmune identity retained; refined labels left Unresolved_low_signal.
+GSE189926	small_or_mixed_clusters	refined_label	1713	Clusters 14, 16, and 18 are small or contain conflicting marker programs.	Labels assigned only where marker evidence was stable; conflicts are recorded in the label audit.
+GSE189926	resolution_selection	annotation_resolution	2	Resolutions 0.3 and 0.8 were audited but not selected for final annotation.	Harmony resolution 0.5 selected after marker review; all three resolution summaries remain available.
+GSE235863_CD45	response_metadata_ambiguity	response_ambiguity_flag	31705	P18 retains the source CR/responder versus PR/responder ambiguity flag.	Raw response and ambiguity flag preserved in R composition outputs and figure facet.

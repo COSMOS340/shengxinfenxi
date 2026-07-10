@@ -1,0 +1,8 @@
+qc_flag	metric	threshold	threshold_rule	q1	q3	iqr	affected_cells	total_cells	affected_fraction
+low_detected_genes	nFeature_RNA	200	nFeature_RNA < max(200, Q1 - 1.5*IQR)	664	2224	1560	8095	121452	0.0666518459967724
+high_detected_genes	nFeature_RNA	6904	nFeature_RNA > Q3 + 3*IQR	664	2224	1560	1512	121452	0.0124493627111945
+high_total_counts	nCount_RNA	112251	nCount_RNA > Q3 + 3*IQR	6697	33085.5	26388.5	5975	121452	0.0491963903435102
+high_mitochondrial_percentage	pct_mt	25	pct_mt > min(25, max(10, Q3 + 1.5*IQR))	3.52015355489718	16.5948480974431	13.0746945425459	23846	121452	0.196340941277212
+high_ribosomal_percentage	pct_ribo	42.6536788909588	pct_ribo > min(50, max(20, Q3 + 3*IQR))	1.2058846881598	11.5678332388595	10.3619485506997	24	121452	0.000197608931923723
+high_hemoglobin_percentage	pct_hb	5	pct_hb > max(5, Q3 + 3*IQR)	0	0	0	504	121452	0.00414978757039818
+qc_pass	all_flags		TRUE when none of the six QC flags is TRUE				89587	121452	0.737632974343774

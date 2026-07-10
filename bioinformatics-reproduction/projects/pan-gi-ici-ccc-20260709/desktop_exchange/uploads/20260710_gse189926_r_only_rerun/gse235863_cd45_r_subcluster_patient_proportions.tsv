@@ -1,0 +1,776 @@
+patient	raw_response	derived_response_group	response_ambiguity_flag	tissue	sub_cluster	cell_count	proportion_within_patient_tissue
+P1	SD, non-responder	non_responder	FALSE	P	B_C01_IGHD	978	0.0646269741624265
+P1	SD, non-responder	non_responder	FALSE	P	B_C02_CD27	467	0.030859710566312
+P1	SD, non-responder	non_responder	FALSE	P	CD4_C01_CCR7	2423	0.160113658891165
+P1	SD, non-responder	non_responder	FALSE	P	CD4_C02_IL7R	1222	0.0807506773276944
+P1	SD, non-responder	non_responder	FALSE	P	CD4_C03_CD44	387	0.0255732505121258
+P1	SD, non-responder	non_responder	FALSE	P	CD4_C04_GZMK	1199	0.0792308200621159
+P1	SD, non-responder	non_responder	FALSE	P	CD4_C05_GNLY	592	0.039119804400978
+P1	SD, non-responder	non_responder	FALSE	P	CD4_C06_CXCL13	13	0.00085904975880526
+P1	SD, non-responder	non_responder	FALSE	P	CD4_C07_CTLA4	12	0.000792969008127932
+P1	SD, non-responder	non_responder	FALSE	P	CD4_C08_FOXP3	243	0.0160576224145906
+P1	SD, non-responder	non_responder	FALSE	P	CD4_C09_MKI67	2	0.000132161501354655
+P1	SD, non-responder	non_responder	FALSE	P	CD8_C01_LEF1	673	0.0444723452058415
+P1	SD, non-responder	non_responder	FALSE	P	CD8_C02_GPR183	47	0.0031057952818344
+P1	SD, non-responder	non_responder	FALSE	P	CD8_C03_CX3CR1	1172	0.0774466397938281
+P1	SD, non-responder	non_responder	FALSE	P	CD8_C04_GIMAP4	191	0.0126214233793696
+P1	SD, non-responder	non_responder	FALSE	P	CD8_C05_TCF7	55	0.00363444128725302
+P1	SD, non-responder	non_responder	FALSE	P	CD8_C06_KIR2DL3	217	0.0143395228969801
+P1	SD, non-responder	non_responder	FALSE	P	CD8_C07_KLRC2	5	0.000330403753386638
+P1	SD, non-responder	non_responder	FALSE	P	CD8_C08_GZMK	581	0.0383929161435274
+P1	SD, non-responder	non_responder	FALSE	P	CD8_C09_LAYN	11	0.000726888257450605
+P1	SD, non-responder	non_responder	FALSE	P	CD8_C10_SLC4A10	230	0.0151985726557854
+P1	SD, non-responder	non_responder	FALSE	P	CD8_C11_MKI67	1	6.60807506773277e-05
+P1	SD, non-responder	non_responder	FALSE	P	ILC2	2	0.000132161501354655
+P1	SD, non-responder	non_responder	FALSE	P	Macro_C01_FCN1	18	0.0011894535121919
+P1	SD, non-responder	non_responder	FALSE	P	Macro_C02_C1QC	2	0.000132161501354655
+P1	SD, non-responder	non_responder	FALSE	P	Mast	2	0.000132161501354655
+P1	SD, non-responder	non_responder	FALSE	P	Megakaryocyte	1	6.60807506773277e-05
+P1	SD, non-responder	non_responder	FALSE	P	Mono_C01_FCGR3A	313	0.0206832749620036
+P1	SD, non-responder	non_responder	FALSE	P	Mono_C02_CD14	1361	0.089935901671843
+P1	SD, non-responder	non_responder	FALSE	P	Mono_C03_ITGA5	230	0.0151985726557854
+P1	SD, non-responder	non_responder	FALSE	P	NKT-like	17	0.00112337276151457
+P1	SD, non-responder	non_responder	FALSE	P	NK_C01_FCGR3A	1851	0.122315469503734
+P1	SD, non-responder	non_responder	FALSE	P	NK_C02_SELL	51	0.00337011828454371
+P1	SD, non-responder	non_responder	FALSE	P	NK_C03_GZMK	5	0.000330403753386638
+P1	SD, non-responder	non_responder	FALSE	P	NK_C04_MKI67	8	0.000528646005418622
+P1	SD, non-responder	non_responder	FALSE	P	Plasma_C01_CD52	14	0.000925130509482588
+P1	SD, non-responder	non_responder	FALSE	P	Plasma_C03_SDC1_HSPA1A	2	0.000132161501354655
+P1	SD, non-responder	non_responder	FALSE	P	cDC1	30	0.00198242252031983
+P1	SD, non-responder	non_responder	FALSE	P	cDC2_C01_CD1C	159	0.0105068393576951
+P1	SD, non-responder	non_responder	FALSE	P	gdT_C01_GZMB	19	0.00125553426286923
+P1	SD, non-responder	non_responder	FALSE	P	gdT_C02_GZMK	134	0.00885482059076191
+P1	SD, non-responder	non_responder	FALSE	P	gdT_C03_KLRG1	138	0.00911914359347122
+P1	SD, non-responder	non_responder	FALSE	P	pDC	55	0.00363444128725302
+P1	SD, non-responder	non_responder	FALSE	T	B_C01_IGHD	26	0.00451388888888889
+P1	SD, non-responder	non_responder	FALSE	T	B_C02_CD27	117	0.0203125
+P1	SD, non-responder	non_responder	FALSE	T	CD4_C01_CCR7	66	0.0114583333333333
+P1	SD, non-responder	non_responder	FALSE	T	CD4_C02_IL7R	5	0.000868055555555556
+P1	SD, non-responder	non_responder	FALSE	T	CD4_C03_CD44	224	0.0388888888888889
+P1	SD, non-responder	non_responder	FALSE	T	CD4_C04_GZMK	524	0.0909722222222222
+P1	SD, non-responder	non_responder	FALSE	T	CD4_C05_GNLY	72	0.0125
+P1	SD, non-responder	non_responder	FALSE	T	CD4_C06_CXCL13	42	0.00729166666666667
+P1	SD, non-responder	non_responder	FALSE	T	CD4_C07_CTLA4	364	0.0631944444444445
+P1	SD, non-responder	non_responder	FALSE	T	CD4_C08_FOXP3	9	0.0015625
+P1	SD, non-responder	non_responder	FALSE	T	CD4_C09_MKI67	72	0.0125
+P1	SD, non-responder	non_responder	FALSE	T	CD8_C01_LEF1	5	0.000868055555555556
+P1	SD, non-responder	non_responder	FALSE	T	CD8_C02_GPR183	2	0.000347222222222222
+P1	SD, non-responder	non_responder	FALSE	T	CD8_C03_CX3CR1	247	0.0428819444444444
+P1	SD, non-responder	non_responder	FALSE	T	CD8_C04_GIMAP4	5	0.000868055555555556
+P1	SD, non-responder	non_responder	FALSE	T	CD8_C05_TCF7	29	0.00503472222222222
+P1	SD, non-responder	non_responder	FALSE	T	CD8_C06_KIR2DL3	1	0.000173611111111111
+P1	SD, non-responder	non_responder	FALSE	T	CD8_C07_KLRC2	181	0.0314236111111111
+P1	SD, non-responder	non_responder	FALSE	T	CD8_C08_GZMK	729	0.1265625
+P1	SD, non-responder	non_responder	FALSE	T	CD8_C09_LAYN	161	0.0279513888888889
+P1	SD, non-responder	non_responder	FALSE	T	CD8_C10_SLC4A10	111	0.0192708333333333
+P1	SD, non-responder	non_responder	FALSE	T	CD8_C11_MKI67	46	0.00798611111111111
+P1	SD, non-responder	non_responder	FALSE	T	ILC2	2	0.000347222222222222
+P1	SD, non-responder	non_responder	FALSE	T	ILC3	2	0.000347222222222222
+P1	SD, non-responder	non_responder	FALSE	T	LAMP3+ DC	9	0.0015625
+P1	SD, non-responder	non_responder	FALSE	T	Macro_C01_FCN1	550	0.0954861111111111
+P1	SD, non-responder	non_responder	FALSE	T	Macro_C02_C1QC	496	0.0861111111111111
+P1	SD, non-responder	non_responder	FALSE	T	Macro_C03_TREM2	388	0.0673611111111111
+P1	SD, non-responder	non_responder	FALSE	T	Macro_C04_IL1B	10	0.00173611111111111
+P1	SD, non-responder	non_responder	FALSE	T	Mast	2	0.000347222222222222
+P1	SD, non-responder	non_responder	FALSE	T	Mono_C01_FCGR3A	262	0.0454861111111111
+P1	SD, non-responder	non_responder	FALSE	T	Mono_C02_CD14	69	0.0119791666666667
+P1	SD, non-responder	non_responder	FALSE	T	Mono_C03_ITGA5	7	0.00121527777777778
+P1	SD, non-responder	non_responder	FALSE	T	NKT-like	1	0.000173611111111111
+P1	SD, non-responder	non_responder	FALSE	T	NK_C01_FCGR3A	222	0.0385416666666667
+P1	SD, non-responder	non_responder	FALSE	T	NK_C02_SELL	3	0.000520833333333333
+P1	SD, non-responder	non_responder	FALSE	T	NK_C03_GZMK	158	0.0274305555555556
+P1	SD, non-responder	non_responder	FALSE	T	NK_C04_MKI67	20	0.00347222222222222
+P1	SD, non-responder	non_responder	FALSE	T	Plasma_C02_SDC1	7	0.00121527777777778
+P1	SD, non-responder	non_responder	FALSE	T	Plasma_C03_SDC1_HSPA1A	4	0.000694444444444445
+P1	SD, non-responder	non_responder	FALSE	T	cDC1	98	0.0170138888888889
+P1	SD, non-responder	non_responder	FALSE	T	cDC2_C01_CD1C	289	0.0501736111111111
+P1	SD, non-responder	non_responder	FALSE	T	cDC2_C02_MKI67	80	0.0138888888888889
+P1	SD, non-responder	non_responder	FALSE	T	gdT_C01_GZMB	1	0.000173611111111111
+P1	SD, non-responder	non_responder	FALSE	T	gdT_C02_GZMK	23	0.00399305555555556
+P1	SD, non-responder	non_responder	FALSE	T	gdT_C03_KLRG1	2	0.000347222222222222
+P1	SD, non-responder	non_responder	FALSE	T	pDC	17	0.00295138888888889
+P11	PR, responder	responder	FALSE	P	B_C01_IGHD	177	0.0125996583143508
+P11	PR, responder	responder	FALSE	P	B_C02_CD27	84	0.00597949886104784
+P11	PR, responder	responder	FALSE	P	CD4_C01_CCR7	2038	0.145074031890661
+P11	PR, responder	responder	FALSE	P	CD4_C02_IL7R	149	0.0106064920273349
+P11	PR, responder	responder	FALSE	P	CD4_C03_CD44	478	0.0340261958997722
+P11	PR, responder	responder	FALSE	P	CD4_C04_GZMK	162	0.0115318906605923
+P11	PR, responder	responder	FALSE	P	CD4_C05_GNLY	332	0.0236332574031891
+P11	PR, responder	responder	FALSE	P	CD4_C06_CXCL13	5	0.000355922551252847
+P11	PR, responder	responder	FALSE	P	CD4_C08_FOXP3	301	0.0214265375854214
+P11	PR, responder	responder	FALSE	P	CD4_C09_MKI67	3	0.000213553530751708
+P11	PR, responder	responder	FALSE	P	CD8_C01_LEF1	884	0.0629271070615034
+P11	PR, responder	responder	FALSE	P	CD8_C02_GPR183	47	0.00334567198177677
+P11	PR, responder	responder	FALSE	P	CD8_C03_CX3CR1	3113	0.221597380410023
+P11	PR, responder	responder	FALSE	P	CD8_C04_GIMAP4	90	0.00640660592255125
+P11	PR, responder	responder	FALSE	P	CD8_C05_TCF7	109	0.00775911161731207
+P11	PR, responder	responder	FALSE	P	CD8_C06_KIR2DL3	66	0.00469817767653759
+P11	PR, responder	responder	FALSE	P	CD8_C07_KLRC2	13	0.000925398633257403
+P11	PR, responder	responder	FALSE	P	CD8_C08_GZMK	365	0.0259823462414579
+P11	PR, responder	responder	FALSE	P	CD8_C09_LAYN	9	0.000640660592255125
+P11	PR, responder	responder	FALSE	P	CD8_C10_SLC4A10	105	0.0074743735763098
+P11	PR, responder	responder	FALSE	P	CD8_C11_MKI67	1	7.11845102505695e-05
+P11	PR, responder	responder	FALSE	P	ILC2	6	0.000427107061503417
+P11	PR, responder	responder	FALSE	P	ILC3	3	0.000213553530751708
+P11	PR, responder	responder	FALSE	P	Macro_C01_FCN1	21	0.00149487471526196
+P11	PR, responder	responder	FALSE	P	Mast	2	0.000142369020501139
+P11	PR, responder	responder	FALSE	P	Megakaryocyte	7	0.000498291571753986
+P11	PR, responder	responder	FALSE	P	Mono_C01_FCGR3A	68	0.00484054669703872
+P11	PR, responder	responder	FALSE	P	Mono_C02_CD14	275	0.0195757403189066
+P11	PR, responder	responder	FALSE	P	Mono_C03_ITGA5	177	0.0125996583143508
+P11	PR, responder	responder	FALSE	P	NKT-like	29	0.00206435079726651
+P11	PR, responder	responder	FALSE	P	NK_C01_FCGR3A	2611	0.185862756264237
+P11	PR, responder	responder	FALSE	P	NK_C02_SELL	117	0.00832858769931663
+P11	PR, responder	responder	FALSE	P	NK_C03_GZMK	2	0.000142369020501139
+P11	PR, responder	responder	FALSE	P	NK_C04_MKI67	15	0.00106776765375854
+P11	PR, responder	responder	FALSE	P	Plasma_C01_CD52	2	0.000142369020501139
+P11	PR, responder	responder	FALSE	P	cDC1	2	0.000142369020501139
+P11	PR, responder	responder	FALSE	P	cDC2_C01_CD1C	43	0.00306093394077449
+P11	PR, responder	responder	FALSE	P	gdT_C01_GZMB	1315	0.0936076309794989
+P11	PR, responder	responder	FALSE	P	gdT_C02_GZMK	652	0.0464123006833713
+P11	PR, responder	responder	FALSE	P	gdT_C03_KLRG1	162	0.0115318906605923
+P11	PR, responder	responder	FALSE	P	pDC	8	0.000569476082004556
+P11	PR, responder	responder	FALSE	T	B_C01_IGHD	84	0.00599486154724522
+P11	PR, responder	responder	FALSE	T	B_C02_CD27	195	0.0139166428775335
+P11	PR, responder	responder	FALSE	T	CD4_C01_CCR7	263	0.0187696260348273
+P11	PR, responder	responder	FALSE	T	CD4_C02_IL7R	115	0.00820725092777619
+P11	PR, responder	responder	FALSE	T	CD4_C03_CD44	447	0.0319012275192692
+P11	PR, responder	responder	FALSE	T	CD4_C04_GZMK	2926	0.208821010562375
+P11	PR, responder	responder	FALSE	T	CD4_C05_GNLY	32	0.00228375677990294
+P11	PR, responder	responder	FALSE	T	CD4_C06_CXCL13	279	0.0199115044247788
+P11	PR, responder	responder	FALSE	T	CD4_C07_CTLA4	716	0.0510990579503283
+P11	PR, responder	responder	FALSE	T	CD4_C08_FOXP3	56	0.00399657436483015
+P11	PR, responder	responder	FALSE	T	CD4_C09_MKI67	21	0.0014987153868113
+P11	PR, responder	responder	FALSE	T	CD8_C01_LEF1	90	0.00642306594347702
+P11	PR, responder	responder	FALSE	T	CD8_C02_GPR183	17	0.00121324578932344
+P11	PR, responder	responder	FALSE	T	CD8_C03_CX3CR1	215	0.0153439908649729
+P11	PR, responder	responder	FALSE	T	CD8_C04_GIMAP4	58	0.00413930916357408
+P11	PR, responder	responder	FALSE	T	CD8_C05_TCF7	100	0.00713673993719669
+P11	PR, responder	responder	FALSE	T	CD8_C06_KIR2DL3	3	0.000214102198115901
+P11	PR, responder	responder	FALSE	T	CD8_C07_KLRC2	413	0.0294747359406223
+P11	PR, responder	responder	FALSE	T	CD8_C08_GZMK	5028	0.35883528404225
+P11	PR, responder	responder	FALSE	T	CD8_C09_LAYN	698	0.0498144447616329
+P11	PR, responder	responder	FALSE	T	CD8_C10_SLC4A10	675	0.0481729945760776
+P11	PR, responder	responder	FALSE	T	CD8_C11_MKI67	12	0.000856408792463603
+P11	PR, responder	responder	FALSE	T	ILC2	2	0.000142734798743934
+P11	PR, responder	responder	FALSE	T	ILC3	12	0.000856408792463603
+P11	PR, responder	responder	FALSE	T	LAMP3+ DC	2	0.000142734798743934
+P11	PR, responder	responder	FALSE	T	Macro_C01_FCN1	168	0.0119897230944904
+P11	PR, responder	responder	FALSE	T	Macro_C02_C1QC	61	0.00435341136168998
+P11	PR, responder	responder	FALSE	T	Macro_C03_TREM2	31	0.00221238938053097
+P11	PR, responder	responder	FALSE	T	Macro_C04_IL1B	102	0.00727947473594062
+P11	PR, responder	responder	FALSE	T	Mast	26	0.00185555238367114
+P11	PR, responder	responder	FALSE	T	Mono_C01_FCGR3A	40	0.00285469597487868
+P11	PR, responder	responder	FALSE	T	Mono_C02_CD14	25	0.00178418498429917
+P11	PR, responder	responder	FALSE	T	Mono_C03_ITGA5	9	0.000642306594347702
+P11	PR, responder	responder	FALSE	T	NK_C01_FCGR3A	207	0.0147730516699971
+P11	PR, responder	responder	FALSE	T	NK_C02_SELL	43	0.00306879817299458
+P11	PR, responder	responder	FALSE	T	NK_C03_GZMK	183	0.0130602340850699
+P11	PR, responder	responder	FALSE	T	Plasma_C01_CD52	1	7.13673993719669e-05
+P11	PR, responder	responder	FALSE	T	Plasma_C02_SDC1	16	0.00114187838995147
+P11	PR, responder	responder	FALSE	T	Plasma_C03_SDC1_HSPA1A	19	0.00135598058806737
+P11	PR, responder	responder	FALSE	T	cDC1	32	0.00228375677990294
+P11	PR, responder	responder	FALSE	T	cDC2_C01_CD1C	255	0.0181986868398516
+P11	PR, responder	responder	FALSE	T	cDC2_C02_MKI67	10	0.000713673993719669
+P11	PR, responder	responder	FALSE	T	gdT_C01_GZMB	29	0.00206965458178704
+P11	PR, responder	responder	FALSE	T	gdT_C02_GZMK	179	0.0127747644875821
+P11	PR, responder	responder	FALSE	T	gdT_C03_KLRG1	16	0.00114187838995147
+P11	PR, responder	responder	FALSE	T	pDC	101	0.00720810733656866
+P15	PD, non-responder	non_responder	FALSE	P	B_C01_IGHD	272	0.0226780056695014
+P15	PD, non-responder	non_responder	FALSE	P	B_C02_CD27	180	0.0150075037518759
+P15	PD, non-responder	non_responder	FALSE	P	CD4_C01_CCR7	3093	0.257878939469735
+P15	PD, non-responder	non_responder	FALSE	P	CD4_C02_IL7R	242	0.0201767550441888
+P15	PD, non-responder	non_responder	FALSE	P	CD4_C03_CD44	641	0.0534433883608471
+P15	PD, non-responder	non_responder	FALSE	P	CD4_C04_GZMK	396	0.0330165082541271
+P15	PD, non-responder	non_responder	FALSE	P	CD4_C05_GNLY	199	0.0165916291479073
+P15	PD, non-responder	non_responder	FALSE	P	CD4_C06_CXCL13	6	0.000500250125062531
+P15	PD, non-responder	non_responder	FALSE	P	CD4_C07_CTLA4	10	0.000833750208437552
+P15	PD, non-responder	non_responder	FALSE	P	CD4_C08_FOXP3	309	0.0257628814407204
+P15	PD, non-responder	non_responder	FALSE	P	CD4_C09_MKI67	1	8.33750208437552e-05
+P15	PD, non-responder	non_responder	FALSE	P	CD8_C01_LEF1	766	0.0638652659663165
+P15	PD, non-responder	non_responder	FALSE	P	CD8_C02_GPR183	399	0.0332666333166583
+P15	PD, non-responder	non_responder	FALSE	P	CD8_C03_CX3CR1	657	0.0547773886943472
+P15	PD, non-responder	non_responder	FALSE	P	CD8_C04_GIMAP4	12	0.00100050025012506
+P15	PD, non-responder	non_responder	FALSE	P	CD8_C05_TCF7	241	0.020093380023345
+P15	PD, non-responder	non_responder	FALSE	P	CD8_C06_KIR2DL3	71	0.00591962647990662
+P15	PD, non-responder	non_responder	FALSE	P	CD8_C07_KLRC2	3	0.000250125062531266
+P15	PD, non-responder	non_responder	FALSE	P	CD8_C08_GZMK	201	0.0167583791895948
+P15	PD, non-responder	non_responder	FALSE	P	CD8_C09_LAYN	8	0.000667000166750042
+P15	PD, non-responder	non_responder	FALSE	P	CD8_C10_SLC4A10	29	0.0024178756044689
+P15	PD, non-responder	non_responder	FALSE	P	ILC2	13	0.00108387527096882
+P15	PD, non-responder	non_responder	FALSE	P	ILC3	5	0.000416875104218776
+P15	PD, non-responder	non_responder	FALSE	P	Macro_C01_FCN1	47	0.0039186259796565
+P15	PD, non-responder	non_responder	FALSE	P	Macro_C04_IL1B	1	8.33750208437552e-05
+P15	PD, non-responder	non_responder	FALSE	P	Mast	12	0.00100050025012506
+P15	PD, non-responder	non_responder	FALSE	P	Megakaryocyte	27	0.00225112556278139
+P15	PD, non-responder	non_responder	FALSE	P	Mono_C01_FCGR3A	185	0.0154243788560947
+P15	PD, non-responder	non_responder	FALSE	P	Mono_C02_CD14	491	0.0409371352342838
+P15	PD, non-responder	non_responder	FALSE	P	Mono_C03_ITGA5	170	0.0141737535434384
+P15	PD, non-responder	non_responder	FALSE	P	NKT-like	12	0.00100050025012506
+P15	PD, non-responder	non_responder	FALSE	P	NK_C01_FCGR3A	2933	0.244538936134734
+P15	PD, non-responder	non_responder	FALSE	P	NK_C02_SELL	172	0.0143405035851259
+P15	PD, non-responder	non_responder	FALSE	P	NK_C03_GZMK	8	0.000667000166750042
+P15	PD, non-responder	non_responder	FALSE	P	NK_C04_MKI67	8	0.000667000166750042
+P15	PD, non-responder	non_responder	FALSE	P	Plasma_C01_CD52	22	0.00183425045856262
+P15	PD, non-responder	non_responder	FALSE	P	Plasma_C02_SDC1	1	8.33750208437552e-05
+P15	PD, non-responder	non_responder	FALSE	P	Plasma_C03_SDC1_HSPA1A	2	0.00016675004168751
+P15	PD, non-responder	non_responder	FALSE	P	cDC1	2	0.00016675004168751
+P15	PD, non-responder	non_responder	FALSE	P	cDC2_C01_CD1C	21	0.00175087543771886
+P15	PD, non-responder	non_responder	FALSE	P	gdT_C01_GZMB	19	0.00158412539603135
+P15	PD, non-responder	non_responder	FALSE	P	gdT_C02_GZMK	79	0.00658662664665666
+P15	PD, non-responder	non_responder	FALSE	P	gdT_C03_KLRG1	19	0.00158412539603135
+P15	PD, non-responder	non_responder	FALSE	P	pDC	9	0.000750375187593797
+P15	PD, non-responder	non_responder	FALSE	T	B_C01_IGHD	51	0.013421052631579
+P15	PD, non-responder	non_responder	FALSE	T	B_C02_CD27	140	0.0368421052631579
+P15	PD, non-responder	non_responder	FALSE	T	CD4_C01_CCR7	151	0.0397368421052632
+P15	PD, non-responder	non_responder	FALSE	T	CD4_C02_IL7R	14	0.00368421052631579
+P15	PD, non-responder	non_responder	FALSE	T	CD4_C03_CD44	257	0.0676315789473684
+P15	PD, non-responder	non_responder	FALSE	T	CD4_C04_GZMK	740	0.194736842105263
+P15	PD, non-responder	non_responder	FALSE	T	CD4_C05_GNLY	14	0.00368421052631579
+P15	PD, non-responder	non_responder	FALSE	T	CD4_C06_CXCL13	47	0.0123684210526316
+P15	PD, non-responder	non_responder	FALSE	T	CD4_C07_CTLA4	56	0.0147368421052632
+P15	PD, non-responder	non_responder	FALSE	T	CD4_C08_FOXP3	12	0.00315789473684211
+P15	PD, non-responder	non_responder	FALSE	T	CD4_C09_MKI67	5	0.00131578947368421
+P15	PD, non-responder	non_responder	FALSE	T	CD8_C01_LEF1	14	0.00368421052631579
+P15	PD, non-responder	non_responder	FALSE	T	CD8_C02_GPR183	17	0.00447368421052632
+P15	PD, non-responder	non_responder	FALSE	T	CD8_C03_CX3CR1	30	0.00789473684210526
+P15	PD, non-responder	non_responder	FALSE	T	CD8_C04_GIMAP4	7	0.0018421052631579
+P15	PD, non-responder	non_responder	FALSE	T	CD8_C05_TCF7	49	0.0128947368421053
+P15	PD, non-responder	non_responder	FALSE	T	CD8_C06_KIR2DL3	3	0.000789473684210526
+P15	PD, non-responder	non_responder	FALSE	T	CD8_C07_KLRC2	52	0.0136842105263158
+P15	PD, non-responder	non_responder	FALSE	T	CD8_C08_GZMK	787	0.207105263157895
+P15	PD, non-responder	non_responder	FALSE	T	CD8_C09_LAYN	114	0.03
+P15	PD, non-responder	non_responder	FALSE	T	CD8_C10_SLC4A10	153	0.0402631578947368
+P15	PD, non-responder	non_responder	FALSE	T	CD8_C11_MKI67	4	0.00105263157894737
+P15	PD, non-responder	non_responder	FALSE	T	ILC2	14	0.00368421052631579
+P15	PD, non-responder	non_responder	FALSE	T	ILC3	7	0.0018421052631579
+P15	PD, non-responder	non_responder	FALSE	T	LAMP3+ DC	2	0.000526315789473684
+P15	PD, non-responder	non_responder	FALSE	T	Macro_C01_FCN1	57	0.015
+P15	PD, non-responder	non_responder	FALSE	T	Macro_C02_C1QC	61	0.0160526315789474
+P15	PD, non-responder	non_responder	FALSE	T	Macro_C03_TREM2	15	0.00394736842105263
+P15	PD, non-responder	non_responder	FALSE	T	Macro_C04_IL1B	96	0.0252631578947368
+P15	PD, non-responder	non_responder	FALSE	T	Mast	12	0.00315789473684211
+P15	PD, non-responder	non_responder	FALSE	T	Mono_C01_FCGR3A	23	0.00605263157894737
+P15	PD, non-responder	non_responder	FALSE	T	Mono_C02_CD14	9	0.00236842105263158
+P15	PD, non-responder	non_responder	FALSE	T	Mono_C03_ITGA5	4	0.00105263157894737
+P15	PD, non-responder	non_responder	FALSE	T	NK_C01_FCGR3A	194	0.0510526315789474
+P15	PD, non-responder	non_responder	FALSE	T	NK_C02_SELL	16	0.00421052631578947
+P15	PD, non-responder	non_responder	FALSE	T	NK_C03_GZMK	346	0.0910526315789474
+P15	PD, non-responder	non_responder	FALSE	T	NK_C04_MKI67	5	0.00131578947368421
+P15	PD, non-responder	non_responder	FALSE	T	Plasma_C02_SDC1	8	0.00210526315789474
+P15	PD, non-responder	non_responder	FALSE	T	Plasma_C03_SDC1_HSPA1A	5	0.00131578947368421
+P15	PD, non-responder	non_responder	FALSE	T	cDC1	34	0.00894736842105263
+P15	PD, non-responder	non_responder	FALSE	T	cDC2_C01_CD1C	126	0.0331578947368421
+P15	PD, non-responder	non_responder	FALSE	T	cDC2_C02_MKI67	6	0.00157894736842105
+P15	PD, non-responder	non_responder	FALSE	T	gdT_C02_GZMK	27	0.00710526315789474
+P15	PD, non-responder	non_responder	FALSE	T	gdT_C03_KLRG1	1	0.000263157894736842
+P15	PD, non-responder	non_responder	FALSE	T	pDC	15	0.00394736842105263
+P18	CR, responder|PR, responder	responder	TRUE	P	B_C01_IGHD	1249	0.0790556364326856
+P18	CR, responder|PR, responder	responder	TRUE	P	B_C02_CD27	339	0.0214570542439395
+P18	CR, responder|PR, responder	responder	TRUE	P	CD4_C01_CCR7	1216	0.0769668966390278
+P18	CR, responder|PR, responder	responder	TRUE	P	CD4_C02_IL7R	2111	0.133616051648839
+P18	CR, responder|PR, responder	responder	TRUE	P	CD4_C03_CD44	24	0.0015190834862966
+P18	CR, responder|PR, responder	responder	TRUE	P	CD4_C04_GZMK	433	0.0274067978986012
+P18	CR, responder|PR, responder	responder	TRUE	P	CD4_C05_GNLY	353	0.0223431862776125
+P18	CR, responder|PR, responder	responder	TRUE	P	CD4_C06_CXCL13	1	6.32951452623584e-05
+P18	CR, responder|PR, responder	responder	TRUE	P	CD4_C07_CTLA4	3	0.000189885435787075
+P18	CR, responder|PR, responder	responder	TRUE	P	CD4_C08_FOXP3	236	0.0149376542819166
+P18	CR, responder|PR, responder	responder	TRUE	P	CD4_C09_MKI67	5	0.000316475726311792
+P18	CR, responder|PR, responder	responder	TRUE	P	CD8_C01_LEF1	492	0.0311412114690803
+P18	CR, responder|PR, responder	responder	TRUE	P	CD8_C02_GPR183	6	0.00037977087157415
+P18	CR, responder|PR, responder	responder	TRUE	P	CD8_C03_CX3CR1	1873	0.118551807076397
+P18	CR, responder|PR, responder	responder	TRUE	P	CD8_C04_GIMAP4	440	0.0278498639154377
+P18	CR, responder|PR, responder	responder	TRUE	P	CD8_C05_TCF7	5	0.000316475726311792
+P18	CR, responder|PR, responder	responder	TRUE	P	CD8_C06_KIR2DL3	836	0.0529147414393316
+P18	CR, responder|PR, responder	responder	TRUE	P	CD8_C08_GZMK	239	0.0151275397177037
+P18	CR, responder|PR, responder	responder	TRUE	P	CD8_C09_LAYN	4	0.000253180581049434
+P18	CR, responder|PR, responder	responder	TRUE	P	CD8_C10_SLC4A10	256	0.0162035571871637
+P18	CR, responder|PR, responder	responder	TRUE	P	CD8_C11_MKI67	1	6.32951452623584e-05
+P18	CR, responder|PR, responder	responder	TRUE	P	ILC2	4	0.000253180581049434
+P18	CR, responder|PR, responder	responder	TRUE	P	ILC3	1	6.32951452623584e-05
+P18	CR, responder|PR, responder	responder	TRUE	P	Macro_C01_FCN1	2	0.000126590290524717
+P18	CR, responder|PR, responder	responder	TRUE	P	Macro_C02_C1QC	1	6.32951452623584e-05
+P18	CR, responder|PR, responder	responder	TRUE	P	Macro_C03_TREM2	1	6.32951452623584e-05
+P18	CR, responder|PR, responder	responder	TRUE	P	Macro_C04_IL1B	1	6.32951452623584e-05
+P18	CR, responder|PR, responder	responder	TRUE	P	Megakaryocyte	4	0.000253180581049434
+P18	CR, responder|PR, responder	responder	TRUE	P	Mono_C01_FCGR3A	319	0.0201911513386923
+P18	CR, responder|PR, responder	responder	TRUE	P	Mono_C02_CD14	2356	0.149123362238116
+P18	CR, responder|PR, responder	responder	TRUE	P	Mono_C03_ITGA5	5	0.000316475726311792
+P18	CR, responder|PR, responder	responder	TRUE	P	NKT-like	227	0.0143679979745554
+P18	CR, responder|PR, responder	responder	TRUE	P	NK_C01_FCGR3A	2260	0.14304702829293
+P18	CR, responder|PR, responder	responder	TRUE	P	NK_C02_SELL	83	0.00525349705677575
+P18	CR, responder|PR, responder	responder	TRUE	P	NK_C03_GZMK	1	6.32951452623584e-05
+P18	CR, responder|PR, responder	responder	TRUE	P	NK_C04_MKI67	13	0.000822836888410659
+P18	CR, responder|PR, responder	responder	TRUE	P	Plasma_C01_CD52	57	0.00360782327995443
+P18	CR, responder|PR, responder	responder	TRUE	P	Plasma_C02_SDC1	2	0.000126590290524717
+P18	CR, responder|PR, responder	responder	TRUE	P	Plasma_C03_SDC1_HSPA1A	4	0.000253180581049434
+P18	CR, responder|PR, responder	responder	TRUE	P	cDC1	13	0.000822836888410659
+P18	CR, responder|PR, responder	responder	TRUE	P	cDC2_C01_CD1C	58	0.00367111842521679
+P18	CR, responder|PR, responder	responder	TRUE	P	gdT_C01_GZMB	13	0.000822836888410659
+P18	CR, responder|PR, responder	responder	TRUE	P	gdT_C03_KLRG1	243	0.0153807202987531
+P18	CR, responder|PR, responder	responder	TRUE	P	pDC	9	0.000569656307361225
+P18	CR, responder|PR, responder	responder	TRUE	T	B_C01_IGHD	302	0.0189865459575003
+P18	CR, responder|PR, responder	responder	TRUE	T	B_C02_CD27	2319	0.145794039984911
+P18	CR, responder|PR, responder	responder	TRUE	T	CD4_C01_CCR7	105	0.00660128253489249
+P18	CR, responder|PR, responder	responder	TRUE	T	CD4_C02_IL7R	50	0.00314346787375833
+P18	CR, responder|PR, responder	responder	TRUE	T	CD4_C03_CD44	347	0.0218156670438828
+P18	CR, responder|PR, responder	responder	TRUE	T	CD4_C04_GZMK	882	0.0554507732930969
+P18	CR, responder|PR, responder	responder	TRUE	T	CD4_C05_GNLY	7	0.000440085502326166
+P18	CR, responder|PR, responder	responder	TRUE	T	CD4_C06_CXCL13	897	0.0563938136552245
+P18	CR, responder|PR, responder	responder	TRUE	T	CD4_C07_CTLA4	1560	0.0980761976612599
+P18	CR, responder|PR, responder	responder	TRUE	T	CD4_C08_FOXP3	35	0.00220042751163083
+P18	CR, responder|PR, responder	responder	TRUE	T	CD4_C09_MKI67	37	0.00232616622658116
+P18	CR, responder|PR, responder	responder	TRUE	T	CD8_C01_LEF1	16	0.00100590971960267
+P18	CR, responder|PR, responder	responder	TRUE	T	CD8_C02_GPR183	3	0.0001886080724255
+P18	CR, responder|PR, responder	responder	TRUE	T	CD8_C03_CX3CR1	466	0.0292971205834276
+P18	CR, responder|PR, responder	responder	TRUE	T	CD8_C04_GIMAP4	8	0.000502954859801333
+P18	CR, responder|PR, responder	responder	TRUE	T	CD8_C05_TCF7	115	0.00722997610964416
+P18	CR, responder|PR, responder	responder	TRUE	T	CD8_C06_KIR2DL3	5	0.000314346787375833
+P18	CR, responder|PR, responder	responder	TRUE	T	CD8_C07_KLRC2	69	0.0043379856657865
+P18	CR, responder|PR, responder	responder	TRUE	T	CD8_C08_GZMK	2202	0.138438325160317
+P18	CR, responder|PR, responder	responder	TRUE	T	CD8_C09_LAYN	904	0.0568338991575506
+P18	CR, responder|PR, responder	responder	TRUE	T	CD8_C10_SLC4A10	718	0.0451401986671696
+P18	CR, responder|PR, responder	responder	TRUE	T	CD8_C11_MKI67	20	0.00125738714950333
+P18	CR, responder|PR, responder	responder	TRUE	T	ILC2	215	0.0135169118571608
+P18	CR, responder|PR, responder	responder	TRUE	T	ILC3	61	0.00383503080598516
+P18	CR, responder|PR, responder	responder	TRUE	T	Macro_C01_FCN1	50	0.00314346787375833
+P18	CR, responder|PR, responder	responder	TRUE	T	Macro_C02_C1QC	355	0.0223186219036841
+P18	CR, responder|PR, responder	responder	TRUE	T	Macro_C03_TREM2	395	0.0248333962026908
+P18	CR, responder|PR, responder	responder	TRUE	T	Macro_C04_IL1B	1	6.28693574751666e-05
+P18	CR, responder|PR, responder	responder	TRUE	T	Mast	128	0.00804727775682133
+P18	CR, responder|PR, responder	responder	TRUE	T	Mono_C01_FCGR3A	9	0.0005658242172765
+P18	CR, responder|PR, responder	responder	TRUE	T	Mono_C02_CD14	5	0.000314346787375833
+P18	CR, responder|PR, responder	responder	TRUE	T	Mono_C03_ITGA5	1	6.28693574751666e-05
+P18	CR, responder|PR, responder	responder	TRUE	T	NKT-like	1	6.28693574751666e-05
+P18	CR, responder|PR, responder	responder	TRUE	T	NK_C01_FCGR3A	507	0.0318747642399095
+P18	CR, responder|PR, responder	responder	TRUE	T	NK_C02_SELL	58	0.00364642273355966
+P18	CR, responder|PR, responder	responder	TRUE	T	NK_C03_GZMK	283	0.0177920281654721
+P18	CR, responder|PR, responder	responder	TRUE	T	NK_C04_MKI67	9	0.0005658242172765
+P18	CR, responder|PR, responder	responder	TRUE	T	Plasma_C01_CD52	44	0.00276625172890733
+P18	CR, responder|PR, responder	responder	TRUE	T	Plasma_C02_SDC1	1360	0.0855023261662266
+P18	CR, responder|PR, responder	responder	TRUE	T	Plasma_C03_SDC1_HSPA1A	1160	0.0729284546711933
+P18	CR, responder|PR, responder	responder	TRUE	T	cDC1	32	0.00201181943920533
+P18	CR, responder|PR, responder	responder	TRUE	T	cDC2_C01_CD1C	108	0.00678989060731799
+P18	CR, responder|PR, responder	responder	TRUE	T	cDC2_C02_MKI67	14	0.000880171004652332
+P18	CR, responder|PR, responder	responder	TRUE	T	gdT_C01_GZMB	1	6.28693574751666e-05
+P18	CR, responder|PR, responder	responder	TRUE	T	gdT_C02_GZMK	31	0.00194895008173016
+P18	CR, responder|PR, responder	responder	TRUE	T	gdT_C03_KLRG1	2	0.000125738714950333
+P18	CR, responder|PR, responder	responder	TRUE	T	pDC	9	0.0005658242172765
+P26	PD, non-responder	non_responder	FALSE	P	B_C01_IGHD	604	0.0668881506090808
+P26	PD, non-responder	non_responder	FALSE	P	B_C02_CD27	125	0.0138427464008859
+P26	PD, non-responder	non_responder	FALSE	P	CD4_C01_CCR7	972	0.107641196013289
+P26	PD, non-responder	non_responder	FALSE	P	CD4_C02_IL7R	72	0.0079734219269103
+P26	PD, non-responder	non_responder	FALSE	P	CD4_C03_CD44	128	0.0141749723145072
+P26	PD, non-responder	non_responder	FALSE	P	CD4_C04_GZMK	70	0.00775193798449612
+P26	PD, non-responder	non_responder	FALSE	P	CD4_C05_GNLY	10	0.00110741971207087
+P26	PD, non-responder	non_responder	FALSE	P	CD4_C06_CXCL13	4	0.00044296788482835
+P26	PD, non-responder	non_responder	FALSE	P	CD4_C07_CTLA4	7	0.000775193798449612
+P26	PD, non-responder	non_responder	FALSE	P	CD4_C08_FOXP3	206	0.02281284606866
+P26	PD, non-responder	non_responder	FALSE	P	CD4_C09_MKI67	11	0.00121816168327796
+P26	PD, non-responder	non_responder	FALSE	P	CD8_C01_LEF1	1356	0.150166112956811
+P26	PD, non-responder	non_responder	FALSE	P	CD8_C02_GPR183	35	0.00387596899224806
+P26	PD, non-responder	non_responder	FALSE	P	CD8_C03_CX3CR1	227	0.0251384274640089
+P26	PD, non-responder	non_responder	FALSE	P	CD8_C04_GIMAP4	1	0.000110741971207087
+P26	PD, non-responder	non_responder	FALSE	P	CD8_C05_TCF7	31	0.00343300110741971
+P26	PD, non-responder	non_responder	FALSE	P	CD8_C06_KIR2DL3	27	0.00299003322259136
+P26	PD, non-responder	non_responder	FALSE	P	CD8_C07_KLRC2	5	0.000553709856035437
+P26	PD, non-responder	non_responder	FALSE	P	CD8_C08_GZMK	47	0.00520487264673311
+P26	PD, non-responder	non_responder	FALSE	P	CD8_C09_LAYN	5	0.000553709856035437
+P26	PD, non-responder	non_responder	FALSE	P	CD8_C10_SLC4A10	80	0.008859357696567
+P26	PD, non-responder	non_responder	FALSE	P	Macro_C01_FCN1	21	0.00232558139534884
+P26	PD, non-responder	non_responder	FALSE	P	Macro_C02_C1QC	1	0.000110741971207087
+P26	PD, non-responder	non_responder	FALSE	P	Macro_C04_IL1B	1	0.000110741971207087
+P26	PD, non-responder	non_responder	FALSE	P	Mast	6	0.000664451827242525
+P26	PD, non-responder	non_responder	FALSE	P	Megakaryocyte	14	0.00155038759689922
+P26	PD, non-responder	non_responder	FALSE	P	Mono_C01_FCGR3A	93	0.0102990033222591
+P26	PD, non-responder	non_responder	FALSE	P	Mono_C02_CD14	242	0.0267995570321152
+P26	PD, non-responder	non_responder	FALSE	P	Mono_C03_ITGA5	575	0.0636766334440753
+P26	PD, non-responder	non_responder	FALSE	P	NKT-like	12	0.00132890365448505
+P26	PD, non-responder	non_responder	FALSE	P	NK_C01_FCGR3A	3844	0.425692137320044
+P26	PD, non-responder	non_responder	FALSE	P	NK_C02_SELL	76	0.00841638981173865
+P26	PD, non-responder	non_responder	FALSE	P	NK_C03_GZMK	3	0.000332225913621262
+P26	PD, non-responder	non_responder	FALSE	P	NK_C04_MKI67	22	0.00243632336655592
+P26	PD, non-responder	non_responder	FALSE	P	Plasma_C01_CD52	31	0.00343300110741971
+P26	PD, non-responder	non_responder	FALSE	P	Plasma_C02_SDC1	1	0.000110741971207087
+P26	PD, non-responder	non_responder	FALSE	P	Plasma_C03_SDC1_HSPA1A	2	0.000221483942414175
+P26	PD, non-responder	non_responder	FALSE	P	cDC1	7	0.000775193798449612
+P26	PD, non-responder	non_responder	FALSE	P	cDC2_C01_CD1C	8	0.0008859357696567
+P26	PD, non-responder	non_responder	FALSE	P	gdT_C01_GZMB	5	0.000553709856035437
+P26	PD, non-responder	non_responder	FALSE	P	gdT_C02_GZMK	9	0.000996677740863787
+P26	PD, non-responder	non_responder	FALSE	P	gdT_C03_KLRG1	13	0.00143964562569214
+P26	PD, non-responder	non_responder	FALSE	P	pDC	21	0.00232558139534884
+P26	PD, non-responder	non_responder	FALSE	T	B_C01_IGHD	213	0.0154046430896073
+P26	PD, non-responder	non_responder	FALSE	T	B_C02_CD27	556	0.0402111810226369
+P26	PD, non-responder	non_responder	FALSE	T	CD4_C01_CCR7	133	0.00961886164750127
+P26	PD, non-responder	non_responder	FALSE	T	CD4_C02_IL7R	35	0.00253127938092139
+P26	PD, non-responder	non_responder	FALSE	T	CD4_C03_CD44	549	0.0397049251464526
+P26	PD, non-responder	non_responder	FALSE	T	CD4_C04_GZMK	1864	0.13480870760107
+P26	PD, non-responder	non_responder	FALSE	T	CD4_C05_GNLY	6	0.000433933608157952
+P26	PD, non-responder	non_responder	FALSE	T	CD4_C06_CXCL13	497	0.0359441672090837
+P26	PD, non-responder	non_responder	FALSE	T	CD4_C07_CTLA4	2337	0.169017140377522
+P26	PD, non-responder	non_responder	FALSE	T	CD4_C08_FOXP3	72	0.00520720329789542
+P26	PD, non-responder	non_responder	FALSE	T	CD4_C09_MKI67	161	0.0116438851522384
+P26	PD, non-responder	non_responder	FALSE	T	CD8_C01_LEF1	12	0.000867867216315904
+P26	PD, non-responder	non_responder	FALSE	T	CD8_C02_GPR183	7	0.000506255876184277
+P26	PD, non-responder	non_responder	FALSE	T	CD8_C03_CX3CR1	46	0.00332682432921096
+P26	PD, non-responder	non_responder	FALSE	T	CD8_C04_GIMAP4	3	0.000216966804078976
+P26	PD, non-responder	non_responder	FALSE	T	CD8_C05_TCF7	37	0.00267592391697404
+P26	PD, non-responder	non_responder	FALSE	T	CD8_C07_KLRC2	259	0.0187314674188183
+P26	PD, non-responder	non_responder	FALSE	T	CD8_C08_GZMK	613	0.0443335503001374
+P26	PD, non-responder	non_responder	FALSE	T	CD8_C09_LAYN	398	0.0287842626744775
+P26	PD, non-responder	non_responder	FALSE	T	CD8_C10_SLC4A10	1627	0.117668330078831
+P26	PD, non-responder	non_responder	FALSE	T	CD8_C11_MKI67	81	0.00585810371013235
+P26	PD, non-responder	non_responder	FALSE	T	ILC2	5	0.000361611340131627
+P26	PD, non-responder	non_responder	FALSE	T	ILC3	8	0.000578578144210602
+P26	PD, non-responder	non_responder	FALSE	T	LAMP3+ DC	87	0.0062920373182903
+P26	PD, non-responder	non_responder	FALSE	T	Macro_C01_FCN1	562	0.0406451146307948
+P26	PD, non-responder	non_responder	FALSE	T	Macro_C02_C1QC	783	0.0566283358646127
+P26	PD, non-responder	non_responder	FALSE	T	Macro_C03_TREM2	145	0.0104867288638172
+P26	PD, non-responder	non_responder	FALSE	T	Macro_C04_IL1B	90	0.00650900412236928
+P26	PD, non-responder	non_responder	FALSE	T	Mast	2	0.000144644536052651
+P26	PD, non-responder	non_responder	FALSE	T	Mono_C01_FCGR3A	52	0.00376075793736892
+P26	PD, non-responder	non_responder	FALSE	T	Mono_C02_CD14	233	0.0168510884501338
+P26	PD, non-responder	non_responder	FALSE	T	Mono_C03_ITGA5	28	0.00202502350473711
+P26	PD, non-responder	non_responder	FALSE	T	NK_C01_FCGR3A	563	0.0407174368988211
+P26	PD, non-responder	non_responder	FALSE	T	NK_C02_SELL	9	0.000650900412236928
+P26	PD, non-responder	non_responder	FALSE	T	NK_C03_GZMK	178	0.0128733637086859
+P26	PD, non-responder	non_responder	FALSE	T	NK_C04_MKI67	12	0.000867867216315904
+P26	PD, non-responder	non_responder	FALSE	T	Plasma_C01_CD52	1	7.23222680263253e-05
+P26	PD, non-responder	non_responder	FALSE	T	Plasma_C02_SDC1	87	0.0062920373182903
+P26	PD, non-responder	non_responder	FALSE	T	Plasma_C03_SDC1_HSPA1A	26	0.00188037896868446
+P26	PD, non-responder	non_responder	FALSE	T	cDC1	171	0.0123671078325016
+P26	PD, non-responder	non_responder	FALSE	T	cDC2_C01_CD1C	1095	0.0791928834888262
+P26	PD, non-responder	non_responder	FALSE	T	cDC2_C02_MKI67	90	0.00650900412236928
+P26	PD, non-responder	non_responder	FALSE	T	gdT_C01_GZMB	2	0.000144644536052651
+P26	PD, non-responder	non_responder	FALSE	T	gdT_C02_GZMK	50	0.00361611340131627
+P26	PD, non-responder	non_responder	FALSE	T	gdT_C03_KLRG1	3	0.000216966804078976
+P26	PD, non-responder	non_responder	FALSE	T	pDC	39	0.00282056845302669
+P27	PR, responder	responder	FALSE	P	B_C01_IGHD	241	0.0253924770835528
+P27	PR, responder	responder	FALSE	P	B_C02_CD27	198	0.0208618691391845
+P27	PR, responder	responder	FALSE	P	CD4_C01_CCR7	766	0.0807080391950269
+P27	PR, responder	responder	FALSE	P	CD4_C02_IL7R	245	0.0258139289853545
+P27	PR, responder	responder	FALSE	P	CD4_C03_CD44	223	0.0234959435254452
+P27	PR, responder	responder	FALSE	P	CD4_C04_GZMK	136	0.014329364661258
+P27	PR, responder	responder	FALSE	P	CD4_C05_GNLY	134	0.0141186387103572
+P27	PR, responder	responder	FALSE	P	CD4_C06_CXCL13	3	0.00031608892635128
+P27	PR, responder	responder	FALSE	P	CD4_C07_CTLA4	3	0.00031608892635128
+P27	PR, responder	responder	FALSE	P	CD4_C08_FOXP3	160	0.0168580760720683
+P27	PR, responder	responder	FALSE	P	CD4_C09_MKI67	4	0.000421451901801707
+P27	PR, responder	responder	FALSE	P	CD8_C01_LEF1	366	0.0385628490148562
+P27	PR, responder	responder	FALSE	P	CD8_C02_GPR183	37	0.00389843009166579
+P27	PR, responder	responder	FALSE	P	CD8_C03_CX3CR1	2476	0.260878727215257
+P27	PR, responder	responder	FALSE	P	CD8_C04_GIMAP4	48	0.00505742282162048
+P27	PR, responder	responder	FALSE	P	CD8_C05_TCF7	50	0.00526814877252134
+P27	PR, responder	responder	FALSE	P	CD8_C06_KIR2DL3	193	0.0203350542619324
+P27	PR, responder	responder	FALSE	P	CD8_C07_KLRC2	2	0.000210725950900853
+P27	PR, responder	responder	FALSE	P	CD8_C08_GZMK	211	0.02223158782004
+P27	PR, responder	responder	FALSE	P	CD8_C09_LAYN	4	0.000421451901801707
+P27	PR, responder	responder	FALSE	P	CD8_C10_SLC4A10	95	0.0100094826677905
+P27	PR, responder	responder	FALSE	P	CD8_C11_MKI67	2	0.000210725950900853
+P27	PR, responder	responder	FALSE	P	ILC2	1	0.000105362975450427
+P27	PR, responder	responder	FALSE	P	ILC3	2	0.000210725950900853
+P27	PR, responder	responder	FALSE	P	Macro_C01_FCN1	28	0.00295016331261195
+P27	PR, responder	responder	FALSE	P	Macro_C02_C1QC	5	0.000526814877252134
+P27	PR, responder	responder	FALSE	P	Mast	11	0.00115899272995469
+P27	PR, responder	responder	FALSE	P	Megakaryocyte	24	0.00252871141081024
+P27	PR, responder	responder	FALSE	P	Mono_C01_FCGR3A	269	0.0283426403961648
+P27	PR, responder	responder	FALSE	P	Mono_C02_CD14	351	0.0369824043830998
+P27	PR, responder	responder	FALSE	P	Mono_C03_ITGA5	866	0.0912443367400695
+P27	PR, responder	responder	FALSE	P	NKT-like	26	0.00273943736171109
+P27	PR, responder	responder	FALSE	P	NK_C01_FCGR3A	2003	0.211042039827205
+P27	PR, responder	responder	FALSE	P	NK_C02_SELL	50	0.00526814877252134
+P27	PR, responder	responder	FALSE	P	NK_C03_GZMK	2	0.000210725950900853
+P27	PR, responder	responder	FALSE	P	NK_C04_MKI67	8	0.000842903803603414
+P27	PR, responder	responder	FALSE	P	Plasma_C01_CD52	20	0.00210725950900853
+P27	PR, responder	responder	FALSE	P	Plasma_C02_SDC1	1	0.000105362975450427
+P27	PR, responder	responder	FALSE	P	cDC1	2	0.000210725950900853
+P27	PR, responder	responder	FALSE	P	cDC2_C01_CD1C	53	0.00558423769887262
+P27	PR, responder	responder	FALSE	P	gdT_C01_GZMB	42	0.00442524496891792
+P27	PR, responder	responder	FALSE	P	gdT_C02_GZMK	61	0.00642714150247603
+P27	PR, responder	responder	FALSE	P	gdT_C03_KLRG1	46	0.00484669687071963
+P27	PR, responder	responder	FALSE	P	pDC	23	0.00242334843535981
+P27	PR, responder	responder	FALSE	T	B_C01_IGHD	37	0.00291660097745546
+P27	PR, responder	responder	FALSE	T	B_C02_CD27	430	0.0338956329812392
+P27	PR, responder	responder	FALSE	T	CD4_C01_CCR7	194	0.01529244836828
+P27	PR, responder	responder	FALSE	T	CD4_C02_IL7R	49	0.00386252561879237
+P27	PR, responder	responder	FALSE	T	CD4_C03_CD44	899	0.0708655210468233
+P27	PR, responder	responder	FALSE	T	CD4_C04_GZMK	2375	0.187214251931263
+P27	PR, responder	responder	FALSE	T	CD4_C05_GNLY	30	0.00236481160334227
+P27	PR, responder	responder	FALSE	T	CD4_C06_CXCL13	615	0.0484786378685165
+P27	PR, responder	responder	FALSE	T	CD4_C07_CTLA4	854	0.0673183036418099
+P27	PR, responder	responder	FALSE	T	CD4_C08_FOXP3	59	0.00465079615323979
+P27	PR, responder	responder	FALSE	T	CD4_C09_MKI67	59	0.00465079615323979
+P27	PR, responder	responder	FALSE	T	CD8_C01_LEF1	10	0.000788270534447422
+P27	PR, responder	responder	FALSE	T	CD8_C02_GPR183	13	0.00102475169478165
+P27	PR, responder	responder	FALSE	T	CD8_C03_CX3CR1	134	0.0105628251615955
+P27	PR, responder	responder	FALSE	T	CD8_C04_GIMAP4	9	0.00070944348100268
+P27	PR, responder	responder	FALSE	T	CD8_C05_TCF7	117	0.00922276525303484
+P27	PR, responder	responder	FALSE	T	CD8_C06_KIR2DL3	5	0.000394135267223711
+P27	PR, responder	responder	FALSE	T	CD8_C07_KLRC2	258	0.0203373797887435
+P27	PR, responder	responder	FALSE	T	CD8_C08_GZMK	1352	0.106574176257292
+P27	PR, responder	responder	FALSE	T	CD8_C09_LAYN	2412	0.190130852908718
+P27	PR, responder	responder	FALSE	T	CD8_C10_SLC4A10	347	0.0273529875453256
+P27	PR, responder	responder	FALSE	T	CD8_C11_MKI67	121	0.00953807346681381
+P27	PR, responder	responder	FALSE	T	ILC2	2	0.000157654106889484
+P27	PR, responder	responder	FALSE	T	ILC3	6	0.000472962320668454
+P27	PR, responder	responder	FALSE	T	LAMP3+ DC	18	0.00141888696200536
+P27	PR, responder	responder	FALSE	T	Macro_C01_FCN1	393	0.0309790320037837
+P27	PR, responder	responder	FALSE	T	Macro_C02_C1QC	725	0.0571496137474381
+P27	PR, responder	responder	FALSE	T	Macro_C03_TREM2	167	0.013164117925272
+P27	PR, responder	responder	FALSE	T	Macro_C04_IL1B	28	0.00220715749645278
+P27	PR, responder	responder	FALSE	T	Mono_C01_FCGR3A	37	0.00291660097745546
+P27	PR, responder	responder	FALSE	T	Mono_C02_CD14	54	0.00425666088601608
+P27	PR, responder	responder	FALSE	T	Mono_C03_ITGA5	34	0.00268011981712124
+P27	PR, responder	responder	FALSE	T	NKT-like	2	0.000157654106889484
+P27	PR, responder	responder	FALSE	T	NK_C01_FCGR3A	127	0.0100110357874823
+P27	PR, responder	responder	FALSE	T	NK_C02_SELL	11	0.000867097587892165
+P27	PR, responder	responder	FALSE	T	NK_C03_GZMK	89	0.00701560775658206
+P27	PR, responder	responder	FALSE	T	NK_C04_MKI67	2	0.000157654106889484
+P27	PR, responder	responder	FALSE	T	Plasma_C01_CD52	4	0.000315308213778969
+P27	PR, responder	responder	FALSE	T	Plasma_C02_SDC1	163	0.012848809711493
+P27	PR, responder	responder	FALSE	T	Plasma_C03_SDC1_HSPA1A	57	0.00449314204635031
+P27	PR, responder	responder	FALSE	T	cDC1	51	0.00402017972568185
+P27	PR, responder	responder	FALSE	T	cDC2_C01_CD1C	213	0.0167901623837301
+P27	PR, responder	responder	FALSE	T	cDC2_C02_MKI67	22	0.00173419517578433
+P27	PR, responder	responder	FALSE	T	gdT_C01_GZMB	2	0.000157654106889484
+P27	PR, responder	responder	FALSE	T	gdT_C02_GZMK	33	0.00260129276367649
+P27	PR, responder	responder	FALSE	T	pDC	67	0.00528141258079773
+P5	PR, responder	responder	FALSE	P	B_C01_IGHD	174	0.0124525871323266
+P5	PR, responder	responder	FALSE	P	B_C02_CD27	200	0.0143133185429042
+P5	PR, responder	responder	FALSE	P	CD4_C01_CCR7	3788	0.271094253202605
+P5	PR, responder	responder	FALSE	P	CD4_C02_IL7R	78	0.00558219423173263
+P5	PR, responder	responder	FALSE	P	CD4_C03_CD44	505	0.036141129320833
+P5	PR, responder	responder	FALSE	P	CD4_C04_GZMK	124	0.00887425749660059
+P5	PR, responder	responder	FALSE	P	CD4_C05_GNLY	179	0.0128104200958992
+P5	PR, responder	responder	FALSE	P	CD4_C06_CXCL13	13	0.000930365705288771
+P5	PR, responder	responder	FALSE	P	CD4_C07_CTLA4	3	0.000214699778143563
+P5	PR, responder	responder	FALSE	P	CD4_C08_FOXP3	397	0.0284119373076648
+P5	PR, responder	responder	FALSE	P	CD4_C09_MKI67	4	0.000286266370858084
+P5	PR, responder	responder	FALSE	P	CD8_C01_LEF1	3984	0.285121305374651
+P5	PR, responder	responder	FALSE	P	CD8_C02_GPR183	231	0.0165318829170543
+P5	PR, responder	responder	FALSE	P	CD8_C03_CX3CR1	920	0.0658412652973592
+P5	PR, responder	responder	FALSE	P	CD8_C04_GIMAP4	9	0.000644099334430688
+P5	PR, responder	responder	FALSE	P	CD8_C05_TCF7	108	0.00772919201316825
+P5	PR, responder	responder	FALSE	P	CD8_C06_KIR2DL3	26	0.00186073141057754
+P5	PR, responder	responder	FALSE	P	CD8_C07_KLRC2	8	0.000572532741716167
+P5	PR, responder	responder	FALSE	P	CD8_C08_GZMK	323	0.0231160094467902
+P5	PR, responder	responder	FALSE	P	CD8_C09_LAYN	23	0.00164603163243398
+P5	PR, responder	responder	FALSE	P	CD8_C10_SLC4A10	311	0.022257210334216
+P5	PR, responder	responder	FALSE	P	CD8_C11_MKI67	2	0.000143133185429042
+P5	PR, responder	responder	FALSE	P	ILC2	2	0.000143133185429042
+P5	PR, responder	responder	FALSE	P	ILC3	6	0.000429399556287125
+P5	PR, responder	responder	FALSE	P	LAMP3+ DC	1	7.15665927145209e-05
+P5	PR, responder	responder	FALSE	P	Macro_C01_FCN1	35	0.00250483074500823
+P5	PR, responder	responder	FALSE	P	Macro_C02_C1QC	1	7.15665927145209e-05
+P5	PR, responder	responder	FALSE	P	Macro_C04_IL1B	1	7.15665927145209e-05
+P5	PR, responder	responder	FALSE	P	Mast	14	0.00100193229800329
+P5	PR, responder	responder	FALSE	P	Megakaryocyte	70	0.00500966149001646
+P5	PR, responder	responder	FALSE	P	Mono_C01_FCGR3A	106	0.00758605882773921
+P5	PR, responder	responder	FALSE	P	Mono_C02_CD14	426	0.0304873684963859
+P5	PR, responder	responder	FALSE	P	Mono_C03_ITGA5	148	0.0105918557217491
+P5	PR, responder	responder	FALSE	P	NKT-like	5	0.000357832963572604
+P5	PR, responder	responder	FALSE	P	NK_C01_FCGR3A	1373	0.0982609317970371
+P5	PR, responder	responder	FALSE	P	NK_C02_SELL	74	0.00529592786087454
+P5	PR, responder	responder	FALSE	P	NK_C03_GZMK	8	0.000572532741716167
+P5	PR, responder	responder	FALSE	P	NK_C04_MKI67	3	0.000214699778143563
+P5	PR, responder	responder	FALSE	P	Plasma_C01_CD52	2	0.000143133185429042
+P5	PR, responder	responder	FALSE	P	cDC1	8	0.000572532741716167
+P5	PR, responder	responder	FALSE	P	cDC2_C01_CD1C	12	0.00085879911257425
+P5	PR, responder	responder	FALSE	P	gdT_C01_GZMB	9	0.000644099334430688
+P5	PR, responder	responder	FALSE	P	gdT_C02_GZMK	231	0.0165318829170543
+P5	PR, responder	responder	FALSE	P	gdT_C03_KLRG1	10	0.000715665927145209
+P5	PR, responder	responder	FALSE	P	pDC	18	0.00128819866886138
+P5	PR, responder	responder	FALSE	T	B_C01_IGHD	41	0.00389585708855948
+P5	PR, responder	responder	FALSE	T	B_C02_CD27	289	0.0274610414291144
+P5	PR, responder	responder	FALSE	T	CD4_C01_CCR7	353	0.0335423793234512
+P5	PR, responder	responder	FALSE	T	CD4_C02_IL7R	39	0.00370581527936146
+P5	PR, responder	responder	FALSE	T	CD4_C03_CD44	1860	0.176738882554162
+P5	PR, responder	responder	FALSE	T	CD4_C04_GZMK	2339	0.222253895857089
+P5	PR, responder	responder	FALSE	T	CD4_C05_GNLY	59	0.0056062333713417
+P5	PR, responder	responder	FALSE	T	CD4_C06_CXCL13	78	0.00741163055872292
+P5	PR, responder	responder	FALSE	T	CD4_C07_CTLA4	423	0.040193842645382
+P5	PR, responder	responder	FALSE	T	CD4_C08_FOXP3	66	0.00627137970353478
+P5	PR, responder	responder	FALSE	T	CD4_C09_MKI67	45	0.00427594070695553
+P5	PR, responder	responder	FALSE	T	CD8_C01_LEF1	83	0.00788673508171798
+P5	PR, responder	responder	FALSE	T	CD8_C02_GPR183	35	0.00332573166096541
+P5	PR, responder	responder	FALSE	T	CD8_C03_CX3CR1	128	0.0121626757886735
+P5	PR, responder	responder	FALSE	T	CD8_C04_GIMAP4	6	0.000570125427594071
+P5	PR, responder	responder	FALSE	T	CD8_C05_TCF7	82	0.00779171417711897
+P5	PR, responder	responder	FALSE	T	CD8_C07_KLRC2	91	0.00864690231851007
+P5	PR, responder	responder	FALSE	T	CD8_C08_GZMK	2047	0.194507791714177
+P5	PR, responder	responder	FALSE	T	CD8_C09_LAYN	98	0.00931204865070315
+P5	PR, responder	responder	FALSE	T	CD8_C10_SLC4A10	629	0.0597681489927784
+P5	PR, responder	responder	FALSE	T	CD8_C11_MKI67	24	0.00228050171037628
+P5	PR, responder	responder	FALSE	T	ILC2	35	0.00332573166096541
+P5	PR, responder	responder	FALSE	T	ILC3	22	0.00209045990117826
+P5	PR, responder	responder	FALSE	T	LAMP3+ DC	4	0.000380083618396047
+P5	PR, responder	responder	FALSE	T	Macro_C01_FCN1	515	0.0489357658684911
+P5	PR, responder	responder	FALSE	T	Macro_C02_C1QC	97	0.00921702774610414
+P5	PR, responder	responder	FALSE	T	Macro_C03_TREM2	97	0.00921702774610414
+P5	PR, responder	responder	FALSE	T	Macro_C04_IL1B	213	0.0202394526795895
+P5	PR, responder	responder	FALSE	T	Mast	5	0.000475104522995059
+P5	PR, responder	responder	FALSE	T	Mono_C01_FCGR3A	9	0.000855188141391106
+P5	PR, responder	responder	FALSE	T	Mono_C02_CD14	27	0.00256556442417332
+P5	PR, responder	responder	FALSE	T	Mono_C03_ITGA5	2	0.000190041809198024
+P5	PR, responder	responder	FALSE	T	NK_C01_FCGR3A	50	0.00475104522995059
+P5	PR, responder	responder	FALSE	T	NK_C02_SELL	4	0.000380083618396047
+P5	PR, responder	responder	FALSE	T	NK_C03_GZMK	76	0.0072215887495249
+P5	PR, responder	responder	FALSE	T	NK_C04_MKI67	6	0.000570125427594071
+P5	PR, responder	responder	FALSE	T	Plasma_C02_SDC1	6	0.000570125427594071
+P5	PR, responder	responder	FALSE	T	cDC1	33	0.00313568985176739
+P5	PR, responder	responder	FALSE	T	cDC2_C01_CD1C	404	0.0383884454580008
+P5	PR, responder	responder	FALSE	T	cDC2_C02_MKI67	13	0.00123527175978715
+P5	PR, responder	responder	FALSE	T	gdT_C01_GZMB	1	9.50209045990118e-05
+P5	PR, responder	responder	FALSE	T	gdT_C02_GZMK	40	0.00380083618396047
+P5	PR, responder	responder	FALSE	T	gdT_C03_KLRG1	1	9.50209045990118e-05
+P5	PR, responder	responder	FALSE	T	pDC	49	0.00465602432535158
+P51	NR/SD	non_responder	FALSE	P	B_C01_IGHD	3	0.000289184499710816
+P51	NR/SD	non_responder	FALSE	P	CD4_C01_CCR7	11	0.00106034316560632
+P51	NR/SD	non_responder	FALSE	P	CD4_C02_IL7R	325	0.031328320802005
+P51	NR/SD	non_responder	FALSE	P	CD4_C05_GNLY	63	0.00607287449392713
+P51	NR/SD	non_responder	FALSE	P	CD4_C08_FOXP3	119	0.0114709851551957
+P51	NR/SD	non_responder	FALSE	P	CD8_C01_LEF1	13	0.0012531328320802
+P51	NR/SD	non_responder	FALSE	P	CD8_C03_CX3CR1	967	0.0932138037401195
+P51	NR/SD	non_responder	FALSE	P	CD8_C04_GIMAP4	785	0.0756699440909967
+P51	NR/SD	non_responder	FALSE	P	CD8_C06_KIR2DL3	287	0.0276653171390014
+P51	NR/SD	non_responder	FALSE	P	CD8_C08_GZMK	1	9.63948332369385e-05
+P51	NR/SD	non_responder	FALSE	P	CD8_C10_SLC4A10	116	0.0111818006554849
+P51	NR/SD	non_responder	FALSE	P	CD8_C11_MKI67	1	9.63948332369385e-05
+P51	NR/SD	non_responder	FALSE	P	LAMP3+ DC	1	9.63948332369385e-05
+P51	NR/SD	non_responder	FALSE	P	Macro_C01_FCN1	5	0.000481974166184693
+P51	NR/SD	non_responder	FALSE	P	Macro_C03_TREM2	1	9.63948332369385e-05
+P51	NR/SD	non_responder	FALSE	P	Mast	2	0.000192789666473877
+P51	NR/SD	non_responder	FALSE	P	Megakaryocyte	18	0.00173510699826489
+P51	NR/SD	non_responder	FALSE	P	Mono_C01_FCGR3A	810	0.0780798149219202
+P51	NR/SD	non_responder	FALSE	P	Mono_C02_CD14	3505	0.337863890495469
+P51	NR/SD	non_responder	FALSE	P	Mono_C03_ITGA5	1	9.63948332369385e-05
+P51	NR/SD	non_responder	FALSE	P	NKT-like	230	0.0221708116444959
+P51	NR/SD	non_responder	FALSE	P	NK_C01_FCGR3A	2492	0.240215924426451
+P51	NR/SD	non_responder	FALSE	P	NK_C02_SELL	10	0.000963948332369385
+P51	NR/SD	non_responder	FALSE	P	NK_C04_MKI67	10	0.000963948332369385
+P51	NR/SD	non_responder	FALSE	P	cDC1	3	0.000289184499710816
+P51	NR/SD	non_responder	FALSE	P	cDC2_C01_CD1C	145	0.0139772508193561
+P51	NR/SD	non_responder	FALSE	P	gdT_C03_KLRG1	358	0.034509350298824
+P51	NR/SD	non_responder	FALSE	P	pDC	92	0.00886832465779834
+P51	NR/SD	non_responder	FALSE	T	B_C01_IGHD	34	0.00650468720107136
+P51	NR/SD	non_responder	FALSE	T	B_C02_CD27	118	0.0225750908743065
+P51	NR/SD	non_responder	FALSE	T	CD4_C01_CCR7	43	0.00822651616606084
+P51	NR/SD	non_responder	FALSE	T	CD4_C02_IL7R	52	0.00994834513105032
+P51	NR/SD	non_responder	FALSE	T	CD4_C03_CD44	73	0.0139659460493591
+P51	NR/SD	non_responder	FALSE	T	CD4_C04_GZMK	1206	0.23072508130859
+P51	NR/SD	non_responder	FALSE	T	CD4_C05_GNLY	7	0.00133920030610293
+P51	NR/SD	non_responder	FALSE	T	CD4_C06_CXCL13	50	0.00956571647216376
+P51	NR/SD	non_responder	FALSE	T	CD4_C07_CTLA4	500	0.0956571647216377
+P51	NR/SD	non_responder	FALSE	T	CD4_C08_FOXP3	8	0.0015305146355462
+P51	NR/SD	non_responder	FALSE	T	CD4_C09_MKI67	8	0.0015305146355462
+P51	NR/SD	non_responder	FALSE	T	CD8_C02_GPR183	3	0.000573942988329826
+P51	NR/SD	non_responder	FALSE	T	CD8_C03_CX3CR1	55	0.0105222881193801
+P51	NR/SD	non_responder	FALSE	T	CD8_C04_GIMAP4	7	0.00133920030610293
+P51	NR/SD	non_responder	FALSE	T	CD8_C05_TCF7	13	0.00248708628276258
+P51	NR/SD	non_responder	FALSE	T	CD8_C06_KIR2DL3	4	0.000765257317773101
+P51	NR/SD	non_responder	FALSE	T	CD8_C07_KLRC2	85	0.0162617180026784
+P51	NR/SD	non_responder	FALSE	T	CD8_C08_GZMK	562	0.107518653147121
+P51	NR/SD	non_responder	FALSE	T	CD8_C09_LAYN	79	0.0151138320260187
+P51	NR/SD	non_responder	FALSE	T	CD8_C10_SLC4A10	456	0.0872393342261336
+P51	NR/SD	non_responder	FALSE	T	CD8_C11_MKI67	2	0.000382628658886551
+P51	NR/SD	non_responder	FALSE	T	ILC2	25	0.00478285823608188
+P51	NR/SD	non_responder	FALSE	T	ILC3	9	0.00172182896498948
+P51	NR/SD	non_responder	FALSE	T	LAMP3+ DC	6	0.00114788597665965
+P51	NR/SD	non_responder	FALSE	T	Macro_C01_FCN1	378	0.0723168165295581
+P51	NR/SD	non_responder	FALSE	T	Macro_C02_C1QC	161	0.0308016070403673
+P51	NR/SD	non_responder	FALSE	T	Macro_C03_TREM2	377	0.0721255022001148
+P51	NR/SD	non_responder	FALSE	T	Macro_C04_IL1B	12	0.0022957719533193
+P51	NR/SD	non_responder	FALSE	T	Mast	15	0.00286971494164913
+P51	NR/SD	non_responder	FALSE	T	Mono_C01_FCGR3A	12	0.0022957719533193
+P51	NR/SD	non_responder	FALSE	T	Mono_C02_CD14	149	0.028505835087048
+P51	NR/SD	non_responder	FALSE	T	Mono_C03_ITGA5	24	0.00459154390663861
+P51	NR/SD	non_responder	FALSE	T	NKT-like	4	0.000765257317773101
+P51	NR/SD	non_responder	FALSE	T	NK_C01_FCGR3A	76	0.0145398890376889
+P51	NR/SD	non_responder	FALSE	T	NK_C02_SELL	12	0.0022957719533193
+P51	NR/SD	non_responder	FALSE	T	NK_C03_GZMK	80	0.015305146355462
+P51	NR/SD	non_responder	FALSE	T	NK_C04_MKI67	3	0.000573942988329826
+P51	NR/SD	non_responder	FALSE	T	Plasma_C02_SDC1	3	0.000573942988329826
+P51	NR/SD	non_responder	FALSE	T	Plasma_C03_SDC1_HSPA1A	15	0.00286971494164913
+P51	NR/SD	non_responder	FALSE	T	cDC1	63	0.0120528027549263
+P51	NR/SD	non_responder	FALSE	T	cDC2_C01_CD1C	347	0.0663860723168165
+P51	NR/SD	non_responder	FALSE	T	cDC2_C02_MKI67	46	0.00880045915439066
+P51	NR/SD	non_responder	FALSE	T	gdT_C01_GZMB	1	0.000191314329443275
+P51	NR/SD	non_responder	FALSE	T	gdT_C02_GZMK	34	0.00650468720107136
+P51	NR/SD	non_responder	FALSE	T	gdT_C03_KLRG1	2	0.000382628658886551
+P51	NR/SD	non_responder	FALSE	T	pDC	8	0.0015305146355462
+P52	NR/SD	non_responder	FALSE	P	B_C01_IGHD	345	0.0645946451975286
+P52	NR/SD	non_responder	FALSE	P	B_C02_CD27	37	0.00692754165886538
+P52	NR/SD	non_responder	FALSE	P	CD4_C01_CCR7	520	0.0973600449354054
+P52	NR/SD	non_responder	FALSE	P	CD4_C02_IL7R	107	0.0200337015540161
+P52	NR/SD	non_responder	FALSE	P	CD4_C03_CD44	1	0.00018723085564501
+P52	NR/SD	non_responder	FALSE	P	CD4_C04_GZMK	13	0.00243400112338513
+P52	NR/SD	non_responder	FALSE	P	CD4_C05_GNLY	150	0.0280846283467515
+P52	NR/SD	non_responder	FALSE	P	CD4_C06_CXCL13	6	0.00112338513387006
+P52	NR/SD	non_responder	FALSE	P	CD4_C07_CTLA4	2	0.000374461711290021
+P52	NR/SD	non_responder	FALSE	P	CD4_C08_FOXP3	124	0.0232166260999813
+P52	NR/SD	non_responder	FALSE	P	CD4_C09_MKI67	1	0.00018723085564501
+P52	NR/SD	non_responder	FALSE	P	CD8_C01_LEF1	121	0.0226549335330462
+P52	NR/SD	non_responder	FALSE	P	CD8_C03_CX3CR1	1617	0.302752293577982
+P52	NR/SD	non_responder	FALSE	P	CD8_C04_GIMAP4	132	0.0247144729451414
+P52	NR/SD	non_responder	FALSE	P	CD8_C06_KIR2DL3	177	0.0331398614491668
+P52	NR/SD	non_responder	FALSE	P	CD8_C08_GZMK	14	0.00262123197903014
+P52	NR/SD	non_responder	FALSE	P	CD8_C09_LAYN	5	0.000936154278225052
+P52	NR/SD	non_responder	FALSE	P	CD8_C10_SLC4A10	13	0.00243400112338513
+P52	NR/SD	non_responder	FALSE	P	CD8_C11_MKI67	5	0.000936154278225052
+P52	NR/SD	non_responder	FALSE	P	Mono_C01_FCGR3A	42	0.00786369593709043
+P52	NR/SD	non_responder	FALSE	P	Mono_C02_CD14	11	0.00205953941209511
+P52	NR/SD	non_responder	FALSE	P	NKT-like	47	0.00879985021531548
+P52	NR/SD	non_responder	FALSE	P	NK_C01_FCGR3A	811	0.151844223928103
+P52	NR/SD	non_responder	FALSE	P	NK_C02_SELL	61	0.0114210821943456
+P52	NR/SD	non_responder	FALSE	P	NK_C03_GZMK	5	0.000936154278225052
+P52	NR/SD	non_responder	FALSE	P	NK_C04_MKI67	30	0.00561692566935031
+P52	NR/SD	non_responder	FALSE	P	Plasma_C01_CD52	21	0.00393184796854522
+P52	NR/SD	non_responder	FALSE	P	cDC2_C01_CD1C	1	0.00018723085564501
+P52	NR/SD	non_responder	FALSE	P	gdT_C03_KLRG1	919	0.172065156337764
+P52	NR/SD	non_responder	FALSE	P	pDC	3	0.000561692566935031
+P52	NR/SD	non_responder	FALSE	T	B_C01_IGHD	157	0.0348115299334812
+P52	NR/SD	non_responder	FALSE	T	B_C02_CD27	54	0.0119733924611973
+P52	NR/SD	non_responder	FALSE	T	CD4_C01_CCR7	109	0.0241685144124169
+P52	NR/SD	non_responder	FALSE	T	CD4_C02_IL7R	7	0.00155210643015521
+P52	NR/SD	non_responder	FALSE	T	CD4_C03_CD44	96	0.0212860310421286
+P52	NR/SD	non_responder	FALSE	T	CD4_C04_GZMK	972	0.215521064301552
+P52	NR/SD	non_responder	FALSE	T	CD4_C05_GNLY	17	0.00376940133037694
+P52	NR/SD	non_responder	FALSE	T	CD4_C06_CXCL13	138	0.0305986696230599
+P52	NR/SD	non_responder	FALSE	T	CD4_C07_CTLA4	165	0.0365853658536585
+P52	NR/SD	non_responder	FALSE	T	CD4_C08_FOXP3	34	0.00753880266075388
+P52	NR/SD	non_responder	FALSE	T	CD4_C09_MKI67	17	0.00376940133037694
+P52	NR/SD	non_responder	FALSE	T	CD8_C01_LEF1	7	0.00155210643015521
+P52	NR/SD	non_responder	FALSE	T	CD8_C02_GPR183	22	0.00487804878048781
+P52	NR/SD	non_responder	FALSE	T	CD8_C03_CX3CR1	162	0.035920177383592
+P52	NR/SD	non_responder	FALSE	T	CD8_C04_GIMAP4	4	0.000886917960088692
+P52	NR/SD	non_responder	FALSE	T	CD8_C05_TCF7	97	0.0215077605321508
+P52	NR/SD	non_responder	FALSE	T	CD8_C06_KIR2DL3	3	0.000665188470066519
+P52	NR/SD	non_responder	FALSE	T	CD8_C07_KLRC2	197	0.0436807095343681
+P52	NR/SD	non_responder	FALSE	T	CD8_C08_GZMK	597	0.132372505543237
+P52	NR/SD	non_responder	FALSE	T	CD8_C09_LAYN	489	0.108425720620843
+P52	NR/SD	non_responder	FALSE	T	CD8_C10_SLC4A10	56	0.0124168514412417
+P52	NR/SD	non_responder	FALSE	T	CD8_C11_MKI67	15	0.00332594235033259
+P52	NR/SD	non_responder	FALSE	T	ILC2	2	0.000443458980044346
+P52	NR/SD	non_responder	FALSE	T	ILC3	2	0.000443458980044346
+P52	NR/SD	non_responder	FALSE	T	LAMP3+ DC	5	0.00110864745011086
+P52	NR/SD	non_responder	FALSE	T	Macro_C01_FCN1	193	0.0427937915742794
+P52	NR/SD	non_responder	FALSE	T	Macro_C02_C1QC	59	0.0130820399113082
+P52	NR/SD	non_responder	FALSE	T	Macro_C03_TREM2	82	0.0181818181818182
+P52	NR/SD	non_responder	FALSE	T	Macro_C04_IL1B	1	0.000221729490022173
+P52	NR/SD	non_responder	FALSE	T	Mast	4	0.000886917960088692
+P52	NR/SD	non_responder	FALSE	T	Mono_C01_FCGR3A	44	0.00975609756097561
+P52	NR/SD	non_responder	FALSE	T	Mono_C02_CD14	220	0.0487804878048781
+P52	NR/SD	non_responder	FALSE	T	Mono_C03_ITGA5	57	0.0126385809312639
+P52	NR/SD	non_responder	FALSE	T	NK_C01_FCGR3A	19	0.00421286031042129
+P52	NR/SD	non_responder	FALSE	T	NK_C02_SELL	22	0.00487804878048781
+P52	NR/SD	non_responder	FALSE	T	NK_C03_GZMK	57	0.0126385809312639
+P52	NR/SD	non_responder	FALSE	T	NK_C04_MKI67	3	0.000665188470066519
+P52	NR/SD	non_responder	FALSE	T	Plasma_C02_SDC1	45	0.00997782705099778
+P52	NR/SD	non_responder	FALSE	T	Plasma_C03_SDC1_HSPA1A	11	0.0024390243902439
+P52	NR/SD	non_responder	FALSE	T	cDC1	10	0.00221729490022173
+P52	NR/SD	non_responder	FALSE	T	cDC2_C01_CD1C	100	0.0221729490022173
+P52	NR/SD	non_responder	FALSE	T	cDC2_C02_MKI67	12	0.00266075388026608
+P52	NR/SD	non_responder	FALSE	T	gdT_C01_GZMB	10	0.00221729490022173
+P52	NR/SD	non_responder	FALSE	T	gdT_C02_GZMK	111	0.0246119733924612
+P52	NR/SD	non_responder	FALSE	T	gdT_C03_KLRG1	2	0.000443458980044346
+P52	NR/SD	non_responder	FALSE	T	pDC	24	0.00532150776053215
