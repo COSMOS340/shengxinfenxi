@@ -1,0 +1,23 @@
+dataset_id	sample_accession	file_name	feature_count	union_feature_count	missing_features_vs_union	extra_features_vs_union	row_name_observed_format
+GSE189926	GSM5709979	GSM5709979_matrix_inflection_DSF011.txt.gz	37716	51757	14041	0	observed row names include gene-like symbols; exact identifier namespace was not directly encoded in file header
+GSE189926	GSM5709980	GSM5709980_matrix_inflection_DSF012.txt.gz	37398	51757	14359	0	observed row names include gene-like symbols; exact identifier namespace was not directly encoded in file header
+GSE189926	GSM5709981	GSM5709981_matrix_inflection_DSF021.txt.gz	42075	51757	9682	0	observed row names include gene-like symbols; exact identifier namespace was not directly encoded in file header
+GSE189926	GSM5709982	GSM5709982_matrix_inflection_DSF022.txt.gz	40595	51757	11162	0	observed row names include gene-like symbols; exact identifier namespace was not directly encoded in file header
+GSE189926	GSM5709983	GSM5709983_matrix_inflection_DSF031.txt.gz	38229	51757	13528	0	observed row names include gene-like symbols; exact identifier namespace was not directly encoded in file header
+GSE189926	GSM5709984	GSM5709984_matrix_inflection_DSF032.txt.gz	39240	51757	12517	0	observed row names include gene-like symbols; exact identifier namespace was not directly encoded in file header
+GSE189926	GSM5709985	GSM5709985_matrix_inflection_DSF041.txt.gz	36999	51757	14758	0	observed row names include gene-like symbols; exact identifier namespace was not directly encoded in file header
+GSE189926	GSM5709986	GSM5709986_matrix_inflection_DSF051.txt.gz	33559	51757	18198	0	observed row names include gene-like symbols; exact identifier namespace was not directly encoded in file header
+GSE189926	GSM5709987	GSM5709987_matrix_inflection_DSF061.txt.gz	39785	51757	11972	0	observed row names include gene-like symbols; exact identifier namespace was not directly encoded in file header
+GSE189926	GSM5709988	GSM5709988_matrix_inflection_DSF062.txt.gz	41165	51757	10592	0	observed row names include gene-like symbols; exact identifier namespace was not directly encoded in file header
+GSE189926	GSM5709989	GSM5709989_matrix_inflection_DSF071.txt.gz	34937	51757	16820	0	observed row names include gene-like symbols; exact identifier namespace was not directly encoded in file header
+GSE189926	GSM5709990	GSM5709990_matrix_inflection_DSF072.txt.gz	38574	51757	13183	0	observed row names include gene-like symbols; exact identifier namespace was not directly encoded in file header
+GSE189926	GSM5709991	GSM5709991_matrix_inflection_DSF081.txt.gz	37881	51757	13876	0	observed row names include gene-like symbols; exact identifier namespace was not directly encoded in file header
+GSE189926	GSM5709992	GSM5709992_matrix_inflection_DSF101.txt.gz	38517	51757	13240	0	observed row names include gene-like symbols; exact identifier namespace was not directly encoded in file header
+GSE189926	GSM5709993	GSM5709993_matrix_inflection_DSF102.txt.gz	40035	51757	11722	0	observed row names include gene-like symbols; exact identifier namespace was not directly encoded in file header
+GSE189926	GSM5709994	GSM5709994_matrix_inflection_DSF111.txt.gz	35974	51757	15783	0	observed row names include gene-like symbols; exact identifier namespace was not directly encoded in file header
+GSE189926	GSM5709995	GSM5709995_matrix_inflection_DSF112.txt.gz	39323	51757	12434	0	observed row names include gene-like symbols; exact identifier namespace was not directly encoded in file header
+GSE189926	GSM5709996	GSM5709996_matrix_inflection_DSF121.txt.gz	38748	51757	13009	0	observed row names include gene-like symbols; exact identifier namespace was not directly encoded in file header
+GSE189926	GSM5709997	GSM5709997_matrix_inflection_DSF122.txt.gz	42695	51757	9062	0	observed row names include gene-like symbols; exact identifier namespace was not directly encoded in file header
+GSE189926	GSM5709998	GSM5709998_matrix_inflection_DSF123.txt.gz	33040	51757	18717	0	observed row names include gene-like symbols; exact identifier namespace was not directly encoded in file header
+GSE189926	GSM5709999	GSM5709999_matrix_inflection_DSF131.txt.gz	39869	51757	11888	0	observed row names include gene-like symbols; exact identifier namespace was not directly encoded in file header
+GSE189926	GSM5710000	GSM5710000_matrix_inflection_DSF132.txt.gz	38762	51757	12995	0	observed row names include gene-like symbols; exact identifier namespace was not directly encoded in file header

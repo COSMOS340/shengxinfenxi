@@ -1,0 +1,2 @@
+dataset_id	cell_count	gene_count	n_counts_min	n_counts_median	n_counts_max	n_genes_min	n_genes_median	n_genes_max	pct_mt_median	pct_rp_median	pct_hb_median	filtering_action
+GSE189926	121452	51757	1296.0	13283.0	2666243.0	24.0	1213.0	15885.0	7.003997266292572	4.668559692800045	0.0	no cells removed; unfiltered object retained

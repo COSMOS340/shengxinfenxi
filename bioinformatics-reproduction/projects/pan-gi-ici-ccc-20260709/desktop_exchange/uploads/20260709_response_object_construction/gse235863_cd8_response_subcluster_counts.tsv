@@ -1,0 +1,236 @@
+raw_response	derived_response_group	response_join_status	response_ambiguity_flag	patient	sample	tissue	sub_cluster	cell_count	proportion_within_group
+NR	non_responder	matched	False	P53	P53-post-P-CD8	P	CD8_C01_LEF1	1637	0.425526384195477
+NR	non_responder	matched	False	P53	P53-post-P-CD8	P	CD8_C02_GPR183	136	0.03535222251104757
+NR	non_responder	matched	False	P53	P53-post-P-CD8	P	CD8_C03_CX3CR1	782	0.20327527943852353
+NR	non_responder	matched	False	P53	P53-post-P-CD8	P	CD8_C04_GIMAP4	112	0.029113595009098
+NR	non_responder	matched	False	P53	P53-post-P-CD8	P	CD8_C05_CCR7	104	0.02703405250844814
+NR	non_responder	matched	False	P53	P53-post-P-CD8	P	CD8_C06_IKZF2	735	0.1910579672472056
+NR	non_responder	matched	False	P53	P53-post-P-CD8	P	CD8_C07_KIR2DL4	2	0.0005198856251624642
+NR	non_responder	matched	False	P53	P53-post-P-CD8	P	CD8_C08_GZMK	24	0.006238627501949571
+NR	non_responder	matched	False	P53	P53-post-P-CD8	P	CD8_C10_SLC4A10	306	0.07954250064985703
+NR	non_responder	matched	False	P53	P53-post-P-CD8	P	CD8_C11_MKI67	9	0.002339485313231089
+NR	non_responder	matched	False	P53	P53-post-T-CD8	T	CD8_C01_LEF1	27	0.004291845493562232
+NR	non_responder	matched	False	P53	P53-post-T-CD8	T	CD8_C02_GPR183	5	0.0007947862025115244
+NR	non_responder	matched	False	P53	P53-post-T-CD8	T	CD8_C03_CX3CR1	59	0.009378477189635987
+NR	non_responder	matched	False	P53	P53-post-T-CD8	T	CD8_C04_GIMAP4	97	0.015418852328723573
+NR	non_responder	matched	False	P53	P53-post-T-CD8	T	CD8_C05_CCR7	99	0.015736766809728183
+NR	non_responder	matched	False	P53	P53-post-T-CD8	T	CD8_C06_IKZF2	5	0.0007947862025115244
+NR	non_responder	matched	False	P53	P53-post-T-CD8	T	CD8_C07_KIR2DL4	169	0.026863773644889524
+NR	non_responder	matched	False	P53	P53-post-T-CD8	T	CD8_C08_GZMK	3222	0.5121602288984263
+NR	non_responder	matched	False	P53	P53-post-T-CD8	T	CD8_C09_LAYN	269	0.04275949769512001
+NR	non_responder	matched	False	P53	P53-post-T-CD8	T	CD8_C10_SLC4A10	2119	0.336830392624384
+NR	non_responder	matched	False	P53	P53-post-T-CD8	T	CD8_C11_MKI67	220	0.034970592910507074
+PD, non-responder	non_responder	matched	False	P16	P16-N-CD45p	N	CD8_C01_LEF1	1	0.04
+PD, non-responder	non_responder	matched	False	P16	P16-N-CD45p	N	CD8_C03_CX3CR1	6	0.24
+PD, non-responder	non_responder	matched	False	P16	P16-N-CD45p	N	CD8_C05_CCR7	2	0.08
+PD, non-responder	non_responder	matched	False	P16	P16-N-CD45p	N	CD8_C06_IKZF2	2	0.08
+PD, non-responder	non_responder	matched	False	P16	P16-N-CD45p	N	CD8_C08_GZMK	9	0.36
+PD, non-responder	non_responder	matched	False	P16	P16-N-CD45p	N	CD8_C09_LAYN	1	0.04
+PD, non-responder	non_responder	matched	False	P16	P16-N-CD45p	N	CD8_C10_SLC4A10	3	0.12
+PD, non-responder	non_responder	matched	False	P16	P16-N-CD45p	N	CD8_C11_MKI67	1	0.04
+PD, non-responder	non_responder	matched	False	P16	P16-P-CD8p	P	CD8_C01_LEF1	2488	0.3212809917355372
+PD, non-responder	non_responder	matched	False	P16	P16-P-CD8p	P	CD8_C02_GPR183	409	0.0528150826446281
+PD, non-responder	non_responder	matched	False	P16	P16-P-CD8p	P	CD8_C03_CX3CR1	3182	0.41089876033057854
+PD, non-responder	non_responder	matched	False	P16	P16-P-CD8p	P	CD8_C04_GIMAP4	595	0.07683367768595041
+PD, non-responder	non_responder	matched	False	P16	P16-P-CD8p	P	CD8_C05_CCR7	619	0.07993285123966942
+PD, non-responder	non_responder	matched	False	P16	P16-P-CD8p	P	CD8_C06_IKZF2	47	0.006069214876033058
+PD, non-responder	non_responder	matched	False	P16	P16-P-CD8p	P	CD8_C07_KIR2DL4	6	0.0007747933884297521
+PD, non-responder	non_responder	matched	False	P16	P16-P-CD8p	P	CD8_C08_GZMK	279	0.03602789256198347
+PD, non-responder	non_responder	matched	False	P16	P16-P-CD8p	P	CD8_C09_LAYN	1	0.00012913223140495868
+PD, non-responder	non_responder	matched	False	P16	P16-P-CD8p	P	CD8_C10_SLC4A10	95	0.012267561983471075
+PD, non-responder	non_responder	matched	False	P16	P16-P-CD8p	P	CD8_C11_MKI67	23	0.0029700413223140497
+PD, non-responder	non_responder	matched	False	P16	P16-T-CD3p	T	CD8_C01_LEF1	2	0.011695906432748537
+PD, non-responder	non_responder	matched	False	P16	P16-T-CD3p	T	CD8_C03_CX3CR1	11	0.06432748538011696
+PD, non-responder	non_responder	matched	False	P16	P16-T-CD3p	T	CD8_C04_GIMAP4	4	0.023391812865497075
+PD, non-responder	non_responder	matched	False	P16	P16-T-CD3p	T	CD8_C05_CCR7	3	0.017543859649122806
+PD, non-responder	non_responder	matched	False	P16	P16-T-CD3p	T	CD8_C07_KIR2DL4	7	0.04093567251461988
+PD, non-responder	non_responder	matched	False	P16	P16-T-CD3p	T	CD8_C08_GZMK	66	0.38596491228070173
+PD, non-responder	non_responder	matched	False	P16	P16-T-CD3p	T	CD8_C10_SLC4A10	76	0.4444444444444444
+PD, non-responder	non_responder	matched	False	P16	P16-T-CD3p	T	CD8_C11_MKI67	2	0.011695906432748537
+PD, non-responder	non_responder	matched	False	P16	P16-T-CD8n	T	CD8_C01_LEF1	5	0.017361111111111112
+PD, non-responder	non_responder	matched	False	P16	P16-T-CD8n	T	CD8_C02_GPR183	1	0.003472222222222222
+PD, non-responder	non_responder	matched	False	P16	P16-T-CD8n	T	CD8_C03_CX3CR1	3	0.010416666666666666
+PD, non-responder	non_responder	matched	False	P16	P16-T-CD8n	T	CD8_C04_GIMAP4	2	0.006944444444444444
+PD, non-responder	non_responder	matched	False	P16	P16-T-CD8n	T	CD8_C05_CCR7	5	0.017361111111111112
+PD, non-responder	non_responder	matched	False	P16	P16-T-CD8n	T	CD8_C07_KIR2DL4	9	0.03125
+PD, non-responder	non_responder	matched	False	P16	P16-T-CD8n	T	CD8_C08_GZMK	117	0.40625
+PD, non-responder	non_responder	matched	False	P16	P16-T-CD8n	T	CD8_C09_LAYN	9	0.03125
+PD, non-responder	non_responder	matched	False	P16	P16-T-CD8n	T	CD8_C10_SLC4A10	134	0.4652777777777778
+PD, non-responder	non_responder	matched	False	P16	P16-T-CD8n	T	CD8_C11_MKI67	3	0.010416666666666666
+PD, non-responder	non_responder	matched	False	P16	P16-T-CD8p	T	CD8_C01_LEF1	5	0.034482758620689655
+PD, non-responder	non_responder	matched	False	P16	P16-T-CD8p	T	CD8_C03_CX3CR1	5	0.034482758620689655
+PD, non-responder	non_responder	matched	False	P16	P16-T-CD8p	T	CD8_C05_CCR7	4	0.027586206896551724
+PD, non-responder	non_responder	matched	False	P16	P16-T-CD8p	T	CD8_C07_KIR2DL4	13	0.0896551724137931
+PD, non-responder	non_responder	matched	False	P16	P16-T-CD8p	T	CD8_C08_GZMK	104	0.7172413793103448
+PD, non-responder	non_responder	matched	False	P16	P16-T-CD8p	T	CD8_C09_LAYN	7	0.04827586206896552
+PD, non-responder	non_responder	matched	False	P16	P16-T-CD8p	T	CD8_C10_SLC4A10	6	0.041379310344827586
+PD, non-responder	non_responder	matched	False	P16	P16-T-CD8p	T	CD8_C11_MKI67	1	0.006896551724137931
+PD, non-responder	non_responder	matched	False	P16	P16-pre-P-CD8n	P	CD8_C01_LEF1	197	0.16938950988822013
+PD, non-responder	non_responder	matched	False	P16	P16-pre-P-CD8n	P	CD8_C02_GPR183	197	0.16938950988822013
+PD, non-responder	non_responder	matched	False	P16	P16-pre-P-CD8n	P	CD8_C03_CX3CR1	99	0.08512467755803955
+PD, non-responder	non_responder	matched	False	P16	P16-pre-P-CD8n	P	CD8_C04_GIMAP4	119	0.10232158211521926
+PD, non-responder	non_responder	matched	False	P16	P16-pre-P-CD8n	P	CD8_C05_CCR7	207	0.17798796216680998
+PD, non-responder	non_responder	matched	False	P16	P16-pre-P-CD8n	P	CD8_C06_IKZF2	24	0.02063628546861565
+PD, non-responder	non_responder	matched	False	P16	P16-pre-P-CD8n	P	CD8_C07_KIR2DL4	6	0.005159071367153913
+PD, non-responder	non_responder	matched	False	P16	P16-pre-P-CD8n	P	CD8_C08_GZMK	227	0.1951848667239897
+PD, non-responder	non_responder	matched	False	P16	P16-pre-P-CD8n	P	CD8_C10_SLC4A10	78	0.06706792777300086
+PD, non-responder	non_responder	matched	False	P16	P16-pre-P-CD8n	P	CD8_C11_MKI67	9	0.007738607050730868
+PD, non-responder	non_responder	matched	False	P16	P16-pre-P-CD8p	P	CD8_C01_LEF1	5299	0.4294513331712456
+PD, non-responder	non_responder	matched	False	P16	P16-pre-P-CD8p	P	CD8_C02_GPR183	837	0.06783369803063458
+PD, non-responder	non_responder	matched	False	P16	P16-pre-P-CD8p	P	CD8_C03_CX3CR1	2271	0.18405057135910527
+PD, non-responder	non_responder	matched	False	P16	P16-pre-P-CD8p	P	CD8_C04_GIMAP4	559	0.04530350919847637
+PD, non-responder	non_responder	matched	False	P16	P16-pre-P-CD8p	P	CD8_C05_CCR7	1680	0.1361536591295891
+PD, non-responder	non_responder	matched	False	P16	P16-pre-P-CD8p	P	CD8_C06_IKZF2	131	0.01061674365831915
+PD, non-responder	non_responder	matched	False	P16	P16-pre-P-CD8p	P	CD8_C07_KIR2DL4	56	0.004538455304319637
+PD, non-responder	non_responder	matched	False	P16	P16-pre-P-CD8p	P	CD8_C08_GZMK	1213	0.09830618364535214
+PD, non-responder	non_responder	matched	False	P16	P16-pre-P-CD8p	P	CD8_C09_LAYN	1	8.104384471999351e-05
+PD, non-responder	non_responder	matched	False	P16	P16-pre-P-CD8p	P	CD8_C10_SLC4A10	283	0.022935408055758166
+PD, non-responder	non_responder	matched	False	P16	P16-pre-P-CD8p	P	CD8_C11_MKI67	9	0.0007293946024799417
+PD, non-responder	non_responder	matched	False	P16	P16-pre-T-CD8n	T	CD8_C01_LEF1	21	0.014492753623188406
+PD, non-responder	non_responder	matched	False	P16	P16-pre-T-CD8n	T	CD8_C02_GPR183	45	0.031055900621118012
+PD, non-responder	non_responder	matched	False	P16	P16-pre-T-CD8n	T	CD8_C03_CX3CR1	27	0.018633540372670808
+PD, non-responder	non_responder	matched	False	P16	P16-pre-T-CD8n	T	CD8_C04_GIMAP4	1	0.0006901311249137336
+PD, non-responder	non_responder	matched	False	P16	P16-pre-T-CD8n	T	CD8_C05_CCR7	4	0.0027605244996549345
+PD, non-responder	non_responder	matched	False	P16	P16-pre-T-CD8n	T	CD8_C06_IKZF2	13	0.008971704623878536
+PD, non-responder	non_responder	matched	False	P16	P16-pre-T-CD8n	T	CD8_C07_KIR2DL4	14	0.00966183574879227
+PD, non-responder	non_responder	matched	False	P16	P16-pre-T-CD8n	T	CD8_C08_GZMK	471	0.3250517598343685
+PD, non-responder	non_responder	matched	False	P16	P16-pre-T-CD8n	T	CD8_C09_LAYN	2	0.0013802622498274672
+PD, non-responder	non_responder	matched	False	P16	P16-pre-T-CD8n	T	CD8_C10_SLC4A10	828	0.5714285714285714
+PD, non-responder	non_responder	matched	False	P16	P16-pre-T-CD8n	T	CD8_C11_MKI67	23	0.015873015873015872
+PD, non-responder	non_responder	matched	False	P16	P16-pre-T-CD8p	T	CD8_C01_LEF1	156	0.036923076923076927
+PD, non-responder	non_responder	matched	False	P16	P16-pre-T-CD8p	T	CD8_C02_GPR183	106	0.025088757396449703
+PD, non-responder	non_responder	matched	False	P16	P16-pre-T-CD8p	T	CD8_C03_CX3CR1	144	0.03408284023668639
+PD, non-responder	non_responder	matched	False	P16	P16-pre-T-CD8p	T	CD8_C04_GIMAP4	18	0.004260355029585799
+PD, non-responder	non_responder	matched	False	P16	P16-pre-T-CD8p	T	CD8_C05_CCR7	76	0.017988165680473372
+PD, non-responder	non_responder	matched	False	P16	P16-pre-T-CD8p	T	CD8_C07_KIR2DL4	90	0.021301775147928994
+PD, non-responder	non_responder	matched	False	P16	P16-pre-T-CD8p	T	CD8_C08_GZMK	3028	0.7166863905325443
+PD, non-responder	non_responder	matched	False	P16	P16-pre-T-CD8p	T	CD8_C09_LAYN	18	0.004260355029585799
+PD, non-responder	non_responder	matched	False	P16	P16-pre-T-CD8p	T	CD8_C10_SLC4A10	543	0.1285207100591716
+PD, non-responder	non_responder	matched	False	P16	P16-pre-T-CD8p	T	CD8_C11_MKI67	46	0.01088757396449704
+PR, responder	responder	matched	False	P3	P3-N-CD8n	N	CD8_C01_LEF1	19	0.023142509135200974
+PR, responder	responder	matched	False	P3	P3-N-CD8n	N	CD8_C02_GPR183	30	0.03654080389768575
+PR, responder	responder	matched	False	P3	P3-N-CD8n	N	CD8_C03_CX3CR1	69	0.08404384896467722
+PR, responder	responder	matched	False	P3	P3-N-CD8n	N	CD8_C04_GIMAP4	24	0.029232643118148598
+PR, responder	responder	matched	False	P3	P3-N-CD8n	N	CD8_C05_CCR7	20	0.024360535931790498
+PR, responder	responder	matched	False	P3	P3-N-CD8n	N	CD8_C07_KIR2DL4	77	0.09378806333739342
+PR, responder	responder	matched	False	P3	P3-N-CD8n	N	CD8_C08_GZMK	463	0.5639464068209501
+PR, responder	responder	matched	False	P3	P3-N-CD8n	N	CD8_C09_LAYN	9	0.010962241169305725
+PR, responder	responder	matched	False	P3	P3-N-CD8n	N	CD8_C10_SLC4A10	108	0.1315468940316687
+PR, responder	responder	matched	False	P3	P3-N-CD8n	N	CD8_C11_MKI67	2	0.00243605359317905
+PR, responder	responder	matched	False	P3	P3-N-CD8p	N	CD8_C01_LEF1	34	0.006086645184389545
+PR, responder	responder	matched	False	P3	P3-N-CD8p	N	CD8_C02_GPR183	91	0.016290726817042606
+PR, responder	responder	matched	False	P3	P3-N-CD8p	N	CD8_C03_CX3CR1	72	0.01288936627282492
+PR, responder	responder	matched	False	P3	P3-N-CD8p	N	CD8_C04_GIMAP4	15	0.0026852846401718583
+PR, responder	responder	matched	False	P3	P3-N-CD8p	N	CD8_C05_CCR7	30	0.0053705692803437165
+PR, responder	responder	matched	False	P3	P3-N-CD8p	N	CD8_C07_KIR2DL4	52	0.009308986752595776
+PR, responder	responder	matched	False	P3	P3-N-CD8p	N	CD8_C08_GZMK	5005	0.8959899749373433
+PR, responder	responder	matched	False	P3	P3-N-CD8p	N	CD8_C09_LAYN	42	0.007518796992481203
+PR, responder	responder	matched	False	P3	P3-N-CD8p	N	CD8_C10_SLC4A10	239	0.04278553526673828
+PR, responder	responder	matched	False	P3	P3-N-CD8p	N	CD8_C11_MKI67	6	0.0010741138560687433
+PR, responder	responder	matched	False	P3	P3-P-CD8p	P	CD8_C01_LEF1	673	0.26600790513833994
+PR, responder	responder	matched	False	P3	P3-P-CD8p	P	CD8_C02_GPR183	1448	0.5723320158102767
+PR, responder	responder	matched	False	P3	P3-P-CD8p	P	CD8_C03_CX3CR1	319	0.12608695652173912
+PR, responder	responder	matched	False	P3	P3-P-CD8p	P	CD8_C04_GIMAP4	33	0.013043478260869565
+PR, responder	responder	matched	False	P3	P3-P-CD8p	P	CD8_C05_CCR7	18	0.0071146245059288534
+PR, responder	responder	matched	False	P3	P3-P-CD8p	P	CD8_C06_IKZF2	4	0.0015810276679841897
+PR, responder	responder	matched	False	P3	P3-P-CD8p	P	CD8_C08_GZMK	1	0.0003952569169960474
+PR, responder	responder	matched	False	P3	P3-P-CD8p	P	CD8_C10_SLC4A10	28	0.011067193675889328
+PR, responder	responder	matched	False	P3	P3-P-CD8p	P	CD8_C11_MKI67	6	0.0023715415019762848
+PR, responder	responder	matched	False	P3	P3-T-CD45	T	CD8_C02_GPR183	1	0.014492753623188406
+PR, responder	responder	matched	False	P3	P3-T-CD45	T	CD8_C04_GIMAP4	1	0.014492753623188406
+PR, responder	responder	matched	False	P3	P3-T-CD45	T	CD8_C05_CCR7	2	0.028985507246376812
+PR, responder	responder	matched	False	P3	P3-T-CD45	T	CD8_C07_KIR2DL4	3	0.043478260869565216
+PR, responder	responder	matched	False	P3	P3-T-CD45	T	CD8_C08_GZMK	24	0.34782608695652173
+PR, responder	responder	matched	False	P3	P3-T-CD45	T	CD8_C09_LAYN	4	0.057971014492753624
+PR, responder	responder	matched	False	P3	P3-T-CD45	T	CD8_C11_MKI67	34	0.4927536231884058
+PR, responder	responder	matched	False	P3	P3-T-CD8n	T	CD8_C01_LEF1	33	0.05092592592592592
+PR, responder	responder	matched	False	P3	P3-T-CD8n	T	CD8_C02_GPR183	35	0.05401234567901234
+PR, responder	responder	matched	False	P3	P3-T-CD8n	T	CD8_C03_CX3CR1	28	0.043209876543209874
+PR, responder	responder	matched	False	P3	P3-T-CD8n	T	CD8_C04_GIMAP4	5	0.007716049382716049
+PR, responder	responder	matched	False	P3	P3-T-CD8n	T	CD8_C05_CCR7	15	0.023148148148148147
+PR, responder	responder	matched	False	P3	P3-T-CD8n	T	CD8_C07_KIR2DL4	81	0.125
+PR, responder	responder	matched	False	P3	P3-T-CD8n	T	CD8_C08_GZMK	288	0.4444444444444444
+PR, responder	responder	matched	False	P3	P3-T-CD8n	T	CD8_C09_LAYN	18	0.027777777777777776
+PR, responder	responder	matched	False	P3	P3-T-CD8n	T	CD8_C10_SLC4A10	130	0.2006172839506173
+PR, responder	responder	matched	False	P3	P3-T-CD8n	T	CD8_C11_MKI67	15	0.023148148148148147
+PR, responder	responder	matched	False	P3	P3-T-CD8p	T	CD8_C01_LEF1	59	0.007550550294343486
+PR, responder	responder	matched	False	P3	P3-T-CD8p	T	CD8_C02_GPR183	162	0.020732019452265164
+PR, responder	responder	matched	False	P3	P3-T-CD8p	T	CD8_C03_CX3CR1	65	0.008318402866649604
+PR, responder	responder	matched	False	P3	P3-T-CD8p	T	CD8_C04_GIMAP4	17	0.0021755822882006653
+PR, responder	responder	matched	False	P3	P3-T-CD8p	T	CD8_C05_CCR7	50	0.0063987714358843106
+PR, responder	responder	matched	False	P3	P3-T-CD8p	T	CD8_C07_KIR2DL4	183	0.023419503455336575
+PR, responder	responder	matched	False	P3	P3-T-CD8p	T	CD8_C08_GZMK	5845	0.7480163808548759
+PR, responder	responder	matched	False	P3	P3-T-CD8p	T	CD8_C09_LAYN	983	0.12579984642948555
+PR, responder	responder	matched	False	P3	P3-T-CD8p	T	CD8_C10_SLC4A10	318	0.040696186332224216
+PR, responder	responder	matched	False	P3	P3-T-CD8p	T	CD8_C11_MKI67	132	0.016892756590734578
+PR, responder	responder	matched	False	P3	P3-af-P-CD8p	P	CD8_C01_LEF1	5495	0.3281772575250836
+PR, responder	responder	matched	False	P3	P3-af-P-CD8p	P	CD8_C02_GPR183	6994	0.41770186335403725
+PR, responder	responder	matched	False	P3	P3-af-P-CD8p	P	CD8_C03_CX3CR1	3818	0.22802197802197802
+PR, responder	responder	matched	False	P3	P3-af-P-CD8p	P	CD8_C04_GIMAP4	206	0.01230291447682752
+PR, responder	responder	matched	False	P3	P3-af-P-CD8p	P	CD8_C05_CCR7	43	0.0025680840898232205
+PR, responder	responder	matched	False	P3	P3-af-P-CD8p	P	CD8_C06_IKZF2	108	0.006450071667462972
+PR, responder	responder	matched	False	P3	P3-af-P-CD8p	P	CD8_C08_GZMK	9	0.000537505972288581
+PR, responder	responder	matched	False	P3	P3-af-P-CD8p	P	CD8_C10_SLC4A10	45	0.002687529861442905
+PR, responder	responder	matched	False	P3	P3-af-P-CD8p	P	CD8_C11_MKI67	26	0.0015527950310559005
+PR, responder	responder	matched	False	P3	P3-pre-P-CD8p	P	CD8_C01_LEF1	372	0.1518987341772152
+PR, responder	responder	matched	False	P3	P3-pre-P-CD8p	P	CD8_C02_GPR183	534	0.21804818293180891
+PR, responder	responder	matched	False	P3	P3-pre-P-CD8p	P	CD8_C03_CX3CR1	955	0.38995508370763576
+PR, responder	responder	matched	False	P3	P3-pre-P-CD8p	P	CD8_C04_GIMAP4	300	0.12249897917517354
+PR, responder	responder	matched	False	P3	P3-pre-P-CD8p	P	CD8_C05_CCR7	137	0.055941200489995915
+PR, responder	responder	matched	False	P3	P3-pre-P-CD8p	P	CD8_C06_IKZF2	35	0.014291547570436913
+PR, responder	responder	matched	False	P3	P3-pre-P-CD8p	P	CD8_C07_KIR2DL4	5	0.002041649652919559
+PR, responder	responder	matched	False	P3	P3-pre-P-CD8p	P	CD8_C08_GZMK	43	0.017558187015108206
+PR, responder	responder	matched	False	P3	P3-pre-P-CD8p	P	CD8_C10_SLC4A10	66	0.02694977541853818
+PR, responder	responder	matched	False	P3	P3-pre-P-CD8p	P	CD8_C11_MKI67	2	0.0008166598611678236
+R	responder	matched	False	P57	P57-post-P-CD8	P	CD8_C01_LEF1	529	0.10710670176149018
+R	responder	matched	False	P57	P57-post-P-CD8	P	CD8_C02_GPR183	139	0.028143348856043734
+R	responder	matched	False	P57	P57-post-P-CD8	P	CD8_C03_CX3CR1	2959	0.5991091314031181
+R	responder	matched	False	P57	P57-post-P-CD8	P	CD8_C04_GIMAP4	258	0.052237294998987646
+R	responder	matched	False	P57	P57-post-P-CD8	P	CD8_C05_CCR7	104	0.02105689410811905
+R	responder	matched	False	P57	P57-post-P-CD8	P	CD8_C06_IKZF2	221	0.044745899979752986
+R	responder	matched	False	P57	P57-post-P-CD8	P	CD8_C07_KIR2DL4	3	0.0006074104069649726
+R	responder	matched	False	P57	P57-post-P-CD8	P	CD8_C08_GZMK	63	0.012755618546264426
+R	responder	matched	False	P57	P57-post-P-CD8	P	CD8_C10_SLC4A10	662	0.13403522980360397
+R	responder	matched	False	P57	P57-post-P-CD8	P	CD8_C11_MKI67	1	0.00020247013565499088
+R	responder	matched	False	P57	P57-post-T-CD8	T	CD8_C01_LEF1	1	0.00018608113137327876
+R	responder	matched	False	P57	P57-post-T-CD8	T	CD8_C02_GPR183	1	0.00018608113137327876
+R	responder	matched	False	P57	P57-post-T-CD8	T	CD8_C03_CX3CR1	83	0.015444733903982136
+R	responder	matched	False	P57	P57-post-T-CD8	T	CD8_C04_GIMAP4	45	0.008373650911797544
+R	responder	matched	False	P57	P57-post-T-CD8	T	CD8_C05_CCR7	18	0.0033494603647190174
+R	responder	matched	False	P57	P57-post-T-CD8	T	CD8_C06_IKZF2	2	0.0003721622627465575
+R	responder	matched	False	P57	P57-post-T-CD8	T	CD8_C07_KIR2DL4	285	0.053033122441384445
+R	responder	matched	False	P57	P57-post-T-CD8	T	CD8_C08_GZMK	3077	0.5725716412355787
+R	responder	matched	False	P57	P57-post-T-CD8	T	CD8_C09_LAYN	1521	0.283029400818757
+R	responder	matched	False	P57	P57-post-T-CD8	T	CD8_C10_SLC4A10	107	0.019910681056940827
+R	responder	matched	False	P57	P57-post-T-CD8	T	CD8_C11_MKI67	234	0.043542984741347227
+R	responder	matched	False	P58	P58-post-P-CD8	P	CD8_C01_LEF1	2868	0.7605409705648369
+R	responder	matched	False	P58	P58-post-P-CD8	P	CD8_C02_GPR183	74	0.0196234420578096
+R	responder	matched	False	P58	P58-post-P-CD8	P	CD8_C03_CX3CR1	469	0.12437019358260408
+R	responder	matched	False	P58	P58-post-P-CD8	P	CD8_C04_GIMAP4	103	0.027313709891275524
+R	responder	matched	False	P58	P58-post-P-CD8	P	CD8_C05_CCR7	41	0.010872447626624237
+R	responder	matched	False	P58	P58-post-P-CD8	P	CD8_C06_IKZF2	77	0.020418987006099176
+R	responder	matched	False	P58	P58-post-P-CD8	P	CD8_C07_KIR2DL4	6	0.0015910898965791568
+R	responder	matched	False	P58	P58-post-P-CD8	P	CD8_C08_GZMK	34	0.009016176080615222
+R	responder	matched	False	P58	P58-post-P-CD8	P	CD8_C09_LAYN	5	0.0013259082471492973
+R	responder	matched	False	P58	P58-post-P-CD8	P	CD8_C10_SLC4A10	90	0.02386634844868735
+R	responder	matched	False	P58	P58-post-P-CD8	P	CD8_C11_MKI67	4	0.0010607265977194379
+R	responder	matched	False	P58	P58-post-T-CD8	T	CD8_C01_LEF1	58	0.010473094980137234
+R	responder	matched	False	P58	P58-post-T-CD8	T	CD8_C02_GPR183	9	0.0016251354279523294
+R	responder	matched	False	P58	P58-post-T-CD8	T	CD8_C03_CX3CR1	15	0.0027085590465872156
+R	responder	matched	False	P58	P58-post-T-CD8	T	CD8_C04_GIMAP4	13	0.002347417840375587
+R	responder	matched	False	P58	P58-post-T-CD8	T	CD8_C05_CCR7	67	0.012098230408089564
+R	responder	matched	False	P58	P58-post-T-CD8	T	CD8_C07_KIR2DL4	306	0.0552546045503792
+R	responder	matched	False	P58	P58-post-T-CD8	T	CD8_C08_GZMK	4506	0.8136511375947996
+R	responder	matched	False	P58	P58-post-T-CD8	T	CD8_C09_LAYN	387	0.06988082340195016
+R	responder	matched	False	P58	P58-post-T-CD8	T	CD8_C10_SLC4A10	170	0.030697002527988442
+R	responder	matched	False	P58	P58-post-T-CD8	T	CD8_C11_MKI67	7	0.0012639942217407005
+R	responder	matched	False	P58	P58-post-T-DEX	T	CD8_C01_LEF1	21	0.014603616133518776
+R	responder	matched	False	P58	P58-post-T-DEX	T	CD8_C02_GPR183	1	0.0006954102920723226
+R	responder	matched	False	P58	P58-post-T-DEX	T	CD8_C03_CX3CR1	2	0.0013908205841446453
+R	responder	matched	False	P58	P58-post-T-DEX	T	CD8_C04_GIMAP4	18	0.012517385257301807
+R	responder	matched	False	P58	P58-post-T-DEX	T	CD8_C05_CCR7	26	0.01808066759388039
+R	responder	matched	False	P58	P58-post-T-DEX	T	CD8_C07_KIR2DL4	95	0.06606397774687066
+R	responder	matched	False	P58	P58-post-T-DEX	T	CD8_C08_GZMK	1146	0.7969401947148818
+R	responder	matched	False	P58	P58-post-T-DEX	T	CD8_C09_LAYN	94	0.06536856745479833
+R	responder	matched	False	P58	P58-post-T-DEX	T	CD8_C10_SLC4A10	26	0.01808066759388039
+R	responder	matched	False	P58	P58-post-T-DEX	T	CD8_C11_MKI67	9	0.006258692628650904

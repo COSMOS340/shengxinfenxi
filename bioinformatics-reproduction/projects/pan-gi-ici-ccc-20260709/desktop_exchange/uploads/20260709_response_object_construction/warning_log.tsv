@@ -1,0 +1,3 @@
+dataset_id	warning_type	affected_field	affected_count	explanation	action_taken
+GSE189926	derived_response_rule	binary_response_group	18084	NE and any other raw labels were kept out of binary response grouping.	Raw outcome preserved; derived field documented in count table.
+GSE235863_CD45	ambiguous_response_preserved	patient P18	31705	P18 has raw response values 'CR, responder|PR, responder'.	Marked response_ambiguity_flag=True and retained raw response string.

@@ -1,0 +1,207 @@
+raw_response	derived_response_group	response_join_status	response_ambiguity_flag	patient	sample	tissue	major_cluster	cell_count	proportion_within_group
+CR, responder|PR, responder	responder	ambiguous	True	P18	P18-post-P	P	B	885	0.10753341433778858
+CR, responder|PR, responder	responder	ambiguous	True	P18	P18-post-P	P	CD4T	2125	0.25820170109356017
+CR, responder|PR, responder	responder	ambiguous	True	P18	P18-post-P	P	CD8T	2236	0.2716889428918591
+CR, responder|PR, responder	responder	ambiguous	True	P18	P18-post-P	P	ILC	1731	0.2103280680437424
+CR, responder|PR, responder	responder	ambiguous	True	P18	P18-post-P	P	Myeloid	1036	0.1258809234507898
+CR, responder|PR, responder	responder	ambiguous	True	P18	P18-post-P	P	Plasma	55	0.006682867557715674
+CR, responder|PR, responder	responder	ambiguous	True	P18	P18-post-P	P	gdT	162	0.01968408262454435
+CR, responder|PR, responder	responder	ambiguous	True	P18	P18-post-T	T	B	823	0.11701976396985639
+CR, responder|PR, responder	responder	ambiguous	True	P18	P18-post-T	T	CD4T	1585	0.2253661310962605
+CR, responder|PR, responder	responder	ambiguous	True	P18	P18-post-T	T	CD8T	2964	0.4214417744916821
+CR, responder|PR, responder	responder	ambiguous	True	P18	P18-post-T	T	ILC	173	0.02459832219536471
+CR, responder|PR, responder	responder	ambiguous	True	P18	P18-post-T	T	Myeloid	57	0.008104649509455424
+CR, responder|PR, responder	responder	ambiguous	True	P18	P18-post-T	T	Plasma	1413	0.200909995734395
+CR, responder|PR, responder	responder	ambiguous	True	P18	P18-post-T	T	gdT	18	0.0025593630029859234
+CR, responder|PR, responder	responder	ambiguous	True	P18	P18-pre-P	P	B	703	0.09287884793235567
+CR, responder|PR, responder	responder	ambiguous	True	P18	P18-pre-P	P	CD4T	2257	0.2981899854670366
+CR, responder|PR, responder	responder	ambiguous	True	P18	P18-pre-P	P	CD8T	2143	0.2831285506671951
+CR, responder|PR, responder	responder	ambiguous	True	P18	P18-pre-P	P	ILC	631	0.08336636279561369
+CR, responder|PR, responder	responder	ambiguous	True	P18	P18-pre-P	P	Myeloid	1733	0.22896023252741446
+CR, responder|PR, responder	responder	ambiguous	True	P18	P18-pre-P	P	Plasma	8	0.0010569427929713305
+CR, responder|PR, responder	responder	ambiguous	True	P18	P18-pre-P	P	gdT	94	0.012419077817413133
+CR, responder|PR, responder	responder	ambiguous	True	P18	P18-pre-T	T	B	1798	0.20263721402006085
+CR, responder|PR, responder	responder	ambiguous	True	P18	P18-pre-T	T	CD4T	2335	0.2631578947368421
+CR, responder|PR, responder	responder	ambiguous	True	P18	P18-pre-T	T	CD8T	1563	0.17615237236560352
+CR, responder|PR, responder	responder	ambiguous	True	P18	P18-pre-T	T	ILC	960	0.10819339569480446
+CR, responder|PR, responder	responder	ambiguous	True	P18	P18-pre-T	T	Myeloid	1050	0.11833652654119238
+CR, responder|PR, responder	responder	ambiguous	True	P18	P18-pre-T	T	Plasma	1151	0.1297193733799166
+CR, responder|PR, responder	responder	ambiguous	True	P18	P18-pre-T	T	gdT	16	0.0018032232615800743
+NR/SD	non_responder	matched	False	P51	P51-post-P	P	B	3	0.0002891844997108155
+NR/SD	non_responder	matched	False	P51	P51-post-P	P	CD4T	518	0.04993252361673414
+NR/SD	non_responder	matched	False	P51	P51-post-P	P	CD8T	2400	0.2313475997686524
+NR/SD	non_responder	matched	False	P51	P51-post-P	P	ILC	2512	0.2421438210911895
+NR/SD	non_responder	matched	False	P51	P51-post-P	P	Myeloid	4583	0.44177752072488913
+NR/SD	non_responder	matched	False	P51	P51-post-P	P	gdT	358	0.03450935029882398
+NR/SD	non_responder	matched	False	P51	P51-post-T	T	B	152	0.029079778075377847
+NR/SD	non_responder	matched	False	P51	P51-post-T	T	CD4T	1947	0.372488999426057
+NR/SD	non_responder	matched	False	P51	P51-post-T	T	CD8T	1270	0.24296919839295963
+NR/SD	non_responder	matched	False	P51	P51-post-T	T	ILC	205	0.03921943753587143
+NR/SD	non_responder	matched	False	P51	P51-post-T	T	Myeloid	1598	0.3057202984503539
+NR/SD	non_responder	matched	False	P51	P51-post-T	T	Plasma	18	0.0034436579299789555
+NR/SD	non_responder	matched	False	P51	P51-post-T	T	gdT	37	0.007078630189401186
+NR/SD	non_responder	matched	False	P52	P52-post-P	P	B	382	0.07152218685639393
+NR/SD	non_responder	matched	False	P52	P52-post-P	P	CD4T	924	0.17300131061598953
+NR/SD	non_responder	matched	False	P52	P52-post-P	P	CD8T	2131	0.39898895337951695
+NR/SD	non_responder	matched	False	P52	P52-post-P	P	ILC	907	0.16981838607002434
+NR/SD	non_responder	matched	False	P52	P52-post-P	P	Myeloid	57	0.010672158771765586
+NR/SD	non_responder	matched	False	P52	P52-post-P	P	Plasma	21	0.003931847968545216
+NR/SD	non_responder	matched	False	P52	P52-post-P	P	gdT	919	0.17206515633776445
+NR/SD	non_responder	matched	False	P52	P52-post-T	T	B	211	0.04678492239467849
+NR/SD	non_responder	matched	False	P52	P52-post-T	T	CD4T	1555	0.34478935698447893
+NR/SD	non_responder	matched	False	P52	P52-post-T	T	CD8T	1649	0.3656319290465632
+NR/SD	non_responder	matched	False	P52	P52-post-T	T	ILC	105	0.02328159645232816
+NR/SD	non_responder	matched	False	P52	P52-post-T	T	Myeloid	811	0.17982261640798225
+NR/SD	non_responder	matched	False	P52	P52-post-T	T	Plasma	56	0.012416851441241685
+NR/SD	non_responder	matched	False	P52	P52-post-T	T	gdT	123	0.02727272727272727
+PD, non-responder	non_responder	matched	False	P15	P15-post-P	P	B	46	0.013739545997610514
+PD, non-responder	non_responder	matched	False	P15	P15-post-P	P	CD4T	1903	0.5683990442054958
+PD, non-responder	non_responder	matched	False	P15	P15-post-P	P	CD8T	754	0.22520908004778972
+PD, non-responder	non_responder	matched	False	P15	P15-post-P	P	ILC	219	0.06541218637992832
+PD, non-responder	non_responder	matched	False	P15	P15-post-P	P	Myeloid	404	0.12066905615292713
+PD, non-responder	non_responder	matched	False	P15	P15-post-P	P	gdT	22	0.006571087216248507
+PD, non-responder	non_responder	matched	False	P15	P15-pre-P	P	B	406	0.04695813092759658
+PD, non-responder	non_responder	matched	False	P15	P15-pre-P	P	CD4T	2994	0.3462873004857738
+PD, non-responder	non_responder	matched	False	P15	P15-pre-P	P	CD8T	1645	0.1902613925514689
+PD, non-responder	non_responder	matched	False	P15	P15-pre-P	P	ILC	2920	0.3377284293314828
+PD, non-responder	non_responder	matched	False	P15	P15-pre-P	P	Myeloid	561	0.0648854961832061
+PD, non-responder	non_responder	matched	False	P15	P15-pre-P	P	Plasma	25	0.0028915105250983115
+PD, non-responder	non_responder	matched	False	P15	P15-pre-P	P	gdT	95	0.010987739995373584
+PD, non-responder	non_responder	matched	False	P15	P15-pre-T	T	B	191	0.05026315789473684
+PD, non-responder	non_responder	matched	False	P15	P15-pre-T	T	CD4T	1296	0.3410526315789474
+PD, non-responder	non_responder	matched	False	P15	P15-pre-T	T	CD8T	1230	0.3236842105263158
+PD, non-responder	non_responder	matched	False	P15	P15-pre-T	T	ILC	582	0.1531578947368421
+PD, non-responder	non_responder	matched	False	P15	P15-pre-T	T	Myeloid	460	0.12105263157894737
+PD, non-responder	non_responder	matched	False	P15	P15-pre-T	T	Plasma	13	0.0034210526315789475
+PD, non-responder	non_responder	matched	False	P15	P15-pre-T	T	gdT	28	0.007368421052631579
+PD, non-responder	non_responder	matched	False	P26	P26-post-P	P	B	480	0.09113347256502753
+PD, non-responder	non_responder	matched	False	P26	P26-post-P	P	CD4T	656	0.12454907917220429
+PD, non-responder	non_responder	matched	False	P26	P26-post-P	P	CD8T	995	0.18891209417125499
+PD, non-responder	non_responder	matched	False	P26	P26-post-P	P	ILC	2501	0.47484336434402885
+PD, non-responder	non_responder	matched	False	P26	P26-post-P	P	Myeloid	611	0.11600531611923295
+PD, non-responder	non_responder	matched	False	P26	P26-post-P	P	Plasma	6	0.001139168407062844
+PD, non-responder	non_responder	matched	False	P26	P26-post-P	P	gdT	18	0.0034175052211885323
+PD, non-responder	non_responder	matched	False	P26	P26-post-T	T	B	381	0.04287643484132343
+PD, non-responder	non_responder	matched	False	P26	P26-post-T	T	CD4T	3507	0.3946657663740716
+PD, non-responder	non_responder	matched	False	P26	P26-post-T	T	CD8T	1836	0.20661715057393654
+PD, non-responder	non_responder	matched	False	P26	P26-post-T	T	ILC	381	0.04287643484132343
+PD, non-responder	non_responder	matched	False	P26	P26-post-T	T	Myeloid	2637	0.2967589466576637
+PD, non-responder	non_responder	matched	False	P26	P26-post-T	T	Plasma	106	0.011928876884987621
+PD, non-responder	non_responder	matched	False	P26	P26-post-T	T	gdT	38	0.0042763898266936756
+PD, non-responder	non_responder	matched	False	P26	P26-pre-P	P	B	249	0.0661706085570024
+PD, non-responder	non_responder	matched	False	P26	P26-pre-P	P	CD4T	824	0.21897422269465852
+PD, non-responder	non_responder	matched	False	P26	P26-pre-P	P	CD8T	831	0.22083444060589955
+PD, non-responder	non_responder	matched	False	P26	P26-pre-P	P	ILC	1444	0.38373638054743553
+PD, non-responder	non_responder	matched	False	P26	P26-pre-P	P	Myeloid	378	0.10045176720701568
+PD, non-responder	non_responder	matched	False	P26	P26-pre-P	P	Plasma	28	0.007440871644964125
+PD, non-responder	non_responder	matched	False	P26	P26-pre-P	P	gdT	9	0.0023917087430241827
+PD, non-responder	non_responder	matched	False	P26	P26-pre-T	T	B	388	0.07852661404573973
+PD, non-responder	non_responder	matched	False	P26	P26-pre-T	T	CD4T	2147	0.43452742359846186
+PD, non-responder	non_responder	matched	False	P26	P26-pre-T	T	CD8T	1247	0.2523780611212305
+PD, non-responder	non_responder	matched	False	P26	P26-pre-T	T	ILC	394	0.07974094312892127
+PD, non-responder	non_responder	matched	False	P26	P26-pre-T	T	Myeloid	740	0.1497672535923902
+PD, non-responder	non_responder	matched	False	P26	P26-pre-T	T	Plasma	8	0.0016191054442420564
+PD, non-responder	non_responder	matched	False	P26	P26-pre-T	T	gdT	17	0.0034405990690143697
+PR, responder	responder	matched	False	P11	P11-post-P	P	B	135	0.01747799067840497
+PR, responder	responder	matched	False	P11	P11-post-P	P	CD4T	1493	0.1932936302433972
+PR, responder	responder	matched	False	P11	P11-post-P	P	CD8T	2561	0.3315639564992232
+PR, responder	responder	matched	False	P11	P11-post-P	P	ILC	1823	0.236017607457276
+PR, responder	responder	matched	False	P11	P11-post-P	P	Myeloid	360	0.04660797514241326
+PR, responder	responder	matched	False	P11	P11-post-P	P	gdT	1352	0.17503883997928535
+PR, responder	responder	matched	False	P11	P11-post-T	T	B	89	0.010609131004887352
+PR, responder	responder	matched	False	P11	P11-post-T	T	CD4T	3160	0.376683752533079
+PR, responder	responder	matched	False	P11	P11-post-T	T	CD8T	4528	0.5397544403385386
+PR, responder	responder	matched	False	P11	P11-post-T	T	ILC	110	0.013112409107164144
+PR, responder	responder	matched	False	P11	P11-post-T	T	Myeloid	396	0.047204672785790915
+PR, responder	responder	matched	False	P11	P11-post-T	T	Plasma	20	0.0023840743831207534
+PR, responder	responder	matched	False	P11	P11-post-T	T	gdT	86	0.01025151984741924
+PR, responder	responder	matched	False	P11	P11-pre-P	P	B	126	0.019924098671726755
+PR, responder	responder	matched	False	P11	P11-pre-P	P	CD4T	1975	0.3123023402909551
+PR, responder	responder	matched	False	P11	P11-pre-P	P	CD8T	2270	0.35895003162555345
+PR, responder	responder	matched	False	P11	P11-pre-P	P	ILC	931	0.1472169512966477
+PR, responder	responder	matched	False	P11	P11-pre-P	P	Myeloid	243	0.03842504743833017
+PR, responder	responder	matched	False	P11	P11-pre-P	P	Plasma	2	0.00031625553447185326
+PR, responder	responder	matched	False	P11	P11-pre-P	P	gdT	777	0.12286527514231499
+PR, responder	responder	matched	False	P11	P11-pre-T	T	B	190	0.03378979192601814
+PR, responder	responder	matched	False	P11	P11-pre-T	T	CD4T	1695	0.3014405121821092
+PR, responder	responder	matched	False	P11	P11-pre-T	T	CD8T	2781	0.4945758491908234
+PR, responder	responder	matched	False	P11	P11-pre-T	T	ILC	337	0.05993242041614796
+PR, responder	responder	matched	False	P11	P11-pre-T	T	Myeloid	466	0.08287391072381291
+PR, responder	responder	matched	False	P11	P11-pre-T	T	Plasma	16	0.002845456162191001
+PR, responder	responder	matched	False	P11	P11-pre-T	T	gdT	138	0.024542059398897385
+PR, responder	responder	matched	False	P27	P27-post-P	P	B	247	0.045962039449199854
+PR, responder	responder	matched	False	P27	P27-post-P	P	CD4T	1156	0.21510978786751023
+PR, responder	responder	matched	False	P27	P27-post-P	P	CD8T	1827	0.3399702270189803
+PR, responder	responder	matched	False	P27	P27-post-P	P	ILC	648	0.12058057312988463
+PR, responder	responder	matched	False	P27	P27-post-P	P	Myeloid	1429	0.2659099367324153
+PR, responder	responder	matched	False	P27	P27-post-P	P	gdT	67	0.012467435802009676
+PR, responder	responder	matched	False	P27	P27-post-T	T	B	182	0.023694831402161175
+PR, responder	responder	matched	False	P27	P27-post-T	T	CD4T	3585	0.46673610207004296
+PR, responder	responder	matched	False	P27	P27-post-T	T	CD8T	1908	0.2484051555787007
+PR, responder	responder	matched	False	P27	P27-post-T	T	ILC	110	0.01432105194636115
+PR, responder	responder	matched	False	P27	P27-post-T	T	Myeloid	1727	0.22484051555787007
+PR, responder	responder	matched	False	P27	P27-post-T	T	Plasma	148	0.019268324436922276
+PR, responder	responder	matched	False	P27	P27-post-T	T	gdT	21	0.002734019007941674
+PR, responder	responder	matched	False	P27	P27-pre-P	P	B	192	0.04663589992713141
+PR, responder	responder	matched	False	P27	P27-pre-P	P	CD4T	518	0.1258197716784066
+PR, responder	responder	matched	False	P27	P27-pre-P	P	CD8T	1683	0.40879281029876124
+PR, responder	responder	matched	False	P27	P27-pre-P	P	ILC	1418	0.34442555258683505
+PR, responder	responder	matched	False	P27	P27-pre-P	P	Myeloid	203	0.04930774836045664
+PR, responder	responder	matched	False	P27	P27-pre-P	P	Plasma	21	0.005100801554529998
+PR, responder	responder	matched	False	P27	P27-pre-P	P	gdT	82	0.019917415593879037
+PR, responder	responder	matched	False	P27	P27-pre-T	T	B	285	0.056943056943056944
+PR, responder	responder	matched	False	P27	P27-pre-T	T	CD4T	1549	0.3094905094905095
+PR, responder	responder	matched	False	P27	P27-pre-T	T	CD8T	2872	0.5738261738261738
+PR, responder	responder	matched	False	P27	P27-pre-T	T	ILC	127	0.025374625374625374
+PR, responder	responder	matched	False	P27	P27-pre-T	T	Myeloid	82	0.016383616383616385
+PR, responder	responder	matched	False	P27	P27-pre-T	T	Plasma	76	0.015184815184815185
+PR, responder	responder	matched	False	P27	P27-pre-T	T	gdT	14	0.002797202797202797
+PR, responder	responder	matched	False	P5	P5-post-P	P	B	222	0.03144030590567908
+PR, responder	responder	matched	False	P5	P5-post-P	P	CD4T	2700	0.3823820988528537
+PR, responder	responder	matched	False	P5	P5-post-P	P	CD8T	3125	0.4425718736722844
+PR, responder	responder	matched	False	P5	P5-post-P	P	ILC	563	0.07973374876079875
+PR, responder	responder	matched	False	P5	P5-post-P	P	Myeloid	321	0.04546098286361705
+PR, responder	responder	matched	False	P5	P5-post-P	P	Plasma	1	0.000141622999575131
+PR, responder	responder	matched	False	P5	P5-post-P	P	gdT	129	0.0182693669451919
+PR, responder	responder	matched	False	P5	P5-post-T	T	B	300	0.03736920777279522
+PR, responder	responder	matched	False	P5	P5-post-T	T	CD4T	3933	0.4899103139013453
+PR, responder	responder	matched	False	P5	P5-post-T	T	CD8T	2559	0.3187593423019432
+PR, responder	responder	matched	False	P5	P5-post-T	T	ILC	89	0.011086198305929247
+PR, responder	responder	matched	False	P5	P5-post-T	T	Myeloid	1106	0.13776781265570504
+PR, responder	responder	matched	False	P5	P5-post-T	T	Plasma	1	0.00012456402590931738
+PR, responder	responder	matched	False	P5	P5-post-T	T	gdT	40	0.004982561036372696
+PR, responder	responder	matched	False	P5	P5-pre-P	P	B	152	0.02199074074074074
+PR, responder	responder	matched	False	P5	P5-pre-P	P	CD4T	2391	0.3459201388888889
+PR, responder	responder	matched	False	P5	P5-pre-P	P	CD8T	2825	0.40870949074074076
+PR, responder	responder	matched	False	P5	P5-pre-P	P	ILC	903	0.1306423611111111
+PR, responder	responder	matched	False	P5	P5-pre-P	P	Myeloid	519	0.07508680555555555
+PR, responder	responder	matched	False	P5	P5-pre-P	P	Plasma	1	0.00014467592592592592
+PR, responder	responder	matched	False	P5	P5-pre-P	P	gdT	121	0.01750578703703704
+PR, responder	responder	matched	False	P5	P5-pre-T	T	B	30	0.01201923076923077
+PR, responder	responder	matched	False	P5	P5-pre-T	T	CD4T	1329	0.5324519230769231
+PR, responder	responder	matched	False	P5	P5-pre-T	T	CD8T	664	0.266025641025641
+PR, responder	responder	matched	False	P5	P5-pre-T	T	ILC	104	0.041666666666666664
+PR, responder	responder	matched	False	P5	P5-pre-T	T	Myeloid	362	0.1450320512820513
+PR, responder	responder	matched	False	P5	P5-pre-T	T	Plasma	5	0.002003205128205128
+PR, responder	responder	matched	False	P5	P5-pre-T	T	gdT	2	0.0008012820512820513
+SD, non-responder	non_responder	matched	False	P1	P1-post-P	P	B	730	0.11133140155558945
+SD, non-responder	non_responder	matched	False	P1	P1-post-P	P	CD4T	2450	0.3736464846728687
+SD, non-responder	non_responder	matched	False	P1	P1-post-P	P	CD8T	1473	0.22464541711148392
+SD, non-responder	non_responder	matched	False	P1	P1-post-P	P	ILC	1167	0.1779777337196889
+SD, non-responder	non_responder	matched	False	P1	P1-post-P	P	Myeloid	576	0.0878450510904377
+SD, non-responder	non_responder	matched	False	P1	P1-post-P	P	Plasma	2	0.00030501753850846426
+SD, non-responder	non_responder	matched	False	P1	P1-post-P	P	gdT	159	0.02424889431142291
+SD, non-responder	non_responder	matched	False	P1	P1-post-T	T	B	143	0.024826388888888887
+SD, non-responder	non_responder	matched	False	P1	P1-post-T	T	CD4T	1378	0.23923611111111112
+SD, non-responder	non_responder	matched	False	P1	P1-post-T	T	CD8T	1518	0.2635416666666667
+SD, non-responder	non_responder	matched	False	P1	P1-post-T	T	ILC	407	0.07065972222222222
+SD, non-responder	non_responder	matched	False	P1	P1-post-T	T	Myeloid	2277	0.3953125
+SD, non-responder	non_responder	matched	False	P1	P1-post-T	T	Plasma	11	0.0019097222222222222
+SD, non-responder	non_responder	matched	False	P1	P1-post-T	T	gdT	26	0.0045138888888888885
+SD, non-responder	non_responder	matched	False	P1	P1-pre-P	P	B	715	0.08337220149253731
+SD, non-responder	non_responder	matched	False	P1	P1-pre-P	P	CD4T	3643	0.42479011194029853
+SD, non-responder	non_responder	matched	False	P1	P1-pre-P	P	CD8T	1727	0.2013759328358209
+SD, non-responder	non_responder	matched	False	P1	P1-pre-P	P	ILC	750	0.08745335820895522
+SD, non-responder	non_responder	matched	False	P1	P1-pre-P	P	Myeloid	1595	0.18598414179104478
+SD, non-responder	non_responder	matched	False	P1	P1-pre-P	P	Plasma	14	0.0016324626865671641
+SD, non-responder	non_responder	matched	False	P1	P1-pre-P	P	gdT	132	0.015391791044776119

@@ -1,0 +1,23 @@
+dataset_id	sample_accession	file_name	cell_columns	gene_rows_in_file	nonzero_entries	sparse_shape	cell_id_prefix_rule	status
+GSE189926	GSM5709979	GSM5709979_matrix_inflection_DSF011.txt.gz	4639	37716	7242075	4639x51757	cell_id = sample_accession + '_' + raw column id	imported_sparse_csr
+GSE189926	GSM5709980	GSM5709980_matrix_inflection_DSF012.txt.gz	2546	37398	5040051	2546x51757	cell_id = sample_accession + '_' + raw column id	imported_sparse_csr
+GSE189926	GSM5709981	GSM5709981_matrix_inflection_DSF021.txt.gz	6589	42075	14036618	6589x51757	cell_id = sample_accession + '_' + raw column id	imported_sparse_csr
+GSE189926	GSM5709982	GSM5709982_matrix_inflection_DSF022.txt.gz	4230	40595	8765965	4230x51757	cell_id = sample_accession + '_' + raw column id	imported_sparse_csr
+GSE189926	GSM5709983	GSM5709983_matrix_inflection_DSF031.txt.gz	6420	38229	7186412	6420x51757	cell_id = sample_accession + '_' + raw column id	imported_sparse_csr
+GSE189926	GSM5709984	GSM5709984_matrix_inflection_DSF032.txt.gz	5693	39240	8652224	5693x51757	cell_id = sample_accession + '_' + raw column id	imported_sparse_csr
+GSE189926	GSM5709985	GSM5709985_matrix_inflection_DSF041.txt.gz	3184	36999	4700440	3184x51757	cell_id = sample_accession + '_' + raw column id	imported_sparse_csr
+GSE189926	GSM5709986	GSM5709986_matrix_inflection_DSF051.txt.gz	3533	33559	5276831	3533x51757	cell_id = sample_accession + '_' + raw column id	imported_sparse_csr
+GSE189926	GSM5709987	GSM5709987_matrix_inflection_DSF061.txt.gz	6651	39785	10502152	6651x51757	cell_id = sample_accession + '_' + raw column id	imported_sparse_csr
+GSE189926	GSM5709988	GSM5709988_matrix_inflection_DSF062.txt.gz	10022	41165	19067073	10022x51757	cell_id = sample_accession + '_' + raw column id	imported_sparse_csr
+GSE189926	GSM5709989	GSM5709989_matrix_inflection_DSF071.txt.gz	4977	34937	6021211	4977x51757	cell_id = sample_accession + '_' + raw column id	imported_sparse_csr
+GSE189926	GSM5709990	GSM5709990_matrix_inflection_DSF072.txt.gz	5659	38574	9809556	5659x51757	cell_id = sample_accession + '_' + raw column id	imported_sparse_csr
+GSE189926	GSM5709991	GSM5709991_matrix_inflection_DSF081.txt.gz	5184	37881	6972610	5184x51757	cell_id = sample_accession + '_' + raw column id	imported_sparse_csr
+GSE189926	GSM5709992	GSM5709992_matrix_inflection_DSF101.txt.gz	3939	38517	7235539	3939x51757	cell_id = sample_accession + '_' + raw column id	imported_sparse_csr
+GSE189926	GSM5709993	GSM5709993_matrix_inflection_DSF102.txt.gz	7428	40035	9187244	7428x51757	cell_id = sample_accession + '_' + raw column id	imported_sparse_csr
+GSE189926	GSM5709994	GSM5709994_matrix_inflection_DSF111.txt.gz	4476	35974	6007918	4476x51757	cell_id = sample_accession + '_' + raw column id	imported_sparse_csr
+GSE189926	GSM5709995	GSM5709995_matrix_inflection_DSF112.txt.gz	5955	39323	12734773	5955x51757	cell_id = sample_accession + '_' + raw column id	imported_sparse_csr
+GSE189926	GSM5709996	GSM5709996_matrix_inflection_DSF121.txt.gz	4928	38748	9447067	4928x51757	cell_id = sample_accession + '_' + raw column id	imported_sparse_csr
+GSE189926	GSM5709997	GSM5709997_matrix_inflection_DSF122.txt.gz	8903	42695	15671033	8903x51757	cell_id = sample_accession + '_' + raw column id	imported_sparse_csr
+GSE189926	GSM5709998	GSM5709998_matrix_inflection_DSF123.txt.gz	2738	33040	1887750	2738x51757	cell_id = sample_accession + '_' + raw column id	imported_sparse_csr
+GSE189926	GSM5709999	GSM5709999_matrix_inflection_DSF131.txt.gz	8955	39869	13595674	8955x51757	cell_id = sample_accession + '_' + raw column id	imported_sparse_csr
+GSE189926	GSM5710000	GSM5710000_matrix_inflection_DSF132.txt.gz	4803	38762	13893150	4803x51757	cell_id = sample_accession + '_' + raw column id	imported_sparse_csr

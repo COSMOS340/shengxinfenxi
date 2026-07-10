@@ -1,0 +1,2 @@
+dataset_id	metadata_columns	response_related_columns	action_taken	exclusion_reason	analysis_action
+GSE236581	orig.ident,nCount_RNA,nFeature_RNA,Ident,Patient,Treatment,Tissue,MajorCellType,SubCellType		kept_out_of_response_comparisons	No response-related metadata column was detected in the audited metadata columns.	Dataset remains excluded from response analysis; no response labels inferred.

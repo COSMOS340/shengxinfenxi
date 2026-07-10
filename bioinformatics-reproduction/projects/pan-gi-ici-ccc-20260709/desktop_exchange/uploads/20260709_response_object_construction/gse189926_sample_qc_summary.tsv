@@ -1,0 +1,23 @@
+sample_accession	sample_title	patient_id	timepoint	timepoint_simple	characteristics_ch1::outcome	characteristics_ch1::treatment	characteristics_ch1::mmr	characteristics_ch1::cell type	characteristics_ch1::tissue	cell_count	median_n_counts	median_n_genes	median_pct_mt
+GSM5709979	DSF01 pre-treatment	DSF01	pre-treatment	pre-treatment	PD	control	pMMR	CD45+ single cell suspension	gastric tumor biopsy	4639	20317.0	1339.0	7.8652359545230865
+GSM5709980	DSF01 post-treatment	DSF01	post-treatment	post-treatment	PD	disulfiram (160mg) plus nivolumab	pMMR	CD45+ single cell suspension	gastric tumor biopsy	2546	15077.5	1569.0	9.642355144023895
+GSM5709981	DSF02 pre-treatment	DSF02	pre-treatment	pre-treatment	SD	control	pMMR	CD45+ single cell suspension	gastric tumor biopsy	6589	12041.0	1392.0	5.13237752020359
+GSM5709982	DSF02 post-treatment	DSF02	post-treatment	post-treatment	SD	disulfiram (160mg) plus nivolumab	pMMR	CD45+ single cell suspension	gastric tumor biopsy	4230	9451.5	1107.0	3.6708470433950424
+GSM5709983	DSF03 pre-treatment	DSF03	pre-treatment	pre-treatment	SD	control	pMMR	CD45+ single cell suspension	gastric tumor biopsy	6420	13331.0	782.0	8.288665488362312
+GSM5709984	DSF03 post-treatment	DSF03	post-treatment	post-treatment	SD	disulfiram (160mg) plus nivolumab	pMMR	CD45+ single cell suspension	gastric tumor biopsy	5693	14272.0	1014.0	7.625657320022583
+GSM5709985	DSF04 pre-treatment	DSF04	pre-treatment	pre-treatment	NE	control	pMMR	CD45+ single cell suspension	gastric tumor biopsy	3184	10273.5	905.0	4.607533849775791
+GSM5709986	DSF05 pre-treatment	DSF05	pre-treatment	pre-treatment	NE	control	pMMR	CD45+ single cell suspension	gastric tumor biopsy	3533	15426.0	1460.0	9.99278649687767
+GSM5709987	DSF06 pre-treatment	DSF06	pre-treatment	pre-treatment	SD	control	dMMR (MSS)	CD45+ single cell suspension	gastric tumor biopsy	6651	10047.0	960.0	4.829144477844238
+GSM5709988	DSF06 post-treatment	DSF06	post-treatment	post-treatment	SD	disulfiram (160mg) plus nivolumab	dMMR (MSS)	CD45+ single cell suspension	gastric tumor biopsy	10022	12186.0	1536.0	4.4754961505532265
+GSM5709989	DSF07 pre-treatment	DSF07	pre-treatment	pre-treatment	PR	control	dMMR	CD45+ single cell suspension	gastric tumor biopsy	4977	15789.0	1079.0	4.704097285866737
+GSM5709990	DSF07 post-treatment	DSF07	post-treatment	post-treatment	PR	disulfiram (160mg) plus nivolumab	dMMR	CD45+ single cell suspension	gastric tumor biopsy	5659	11353.0	1011.0	6.412780284881592
+GSM5709991	DSF08 pre-treatment	DSF08	pre-treatment	pre-treatment	PD	control	pMMR	CD45+ single cell suspension	gastric tumor biopsy	5184	7767.5	954.0	6.128101237118244
+GSM5709992	DSF10 pre-treatment	DSF10	pre-treatment	pre-treatment	NE	control	pMMR	CD45+ single cell suspension	gastric tumor biopsy	3939	14028.0	1424.0	3.8821160793304443
+GSM5709993	DSF10 post-treatment	DSF10	post-treatment	post-treatment	NE	disulfiram (160mg) plus nivolumab	pMMR	CD45+ single cell suspension	gastric tumor biopsy	7428	12383.0	1061.5	7.6577696949243546
+GSM5709994	DSF11 pre-treatment	DSF11	pre-treatment	pre-treatment	SD	control	pMMR	CD45+ single cell suspension	gastric tumor biopsy	4476	15857.5	1070.5	10.307348147034645
+GSM5709995	DSF11 post-treatment	DSF11	post-treatment	post-treatment	SD	disulfiram (160mg) plus nivolumab	pMMR	CD45+ single cell suspension	gastric tumor biopsy	5955	13753.0	1486.0	11.902473866939545
+GSM5709996	DSF12 pre-treatment	DSF12	pre-treatment	pre-treatment	SD	control	pMMR	CD45+ single cell suspension	gastric tumor biopsy	4928	15568.0	1438.0	8.121630549430847
+GSM5709997	DSF12 post-treatment1	DSF12	post-treatment1	post-treatment	SD	disulfiram (160mg) plus nivolumab	pMMR	CD45+ single cell suspension	gastric tumor biopsy	8903	14603.0	1365.0	23.656563460826874
+GSM5709998	DSF12 post-treatment2	DSF12	post-treatment2	post-treatment	SD	disulfiram (160mg) plus nivolumab	pMMR	CD45+ single cell suspension	gastric tumor biopsy	2738	23625.0	506.0	6.765513122081757
+GSM5709999	DSF13 pre-treatment	DSF13	pre-treatment	pre-treatment	PR	control	pMMR	CD45+ single cell suspension	gastric tumor biopsy	8955	9486.0	1198.0	5.152348801493645
+GSM5710000	DSF13 post-treatment	DSF13	post-treatment	post-treatment	PR	disulfiram (160mg) plus nivolumab	pMMR	CD45+ single cell suspension	gastric tumor biopsy	4803	24662.0	2663.0	12.654486298561096

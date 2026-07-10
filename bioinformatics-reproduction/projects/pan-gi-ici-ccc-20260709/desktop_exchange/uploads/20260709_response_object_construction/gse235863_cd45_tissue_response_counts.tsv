@@ -1,0 +1,31 @@
+raw_response	derived_response_group	response_join_status	response_ambiguity_flag	patient	sample	tissue	cell_count	proportion_within_group
+CR, responder|PR, responder	responder	ambiguous	True	P18	P18-post-P	P	8230	1.0
+CR, responder|PR, responder	responder	ambiguous	True	P18	P18-post-T	T	7033	1.0
+CR, responder|PR, responder	responder	ambiguous	True	P18	P18-pre-P	P	7569	1.0
+CR, responder|PR, responder	responder	ambiguous	True	P18	P18-pre-T	T	8873	1.0
+NR/SD	non_responder	matched	False	P51	P51-post-P	P	10374	1.0
+NR/SD	non_responder	matched	False	P51	P51-post-T	T	5227	1.0
+NR/SD	non_responder	matched	False	P52	P52-post-P	P	5341	1.0
+NR/SD	non_responder	matched	False	P52	P52-post-T	T	4510	1.0
+PD, non-responder	non_responder	matched	False	P15	P15-post-P	P	3348	1.0
+PD, non-responder	non_responder	matched	False	P15	P15-pre-P	P	8646	1.0
+PD, non-responder	non_responder	matched	False	P15	P15-pre-T	T	3800	1.0
+PD, non-responder	non_responder	matched	False	P26	P26-post-P	P	5267	1.0
+PD, non-responder	non_responder	matched	False	P26	P26-post-T	T	8886	1.0
+PD, non-responder	non_responder	matched	False	P26	P26-pre-P	P	3763	1.0
+PD, non-responder	non_responder	matched	False	P26	P26-pre-T	T	4941	1.0
+PR, responder	responder	matched	False	P11	P11-post-P	P	7724	1.0
+PR, responder	responder	matched	False	P11	P11-post-T	T	8389	1.0
+PR, responder	responder	matched	False	P11	P11-pre-P	P	6324	1.0
+PR, responder	responder	matched	False	P11	P11-pre-T	T	5623	1.0
+PR, responder	responder	matched	False	P27	P27-post-P	P	5374	1.0
+PR, responder	responder	matched	False	P27	P27-post-T	T	7681	1.0
+PR, responder	responder	matched	False	P27	P27-pre-P	P	4117	1.0
+PR, responder	responder	matched	False	P27	P27-pre-T	T	5005	1.0
+PR, responder	responder	matched	False	P5	P5-post-P	P	7061	1.0
+PR, responder	responder	matched	False	P5	P5-post-T	T	8028	1.0
+PR, responder	responder	matched	False	P5	P5-pre-P	P	6912	1.0
+PR, responder	responder	matched	False	P5	P5-pre-T	T	2496	1.0
+SD, non-responder	non_responder	matched	False	P1	P1-post-P	P	6557	1.0
+SD, non-responder	non_responder	matched	False	P1	P1-post-T	T	5760	1.0
+SD, non-responder	non_responder	matched	False	P1	P1-pre-P	P	8576	1.0
