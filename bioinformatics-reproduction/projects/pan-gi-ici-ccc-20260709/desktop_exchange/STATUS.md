@@ -6,15 +6,14 @@ This folder contains the PC-side requests and lightweight upload outputs for the
 
 ## Current Request
 
-Run `GSE189926` annotation and QC refinement.
+Run the `GSE189926` task again using R only.
 
-Do not run CellChat, LIANA, NicheNet, differential communication, manuscript figures, or final statistical testing in this task. This step should refine `GSE189926` immune labels, audit QC flags, quantify sample/patient structure, redraw readable QC figures, and produce patient-level `GSE235863` composition summaries.
+Do not continue the Scanpy-based repair as the current task. Use R/Seurat to rebuild `GSE189926` from the raw 22 matrices, rerun QC, UMAP, sample-aware correction, clustering, marker export, and immune label audit. Do not run CellChat, LIANA, NicheNet, differential communication, manuscript figures, or final statistical testing in this task.
 
 ## Current Request Files
 
-- `20260710_gse189926_annotation_qc_refinement_manifest.tsv`
-- `20260710_gse189926_annotation_qc_refinement_request.md`
-- `20260710_gse189926_umap_repair_policy.md`
+- `20260710_gse189926_r_only_rerun_manifest.tsv`
+- `20260710_gse189926_r_only_rerun_request.md`
 
 ## Input Audits From Previous PC Steps
 
@@ -30,15 +29,15 @@ The response object construction output is uploaded at:
 
 `uploads/20260709_response_object_construction`
 
-Use `object_inventory.tsv` in the response object construction output to locate the PC-local `GSE189926` h5ad object. Large objects were intentionally not uploaded to GitHub.
+Use `matrix_file_inventory.tsv` in the matrix download output to locate the PC-local raw `GSE189926` matrices. The previous h5ad object may be used only for comparison notes, not as the analysis source for the R-only rerun.
 
 ## Required Upload Directory For This Step
 
-After annotation and QC refinement, upload lightweight outputs to:
+After the R-only rerun, upload lightweight outputs to:
 
-`uploads/20260710_gse189926_annotation_qc_refinement`
+`uploads/20260710_gse189926_r_only_rerun`
 
-Large processed objects should remain PC-local and be listed in `object_inventory.tsv`.
+Large Seurat RDS objects should remain PC-local and be listed in `object_inventory.tsv`.
 
 ## Earlier Request Files
 
@@ -52,3 +51,6 @@ Large processed objects should remain PC-local and be listed in `object_inventor
 - `20260709_preprocess_priority_response_request.md`
 - `20260709_response_object_construction_manifest.tsv`
 - `20260709_response_object_construction_request.md`
+- `20260710_gse189926_annotation_qc_refinement_manifest.tsv`
+- `20260710_gse189926_annotation_qc_refinement_request.md`
+- `20260710_gse189926_umap_repair_policy.md`
