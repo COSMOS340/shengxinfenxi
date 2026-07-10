@@ -1,0 +1,8 @@
+qc_flag	metric	threshold	threshold_rule	q1	q3	iqr	affected_cells	total_cells	affected_fraction
+low_detected_genes	n_genes	200.0	n_genes < max(200, Q1 - 1.5*IQR)	664.0	2224.0	1560.0	8095	121452	0.06665184599677239
+high_detected_genes	n_genes	6904.0	n_genes > Q3 + 3*IQR	664.0	2224.0	1560.0	1512	121452	0.012449362711194546
+high_total_counts	n_counts	112251.0	n_counts > Q3 + 3*IQR	6697.0	33085.5	26388.5	5975	121452	0.04919639034351019
+high_pct_mt	pct_mt	55.81893119961023	pct_mt > max(20, Q3 + 3*IQR)	3.5201536491513252	16.594848036766052	13.074694387614727	15186	121452	0.1250370516747357
+high_pct_rp	pct_rp	42.65367821790278	pct_rp > Q3 + 3*IQR	1.205884711816907	11.567833088338375	10.361948376521468	24	121452	0.00019760893192372295
+high_pct_hb	pct_hb	0.0	pct_hb > Q3 + 3*IQR	0.0	0.0	0.0	26938	121452	0.22179955867338538
+qc_pass	all_flags		qc_pass is TRUE when none of low_detected_genes, high_detected_genes, high_total_counts, high_pct_mt, high_pct_rp, or high_pct_hb is TRUE				78518	121452	0.6464940881994533

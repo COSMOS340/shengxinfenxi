@@ -1,0 +1,769 @@
+characteristics_ch1::outcome	binary_response_group	timepoint	timepoint_simple	refined_celltype_label	cell_count	proportion_within_outcome_timepoint	table_scope	metadata_note
+NE	non_responder	post-treatment	post-treatment	B_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	non_responder	post-treatment	post-treatment	CD4_T_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	non_responder	post-treatment	post-treatment	CD8_T_cytotoxic	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	non_responder	post-treatment	post-treatment	Macrophage_C1QC_APOE	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	non_responder	post-treatment	post-treatment	Mast	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	non_responder	post-treatment	post-treatment	Monocyte_classical	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	non_responder	post-treatment	post-treatment	Plasma	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	non_responder	post-treatment	post-treatment	Unresolved_low_signal	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	non_responder	post-treatment	pre-treatment	B_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	non_responder	post-treatment	pre-treatment	CD4_T_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	non_responder	post-treatment	pre-treatment	CD8_T_cytotoxic	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	non_responder	post-treatment	pre-treatment	Macrophage_C1QC_APOE	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	non_responder	post-treatment	pre-treatment	Mast	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	non_responder	post-treatment	pre-treatment	Monocyte_classical	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	non_responder	post-treatment	pre-treatment	Plasma	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	non_responder	post-treatment	pre-treatment	Unresolved_low_signal	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	non_responder	post-treatment1	post-treatment	B_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	non_responder	post-treatment1	post-treatment	CD4_T_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	non_responder	post-treatment1	post-treatment	CD8_T_cytotoxic	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	non_responder	post-treatment1	post-treatment	Macrophage_C1QC_APOE	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	non_responder	post-treatment1	post-treatment	Mast	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	non_responder	post-treatment1	post-treatment	Monocyte_classical	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	non_responder	post-treatment1	post-treatment	Plasma	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	non_responder	post-treatment1	post-treatment	Unresolved_low_signal	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	non_responder	post-treatment1	pre-treatment	B_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	non_responder	post-treatment1	pre-treatment	CD4_T_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	non_responder	post-treatment1	pre-treatment	CD8_T_cytotoxic	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	non_responder	post-treatment1	pre-treatment	Macrophage_C1QC_APOE	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	non_responder	post-treatment1	pre-treatment	Mast	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	non_responder	post-treatment1	pre-treatment	Monocyte_classical	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	non_responder	post-treatment1	pre-treatment	Plasma	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	non_responder	post-treatment1	pre-treatment	Unresolved_low_signal	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	non_responder	post-treatment2	post-treatment	B_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	non_responder	post-treatment2	post-treatment	CD4_T_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	non_responder	post-treatment2	post-treatment	CD8_T_cytotoxic	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	non_responder	post-treatment2	post-treatment	Macrophage_C1QC_APOE	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	non_responder	post-treatment2	post-treatment	Mast	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	non_responder	post-treatment2	post-treatment	Monocyte_classical	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	non_responder	post-treatment2	post-treatment	Plasma	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	non_responder	post-treatment2	post-treatment	Unresolved_low_signal	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	non_responder	post-treatment2	pre-treatment	B_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	non_responder	post-treatment2	pre-treatment	CD4_T_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	non_responder	post-treatment2	pre-treatment	CD8_T_cytotoxic	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	non_responder	post-treatment2	pre-treatment	Macrophage_C1QC_APOE	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	non_responder	post-treatment2	pre-treatment	Mast	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	non_responder	post-treatment2	pre-treatment	Monocyte_classical	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	non_responder	post-treatment2	pre-treatment	Plasma	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	non_responder	post-treatment2	pre-treatment	Unresolved_low_signal	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	non_responder	pre-treatment	post-treatment	B_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	non_responder	pre-treatment	post-treatment	CD4_T_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	non_responder	pre-treatment	post-treatment	CD8_T_cytotoxic	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	non_responder	pre-treatment	post-treatment	Macrophage_C1QC_APOE	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	non_responder	pre-treatment	post-treatment	Mast	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	non_responder	pre-treatment	post-treatment	Monocyte_classical	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	non_responder	pre-treatment	post-treatment	Plasma	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	non_responder	pre-treatment	post-treatment	Unresolved_low_signal	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	non_responder	pre-treatment	pre-treatment	B_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	non_responder	pre-treatment	pre-treatment	CD4_T_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	non_responder	pre-treatment	pre-treatment	CD8_T_cytotoxic	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	non_responder	pre-treatment	pre-treatment	Macrophage_C1QC_APOE	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	non_responder	pre-treatment	pre-treatment	Mast	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	non_responder	pre-treatment	pre-treatment	Monocyte_classical	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	non_responder	pre-treatment	pre-treatment	Plasma	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	non_responder	pre-treatment	pre-treatment	Unresolved_low_signal	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	not_in_binary_response	post-treatment	post-treatment	B_naive_memory	783	0.14377524788835844	qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	not_in_binary_response	post-treatment	post-treatment	CD4_T_naive_memory	634	0.11641571795813441	qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	not_in_binary_response	post-treatment	post-treatment	CD8_T_cytotoxic	1017	0.18674256334924716	qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	not_in_binary_response	post-treatment	post-treatment	Macrophage_C1QC_APOE	419	0.07693720161586486	qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	not_in_binary_response	post-treatment	post-treatment	Mast	453	0.08318031582813074	qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	not_in_binary_response	post-treatment	post-treatment	Monocyte_classical	243	0.04461990451707675	qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	not_in_binary_response	post-treatment	post-treatment	Plasma	736	0.13514506059493206	qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	not_in_binary_response	post-treatment	post-treatment	Unresolved_low_signal	1161	0.2131839882482556	qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	not_in_binary_response	post-treatment	pre-treatment	B_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	not_in_binary_response	post-treatment	pre-treatment	CD4_T_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	not_in_binary_response	post-treatment	pre-treatment	CD8_T_cytotoxic	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	not_in_binary_response	post-treatment	pre-treatment	Macrophage_C1QC_APOE	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	not_in_binary_response	post-treatment	pre-treatment	Mast	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	not_in_binary_response	post-treatment	pre-treatment	Monocyte_classical	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	not_in_binary_response	post-treatment	pre-treatment	Plasma	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	not_in_binary_response	post-treatment	pre-treatment	Unresolved_low_signal	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	not_in_binary_response	post-treatment1	post-treatment	B_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	not_in_binary_response	post-treatment1	post-treatment	CD4_T_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	not_in_binary_response	post-treatment1	post-treatment	CD8_T_cytotoxic	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	not_in_binary_response	post-treatment1	post-treatment	Macrophage_C1QC_APOE	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	not_in_binary_response	post-treatment1	post-treatment	Mast	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	not_in_binary_response	post-treatment1	post-treatment	Monocyte_classical	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	not_in_binary_response	post-treatment1	post-treatment	Plasma	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	not_in_binary_response	post-treatment1	post-treatment	Unresolved_low_signal	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	not_in_binary_response	post-treatment1	pre-treatment	B_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	not_in_binary_response	post-treatment1	pre-treatment	CD4_T_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	not_in_binary_response	post-treatment1	pre-treatment	CD8_T_cytotoxic	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	not_in_binary_response	post-treatment1	pre-treatment	Macrophage_C1QC_APOE	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	not_in_binary_response	post-treatment1	pre-treatment	Mast	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	not_in_binary_response	post-treatment1	pre-treatment	Monocyte_classical	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	not_in_binary_response	post-treatment1	pre-treatment	Plasma	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	not_in_binary_response	post-treatment1	pre-treatment	Unresolved_low_signal	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	not_in_binary_response	post-treatment2	post-treatment	B_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	not_in_binary_response	post-treatment2	post-treatment	CD4_T_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	not_in_binary_response	post-treatment2	post-treatment	CD8_T_cytotoxic	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	not_in_binary_response	post-treatment2	post-treatment	Macrophage_C1QC_APOE	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	not_in_binary_response	post-treatment2	post-treatment	Mast	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	not_in_binary_response	post-treatment2	post-treatment	Monocyte_classical	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	not_in_binary_response	post-treatment2	post-treatment	Plasma	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	not_in_binary_response	post-treatment2	post-treatment	Unresolved_low_signal	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	not_in_binary_response	post-treatment2	pre-treatment	B_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	not_in_binary_response	post-treatment2	pre-treatment	CD4_T_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	not_in_binary_response	post-treatment2	pre-treatment	CD8_T_cytotoxic	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	not_in_binary_response	post-treatment2	pre-treatment	Macrophage_C1QC_APOE	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	not_in_binary_response	post-treatment2	pre-treatment	Mast	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	not_in_binary_response	post-treatment2	pre-treatment	Monocyte_classical	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	not_in_binary_response	post-treatment2	pre-treatment	Plasma	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	not_in_binary_response	post-treatment2	pre-treatment	Unresolved_low_signal	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	not_in_binary_response	pre-treatment	post-treatment	B_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	not_in_binary_response	pre-treatment	post-treatment	CD4_T_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	not_in_binary_response	pre-treatment	post-treatment	CD8_T_cytotoxic	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	not_in_binary_response	pre-treatment	post-treatment	Macrophage_C1QC_APOE	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	not_in_binary_response	pre-treatment	post-treatment	Mast	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	not_in_binary_response	pre-treatment	post-treatment	Monocyte_classical	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	not_in_binary_response	pre-treatment	post-treatment	Plasma	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	not_in_binary_response	pre-treatment	post-treatment	Unresolved_low_signal	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	not_in_binary_response	pre-treatment	pre-treatment	B_naive_memory	506	0.08270676691729323	qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	not_in_binary_response	pre-treatment	pre-treatment	CD4_T_naive_memory	437	0.07142857142857142	qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	not_in_binary_response	pre-treatment	pre-treatment	CD8_T_cytotoxic	432	0.07061131088591042	qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	not_in_binary_response	pre-treatment	pre-treatment	Macrophage_C1QC_APOE	441	0.07208237986270023	qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	not_in_binary_response	pre-treatment	pre-treatment	Mast	90	0.014710689767898006	qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	not_in_binary_response	pre-treatment	pre-treatment	Monocyte_classical	2250	0.36776724419745016	qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	not_in_binary_response	pre-treatment	pre-treatment	Plasma	735	0.12013729977116705	qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	not_in_binary_response	pre-treatment	pre-treatment	Unresolved_low_signal	1227	0.20055573716900948	qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	responder	post-treatment	post-treatment	B_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	responder	post-treatment	post-treatment	CD4_T_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	responder	post-treatment	post-treatment	CD8_T_cytotoxic	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	responder	post-treatment	post-treatment	Macrophage_C1QC_APOE	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	responder	post-treatment	post-treatment	Mast	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	responder	post-treatment	post-treatment	Monocyte_classical	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	responder	post-treatment	post-treatment	Plasma	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	responder	post-treatment	post-treatment	Unresolved_low_signal	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	responder	post-treatment	pre-treatment	B_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	responder	post-treatment	pre-treatment	CD4_T_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	responder	post-treatment	pre-treatment	CD8_T_cytotoxic	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	responder	post-treatment	pre-treatment	Macrophage_C1QC_APOE	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	responder	post-treatment	pre-treatment	Mast	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	responder	post-treatment	pre-treatment	Monocyte_classical	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	responder	post-treatment	pre-treatment	Plasma	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	responder	post-treatment	pre-treatment	Unresolved_low_signal	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	responder	post-treatment1	post-treatment	B_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	responder	post-treatment1	post-treatment	CD4_T_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	responder	post-treatment1	post-treatment	CD8_T_cytotoxic	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	responder	post-treatment1	post-treatment	Macrophage_C1QC_APOE	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	responder	post-treatment1	post-treatment	Mast	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	responder	post-treatment1	post-treatment	Monocyte_classical	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	responder	post-treatment1	post-treatment	Plasma	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	responder	post-treatment1	post-treatment	Unresolved_low_signal	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	responder	post-treatment1	pre-treatment	B_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	responder	post-treatment1	pre-treatment	CD4_T_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	responder	post-treatment1	pre-treatment	CD8_T_cytotoxic	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	responder	post-treatment1	pre-treatment	Macrophage_C1QC_APOE	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	responder	post-treatment1	pre-treatment	Mast	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	responder	post-treatment1	pre-treatment	Monocyte_classical	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	responder	post-treatment1	pre-treatment	Plasma	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	responder	post-treatment1	pre-treatment	Unresolved_low_signal	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	responder	post-treatment2	post-treatment	B_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	responder	post-treatment2	post-treatment	CD4_T_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	responder	post-treatment2	post-treatment	CD8_T_cytotoxic	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	responder	post-treatment2	post-treatment	Macrophage_C1QC_APOE	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	responder	post-treatment2	post-treatment	Mast	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	responder	post-treatment2	post-treatment	Monocyte_classical	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	responder	post-treatment2	post-treatment	Plasma	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	responder	post-treatment2	post-treatment	Unresolved_low_signal	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	responder	post-treatment2	pre-treatment	B_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	responder	post-treatment2	pre-treatment	CD4_T_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	responder	post-treatment2	pre-treatment	CD8_T_cytotoxic	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	responder	post-treatment2	pre-treatment	Macrophage_C1QC_APOE	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	responder	post-treatment2	pre-treatment	Mast	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	responder	post-treatment2	pre-treatment	Monocyte_classical	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	responder	post-treatment2	pre-treatment	Plasma	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	responder	post-treatment2	pre-treatment	Unresolved_low_signal	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	responder	pre-treatment	post-treatment	B_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	responder	pre-treatment	post-treatment	CD4_T_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	responder	pre-treatment	post-treatment	CD8_T_cytotoxic	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	responder	pre-treatment	post-treatment	Macrophage_C1QC_APOE	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	responder	pre-treatment	post-treatment	Mast	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	responder	pre-treatment	post-treatment	Monocyte_classical	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	responder	pre-treatment	post-treatment	Plasma	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	responder	pre-treatment	post-treatment	Unresolved_low_signal	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	responder	pre-treatment	pre-treatment	B_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	responder	pre-treatment	pre-treatment	CD4_T_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	responder	pre-treatment	pre-treatment	CD8_T_cytotoxic	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	responder	pre-treatment	pre-treatment	Macrophage_C1QC_APOE	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	responder	pre-treatment	pre-treatment	Mast	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	responder	pre-treatment	pre-treatment	Monocyte_classical	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	responder	pre-treatment	pre-treatment	Plasma	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+NE	responder	pre-treatment	pre-treatment	Unresolved_low_signal	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	non_responder	post-treatment	post-treatment	B_naive_memory	145	0.07837837837837838	qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	non_responder	post-treatment	post-treatment	CD4_T_naive_memory	145	0.07837837837837838	qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	non_responder	post-treatment	post-treatment	CD8_T_cytotoxic	90	0.04864864864864865	qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	non_responder	post-treatment	post-treatment	Macrophage_C1QC_APOE	38	0.02054054054054054	qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	non_responder	post-treatment	post-treatment	Mast	117	0.06324324324324325	qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	non_responder	post-treatment	post-treatment	Monocyte_classical	71	0.038378378378378375	qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	non_responder	post-treatment	post-treatment	Plasma	290	0.15675675675675677	qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	non_responder	post-treatment	post-treatment	Unresolved_low_signal	954	0.5156756756756756	qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	non_responder	post-treatment	pre-treatment	B_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	non_responder	post-treatment	pre-treatment	CD4_T_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	non_responder	post-treatment	pre-treatment	CD8_T_cytotoxic	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	non_responder	post-treatment	pre-treatment	Macrophage_C1QC_APOE	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	non_responder	post-treatment	pre-treatment	Mast	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	non_responder	post-treatment	pre-treatment	Monocyte_classical	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	non_responder	post-treatment	pre-treatment	Plasma	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	non_responder	post-treatment	pre-treatment	Unresolved_low_signal	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	non_responder	post-treatment1	post-treatment	B_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	non_responder	post-treatment1	post-treatment	CD4_T_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	non_responder	post-treatment1	post-treatment	CD8_T_cytotoxic	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	non_responder	post-treatment1	post-treatment	Macrophage_C1QC_APOE	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	non_responder	post-treatment1	post-treatment	Mast	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	non_responder	post-treatment1	post-treatment	Monocyte_classical	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	non_responder	post-treatment1	post-treatment	Plasma	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	non_responder	post-treatment1	post-treatment	Unresolved_low_signal	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	non_responder	post-treatment1	pre-treatment	B_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	non_responder	post-treatment1	pre-treatment	CD4_T_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	non_responder	post-treatment1	pre-treatment	CD8_T_cytotoxic	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	non_responder	post-treatment1	pre-treatment	Macrophage_C1QC_APOE	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	non_responder	post-treatment1	pre-treatment	Mast	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	non_responder	post-treatment1	pre-treatment	Monocyte_classical	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	non_responder	post-treatment1	pre-treatment	Plasma	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	non_responder	post-treatment1	pre-treatment	Unresolved_low_signal	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	non_responder	post-treatment2	post-treatment	B_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	non_responder	post-treatment2	post-treatment	CD4_T_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	non_responder	post-treatment2	post-treatment	CD8_T_cytotoxic	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	non_responder	post-treatment2	post-treatment	Macrophage_C1QC_APOE	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	non_responder	post-treatment2	post-treatment	Mast	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	non_responder	post-treatment2	post-treatment	Monocyte_classical	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	non_responder	post-treatment2	post-treatment	Plasma	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	non_responder	post-treatment2	post-treatment	Unresolved_low_signal	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	non_responder	post-treatment2	pre-treatment	B_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	non_responder	post-treatment2	pre-treatment	CD4_T_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	non_responder	post-treatment2	pre-treatment	CD8_T_cytotoxic	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	non_responder	post-treatment2	pre-treatment	Macrophage_C1QC_APOE	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	non_responder	post-treatment2	pre-treatment	Mast	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	non_responder	post-treatment2	pre-treatment	Monocyte_classical	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	non_responder	post-treatment2	pre-treatment	Plasma	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	non_responder	post-treatment2	pre-treatment	Unresolved_low_signal	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	non_responder	pre-treatment	post-treatment	B_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	non_responder	pre-treatment	post-treatment	CD4_T_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	non_responder	pre-treatment	post-treatment	CD8_T_cytotoxic	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	non_responder	pre-treatment	post-treatment	Macrophage_C1QC_APOE	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	non_responder	pre-treatment	post-treatment	Mast	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	non_responder	pre-treatment	post-treatment	Monocyte_classical	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	non_responder	pre-treatment	post-treatment	Plasma	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	non_responder	pre-treatment	post-treatment	Unresolved_low_signal	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	non_responder	pre-treatment	pre-treatment	B_naive_memory	417	0.06468124709167054	qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	non_responder	pre-treatment	pre-treatment	CD4_T_naive_memory	740	0.11478206917946332	qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	non_responder	pre-treatment	pre-treatment	CD8_T_cytotoxic	855	0.1326198231735691	qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	non_responder	pre-treatment	pre-treatment	Macrophage_C1QC_APOE	731	0.11338607104079416	qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	non_responder	pre-treatment	pre-treatment	Mast	327	0.05072126570497906	qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	non_responder	pre-treatment	pre-treatment	Monocyte_classical	1838	0.2850938420970994	qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	non_responder	pre-treatment	pre-treatment	Plasma	403	0.06250969443151853	qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	non_responder	pre-treatment	pre-treatment	Unresolved_low_signal	1136	0.17620598728090583	qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	not_in_binary_response	post-treatment	post-treatment	B_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	not_in_binary_response	post-treatment	post-treatment	CD4_T_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	not_in_binary_response	post-treatment	post-treatment	CD8_T_cytotoxic	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	not_in_binary_response	post-treatment	post-treatment	Macrophage_C1QC_APOE	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	not_in_binary_response	post-treatment	post-treatment	Mast	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	not_in_binary_response	post-treatment	post-treatment	Monocyte_classical	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	not_in_binary_response	post-treatment	post-treatment	Plasma	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	not_in_binary_response	post-treatment	post-treatment	Unresolved_low_signal	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	not_in_binary_response	post-treatment	pre-treatment	B_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	not_in_binary_response	post-treatment	pre-treatment	CD4_T_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	not_in_binary_response	post-treatment	pre-treatment	CD8_T_cytotoxic	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	not_in_binary_response	post-treatment	pre-treatment	Macrophage_C1QC_APOE	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	not_in_binary_response	post-treatment	pre-treatment	Mast	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	not_in_binary_response	post-treatment	pre-treatment	Monocyte_classical	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	not_in_binary_response	post-treatment	pre-treatment	Plasma	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	not_in_binary_response	post-treatment	pre-treatment	Unresolved_low_signal	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	not_in_binary_response	post-treatment1	post-treatment	B_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	not_in_binary_response	post-treatment1	post-treatment	CD4_T_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	not_in_binary_response	post-treatment1	post-treatment	CD8_T_cytotoxic	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	not_in_binary_response	post-treatment1	post-treatment	Macrophage_C1QC_APOE	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	not_in_binary_response	post-treatment1	post-treatment	Mast	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	not_in_binary_response	post-treatment1	post-treatment	Monocyte_classical	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	not_in_binary_response	post-treatment1	post-treatment	Plasma	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	not_in_binary_response	post-treatment1	post-treatment	Unresolved_low_signal	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	not_in_binary_response	post-treatment1	pre-treatment	B_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	not_in_binary_response	post-treatment1	pre-treatment	CD4_T_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	not_in_binary_response	post-treatment1	pre-treatment	CD8_T_cytotoxic	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	not_in_binary_response	post-treatment1	pre-treatment	Macrophage_C1QC_APOE	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	not_in_binary_response	post-treatment1	pre-treatment	Mast	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	not_in_binary_response	post-treatment1	pre-treatment	Monocyte_classical	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	not_in_binary_response	post-treatment1	pre-treatment	Plasma	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	not_in_binary_response	post-treatment1	pre-treatment	Unresolved_low_signal	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	not_in_binary_response	post-treatment2	post-treatment	B_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	not_in_binary_response	post-treatment2	post-treatment	CD4_T_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	not_in_binary_response	post-treatment2	post-treatment	CD8_T_cytotoxic	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	not_in_binary_response	post-treatment2	post-treatment	Macrophage_C1QC_APOE	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	not_in_binary_response	post-treatment2	post-treatment	Mast	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	not_in_binary_response	post-treatment2	post-treatment	Monocyte_classical	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	not_in_binary_response	post-treatment2	post-treatment	Plasma	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	not_in_binary_response	post-treatment2	post-treatment	Unresolved_low_signal	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	not_in_binary_response	post-treatment2	pre-treatment	B_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	not_in_binary_response	post-treatment2	pre-treatment	CD4_T_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	not_in_binary_response	post-treatment2	pre-treatment	CD8_T_cytotoxic	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	not_in_binary_response	post-treatment2	pre-treatment	Macrophage_C1QC_APOE	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	not_in_binary_response	post-treatment2	pre-treatment	Mast	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	not_in_binary_response	post-treatment2	pre-treatment	Monocyte_classical	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	not_in_binary_response	post-treatment2	pre-treatment	Plasma	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	not_in_binary_response	post-treatment2	pre-treatment	Unresolved_low_signal	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	not_in_binary_response	pre-treatment	post-treatment	B_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	not_in_binary_response	pre-treatment	post-treatment	CD4_T_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	not_in_binary_response	pre-treatment	post-treatment	CD8_T_cytotoxic	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	not_in_binary_response	pre-treatment	post-treatment	Macrophage_C1QC_APOE	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	not_in_binary_response	pre-treatment	post-treatment	Mast	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	not_in_binary_response	pre-treatment	post-treatment	Monocyte_classical	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	not_in_binary_response	pre-treatment	post-treatment	Plasma	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	not_in_binary_response	pre-treatment	post-treatment	Unresolved_low_signal	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	not_in_binary_response	pre-treatment	pre-treatment	B_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	not_in_binary_response	pre-treatment	pre-treatment	CD4_T_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	not_in_binary_response	pre-treatment	pre-treatment	CD8_T_cytotoxic	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	not_in_binary_response	pre-treatment	pre-treatment	Macrophage_C1QC_APOE	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	not_in_binary_response	pre-treatment	pre-treatment	Mast	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	not_in_binary_response	pre-treatment	pre-treatment	Monocyte_classical	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	not_in_binary_response	pre-treatment	pre-treatment	Plasma	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	not_in_binary_response	pre-treatment	pre-treatment	Unresolved_low_signal	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	responder	post-treatment	post-treatment	B_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	responder	post-treatment	post-treatment	CD4_T_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	responder	post-treatment	post-treatment	CD8_T_cytotoxic	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	responder	post-treatment	post-treatment	Macrophage_C1QC_APOE	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	responder	post-treatment	post-treatment	Mast	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	responder	post-treatment	post-treatment	Monocyte_classical	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	responder	post-treatment	post-treatment	Plasma	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	responder	post-treatment	post-treatment	Unresolved_low_signal	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	responder	post-treatment	pre-treatment	B_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	responder	post-treatment	pre-treatment	CD4_T_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	responder	post-treatment	pre-treatment	CD8_T_cytotoxic	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	responder	post-treatment	pre-treatment	Macrophage_C1QC_APOE	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	responder	post-treatment	pre-treatment	Mast	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	responder	post-treatment	pre-treatment	Monocyte_classical	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	responder	post-treatment	pre-treatment	Plasma	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	responder	post-treatment	pre-treatment	Unresolved_low_signal	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	responder	post-treatment1	post-treatment	B_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	responder	post-treatment1	post-treatment	CD4_T_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	responder	post-treatment1	post-treatment	CD8_T_cytotoxic	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	responder	post-treatment1	post-treatment	Macrophage_C1QC_APOE	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	responder	post-treatment1	post-treatment	Mast	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	responder	post-treatment1	post-treatment	Monocyte_classical	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	responder	post-treatment1	post-treatment	Plasma	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	responder	post-treatment1	post-treatment	Unresolved_low_signal	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	responder	post-treatment1	pre-treatment	B_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	responder	post-treatment1	pre-treatment	CD4_T_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	responder	post-treatment1	pre-treatment	CD8_T_cytotoxic	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	responder	post-treatment1	pre-treatment	Macrophage_C1QC_APOE	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	responder	post-treatment1	pre-treatment	Mast	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	responder	post-treatment1	pre-treatment	Monocyte_classical	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	responder	post-treatment1	pre-treatment	Plasma	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	responder	post-treatment1	pre-treatment	Unresolved_low_signal	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	responder	post-treatment2	post-treatment	B_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	responder	post-treatment2	post-treatment	CD4_T_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	responder	post-treatment2	post-treatment	CD8_T_cytotoxic	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	responder	post-treatment2	post-treatment	Macrophage_C1QC_APOE	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	responder	post-treatment2	post-treatment	Mast	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	responder	post-treatment2	post-treatment	Monocyte_classical	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	responder	post-treatment2	post-treatment	Plasma	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	responder	post-treatment2	post-treatment	Unresolved_low_signal	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	responder	post-treatment2	pre-treatment	B_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	responder	post-treatment2	pre-treatment	CD4_T_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	responder	post-treatment2	pre-treatment	CD8_T_cytotoxic	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	responder	post-treatment2	pre-treatment	Macrophage_C1QC_APOE	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	responder	post-treatment2	pre-treatment	Mast	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	responder	post-treatment2	pre-treatment	Monocyte_classical	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	responder	post-treatment2	pre-treatment	Plasma	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	responder	post-treatment2	pre-treatment	Unresolved_low_signal	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	responder	pre-treatment	post-treatment	B_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	responder	pre-treatment	post-treatment	CD4_T_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	responder	pre-treatment	post-treatment	CD8_T_cytotoxic	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	responder	pre-treatment	post-treatment	Macrophage_C1QC_APOE	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	responder	pre-treatment	post-treatment	Mast	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	responder	pre-treatment	post-treatment	Monocyte_classical	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	responder	pre-treatment	post-treatment	Plasma	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	responder	pre-treatment	post-treatment	Unresolved_low_signal	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	responder	pre-treatment	pre-treatment	B_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	responder	pre-treatment	pre-treatment	CD4_T_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	responder	pre-treatment	pre-treatment	CD8_T_cytotoxic	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	responder	pre-treatment	pre-treatment	Macrophage_C1QC_APOE	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	responder	pre-treatment	pre-treatment	Mast	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	responder	pre-treatment	pre-treatment	Monocyte_classical	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	responder	pre-treatment	pre-treatment	Plasma	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PD	responder	pre-treatment	pre-treatment	Unresolved_low_signal	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	non_responder	post-treatment	post-treatment	B_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	non_responder	post-treatment	post-treatment	CD4_T_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	non_responder	post-treatment	post-treatment	CD8_T_cytotoxic	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	non_responder	post-treatment	post-treatment	Macrophage_C1QC_APOE	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	non_responder	post-treatment	post-treatment	Mast	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	non_responder	post-treatment	post-treatment	Monocyte_classical	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	non_responder	post-treatment	post-treatment	Plasma	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	non_responder	post-treatment	post-treatment	Unresolved_low_signal	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	non_responder	post-treatment	pre-treatment	B_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	non_responder	post-treatment	pre-treatment	CD4_T_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	non_responder	post-treatment	pre-treatment	CD8_T_cytotoxic	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	non_responder	post-treatment	pre-treatment	Macrophage_C1QC_APOE	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	non_responder	post-treatment	pre-treatment	Mast	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	non_responder	post-treatment	pre-treatment	Monocyte_classical	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	non_responder	post-treatment	pre-treatment	Plasma	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	non_responder	post-treatment	pre-treatment	Unresolved_low_signal	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	non_responder	post-treatment1	post-treatment	B_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	non_responder	post-treatment1	post-treatment	CD4_T_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	non_responder	post-treatment1	post-treatment	CD8_T_cytotoxic	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	non_responder	post-treatment1	post-treatment	Macrophage_C1QC_APOE	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	non_responder	post-treatment1	post-treatment	Mast	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	non_responder	post-treatment1	post-treatment	Monocyte_classical	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	non_responder	post-treatment1	post-treatment	Plasma	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	non_responder	post-treatment1	post-treatment	Unresolved_low_signal	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	non_responder	post-treatment1	pre-treatment	B_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	non_responder	post-treatment1	pre-treatment	CD4_T_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	non_responder	post-treatment1	pre-treatment	CD8_T_cytotoxic	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	non_responder	post-treatment1	pre-treatment	Macrophage_C1QC_APOE	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	non_responder	post-treatment1	pre-treatment	Mast	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	non_responder	post-treatment1	pre-treatment	Monocyte_classical	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	non_responder	post-treatment1	pre-treatment	Plasma	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	non_responder	post-treatment1	pre-treatment	Unresolved_low_signal	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	non_responder	post-treatment2	post-treatment	B_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	non_responder	post-treatment2	post-treatment	CD4_T_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	non_responder	post-treatment2	post-treatment	CD8_T_cytotoxic	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	non_responder	post-treatment2	post-treatment	Macrophage_C1QC_APOE	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	non_responder	post-treatment2	post-treatment	Mast	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	non_responder	post-treatment2	post-treatment	Monocyte_classical	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	non_responder	post-treatment2	post-treatment	Plasma	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	non_responder	post-treatment2	post-treatment	Unresolved_low_signal	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	non_responder	post-treatment2	pre-treatment	B_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	non_responder	post-treatment2	pre-treatment	CD4_T_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	non_responder	post-treatment2	pre-treatment	CD8_T_cytotoxic	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	non_responder	post-treatment2	pre-treatment	Macrophage_C1QC_APOE	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	non_responder	post-treatment2	pre-treatment	Mast	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	non_responder	post-treatment2	pre-treatment	Monocyte_classical	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	non_responder	post-treatment2	pre-treatment	Plasma	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	non_responder	post-treatment2	pre-treatment	Unresolved_low_signal	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	non_responder	pre-treatment	post-treatment	B_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	non_responder	pre-treatment	post-treatment	CD4_T_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	non_responder	pre-treatment	post-treatment	CD8_T_cytotoxic	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	non_responder	pre-treatment	post-treatment	Macrophage_C1QC_APOE	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	non_responder	pre-treatment	post-treatment	Mast	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	non_responder	pre-treatment	post-treatment	Monocyte_classical	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	non_responder	pre-treatment	post-treatment	Plasma	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	non_responder	pre-treatment	post-treatment	Unresolved_low_signal	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	non_responder	pre-treatment	pre-treatment	B_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	non_responder	pre-treatment	pre-treatment	CD4_T_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	non_responder	pre-treatment	pre-treatment	CD8_T_cytotoxic	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	non_responder	pre-treatment	pre-treatment	Macrophage_C1QC_APOE	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	non_responder	pre-treatment	pre-treatment	Mast	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	non_responder	pre-treatment	pre-treatment	Monocyte_classical	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	non_responder	pre-treatment	pre-treatment	Plasma	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	non_responder	pre-treatment	pre-treatment	Unresolved_low_signal	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	not_in_binary_response	post-treatment	post-treatment	B_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	not_in_binary_response	post-treatment	post-treatment	CD4_T_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	not_in_binary_response	post-treatment	post-treatment	CD8_T_cytotoxic	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	not_in_binary_response	post-treatment	post-treatment	Macrophage_C1QC_APOE	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	not_in_binary_response	post-treatment	post-treatment	Mast	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	not_in_binary_response	post-treatment	post-treatment	Monocyte_classical	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	not_in_binary_response	post-treatment	post-treatment	Plasma	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	not_in_binary_response	post-treatment	post-treatment	Unresolved_low_signal	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	not_in_binary_response	post-treatment	pre-treatment	B_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	not_in_binary_response	post-treatment	pre-treatment	CD4_T_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	not_in_binary_response	post-treatment	pre-treatment	CD8_T_cytotoxic	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	not_in_binary_response	post-treatment	pre-treatment	Macrophage_C1QC_APOE	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	not_in_binary_response	post-treatment	pre-treatment	Mast	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	not_in_binary_response	post-treatment	pre-treatment	Monocyte_classical	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	not_in_binary_response	post-treatment	pre-treatment	Plasma	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	not_in_binary_response	post-treatment	pre-treatment	Unresolved_low_signal	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	not_in_binary_response	post-treatment1	post-treatment	B_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	not_in_binary_response	post-treatment1	post-treatment	CD4_T_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	not_in_binary_response	post-treatment1	post-treatment	CD8_T_cytotoxic	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	not_in_binary_response	post-treatment1	post-treatment	Macrophage_C1QC_APOE	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	not_in_binary_response	post-treatment1	post-treatment	Mast	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	not_in_binary_response	post-treatment1	post-treatment	Monocyte_classical	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	not_in_binary_response	post-treatment1	post-treatment	Plasma	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	not_in_binary_response	post-treatment1	post-treatment	Unresolved_low_signal	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	not_in_binary_response	post-treatment1	pre-treatment	B_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	not_in_binary_response	post-treatment1	pre-treatment	CD4_T_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	not_in_binary_response	post-treatment1	pre-treatment	CD8_T_cytotoxic	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	not_in_binary_response	post-treatment1	pre-treatment	Macrophage_C1QC_APOE	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	not_in_binary_response	post-treatment1	pre-treatment	Mast	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	not_in_binary_response	post-treatment1	pre-treatment	Monocyte_classical	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	not_in_binary_response	post-treatment1	pre-treatment	Plasma	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	not_in_binary_response	post-treatment1	pre-treatment	Unresolved_low_signal	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	not_in_binary_response	post-treatment2	post-treatment	B_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	not_in_binary_response	post-treatment2	post-treatment	CD4_T_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	not_in_binary_response	post-treatment2	post-treatment	CD8_T_cytotoxic	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	not_in_binary_response	post-treatment2	post-treatment	Macrophage_C1QC_APOE	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	not_in_binary_response	post-treatment2	post-treatment	Mast	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	not_in_binary_response	post-treatment2	post-treatment	Monocyte_classical	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	not_in_binary_response	post-treatment2	post-treatment	Plasma	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	not_in_binary_response	post-treatment2	post-treatment	Unresolved_low_signal	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	not_in_binary_response	post-treatment2	pre-treatment	B_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	not_in_binary_response	post-treatment2	pre-treatment	CD4_T_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	not_in_binary_response	post-treatment2	pre-treatment	CD8_T_cytotoxic	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	not_in_binary_response	post-treatment2	pre-treatment	Macrophage_C1QC_APOE	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	not_in_binary_response	post-treatment2	pre-treatment	Mast	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	not_in_binary_response	post-treatment2	pre-treatment	Monocyte_classical	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	not_in_binary_response	post-treatment2	pre-treatment	Plasma	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	not_in_binary_response	post-treatment2	pre-treatment	Unresolved_low_signal	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	not_in_binary_response	pre-treatment	post-treatment	B_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	not_in_binary_response	pre-treatment	post-treatment	CD4_T_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	not_in_binary_response	pre-treatment	post-treatment	CD8_T_cytotoxic	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	not_in_binary_response	pre-treatment	post-treatment	Macrophage_C1QC_APOE	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	not_in_binary_response	pre-treatment	post-treatment	Mast	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	not_in_binary_response	pre-treatment	post-treatment	Monocyte_classical	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	not_in_binary_response	pre-treatment	post-treatment	Plasma	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	not_in_binary_response	pre-treatment	post-treatment	Unresolved_low_signal	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	not_in_binary_response	pre-treatment	pre-treatment	B_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	not_in_binary_response	pre-treatment	pre-treatment	CD4_T_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	not_in_binary_response	pre-treatment	pre-treatment	CD8_T_cytotoxic	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	not_in_binary_response	pre-treatment	pre-treatment	Macrophage_C1QC_APOE	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	not_in_binary_response	pre-treatment	pre-treatment	Mast	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	not_in_binary_response	pre-treatment	pre-treatment	Monocyte_classical	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	not_in_binary_response	pre-treatment	pre-treatment	Plasma	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	not_in_binary_response	pre-treatment	pre-treatment	Unresolved_low_signal	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	responder	post-treatment	post-treatment	B_naive_memory	246	0.029553099471407978	qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	responder	post-treatment	post-treatment	CD4_T_naive_memory	735	0.0882988947621336	qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	responder	post-treatment	post-treatment	CD8_T_cytotoxic	1302	0.15641518500720808	qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	responder	post-treatment	post-treatment	Macrophage_C1QC_APOE	970	0.11653051417587698	qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	responder	post-treatment	post-treatment	Mast	134	0.016098029793368572	qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	responder	post-treatment	post-treatment	Monocyte_classical	2151	0.25840941854877464	qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	responder	post-treatment	post-treatment	Plasma	32	0.0038443056222969728	qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	responder	post-treatment	post-treatment	Unresolved_low_signal	2754	0.3308505526189332	qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	responder	post-treatment	pre-treatment	B_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	responder	post-treatment	pre-treatment	CD4_T_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	responder	post-treatment	pre-treatment	CD8_T_cytotoxic	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	responder	post-treatment	pre-treatment	Macrophage_C1QC_APOE	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	responder	post-treatment	pre-treatment	Mast	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	responder	post-treatment	pre-treatment	Monocyte_classical	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	responder	post-treatment	pre-treatment	Plasma	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	responder	post-treatment	pre-treatment	Unresolved_low_signal	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	responder	post-treatment1	post-treatment	B_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	responder	post-treatment1	post-treatment	CD4_T_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	responder	post-treatment1	post-treatment	CD8_T_cytotoxic	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	responder	post-treatment1	post-treatment	Macrophage_C1QC_APOE	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	responder	post-treatment1	post-treatment	Mast	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	responder	post-treatment1	post-treatment	Monocyte_classical	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	responder	post-treatment1	post-treatment	Plasma	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	responder	post-treatment1	post-treatment	Unresolved_low_signal	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	responder	post-treatment1	pre-treatment	B_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	responder	post-treatment1	pre-treatment	CD4_T_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	responder	post-treatment1	pre-treatment	CD8_T_cytotoxic	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	responder	post-treatment1	pre-treatment	Macrophage_C1QC_APOE	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	responder	post-treatment1	pre-treatment	Mast	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	responder	post-treatment1	pre-treatment	Monocyte_classical	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	responder	post-treatment1	pre-treatment	Plasma	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	responder	post-treatment1	pre-treatment	Unresolved_low_signal	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	responder	post-treatment2	post-treatment	B_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	responder	post-treatment2	post-treatment	CD4_T_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	responder	post-treatment2	post-treatment	CD8_T_cytotoxic	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	responder	post-treatment2	post-treatment	Macrophage_C1QC_APOE	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	responder	post-treatment2	post-treatment	Mast	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	responder	post-treatment2	post-treatment	Monocyte_classical	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	responder	post-treatment2	post-treatment	Plasma	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	responder	post-treatment2	post-treatment	Unresolved_low_signal	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	responder	post-treatment2	pre-treatment	B_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	responder	post-treatment2	pre-treatment	CD4_T_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	responder	post-treatment2	pre-treatment	CD8_T_cytotoxic	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	responder	post-treatment2	pre-treatment	Macrophage_C1QC_APOE	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	responder	post-treatment2	pre-treatment	Mast	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	responder	post-treatment2	pre-treatment	Monocyte_classical	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	responder	post-treatment2	pre-treatment	Plasma	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	responder	post-treatment2	pre-treatment	Unresolved_low_signal	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	responder	pre-treatment	post-treatment	B_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	responder	pre-treatment	post-treatment	CD4_T_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	responder	pre-treatment	post-treatment	CD8_T_cytotoxic	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	responder	pre-treatment	post-treatment	Macrophage_C1QC_APOE	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	responder	pre-treatment	post-treatment	Mast	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	responder	pre-treatment	post-treatment	Monocyte_classical	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	responder	pre-treatment	post-treatment	Plasma	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	responder	pre-treatment	post-treatment	Unresolved_low_signal	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	responder	pre-treatment	pre-treatment	B_naive_memory	956	0.09612870789341378	qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	responder	pre-treatment	pre-treatment	CD4_T_naive_memory	795	0.07993966817496229	qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	responder	pre-treatment	pre-treatment	CD8_T_cytotoxic	699	0.07028657616892911	qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	responder	pre-treatment	pre-treatment	Macrophage_C1QC_APOE	1085	0.10910005027652087	qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	responder	pre-treatment	pre-treatment	Mast	125	0.01256913021618904	qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	responder	pre-treatment	pre-treatment	Monocyte_classical	3758	0.3778783308195073	qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	responder	pre-treatment	pre-treatment	Plasma	1858	0.1868275515334339	qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+PR	responder	pre-treatment	pre-treatment	Unresolved_low_signal	669	0.06726998491704374	qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	non_responder	post-treatment	post-treatment	B_naive_memory	1777	0.08826743492946552	qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	non_responder	post-treatment	post-treatment	CD4_T_naive_memory	2224	0.1104708921120604	qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	non_responder	post-treatment	post-treatment	CD8_T_cytotoxic	2018	0.10023842638585337	qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	non_responder	post-treatment	post-treatment	Macrophage_C1QC_APOE	3068	0.15239419829127757	qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	non_responder	post-treatment	post-treatment	Mast	438	0.02175640770911981	qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	non_responder	post-treatment	post-treatment	Monocyte_classical	6459	0.320832505463938	qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	non_responder	post-treatment	post-treatment	Plasma	2302	0.11434532088217762	qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	non_responder	post-treatment	post-treatment	Unresolved_low_signal	1846	0.09169481422610769	qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	non_responder	post-treatment	pre-treatment	B_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	non_responder	post-treatment	pre-treatment	CD4_T_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	non_responder	post-treatment	pre-treatment	CD8_T_cytotoxic	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	non_responder	post-treatment	pre-treatment	Macrophage_C1QC_APOE	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	non_responder	post-treatment	pre-treatment	Mast	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	non_responder	post-treatment	pre-treatment	Monocyte_classical	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	non_responder	post-treatment	pre-treatment	Plasma	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	non_responder	post-treatment	pre-treatment	Unresolved_low_signal	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	non_responder	post-treatment1	post-treatment	B_naive_memory	1	0.125	qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	non_responder	post-treatment1	post-treatment	CD4_T_naive_memory	0	0.0	qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	non_responder	post-treatment1	post-treatment	CD8_T_cytotoxic	0	0.0	qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	non_responder	post-treatment1	post-treatment	Macrophage_C1QC_APOE	0	0.0	qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	non_responder	post-treatment1	post-treatment	Mast	0	0.0	qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	non_responder	post-treatment1	post-treatment	Monocyte_classical	0	0.0	qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	non_responder	post-treatment1	post-treatment	Plasma	6	0.75	qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	non_responder	post-treatment1	post-treatment	Unresolved_low_signal	1	0.125	qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	non_responder	post-treatment1	pre-treatment	B_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	non_responder	post-treatment1	pre-treatment	CD4_T_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	non_responder	post-treatment1	pre-treatment	CD8_T_cytotoxic	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	non_responder	post-treatment1	pre-treatment	Macrophage_C1QC_APOE	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	non_responder	post-treatment1	pre-treatment	Mast	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	non_responder	post-treatment1	pre-treatment	Monocyte_classical	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	non_responder	post-treatment1	pre-treatment	Plasma	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	non_responder	post-treatment1	pre-treatment	Unresolved_low_signal	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	non_responder	post-treatment2	post-treatment	B_naive_memory	34	0.17801047120418848	qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	non_responder	post-treatment2	post-treatment	CD4_T_naive_memory	14	0.07329842931937172	qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	non_responder	post-treatment2	post-treatment	CD8_T_cytotoxic	19	0.09947643979057591	qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	non_responder	post-treatment2	post-treatment	Macrophage_C1QC_APOE	19	0.09947643979057591	qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	non_responder	post-treatment2	post-treatment	Mast	3	0.015706806282722512	qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	non_responder	post-treatment2	post-treatment	Monocyte_classical	61	0.3193717277486911	qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	non_responder	post-treatment2	post-treatment	Plasma	8	0.041884816753926704	qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	non_responder	post-treatment2	post-treatment	Unresolved_low_signal	33	0.17277486910994763	qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	non_responder	post-treatment2	pre-treatment	B_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	non_responder	post-treatment2	pre-treatment	CD4_T_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	non_responder	post-treatment2	pre-treatment	CD8_T_cytotoxic	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	non_responder	post-treatment2	pre-treatment	Macrophage_C1QC_APOE	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	non_responder	post-treatment2	pre-treatment	Mast	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	non_responder	post-treatment2	pre-treatment	Monocyte_classical	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	non_responder	post-treatment2	pre-treatment	Plasma	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	non_responder	post-treatment2	pre-treatment	Unresolved_low_signal	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	non_responder	pre-treatment	post-treatment	B_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	non_responder	pre-treatment	post-treatment	CD4_T_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	non_responder	pre-treatment	post-treatment	CD8_T_cytotoxic	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	non_responder	pre-treatment	post-treatment	Macrophage_C1QC_APOE	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	non_responder	pre-treatment	post-treatment	Mast	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	non_responder	pre-treatment	post-treatment	Monocyte_classical	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	non_responder	pre-treatment	post-treatment	Plasma	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	non_responder	pre-treatment	post-treatment	Unresolved_low_signal	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	non_responder	pre-treatment	pre-treatment	B_naive_memory	1523	0.07593358927057885	qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	non_responder	pre-treatment	pre-treatment	CD4_T_naive_memory	1937	0.09657476192850377	qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	non_responder	pre-treatment	pre-treatment	CD8_T_cytotoxic	1936	0.09652490402353293	qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	non_responder	pre-treatment	pre-treatment	Macrophage_C1QC_APOE	3336	0.1663259709826993	qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	non_responder	pre-treatment	pre-treatment	Mast	753	0.03754300244303734	qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	non_responder	pre-treatment	pre-treatment	Monocyte_classical	6531	0.32562197736451115	qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	non_responder	pre-treatment	pre-treatment	Plasma	1117	0.0556912798524206	qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	non_responder	pre-treatment	pre-treatment	Unresolved_low_signal	2924	0.14578451413471605	qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	not_in_binary_response	post-treatment	post-treatment	B_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	not_in_binary_response	post-treatment	post-treatment	CD4_T_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	not_in_binary_response	post-treatment	post-treatment	CD8_T_cytotoxic	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	not_in_binary_response	post-treatment	post-treatment	Macrophage_C1QC_APOE	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	not_in_binary_response	post-treatment	post-treatment	Mast	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	not_in_binary_response	post-treatment	post-treatment	Monocyte_classical	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	not_in_binary_response	post-treatment	post-treatment	Plasma	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	not_in_binary_response	post-treatment	post-treatment	Unresolved_low_signal	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	not_in_binary_response	post-treatment	pre-treatment	B_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	not_in_binary_response	post-treatment	pre-treatment	CD4_T_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	not_in_binary_response	post-treatment	pre-treatment	CD8_T_cytotoxic	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	not_in_binary_response	post-treatment	pre-treatment	Macrophage_C1QC_APOE	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	not_in_binary_response	post-treatment	pre-treatment	Mast	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	not_in_binary_response	post-treatment	pre-treatment	Monocyte_classical	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	not_in_binary_response	post-treatment	pre-treatment	Plasma	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	not_in_binary_response	post-treatment	pre-treatment	Unresolved_low_signal	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	not_in_binary_response	post-treatment1	post-treatment	B_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	not_in_binary_response	post-treatment1	post-treatment	CD4_T_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	not_in_binary_response	post-treatment1	post-treatment	CD8_T_cytotoxic	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	not_in_binary_response	post-treatment1	post-treatment	Macrophage_C1QC_APOE	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	not_in_binary_response	post-treatment1	post-treatment	Mast	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	not_in_binary_response	post-treatment1	post-treatment	Monocyte_classical	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	not_in_binary_response	post-treatment1	post-treatment	Plasma	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	not_in_binary_response	post-treatment1	post-treatment	Unresolved_low_signal	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	not_in_binary_response	post-treatment1	pre-treatment	B_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	not_in_binary_response	post-treatment1	pre-treatment	CD4_T_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	not_in_binary_response	post-treatment1	pre-treatment	CD8_T_cytotoxic	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	not_in_binary_response	post-treatment1	pre-treatment	Macrophage_C1QC_APOE	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	not_in_binary_response	post-treatment1	pre-treatment	Mast	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	not_in_binary_response	post-treatment1	pre-treatment	Monocyte_classical	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	not_in_binary_response	post-treatment1	pre-treatment	Plasma	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	not_in_binary_response	post-treatment1	pre-treatment	Unresolved_low_signal	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	not_in_binary_response	post-treatment2	post-treatment	B_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	not_in_binary_response	post-treatment2	post-treatment	CD4_T_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	not_in_binary_response	post-treatment2	post-treatment	CD8_T_cytotoxic	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	not_in_binary_response	post-treatment2	post-treatment	Macrophage_C1QC_APOE	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	not_in_binary_response	post-treatment2	post-treatment	Mast	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	not_in_binary_response	post-treatment2	post-treatment	Monocyte_classical	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	not_in_binary_response	post-treatment2	post-treatment	Plasma	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	not_in_binary_response	post-treatment2	post-treatment	Unresolved_low_signal	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	not_in_binary_response	post-treatment2	pre-treatment	B_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	not_in_binary_response	post-treatment2	pre-treatment	CD4_T_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	not_in_binary_response	post-treatment2	pre-treatment	CD8_T_cytotoxic	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	not_in_binary_response	post-treatment2	pre-treatment	Macrophage_C1QC_APOE	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	not_in_binary_response	post-treatment2	pre-treatment	Mast	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	not_in_binary_response	post-treatment2	pre-treatment	Monocyte_classical	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	not_in_binary_response	post-treatment2	pre-treatment	Plasma	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	not_in_binary_response	post-treatment2	pre-treatment	Unresolved_low_signal	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	not_in_binary_response	pre-treatment	post-treatment	B_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	not_in_binary_response	pre-treatment	post-treatment	CD4_T_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	not_in_binary_response	pre-treatment	post-treatment	CD8_T_cytotoxic	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	not_in_binary_response	pre-treatment	post-treatment	Macrophage_C1QC_APOE	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	not_in_binary_response	pre-treatment	post-treatment	Mast	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	not_in_binary_response	pre-treatment	post-treatment	Monocyte_classical	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	not_in_binary_response	pre-treatment	post-treatment	Plasma	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	not_in_binary_response	pre-treatment	post-treatment	Unresolved_low_signal	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	not_in_binary_response	pre-treatment	pre-treatment	B_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	not_in_binary_response	pre-treatment	pre-treatment	CD4_T_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	not_in_binary_response	pre-treatment	pre-treatment	CD8_T_cytotoxic	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	not_in_binary_response	pre-treatment	pre-treatment	Macrophage_C1QC_APOE	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	not_in_binary_response	pre-treatment	pre-treatment	Mast	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	not_in_binary_response	pre-treatment	pre-treatment	Monocyte_classical	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	not_in_binary_response	pre-treatment	pre-treatment	Plasma	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	not_in_binary_response	pre-treatment	pre-treatment	Unresolved_low_signal	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	responder	post-treatment	post-treatment	B_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	responder	post-treatment	post-treatment	CD4_T_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	responder	post-treatment	post-treatment	CD8_T_cytotoxic	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	responder	post-treatment	post-treatment	Macrophage_C1QC_APOE	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	responder	post-treatment	post-treatment	Mast	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	responder	post-treatment	post-treatment	Monocyte_classical	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	responder	post-treatment	post-treatment	Plasma	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	responder	post-treatment	post-treatment	Unresolved_low_signal	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	responder	post-treatment	pre-treatment	B_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	responder	post-treatment	pre-treatment	CD4_T_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	responder	post-treatment	pre-treatment	CD8_T_cytotoxic	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	responder	post-treatment	pre-treatment	Macrophage_C1QC_APOE	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	responder	post-treatment	pre-treatment	Mast	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	responder	post-treatment	pre-treatment	Monocyte_classical	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	responder	post-treatment	pre-treatment	Plasma	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	responder	post-treatment	pre-treatment	Unresolved_low_signal	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	responder	post-treatment1	post-treatment	B_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	responder	post-treatment1	post-treatment	CD4_T_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	responder	post-treatment1	post-treatment	CD8_T_cytotoxic	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	responder	post-treatment1	post-treatment	Macrophage_C1QC_APOE	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	responder	post-treatment1	post-treatment	Mast	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	responder	post-treatment1	post-treatment	Monocyte_classical	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	responder	post-treatment1	post-treatment	Plasma	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	responder	post-treatment1	post-treatment	Unresolved_low_signal	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	responder	post-treatment1	pre-treatment	B_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	responder	post-treatment1	pre-treatment	CD4_T_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	responder	post-treatment1	pre-treatment	CD8_T_cytotoxic	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	responder	post-treatment1	pre-treatment	Macrophage_C1QC_APOE	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	responder	post-treatment1	pre-treatment	Mast	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	responder	post-treatment1	pre-treatment	Monocyte_classical	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	responder	post-treatment1	pre-treatment	Plasma	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	responder	post-treatment1	pre-treatment	Unresolved_low_signal	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	responder	post-treatment2	post-treatment	B_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	responder	post-treatment2	post-treatment	CD4_T_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	responder	post-treatment2	post-treatment	CD8_T_cytotoxic	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	responder	post-treatment2	post-treatment	Macrophage_C1QC_APOE	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	responder	post-treatment2	post-treatment	Mast	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	responder	post-treatment2	post-treatment	Monocyte_classical	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	responder	post-treatment2	post-treatment	Plasma	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	responder	post-treatment2	post-treatment	Unresolved_low_signal	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	responder	post-treatment2	pre-treatment	B_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	responder	post-treatment2	pre-treatment	CD4_T_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	responder	post-treatment2	pre-treatment	CD8_T_cytotoxic	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	responder	post-treatment2	pre-treatment	Macrophage_C1QC_APOE	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	responder	post-treatment2	pre-treatment	Mast	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	responder	post-treatment2	pre-treatment	Monocyte_classical	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	responder	post-treatment2	pre-treatment	Plasma	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	responder	post-treatment2	pre-treatment	Unresolved_low_signal	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	responder	pre-treatment	post-treatment	B_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	responder	pre-treatment	post-treatment	CD4_T_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	responder	pre-treatment	post-treatment	CD8_T_cytotoxic	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	responder	pre-treatment	post-treatment	Macrophage_C1QC_APOE	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	responder	pre-treatment	post-treatment	Mast	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	responder	pre-treatment	post-treatment	Monocyte_classical	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	responder	pre-treatment	post-treatment	Plasma	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	responder	pre-treatment	post-treatment	Unresolved_low_signal	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	responder	pre-treatment	pre-treatment	B_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	responder	pre-treatment	pre-treatment	CD4_T_naive_memory	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	responder	pre-treatment	pre-treatment	CD8_T_cytotoxic	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	responder	pre-treatment	pre-treatment	Macrophage_C1QC_APOE	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	responder	pre-treatment	pre-treatment	Mast	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	responder	pre-treatment	pre-treatment	Monocyte_classical	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	responder	pre-treatment	pre-treatment	Plasma	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.
+SD	responder	pre-treatment	pre-treatment	Unresolved_low_signal	0		qc_pass_cells_only	NE remains not_in_binary_response in binary_response_group; raw outcome is preserved.

@@ -1,0 +1,9 @@
+python: 3.12.7 (tags/v3.12.7:0b05ead, Oct  1 2024, 03:06:41) [MSC v.1941 64 bit (AMD64)]
+executable: H:\python312\python.exe
+platform: Windows-11-10.0.22631-SP0
+numpy: 2.0.2
+pandas: 2.2.3
+scanpy: 1.10.4
+seaborn: 0.13.2
+matplotlib: 3.10.0
+harmonypy: 0.0.10

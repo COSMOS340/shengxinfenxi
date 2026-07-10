@@ -1,0 +1,247 @@
+patient	raw_response	derived_response_group	tissue	doublet_filter_state	sub_cluster	cell_count	proportion_within_patient_tissue
+P16	PD, non-responder	non_responder	N	after_excluding_predicted_doublets	CD8_C01_LEF1	1	0.04
+P16	PD, non-responder	non_responder	N	after_excluding_predicted_doublets	CD8_C03_CX3CR1	6	0.24
+P16	PD, non-responder	non_responder	N	after_excluding_predicted_doublets	CD8_C05_CCR7	2	0.08
+P16	PD, non-responder	non_responder	N	after_excluding_predicted_doublets	CD8_C06_IKZF2	2	0.08
+P16	PD, non-responder	non_responder	N	after_excluding_predicted_doublets	CD8_C08_GZMK	9	0.36
+P16	PD, non-responder	non_responder	N	after_excluding_predicted_doublets	CD8_C09_LAYN	1	0.04
+P16	PD, non-responder	non_responder	N	after_excluding_predicted_doublets	CD8_C10_SLC4A10	3	0.12
+P16	PD, non-responder	non_responder	N	after_excluding_predicted_doublets	CD8_C11_MKI67	1	0.04
+P16	PD, non-responder	non_responder	N	before_doublet_exclusion	CD8_C01_LEF1	1	0.04
+P16	PD, non-responder	non_responder	N	before_doublet_exclusion	CD8_C03_CX3CR1	6	0.24
+P16	PD, non-responder	non_responder	N	before_doublet_exclusion	CD8_C05_CCR7	2	0.08
+P16	PD, non-responder	non_responder	N	before_doublet_exclusion	CD8_C06_IKZF2	2	0.08
+P16	PD, non-responder	non_responder	N	before_doublet_exclusion	CD8_C08_GZMK	9	0.36
+P16	PD, non-responder	non_responder	N	before_doublet_exclusion	CD8_C09_LAYN	1	0.04
+P16	PD, non-responder	non_responder	N	before_doublet_exclusion	CD8_C10_SLC4A10	3	0.12
+P16	PD, non-responder	non_responder	N	before_doublet_exclusion	CD8_C11_MKI67	1	0.04
+P16	PD, non-responder	non_responder	P	after_excluding_predicted_doublets	CD8_C01_LEF1	7957	0.3793744636216268
+P16	PD, non-responder	non_responder	P	after_excluding_predicted_doublets	CD8_C02_GPR183	1437	0.0685133975398112
+P16	PD, non-responder	non_responder	P	after_excluding_predicted_doublets	CD8_C03_CX3CR1	5500	0.262229426909507
+P16	PD, non-responder	non_responder	P	after_excluding_predicted_doublets	CD8_C04_GIMAP4	1210	0.057690473920091544
+P16	PD, non-responder	non_responder	P	after_excluding_predicted_doublets	CD8_C05_CCR7	2431	0.1159054066940021
+P16	PD, non-responder	non_responder	P	after_excluding_predicted_doublets	CD8_C06_IKZF2	199	0.009487937446362163
+P16	PD, non-responder	non_responder	P	after_excluding_predicted_doublets	CD8_C07_KIR2DL4	66	0.0031467531229140843
+P16	PD, non-responder	non_responder	P	after_excluding_predicted_doublets	CD8_C08_GZMK	1689	0.08052827310002861
+P16	PD, non-responder	non_responder	P	after_excluding_predicted_doublets	CD8_C09_LAYN	2	9.535615523982073e-05
+P16	PD, non-responder	non_responder	P	after_excluding_predicted_doublets	CD8_C10_SLC4A10	442	0.02107371030800038
+P16	PD, non-responder	non_responder	P	after_excluding_predicted_doublets	CD8_C11_MKI67	41	0.001954801182416325
+P16	PD, non-responder	non_responder	P	before_doublet_exclusion	CD8_C01_LEF1	7984	0.3757883836957545
+P16	PD, non-responder	non_responder	P	before_doublet_exclusion	CD8_C02_GPR183	1443	0.06791866704320813
+P16	PD, non-responder	non_responder	P	before_doublet_exclusion	CD8_C03_CX3CR1	5552	0.2613197778405347
+P16	PD, non-responder	non_responder	P	before_doublet_exclusion	CD8_C04_GIMAP4	1273	0.05991716087734162
+P16	PD, non-responder	non_responder	P	before_doublet_exclusion	CD8_C05_CCR7	2506	0.11795161442153818
+P16	PD, non-responder	non_responder	P	before_doublet_exclusion	CD8_C06_IKZF2	202	0.009507672032382565
+P16	PD, non-responder	non_responder	P	before_doublet_exclusion	CD8_C07_KIR2DL4	68	0.0032006024663466066
+P16	PD, non-responder	non_responder	P	before_doublet_exclusion	CD8_C08_GZMK	1719	0.08090934764190906
+P16	PD, non-responder	non_responder	P	before_doublet_exclusion	CD8_C09_LAYN	2	9.413536665725314e-05
+P16	PD, non-responder	non_responder	P	before_doublet_exclusion	CD8_C10_SLC4A10	456	0.021462863597853713
+P16	PD, non-responder	non_responder	P	before_doublet_exclusion	CD8_C11_MKI67	41	0.001929775016473689
+P16	PD, non-responder	non_responder	T	after_excluding_predicted_doublets	CD8_C01_LEF1	189	0.030133928571428572
+P16	PD, non-responder	non_responder	T	after_excluding_predicted_doublets	CD8_C02_GPR183	152	0.02423469387755102
+P16	PD, non-responder	non_responder	T	after_excluding_predicted_doublets	CD8_C03_CX3CR1	190	0.030293367346938774
+P16	PD, non-responder	non_responder	T	after_excluding_predicted_doublets	CD8_C04_GIMAP4	25	0.003985969387755102
+P16	PD, non-responder	non_responder	T	after_excluding_predicted_doublets	CD8_C05_CCR7	92	0.014668367346938776
+P16	PD, non-responder	non_responder	T	after_excluding_predicted_doublets	CD8_C06_IKZF2	13	0.002072704081632653
+P16	PD, non-responder	non_responder	T	after_excluding_predicted_doublets	CD8_C07_KIR2DL4	133	0.021205357142857144
+P16	PD, non-responder	non_responder	T	after_excluding_predicted_doublets	CD8_C08_GZMK	3780	0.6026785714285714
+P16	PD, non-responder	non_responder	T	after_excluding_predicted_doublets	CD8_C09_LAYN	36	0.005739795918367347
+P16	PD, non-responder	non_responder	T	after_excluding_predicted_doublets	CD8_C10_SLC4A10	1587	0.25302933673469385
+P16	PD, non-responder	non_responder	T	after_excluding_predicted_doublets	CD8_C11_MKI67	75	0.011957908163265306
+P16	PD, non-responder	non_responder	T	before_doublet_exclusion	CD8_C01_LEF1	189	0.030105129021981522
+P16	PD, non-responder	non_responder	T	before_doublet_exclusion	CD8_C02_GPR183	152	0.024211532335138577
+P16	PD, non-responder	non_responder	T	before_doublet_exclusion	CD8_C03_CX3CR1	190	0.030264415418923225
+P16	PD, non-responder	non_responder	T	before_doublet_exclusion	CD8_C04_GIMAP4	25	0.00398215992354253
+P16	PD, non-responder	non_responder	T	before_doublet_exclusion	CD8_C05_CCR7	92	0.014654348518636508
+P16	PD, non-responder	non_responder	T	before_doublet_exclusion	CD8_C06_IKZF2	13	0.002070723160242115
+P16	PD, non-responder	non_responder	T	before_doublet_exclusion	CD8_C07_KIR2DL4	133	0.021185090793246257
+P16	PD, non-responder	non_responder	T	before_doublet_exclusion	CD8_C08_GZMK	3786	0.6030582988212807
+P16	PD, non-responder	non_responder	T	before_doublet_exclusion	CD8_C09_LAYN	36	0.005734310289901242
+P16	PD, non-responder	non_responder	T	before_doublet_exclusion	CD8_C10_SLC4A10	1587	0.25278751194647975
+P16	PD, non-responder	non_responder	T	before_doublet_exclusion	CD8_C11_MKI67	75	0.011946479770627589
+P3	PR, responder	responder	N	after_excluding_predicted_doublets	CD8_C01_LEF1	51	0.01018573996405033
+P3	PR, responder	responder	N	after_excluding_predicted_doublets	CD8_C02_GPR183	118	0.023567006191332136
+P3	PR, responder	responder	N	after_excluding_predicted_doublets	CD8_C03_CX3CR1	129	0.025763930497303775
+P3	PR, responder	responder	N	after_excluding_predicted_doublets	CD8_C04_GIMAP4	38	0.007589374875174755
+P3	PR, responder	responder	N	after_excluding_predicted_doublets	CD8_C05_CCR7	39	0.007789095266626723
+P3	PR, responder	responder	N	after_excluding_predicted_doublets	CD8_C07_KIR2DL4	116	0.023167565408428202
+P3	PR, responder	responder	N	after_excluding_predicted_doublets	CD8_C08_GZMK	4158	0.8304373876572798
+P3	PR, responder	responder	N	after_excluding_predicted_doublets	CD8_C09_LAYN	44	0.00878769722388656
+P3	PR, responder	responder	N	after_excluding_predicted_doublets	CD8_C10_SLC4A10	307	0.061314160175753946
+P3	PR, responder	responder	N	after_excluding_predicted_doublets	CD8_C11_MKI67	7	0.0013980427401637707
+P3	PR, responder	responder	N	before_doublet_exclusion	CD8_C01_LEF1	53	0.008272202278757608
+P3	PR, responder	responder	N	before_doublet_exclusion	CD8_C02_GPR183	121	0.0188855938816919
+P3	PR, responder	responder	N	before_doublet_exclusion	CD8_C03_CX3CR1	141	0.02200717964726081
+P3	PR, responder	responder	N	before_doublet_exclusion	CD8_C04_GIMAP4	39	0.006087092242859373
+P3	PR, responder	responder	N	before_doublet_exclusion	CD8_C05_CCR7	50	0.007803964413922272
+P3	PR, responder	responder	N	before_doublet_exclusion	CD8_C07_KIR2DL4	129	0.020134228187919462
+P3	PR, responder	responder	N	before_doublet_exclusion	CD8_C08_GZMK	5468	0.8534415483065397
+P3	PR, responder	responder	N	before_doublet_exclusion	CD8_C09_LAYN	51	0.007960043702200718
+P3	PR, responder	responder	N	before_doublet_exclusion	CD8_C10_SLC4A10	347	0.05415951303262057
+P3	PR, responder	responder	N	before_doublet_exclusion	CD8_C11_MKI67	8	0.0012486343062275637
+P3	PR, responder	responder	P	after_excluding_predicted_doublets	CD8_C01_LEF1	6189	0.3036502796585222
+P3	PR, responder	responder	P	after_excluding_predicted_doublets	CD8_C02_GPR183	8365	0.4104111470905701
+P3	PR, responder	responder	P	after_excluding_predicted_doublets	CD8_C03_CX3CR1	4766	0.23383377489942106
+P3	PR, responder	responder	P	after_excluding_predicted_doublets	CD8_C04_GIMAP4	511	0.025071141203022274
+P3	PR, responder	responder	P	after_excluding_predicted_doublets	CD8_C05_CCR7	182	0.008929447551761359
+P3	PR, responder	responder	P	after_excluding_predicted_doublets	CD8_C06_IKZF2	146	0.007163183200863507
+P3	PR, responder	responder	P	after_excluding_predicted_doublets	CD8_C07_KIR2DL4	5	0.0002453144931802571
+P3	PR, responder	responder	P	after_excluding_predicted_doublets	CD8_C08_GZMK	52	0.002551270729074674
+P3	PR, responder	responder	P	after_excluding_predicted_doublets	CD8_C10_SLC4A10	133	0.006525365518594839
+P3	PR, responder	responder	P	after_excluding_predicted_doublets	CD8_C11_MKI67	33	0.0016190756549896968
+P3	PR, responder	responder	P	before_doublet_exclusion	CD8_C01_LEF1	6540	0.30106338903466373
+P3	PR, responder	responder	P	before_doublet_exclusion	CD8_C02_GPR183	8976	0.41320259632647427
+P3	PR, responder	responder	P	before_doublet_exclusion	CD8_C03_CX3CR1	5092	0.234405929199466
+P3	PR, responder	responder	P	before_doublet_exclusion	CD8_C04_GIMAP4	539	0.024812410808820143
+P3	PR, responder	responder	P	before_doublet_exclusion	CD8_C05_CCR7	198	0.009114763154260462
+P3	PR, responder	responder	P	before_doublet_exclusion	CD8_C06_IKZF2	147	0.006767021129678221
+P3	PR, responder	responder	P	before_doublet_exclusion	CD8_C07_KIR2DL4	5	0.00023017078672374903
+P3	PR, responder	responder	P	before_doublet_exclusion	CD8_C08_GZMK	53	0.0024398103392717398
+P3	PR, responder	responder	P	before_doublet_exclusion	CD8_C10_SLC4A10	139	0.006398747870920223
+P3	PR, responder	responder	P	before_doublet_exclusion	CD8_C11_MKI67	34	0.0015651613497214933
+P3	PR, responder	responder	T	after_excluding_predicted_doublets	CD8_C01_LEF1	91	0.012424904423812125
+P3	PR, responder	responder	T	after_excluding_predicted_doublets	CD8_C02_GPR183	193	0.026351720371381757
+P3	PR, responder	responder	T	after_excluding_predicted_doublets	CD8_C03_CX3CR1	85	0.011605679956308028
+P3	PR, responder	responder	T	after_excluding_predicted_doublets	CD8_C04_GIMAP4	22	0.003003823047515019
+P3	PR, responder	responder	T	after_excluding_predicted_doublets	CD8_C05_CCR7	55	0.007509557618787548
+P3	PR, responder	responder	T	after_excluding_predicted_doublets	CD8_C07_KIR2DL4	240	0.03276897870016385
+P3	PR, responder	responder	T	after_excluding_predicted_doublets	CD8_C08_GZMK	5161	0.7046695794647734
+P3	PR, responder	responder	T	after_excluding_predicted_doublets	CD8_C09_LAYN	882	0.12042599672310213
+P3	PR, responder	responder	T	after_excluding_predicted_doublets	CD8_C10_SLC4A10	430	0.05871108683779355
+P3	PR, responder	responder	T	after_excluding_predicted_doublets	CD8_C11_MKI67	165	0.022528672856362644
+P3	PR, responder	responder	T	before_doublet_exclusion	CD8_C01_LEF1	92	0.010784198804360568
+P3	PR, responder	responder	T	before_doublet_exclusion	CD8_C02_GPR183	198	0.02320947133981948
+P3	PR, responder	responder	T	before_doublet_exclusion	CD8_C03_CX3CR1	93	0.010901418356581878
+P3	PR, responder	responder	T	before_doublet_exclusion	CD8_C04_GIMAP4	23	0.002696049701090142
+P3	PR, responder	responder	T	before_doublet_exclusion	CD8_C05_CCR7	67	0.007853709998827804
+P3	PR, responder	responder	T	before_doublet_exclusion	CD8_C07_KIR2DL4	267	0.03129762044308991
+P3	PR, responder	responder	T	before_doublet_exclusion	CD8_C08_GZMK	6157	0.7217207830266088
+P3	PR, responder	responder	T	before_doublet_exclusion	CD8_C09_LAYN	1005	0.11780564998241706
+P3	PR, responder	responder	T	before_doublet_exclusion	CD8_C10_SLC4A10	448	0.05251435939514711
+P3	PR, responder	responder	T	before_doublet_exclusion	CD8_C11_MKI67	181	0.021216738952057203
+P53	NR	non_responder	P	after_excluding_predicted_doublets	CD8_C01_LEF1	1634	0.42875885594332197
+P53	NR	non_responder	P	after_excluding_predicted_doublets	CD8_C02_GPR183	133	0.034898976646549465
+P53	NR	non_responder	P	after_excluding_predicted_doublets	CD8_C03_CX3CR1	770	0.20204670690107585
+P53	NR	non_responder	P	after_excluding_predicted_doublets	CD8_C04_GIMAP4	104	0.027289425347677775
+P53	NR	non_responder	P	after_excluding_predicted_doublets	CD8_C05_CCR7	100	0.026239832065074783
+P53	NR	non_responder	P	after_excluding_predicted_doublets	CD8_C06_IKZF2	730	0.19155077407504592
+P53	NR	non_responder	P	after_excluding_predicted_doublets	CD8_C07_KIR2DL4	2	0.0005247966413014956
+P53	NR	non_responder	P	after_excluding_predicted_doublets	CD8_C08_GZMK	24	0.006297559695617948
+P53	NR	non_responder	P	after_excluding_predicted_doublets	CD8_C10_SLC4A10	305	0.08003148779847809
+P53	NR	non_responder	P	after_excluding_predicted_doublets	CD8_C11_MKI67	9	0.0023615848858567303
+P53	NR	non_responder	P	before_doublet_exclusion	CD8_C01_LEF1	1637	0.425526384195477
+P53	NR	non_responder	P	before_doublet_exclusion	CD8_C02_GPR183	136	0.03535222251104757
+P53	NR	non_responder	P	before_doublet_exclusion	CD8_C03_CX3CR1	782	0.20327527943852353
+P53	NR	non_responder	P	before_doublet_exclusion	CD8_C04_GIMAP4	112	0.029113595009098
+P53	NR	non_responder	P	before_doublet_exclusion	CD8_C05_CCR7	104	0.02703405250844814
+P53	NR	non_responder	P	before_doublet_exclusion	CD8_C06_IKZF2	735	0.1910579672472056
+P53	NR	non_responder	P	before_doublet_exclusion	CD8_C07_KIR2DL4	2	0.0005198856251624642
+P53	NR	non_responder	P	before_doublet_exclusion	CD8_C08_GZMK	24	0.006238627501949571
+P53	NR	non_responder	P	before_doublet_exclusion	CD8_C10_SLC4A10	306	0.07954250064985703
+P53	NR	non_responder	P	before_doublet_exclusion	CD8_C11_MKI67	9	0.002339485313231089
+P53	NR	non_responder	T	after_excluding_predicted_doublets	CD8_C01_LEF1	27	0.004291845493562232
+P53	NR	non_responder	T	after_excluding_predicted_doublets	CD8_C02_GPR183	5	0.0007947862025115244
+P53	NR	non_responder	T	after_excluding_predicted_doublets	CD8_C03_CX3CR1	59	0.009378477189635987
+P53	NR	non_responder	T	after_excluding_predicted_doublets	CD8_C04_GIMAP4	97	0.015418852328723573
+P53	NR	non_responder	T	after_excluding_predicted_doublets	CD8_C05_CCR7	99	0.015736766809728183
+P53	NR	non_responder	T	after_excluding_predicted_doublets	CD8_C06_IKZF2	5	0.0007947862025115244
+P53	NR	non_responder	T	after_excluding_predicted_doublets	CD8_C07_KIR2DL4	169	0.026863773644889524
+P53	NR	non_responder	T	after_excluding_predicted_doublets	CD8_C08_GZMK	3222	0.5121602288984263
+P53	NR	non_responder	T	after_excluding_predicted_doublets	CD8_C09_LAYN	269	0.04275949769512001
+P53	NR	non_responder	T	after_excluding_predicted_doublets	CD8_C10_SLC4A10	2119	0.336830392624384
+P53	NR	non_responder	T	after_excluding_predicted_doublets	CD8_C11_MKI67	220	0.034970592910507074
+P53	NR	non_responder	T	before_doublet_exclusion	CD8_C01_LEF1	27	0.004291845493562232
+P53	NR	non_responder	T	before_doublet_exclusion	CD8_C02_GPR183	5	0.0007947862025115244
+P53	NR	non_responder	T	before_doublet_exclusion	CD8_C03_CX3CR1	59	0.009378477189635987
+P53	NR	non_responder	T	before_doublet_exclusion	CD8_C04_GIMAP4	97	0.015418852328723573
+P53	NR	non_responder	T	before_doublet_exclusion	CD8_C05_CCR7	99	0.015736766809728183
+P53	NR	non_responder	T	before_doublet_exclusion	CD8_C06_IKZF2	5	0.0007947862025115244
+P53	NR	non_responder	T	before_doublet_exclusion	CD8_C07_KIR2DL4	169	0.026863773644889524
+P53	NR	non_responder	T	before_doublet_exclusion	CD8_C08_GZMK	3222	0.5121602288984263
+P53	NR	non_responder	T	before_doublet_exclusion	CD8_C09_LAYN	269	0.04275949769512001
+P53	NR	non_responder	T	before_doublet_exclusion	CD8_C10_SLC4A10	2119	0.336830392624384
+P53	NR	non_responder	T	before_doublet_exclusion	CD8_C11_MKI67	220	0.034970592910507074
+P57	R	responder	P	after_excluding_predicted_doublets	CD8_C01_LEF1	529	0.10927494319355505
+P57	R	responder	P	after_excluding_predicted_doublets	CD8_C02_GPR183	139	0.028713075810782897
+P57	R	responder	P	after_excluding_predicted_doublets	CD8_C03_CX3CR1	2896	0.5982235075397645
+P57	R	responder	P	after_excluding_predicted_doublets	CD8_C04_GIMAP4	253	0.052261929353439374
+P57	R	responder	P	after_excluding_predicted_doublets	CD8_C05_CCR7	99	0.020450320181780623
+P57	R	responder	P	after_excluding_predicted_doublets	CD8_C06_IKZF2	215	0.04441231150588721
+P57	R	responder	P	after_excluding_predicted_doublets	CD8_C07_KIR2DL4	3	0.0006197066721751704
+P57	R	responder	P	after_excluding_predicted_doublets	CD8_C08_GZMK	61	0.012600702334228464
+P57	R	responder	P	after_excluding_predicted_doublets	CD8_C10_SLC4A10	645	0.13323693451766164
+P57	R	responder	P	after_excluding_predicted_doublets	CD8_C11_MKI67	1	0.0002065688907250568
+P57	R	responder	P	before_doublet_exclusion	CD8_C01_LEF1	529	0.10710670176149018
+P57	R	responder	P	before_doublet_exclusion	CD8_C02_GPR183	139	0.028143348856043734
+P57	R	responder	P	before_doublet_exclusion	CD8_C03_CX3CR1	2959	0.5991091314031181
+P57	R	responder	P	before_doublet_exclusion	CD8_C04_GIMAP4	258	0.052237294998987646
+P57	R	responder	P	before_doublet_exclusion	CD8_C05_CCR7	104	0.02105689410811905
+P57	R	responder	P	before_doublet_exclusion	CD8_C06_IKZF2	221	0.044745899979752986
+P57	R	responder	P	before_doublet_exclusion	CD8_C07_KIR2DL4	3	0.0006074104069649726
+P57	R	responder	P	before_doublet_exclusion	CD8_C08_GZMK	63	0.012755618546264426
+P57	R	responder	P	before_doublet_exclusion	CD8_C10_SLC4A10	662	0.13403522980360397
+P57	R	responder	P	before_doublet_exclusion	CD8_C11_MKI67	1	0.00020247013565499088
+P57	R	responder	T	after_excluding_predicted_doublets	CD8_C01_LEF1	1	0.00018615040953090097
+P57	R	responder	T	after_excluding_predicted_doublets	CD8_C02_GPR183	1	0.00018615040953090097
+P57	R	responder	T	after_excluding_predicted_doublets	CD8_C03_CX3CR1	83	0.01545048399106478
+P57	R	responder	T	after_excluding_predicted_doublets	CD8_C04_GIMAP4	45	0.008376768428890544
+P57	R	responder	T	after_excluding_predicted_doublets	CD8_C05_CCR7	18	0.0033507073715562173
+P57	R	responder	T	after_excluding_predicted_doublets	CD8_C06_IKZF2	2	0.00037230081906180194
+P57	R	responder	T	after_excluding_predicted_doublets	CD8_C07_KIR2DL4	285	0.053052866716306775
+P57	R	responder	T	after_excluding_predicted_doublets	CD8_C08_GZMK	3077	0.5727848101265823
+P57	R	responder	T	after_excluding_predicted_doublets	CD8_C09_LAYN	1519	0.2827624720774386
+P57	R	responder	T	after_excluding_predicted_doublets	CD8_C10_SLC4A10	107	0.019918093819806405
+P57	R	responder	T	after_excluding_predicted_doublets	CD8_C11_MKI67	234	0.043559195830230824
+P57	R	responder	T	before_doublet_exclusion	CD8_C01_LEF1	1	0.00018608113137327876
+P57	R	responder	T	before_doublet_exclusion	CD8_C02_GPR183	1	0.00018608113137327876
+P57	R	responder	T	before_doublet_exclusion	CD8_C03_CX3CR1	83	0.015444733903982136
+P57	R	responder	T	before_doublet_exclusion	CD8_C04_GIMAP4	45	0.008373650911797544
+P57	R	responder	T	before_doublet_exclusion	CD8_C05_CCR7	18	0.0033494603647190174
+P57	R	responder	T	before_doublet_exclusion	CD8_C06_IKZF2	2	0.0003721622627465575
+P57	R	responder	T	before_doublet_exclusion	CD8_C07_KIR2DL4	285	0.053033122441384445
+P57	R	responder	T	before_doublet_exclusion	CD8_C08_GZMK	3077	0.5725716412355787
+P57	R	responder	T	before_doublet_exclusion	CD8_C09_LAYN	1521	0.283029400818757
+P57	R	responder	T	before_doublet_exclusion	CD8_C10_SLC4A10	107	0.019910681056940827
+P57	R	responder	T	before_doublet_exclusion	CD8_C11_MKI67	234	0.043542984741347227
+P58	R	responder	P	after_excluding_predicted_doublets	CD8_C01_LEF1	2847	0.7608230892570818
+P58	R	responder	P	after_excluding_predicted_doublets	CD8_C02_GPR183	73	0.019508284339925172
+P58	R	responder	P	after_excluding_predicted_doublets	CD8_C03_CX3CR1	468	0.12506680919294494
+P58	R	responder	P	after_excluding_predicted_doublets	CD8_C04_GIMAP4	101	0.026990913949759488
+P58	R	responder	P	after_excluding_predicted_doublets	CD8_C05_CCR7	38	0.010154997327632281
+P58	R	responder	P	after_excluding_predicted_doublets	CD8_C06_IKZF2	77	0.02057723142704436
+P58	R	responder	P	after_excluding_predicted_doublets	CD8_C07_KIR2DL4	5	0.0013361838588989846
+P58	R	responder	P	after_excluding_predicted_doublets	CD8_C08_GZMK	34	0.009086050240513094
+P58	R	responder	P	after_excluding_predicted_doublets	CD8_C09_LAYN	5	0.0013361838588989846
+P58	R	responder	P	after_excluding_predicted_doublets	CD8_C10_SLC4A10	90	0.024051309460181722
+P58	R	responder	P	after_excluding_predicted_doublets	CD8_C11_MKI67	4	0.0010689470871191875
+P58	R	responder	P	before_doublet_exclusion	CD8_C01_LEF1	2868	0.7605409705648369
+P58	R	responder	P	before_doublet_exclusion	CD8_C02_GPR183	74	0.0196234420578096
+P58	R	responder	P	before_doublet_exclusion	CD8_C03_CX3CR1	469	0.12437019358260408
+P58	R	responder	P	before_doublet_exclusion	CD8_C04_GIMAP4	103	0.027313709891275524
+P58	R	responder	P	before_doublet_exclusion	CD8_C05_CCR7	41	0.010872447626624237
+P58	R	responder	P	before_doublet_exclusion	CD8_C06_IKZF2	77	0.020418987006099176
+P58	R	responder	P	before_doublet_exclusion	CD8_C07_KIR2DL4	6	0.0015910898965791568
+P58	R	responder	P	before_doublet_exclusion	CD8_C08_GZMK	34	0.009016176080615222
+P58	R	responder	P	before_doublet_exclusion	CD8_C09_LAYN	5	0.0013259082471492973
+P58	R	responder	P	before_doublet_exclusion	CD8_C10_SLC4A10	90	0.02386634844868735
+P58	R	responder	P	before_doublet_exclusion	CD8_C11_MKI67	4	0.0010607265977194379
+P58	R	responder	T	after_excluding_predicted_doublets	CD8_C01_LEF1	79	0.011337543053960964
+P58	R	responder	T	after_excluding_predicted_doublets	CD8_C02_GPR183	10	0.0014351320321469576
+P58	R	responder	T	after_excluding_predicted_doublets	CD8_C03_CX3CR1	17	0.0024397244546498277
+P58	R	responder	T	after_excluding_predicted_doublets	CD8_C04_GIMAP4	31	0.004448909299655569
+P58	R	responder	T	after_excluding_predicted_doublets	CD8_C05_CCR7	93	0.013346727898966704
+P58	R	responder	T	after_excluding_predicted_doublets	CD8_C07_KIR2DL4	401	0.057548794489092996
+P58	R	responder	T	after_excluding_predicted_doublets	CD8_C08_GZMK	5644	0.8099885189437428
+P58	R	responder	T	after_excluding_predicted_doublets	CD8_C09_LAYN	481	0.06902985074626866
+P58	R	responder	T	after_excluding_predicted_doublets	CD8_C10_SLC4A10	196	0.02812858783008037
+P58	R	responder	T	after_excluding_predicted_doublets	CD8_C11_MKI67	16	0.002296211251435132
+P58	R	responder	T	before_doublet_exclusion	CD8_C01_LEF1	79	0.01132454128440367
+P58	R	responder	T	before_doublet_exclusion	CD8_C02_GPR183	10	0.0014334862385321102
+P58	R	responder	T	before_doublet_exclusion	CD8_C03_CX3CR1	17	0.0024369266055045873
+P58	R	responder	T	before_doublet_exclusion	CD8_C04_GIMAP4	31	0.0044438073394495415
+P58	R	responder	T	before_doublet_exclusion	CD8_C05_CCR7	93	0.013331422018348624
+P58	R	responder	T	before_doublet_exclusion	CD8_C07_KIR2DL4	401	0.057482798165137614
+P58	R	responder	T	before_doublet_exclusion	CD8_C08_GZMK	5652	0.8102064220183486
+P58	R	responder	T	before_doublet_exclusion	CD8_C09_LAYN	481	0.0689506880733945
+P58	R	responder	T	before_doublet_exclusion	CD8_C10_SLC4A10	196	0.02809633027522936
+P58	R	responder	T	before_doublet_exclusion	CD8_C11_MKI67	16	0.0022935779816513763

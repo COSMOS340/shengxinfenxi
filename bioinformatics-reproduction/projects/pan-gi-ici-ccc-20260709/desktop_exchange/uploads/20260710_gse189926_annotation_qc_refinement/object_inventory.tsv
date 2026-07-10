@@ -1,0 +1,2 @@
+dataset_id	object_name	pc_local_path	object_format	file_size_bytes	sha256	upload_status	notes
+GSE189926	gse189926_annotation_qc_refined_qc_pass.h5ad	I:\shengxinfenxi\bioinformatics-reproduction\projects\pan-gi-ici-ccc-20260709\04_objects\20260710_gse189926_annotation_qc_refinement\gse189926_annotation_qc_refined_qc_pass.h5ad	h5ad	793879057	0c3a2187892ba0486fe0891a378b834c649cc92675e193edb7d05e02a76a2c55	pc_local_only_large_file	QC-pass subset with conservative refined labels, QC flags, uncorrected UMAP, and Harmony/sample-aware UMAP.

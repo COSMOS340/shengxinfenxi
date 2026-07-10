@@ -1,0 +1,4 @@
+strategy_name	k_neighbors	mean_same_sample_neighbor_fraction	mean_same_patient_neighbor_fraction	median_same_sample_neighbor_fraction	median_same_patient_neighbor_fraction	cells_used	interpretation
+raw_unfiltered_existing_umap	15	0.4020189045878207	0.45240259526397264	0.26666666666666666	0.3333333333333333	121452	moderate same-sample neighbor fraction
+qc_pass_uncorrected_umap	15	0.24240556305560515	0.30058924917428703	0.13333333333333333	0.2	78518	lower same-sample neighbor fraction
+qc_pass_sample_accession_harmony_umap	15	0.13755996501863693	0.19749951178922878	0.06666666666666667	0.13333333333333333	78518	lower same-sample neighbor fraction
