@@ -47,10 +47,14 @@ General files:
 - `gse189926_cluster_marker_top50_no_technical.tsv`
 - `gse189926_qc_flag_summary.tsv`
 - `gse189926_qc_flag_by_sample.tsv`
+- `gse189926_umap_repair_strategy_audit.tsv`
+- `gse189926_umap_neighbor_mixing_metrics.tsv`
 - `gse189926_sample_patient_mixing_audit.tsv`
 - `gse189926_refined_celltype_counts_by_response_timepoint.tsv`
 - `gse189926_refined_label_by_cluster_sample.tsv`
-- `gse189926_refined_umap_qc.png`
+- `gse189926_umap_raw_qc.png`
+- `gse189926_umap_qc_pass.png`
+- `gse189926_umap_sample_aware_corrected.png`
 - `gse189926_refined_marker_dotplot.png`
 
 `GSE235863` required files:
@@ -97,6 +101,20 @@ General files:
 
 ## GSE189926 Requirements
 
+### 0. Current UMAP Is Failed QC
+
+Treat `uploads/20260709_response_object_construction/gse189926_umap_overview.png` as a failed QC UMAP, not as an analysis-ready embedding.
+
+Observed issues to address:
+
+- strong sample and patient structure in the embedding
+- broad labels only: `Monocytes`, `Plasma_cells`, `T_cells`, `B_cells`, and `Mast_cells`
+- no QC-pass view
+- no quantitative sample/patient mixing score
+- marker dotplot too wide and too compressed for review
+
+The next output must explicitly show whether the repair improved sample/patient mixing while preserving biologically meaningful immune separation.
+
 ### 1. Preserve Raw Fields
 
 Preserve all existing raw fields:
@@ -134,6 +152,71 @@ Also upload:
 - cell counts by QC flag and sample
 - cell counts by QC flag and raw outcome
 - cell counts by QC flag and broad cell label
+
+Create a QC-pass view for visualization and marker/label review. Do not delete the unfiltered object.
+
+Write exact QC-pass thresholds in `gse189926_qc_flag_summary.tsv`. If the thresholds are data-driven, record the data-derived values and how they were calculated.
+
+At minimum, evaluate whether the following issues are driving the current UMAP:
+
+- cells with very low detected genes
+- cells with very high total counts
+- cells with very high detected genes
+- cells with high mitochondrial percentage
+- cells with high ribosomal percentage
+- cells with high hemoglobin percentage
+
+### 2b. UMAP Repair Strategies
+
+Generate and upload three UMAP figure files:
+
+1. `gse189926_umap_raw_qc.png`: current-style embedding from the unfiltered object, redrawn compactly for comparison.
+2. `gse189926_umap_qc_pass.png`: embedding using the QC-pass view, without sample-aware correction.
+3. `gse189926_umap_sample_aware_corrected.png`: embedding using the QC-pass view plus sample-aware correction.
+
+The sample-aware correction must use `sample_accession` as the main batch field. If a method also needs a coarser field, include `patient_id` only as a diagnostic variable, not as the primary biological grouping to remove.
+
+Acceptable correction routes:
+
+- Harmony, if available in the PC environment.
+- BBKNN or Scanorama, if Harmony is unavailable.
+- If none of these are available, report this in `warning_log.tsv` and still upload raw and QC-pass UMAPs.
+
+Record the exact route in `gse189926_umap_repair_strategy_audit.tsv` with these columns:
+
+- strategy_name
+- input_cells
+- input_genes
+- qc_view
+- hvg_rule
+- technical_gene_exclusion_rule
+- batch_field
+- correction_method
+- package_versions
+- pca_components
+- neighbor_parameters
+- umap_parameters
+- clustering_field
+- notes
+
+For PCA/HVG:
+
+- exclude mitochondrial, ribosomal, hemoglobin, MALAT1-like, and immunoglobulin constant-region genes from the HVG set used for PCA if they dominate the embedding
+- keep those genes in the object and marker tables; only exclude them from the PCA-driving feature set when needed
+- record the exact exclusion pattern
+
+Upload `gse189926_umap_neighbor_mixing_metrics.tsv` with one row per UMAP strategy and these columns:
+
+- strategy_name
+- k_neighbors
+- mean_same_sample_neighbor_fraction
+- mean_same_patient_neighbor_fraction
+- median_same_sample_neighbor_fraction
+- median_same_patient_neighbor_fraction
+- cells_used
+- interpretation
+
+The goal is not to erase all patient biology. The goal is to identify whether the current embedding is dominated by technical or sample-level structure.
 
 ### 3. Marker Export
 
@@ -207,7 +290,9 @@ Flag clusters with high single-patient or single-sample dominance.
 
 Regenerate compact QC figures:
 
-- `gse189926_refined_umap_qc.png`
+- `gse189926_umap_raw_qc.png`
+- `gse189926_umap_qc_pass.png`
+- `gse189926_umap_sample_aware_corrected.png`
 - `gse189926_refined_marker_dotplot.png`
 
 Figure requirements:
@@ -217,6 +302,9 @@ Figure requirements:
 - marker dotplot split into readable marker groups if needed
 - show broad and refined labels separately
 - include raw outcome and timepoint panels
+- include sample and patient panels for all three UMAP strategies
+- put legends outside plotting regions without overlapping points
+- use consistent colors for the same labels across the three UMAP strategies
 
 These are still QC figures, not manuscript figures.
 
