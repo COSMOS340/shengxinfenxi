@@ -6,30 +6,24 @@ This folder contains the PC-side requests and lightweight upload outputs for the
 
 ## Current Request
 
-Run the sample-timepoint rebuild for `GSE235863` and the raw-read feasibility/processing task for `PRJNA932556`.
+No open PC-side request is pending in this exchange directory.
 
-Current request files:
-
-- `20260711_gse235863_timepoint_prjna932556_request.md`
-- `20260711_gse235863_timepoint_prjna932556_manifest.tsv`
-
-Required lightweight upload directory:
-
-- `uploads/20260711_gse235863_timepoint_prjna932556`
-
-The two stages are independent. Complete the `GSE235863` rebuild even if `PRJNA932556` stops at the mandatory read-structure pilot.
+The most recent request, `20260711_gse235863_timepoint_prjna932556_request.md`, is complete. `GSE235863` was rebuilt without collapsing tissue or treatment timepoint. `PRJNA932556` stopped after the mandatory pilot with `blocked_read_structure_not_validated`, so no full count matrices or Seurat QC object were fabricated.
 
 ## Previous Status
 
-PC-side requests were complete through the R-only `GSE189926` rerun and the manual-source refresh before the current request was added.
+PC-side requests are complete through the `GSE235863` sample-timepoint rebuild and `PRJNA932556` pilot audit.
 
 Most recent completion commits:
 
+- `c31eff2be250591944f4a8c6079d2b897ec1171c`: added the `GSE235863` sample-timepoint rebuild and `PRJNA932556` pilot audit outputs.
 - `b89f9b811ac17ec1877c94f4db370cfe4cf00336`: refreshed manual-source audit statuses for metadata and small-file downloads.
 - `2327677ec877f904c6aea0938a10936f621ff007`: added the R-only `GSE189926` rerun outputs.
 
 ## Completed Request Files
 
+- `20260711_gse235863_timepoint_prjna932556_manifest.tsv`
+- `20260711_gse235863_timepoint_prjna932556_request.md`
 - `20260710_gse189926_r_only_rerun_manifest.tsv`
 - `20260710_gse189926_r_only_rerun_request.md`
 - `20260710_gse189926_annotation_qc_refinement_manifest.tsv`
@@ -38,6 +32,7 @@ Most recent completion commits:
 
 ## Completed Upload Directories
 
+- `uploads/20260711_gse235863_timepoint_prjna932556`
 - `uploads/20260710_gse189926_r_only_rerun`
 - `uploads/20260710_gse189926_annotation_qc_refinement`
 - `uploads/20260709_metadata_download`
