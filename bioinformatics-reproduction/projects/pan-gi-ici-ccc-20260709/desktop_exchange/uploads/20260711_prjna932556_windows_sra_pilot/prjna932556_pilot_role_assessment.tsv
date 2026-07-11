@@ -1,0 +1,2 @@
+run	sample	requested_spots	observed_fastq_file_count	observed_read_lengths	barcode_role	umi_role	cdna_role	chemistry	role_assessment_status	decision
+SRR23490337	R3	100000	0	not_observed	not_validated	not_validated	not_validated	not_validated	not_validated_no_fastq_generated	remote_partial_extraction_failed_no_reads_observed

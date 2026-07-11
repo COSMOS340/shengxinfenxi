@@ -1,0 +1,2 @@
+file_name	read_number_or_role	number_of_records	min_read_length	median_read_length	max_read_length	all_files_same_number_of_spots	common_spot_identifier_preserved_across_files	metric_status
+NO_FASTQ_GENERATED	not_validated	0				not_evaluable	not_evaluable	not_computed_no_fastq_generated
