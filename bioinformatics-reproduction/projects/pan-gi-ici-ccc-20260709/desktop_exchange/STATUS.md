@@ -6,9 +6,20 @@ This folder contains the PC-side requests and lightweight upload outputs for the
 
 ## Current Request
 
-No open PC-side request is pending in this exchange directory.
+Acquire and verify the exact ENA-submitted BAM for `SRR23490337` from `PRJNA932556`.
 
-The most recent request, `20260711_prjna932556_windows_sra_pilot_request.md`, is complete as a failed bounded pilot audit. SRA Toolkit 3.4.1 was installed and checked. The exact requested `fastq-dump` command failed because `--include-technical` is not supported by this version. A documented compatibility command was attempted and then stopped after prolonged remote partial extraction with no FASTQ output. No complete run, quantification, or count matrix was generated.
+Current request files:
+
+- `20260711_prjna932556_ena_bam_acquisition_request.md`
+- `20260711_prjna932556_ena_bam_acquisition_manifest.tsv`
+
+Required lightweight upload directory:
+
+- `uploads/20260711_prjna932556_ena_bam_acquisition`
+
+Download only the single ENA-submitted BAM linked to `SRR23490337`. The BAM remains PC-local. Do not run `bamtofastq`, Cell Ranger, Seurat, or quantification in this task.
+
+The preceding Windows SRA Toolkit pilot completed without producing FASTQ files. Its result is an archive-access failure, not a read-structure determination.
 
 ## Completed Request Files
 
