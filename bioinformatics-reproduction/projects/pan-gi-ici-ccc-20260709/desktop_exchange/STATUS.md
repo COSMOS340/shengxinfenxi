@@ -1,19 +1,41 @@
 # Pan-GI ICI CCC Desktop Exchange
 
-Updated: 2026-07-10
+Updated: 2026-07-11
 
 This folder contains the PC-side requests and lightweight upload outputs for the pan-GI immune checkpoint therapy cell communication project.
 
-## Current Request
+## Current Status
 
-Run the `GSE189926` task again using R only.
+PC-side requests in this exchange are complete through the R-only `GSE189926` rerun and the manual-source refresh.
 
-Do not continue the Scanpy-based repair as the current task. Use R/Seurat to rebuild `GSE189926` from the raw 22 matrices, rerun QC, UMAP, sample-aware correction, clustering, marker export, and immune label audit. Do not run CellChat, LIANA, NicheNet, differential communication, manuscript figures, or final statistical testing in this task.
+Most recent completion commits:
 
-## Current Request Files
+- `b89f9b811ac17ec1877c94f4db370cfe4cf00336`: refreshed manual-source audit statuses for metadata and small-file downloads.
+- `2327677ec877f904c6aea0938a10936f621ff007`: added the R-only `GSE189926` rerun outputs.
+
+## Completed Request Files
 
 - `20260710_gse189926_r_only_rerun_manifest.tsv`
 - `20260710_gse189926_r_only_rerun_request.md`
+- `20260710_gse189926_annotation_qc_refinement_manifest.tsv`
+- `20260710_gse189926_annotation_qc_refinement_request.md`
+- `20260710_gse189926_umap_repair_policy.md`
+
+## Completed Upload Directories
+
+- `uploads/20260710_gse189926_r_only_rerun`
+- `uploads/20260710_gse189926_annotation_qc_refinement`
+- `uploads/20260709_metadata_download`
+- `uploads/20260709_small_file_download`
+- `uploads/20260709_matrix_download`
+- `uploads/20260709_preprocess_priority_response`
+- `uploads/20260709_response_object_construction`
+
+The `GSE189926` R-only rerun used R/Seurat from the raw 22 matrices, reran QC, UMAP, sample-aware correction, clustering, marker export, and immune label audit. CellChat, LIANA, NicheNet, differential communication, manuscript figures, and final statistical testing were not run.
+
+Manual metadata rows that could not be resolved from public reproducible sources are marked as `verified_unavailable_public_sources` with evidence tables; unknown response labels were not inferred.
+
+Large RDS/h5ad objects remain PC-local and are recorded in the relevant `object_inventory.tsv` files.
 
 ## Input Audits From Previous PC Steps
 
@@ -29,15 +51,7 @@ The response object construction output is uploaded at:
 
 `uploads/20260709_response_object_construction`
 
-Use `matrix_file_inventory.tsv` in the matrix download output to locate the PC-local raw `GSE189926` matrices. The previous h5ad object may be used only for comparison notes, not as the analysis source for the R-only rerun.
-
-## Required Upload Directory For This Step
-
-After the R-only rerun, upload lightweight outputs to:
-
-`uploads/20260710_gse189926_r_only_rerun`
-
-Large Seurat RDS objects should remain PC-local and be listed in `object_inventory.tsv`.
+Use `matrix_file_inventory.tsv` in the matrix download output to locate the PC-local raw `GSE189926` matrices. Use the relevant `object_inventory.tsv` files to locate PC-local large processed objects. Large objects were intentionally not uploaded to GitHub.
 
 ## Earlier Request Files
 
@@ -51,6 +65,3 @@ Large Seurat RDS objects should remain PC-local and be listed in `object_invento
 - `20260709_preprocess_priority_response_request.md`
 - `20260709_response_object_construction_manifest.tsv`
 - `20260709_response_object_construction_request.md`
-- `20260710_gse189926_annotation_qc_refinement_manifest.tsv`
-- `20260710_gse189926_annotation_qc_refinement_request.md`
-- `20260710_gse189926_umap_repair_policy.md`
