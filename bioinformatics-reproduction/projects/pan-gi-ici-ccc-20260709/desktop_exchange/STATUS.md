@@ -4,9 +4,24 @@ Updated: 2026-07-11
 
 This folder contains the PC-side requests and lightweight upload outputs for the pan-GI immune checkpoint therapy cell communication project.
 
-## Current Status
+## Current Request
 
-PC-side requests in this exchange are complete through the R-only `GSE189926` rerun and the manual-source refresh.
+Run the sample-timepoint rebuild for `GSE235863` and the raw-read feasibility/processing task for `PRJNA932556`.
+
+Current request files:
+
+- `20260711_gse235863_timepoint_prjna932556_request.md`
+- `20260711_gse235863_timepoint_prjna932556_manifest.tsv`
+
+Required lightweight upload directory:
+
+- `uploads/20260711_gse235863_timepoint_prjna932556`
+
+The two stages are independent. Complete the `GSE235863` rebuild even if `PRJNA932556` stops at the mandatory read-structure pilot.
+
+## Previous Status
+
+PC-side requests were complete through the R-only `GSE189926` rerun and the manual-source refresh before the current request was added.
 
 Most recent completion commits:
 
