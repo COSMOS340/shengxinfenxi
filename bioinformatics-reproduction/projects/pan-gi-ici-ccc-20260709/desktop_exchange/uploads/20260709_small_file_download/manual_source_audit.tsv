@@ -1,0 +1,6 @@
+resource_id	prior_status	resolved_status	checked_on	evidence
+STAD_PRJEB25780_CIDE_metadata	previous_unresolved	verified_unavailable_public_sources	2026-07-11	CIDE pages reachable but no dataset-level STAD-PRJEB25780 export/static response table found; no labels inferred
+GSE205506_response_mapping	previous_unresolved	verified_unavailable_public_sources	2026-07-11	GEO SOFT has sample metadata but no response; Cell/ScienceDirect supplement candidate URLs returned 403; web/PubMed search did not expose exact pCR/non-pCR mapping; no labels inferred
+GSE236581_response_mapping	previous_unresolved	verified_unavailable_public_sources	2026-07-11	GEO SOFT has sample metadata but no response; Frontiers page has patient clinical table but not extractable exact response mapping; Cell supplement candidate URLs returned 403; no labels inferred
+PRJNA932556_sample_response_mapping	manual_done	manual_done	2026-07-11	SRA runinfo plus article-derived sample group mapping already recorded
+PRJNA932556_processed_matrix_links	previous_unresolved	verified_unavailable_public_sources	2026-07-11	SRA/ENA/web search found sequencing runs but no public processed matrix endpoint

@@ -1,0 +1,2 @@
+resource_id	status	source_checked	sample_level_metadata_url	response_label_status	note
+STAD-PRJEB25780	verified_unavailable_public_sources	CIDE https://cide.ccr.cancer.gov/; CIDE association search; web search STAD PRJEB25780 CIDE metadata		not_inferred	No reproducible CIDE sample-level metadata export endpoint or static STAD-PRJEB25780 response table was publicly available from checked sources on 2026-07-11.
