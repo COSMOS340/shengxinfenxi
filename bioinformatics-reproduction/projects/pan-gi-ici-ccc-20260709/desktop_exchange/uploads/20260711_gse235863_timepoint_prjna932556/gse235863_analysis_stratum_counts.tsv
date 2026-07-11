@@ -1,0 +1,7 @@
+stratum	derived_tissue	derived_timepoint	n_patients_total	n_responder	n_non_responder	n_samples
+post-treatment blood	blood	post-treatment	9	4	5	9
+pre-treatment blood	blood	pre-treatment	6	3	3	6
+post-treatment liver tumor	liver tumor	post-treatment	8	4	4	8
+pre-treatment liver tumor	liver tumor	pre-treatment	6	4	2	6
+paired pre/post within blood	blood	paired pre/post	6	3	3	
+paired pre/post within liver tumor	liver tumor	paired pre/post	5	4	1	

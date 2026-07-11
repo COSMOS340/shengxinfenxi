@@ -1,0 +1,7 @@
+Run	SampleName	fastq_file	read_role	n_reads_checked	read_length_min	read_length_median	read_length_max	barcode_umi_pattern	metric_status
+SRR23490339	R1							not_available_no_fastq_generated	not_computed_read_structure_not_validated
+SRR23490338	R2							not_available_no_fastq_generated	not_computed_read_structure_not_validated
+SRR23490337	R3							not_available_no_fastq_generated	not_computed_read_structure_not_validated
+SRR23490342	S1							not_available_no_fastq_generated	not_computed_read_structure_not_validated
+SRR23490341	S2							not_available_no_fastq_generated	not_computed_read_structure_not_validated
+SRR23490340	S3							not_available_no_fastq_generated	not_computed_read_structure_not_validated

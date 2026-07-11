@@ -1,0 +1,4 @@
+item	severity	message
+GSM7510911	high	GEO sample title is Pre-treatment blood of patient P27 (R/PR) but characteristics_ch1 patient is P18; affected P27-pre-P sample excluded from analytical mapping
+CD8 unresolved tissue/timepoint samples	medium	P16-N-CD45p;P16-P-CD8p;P16-T-CD3p;P16-T-CD8n;P16-T-CD8p;P3-N-CD8n;P3-N-CD8p;P3-P-CD8p;P3-T-CD45;P3-T-CD8n;P3-T-CD8p
+PRJNA932556 full processing outputs	high	Not generated because read structure/chemistry was not validated in pilot

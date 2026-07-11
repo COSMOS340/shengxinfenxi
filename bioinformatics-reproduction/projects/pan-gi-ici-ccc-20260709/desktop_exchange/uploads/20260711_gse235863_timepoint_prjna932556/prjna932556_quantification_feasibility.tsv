@@ -1,0 +1,2 @@
+resource_id	samples_requested	total_size_MB	sra_tools_available	quantification_tools_available	read_structure_validated	decision	full_processing_status	reason
+PRJNA932556	6	52709	FALSE	FALSE	FALSE	blocked_read_structure_not_validated	not_started_stop_condition_met	pilot could not observe FASTQ read files, headers, barcode/UMI evidence, cDNA read evidence, or chemistry

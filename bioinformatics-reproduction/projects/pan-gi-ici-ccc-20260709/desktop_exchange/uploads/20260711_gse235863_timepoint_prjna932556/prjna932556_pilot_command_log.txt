@@ -1,0 +1,17 @@
+PRJNA932556 pilot command log
+Created: 2026-07-11 16:15:22 CST
+
+Tool availability checked with Sys.which in R:
+prefetch	NOT_FOUND_ON_PATH
+fasterq-dump	NOT_FOUND_ON_PATH
+fastq-dump	NOT_FOUND_ON_PATH
+cellranger	NOT_FOUND_ON_PATH
+kallisto	NOT_FOUND_ON_PATH
+bustools	NOT_FOUND_ON_PATH
+salmon	NOT_FOUND_ON_PATH
+STARsolo	NOT_FOUND_ON_PATH
+
+No SRA prefetch/fasterq-dump/fastq-dump executable was available on PATH.
+No Cell Ranger, kallisto/bustools, salmon, or STARsolo executable was available on PATH.
+No FASTQ headers or read sequences were observed.
+Stopped per request because barcode/UMI structure and chemistry were not validated.

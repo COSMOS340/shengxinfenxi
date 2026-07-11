@@ -1,0 +1,1180 @@
+dataset_id	patient	raw_response	derived_response_group	derived_tissue	derived_timepoint	major_cluster	sub_cluster	label_type	cell_label	cell_count	total_cells	proportion	contributing_samples
+GSE235863_CD45	P1	SD, non-responder	non_responder	blood	post-treatment	B	B_C01_IGHD	sub_cluster	B_C01_IGHD	570	6557	0.0869299984749123	P1-post-P
+GSE235863_CD45	P1	SD, non-responder	non_responder	blood	post-treatment	B	B_C02_CD27	sub_cluster	B_C02_CD27	160	6557	0.0244014030806771	P1-post-P
+GSE235863_CD45	P1	SD, non-responder	non_responder	blood	post-treatment	CD4T	CD4_C01_CCR7	sub_cluster	CD4_C01_CCR7	1231	6557	0.18773829495196	P1-post-P
+GSE235863_CD45	P1	SD, non-responder	non_responder	blood	post-treatment	CD4T	CD4_C02_IL7R	sub_cluster	CD4_C02_IL7R	94	6557	0.0143358243098978	P1-post-P
+GSE235863_CD45	P1	SD, non-responder	non_responder	blood	post-treatment	CD4T	CD4_C03_CD44	sub_cluster	CD4_C03_CD44	375	6557	0.0571907884703371	P1-post-P
+GSE235863_CD45	P1	SD, non-responder	non_responder	blood	post-treatment	CD4T	CD4_C04_GZMK	sub_cluster	CD4_C04_GZMK	133	6557	0.0202836663108129	P1-post-P
+GSE235863_CD45	P1	SD, non-responder	non_responder	blood	post-treatment	CD4T	CD4_C05_GNLY	sub_cluster	CD4_C05_GNLY	444	6557	0.0677138935488791	P1-post-P
+GSE235863_CD45	P1	SD, non-responder	non_responder	blood	post-treatment	CD4T	CD4_C06_CXCL13	sub_cluster	CD4_C06_CXCL13	10	6557	0.00152508769254232	P1-post-P
+GSE235863_CD45	P1	SD, non-responder	non_responder	blood	post-treatment	CD4T	CD4_C07_CTLA4	sub_cluster	CD4_C07_CTLA4	8	6557	0.00122007015403386	P1-post-P
+GSE235863_CD45	P1	SD, non-responder	non_responder	blood	post-treatment	CD4T	CD4_C08_FOXP3	sub_cluster	CD4_C08_FOXP3	155	6557	0.023638859234406	P1-post-P
+GSE235863_CD45	P1	SD, non-responder	non_responder	blood	post-treatment	CD8T	CD8_C01_LEF1	sub_cluster	CD8_C01_LEF1	228	6557	0.0347719993899649	P1-post-P
+GSE235863_CD45	P1	SD, non-responder	non_responder	blood	post-treatment	CD8T	CD8_C02_GPR183	sub_cluster	CD8_C02_GPR183	44	6557	0.00671038584718621	P1-post-P
+GSE235863_CD45	P1	SD, non-responder	non_responder	blood	post-treatment	CD8T	CD8_C03_CX3CR1	sub_cluster	CD8_C03_CX3CR1	744	6557	0.113466524325149	P1-post-P
+GSE235863_CD45	P1	SD, non-responder	non_responder	blood	post-treatment	CD8T	CD8_C04_GIMAP4	sub_cluster	CD8_C04_GIMAP4	18	6557	0.00274515784657618	P1-post-P
+GSE235863_CD45	P1	SD, non-responder	non_responder	blood	post-treatment	CD8T	CD8_C05_TCF7	sub_cluster	CD8_C05_TCF7	52	6557	0.00793045600122007	P1-post-P
+GSE235863_CD45	P1	SD, non-responder	non_responder	blood	post-treatment	CD8T	CD8_C06_KIR2DL3	sub_cluster	CD8_C06_KIR2DL3	36	6557	0.00549031569315236	P1-post-P
+GSE235863_CD45	P1	SD, non-responder	non_responder	blood	post-treatment	CD8T	CD8_C07_KLRC2	sub_cluster	CD8_C07_KLRC2	4	6557	0.000610035077016929	P1-post-P
+GSE235863_CD45	P1	SD, non-responder	non_responder	blood	post-treatment	CD8T	CD8_C08_GZMK	sub_cluster	CD8_C08_GZMK	241	6557	0.0367546133902699	P1-post-P
+GSE235863_CD45	P1	SD, non-responder	non_responder	blood	post-treatment	CD8T	CD8_C09_LAYN	sub_cluster	CD8_C09_LAYN	4	6557	0.000610035077016929	P1-post-P
+GSE235863_CD45	P1	SD, non-responder	non_responder	blood	post-treatment	CD8T	CD8_C10_SLC4A10	sub_cluster	CD8_C10_SLC4A10	102	6557	0.0155558944639317	P1-post-P
+GSE235863_CD45	P1	SD, non-responder	non_responder	blood	post-treatment	Macro	Macro_C01_FCN1	sub_cluster	Macro_C01_FCN1	16	6557	0.00244014030806771	P1-post-P
+GSE235863_CD45	P1	SD, non-responder	non_responder	blood	post-treatment	Macro	Macro_C02_C1QC	sub_cluster	Macro_C02_C1QC	2	6557	0.000305017538508464	P1-post-P
+GSE235863_CD45	P1	SD, non-responder	non_responder	blood	post-treatment	Mast	Mast	sub_cluster	Mast	2	6557	0.000305017538508464	P1-post-P
+GSE235863_CD45	P1	SD, non-responder	non_responder	blood	post-treatment	Mono	Mono_C01_FCGR3A	sub_cluster	Mono_C01_FCGR3A	151	6557	0.0230288241573891	P1-post-P
+GSE235863_CD45	P1	SD, non-responder	non_responder	blood	post-treatment	Mono	Mono_C02_CD14	sub_cluster	Mono_C02_CD14	115	6557	0.0175385084642367	P1-post-P
+GSE235863_CD45	P1	SD, non-responder	non_responder	blood	post-treatment	Mono	Mono_C03_ITGA5	sub_cluster	Mono_C03_ITGA5	228	6557	0.0347719993899649	P1-post-P
+GSE235863_CD45	P1	SD, non-responder	non_responder	blood	post-treatment	NK	NK_C01_FCGR3A	sub_cluster	NK_C01_FCGR3A	1136	6557	0.173249961872808	P1-post-P
+GSE235863_CD45	P1	SD, non-responder	non_responder	blood	post-treatment	NK	NK_C02_SELL	sub_cluster	NK_C02_SELL	24	6557	0.00366021046210157	P1-post-P
+GSE235863_CD45	P1	SD, non-responder	non_responder	blood	post-treatment	NK	NK_C03_GZMK	sub_cluster	NK_C03_GZMK	4	6557	0.000610035077016929	P1-post-P
+GSE235863_CD45	P1	SD, non-responder	non_responder	blood	post-treatment	NK	NK_C04_MKI67	sub_cluster	NK_C04_MKI67	3	6557	0.000457526307762696	P1-post-P
+GSE235863_CD45	P1	SD, non-responder	non_responder	blood	post-treatment	Plasma	Plasma_C01_CD52	sub_cluster	Plasma_C01_CD52	2	6557	0.000305017538508464	P1-post-P
+GSE235863_CD45	P1	SD, non-responder	non_responder	blood	post-treatment	cDC1	cDC1	sub_cluster	cDC1	16	6557	0.00244014030806771	P1-post-P
+GSE235863_CD45	P1	SD, non-responder	non_responder	blood	post-treatment	cDC2	cDC2_C01_CD1C	sub_cluster	cDC2_C01_CD1C	33	6557	0.00503278938538966	P1-post-P
+GSE235863_CD45	P1	SD, non-responder	non_responder	blood	post-treatment	gdT	gdT_C01_GZMB	sub_cluster	gdT_C01_GZMB	16	6557	0.00244014030806771	P1-post-P
+GSE235863_CD45	P1	SD, non-responder	non_responder	blood	post-treatment	gdT	gdT_C02_GZMK	sub_cluster	gdT_C02_GZMK	132	6557	0.0201311575415586	P1-post-P
+GSE235863_CD45	P1	SD, non-responder	non_responder	blood	post-treatment	gdT	gdT_C03_KLRG1	sub_cluster	gdT_C03_KLRG1	11	6557	0.00167759646179655	P1-post-P
+GSE235863_CD45	P1	SD, non-responder	non_responder	blood	post-treatment	pDC	pDC	sub_cluster	pDC	13	6557	0.00198261400030502	P1-post-P
+GSE235863_CD45	P1	SD, non-responder	non_responder	blood	pre-treatment	B	B_C01_IGHD	sub_cluster	B_C01_IGHD	408	8576	0.0475746268656716	P1-pre-P
+GSE235863_CD45	P1	SD, non-responder	non_responder	blood	pre-treatment	B	B_C02_CD27	sub_cluster	B_C02_CD27	307	8576	0.0357975746268657	P1-pre-P
+GSE235863_CD45	P1	SD, non-responder	non_responder	blood	pre-treatment	CD4T	CD4_C01_CCR7	sub_cluster	CD4_C01_CCR7	1192	8576	0.138992537313433	P1-pre-P
+GSE235863_CD45	P1	SD, non-responder	non_responder	blood	pre-treatment	CD4T	CD4_C02_IL7R	sub_cluster	CD4_C02_IL7R	1128	8576	0.131529850746269	P1-pre-P
+GSE235863_CD45	P1	SD, non-responder	non_responder	blood	pre-treatment	CD4T	CD4_C03_CD44	sub_cluster	CD4_C03_CD44	12	8576	0.00139925373134328	P1-pre-P
+GSE235863_CD45	P1	SD, non-responder	non_responder	blood	pre-treatment	CD4T	CD4_C04_GZMK	sub_cluster	CD4_C04_GZMK	1066	8576	0.124300373134328	P1-pre-P
+GSE235863_CD45	P1	SD, non-responder	non_responder	blood	pre-treatment	CD4T	CD4_C05_GNLY	sub_cluster	CD4_C05_GNLY	148	8576	0.0172574626865672	P1-pre-P
+GSE235863_CD45	P1	SD, non-responder	non_responder	blood	pre-treatment	CD4T	CD4_C06_CXCL13	sub_cluster	CD4_C06_CXCL13	3	8576	0.000349813432835821	P1-pre-P
+GSE235863_CD45	P1	SD, non-responder	non_responder	blood	pre-treatment	CD4T	CD4_C07_CTLA4	sub_cluster	CD4_C07_CTLA4	4	8576	0.000466417910447761	P1-pre-P
+GSE235863_CD45	P1	SD, non-responder	non_responder	blood	pre-treatment	CD4T	CD4_C08_FOXP3	sub_cluster	CD4_C08_FOXP3	88	8576	0.0102611940298507	P1-pre-P
+GSE235863_CD45	P1	SD, non-responder	non_responder	blood	pre-treatment	CD4T	CD4_C09_MKI67	sub_cluster	CD4_C09_MKI67	2	8576	0.000233208955223881	P1-pre-P
+GSE235863_CD45	P1	SD, non-responder	non_responder	blood	pre-treatment	CD8T	CD8_C01_LEF1	sub_cluster	CD8_C01_LEF1	445	8576	0.0518889925373134	P1-pre-P
+GSE235863_CD45	P1	SD, non-responder	non_responder	blood	pre-treatment	CD8T	CD8_C02_GPR183	sub_cluster	CD8_C02_GPR183	3	8576	0.000349813432835821	P1-pre-P
+GSE235863_CD45	P1	SD, non-responder	non_responder	blood	pre-treatment	CD8T	CD8_C03_CX3CR1	sub_cluster	CD8_C03_CX3CR1	428	8576	0.0499067164179104	P1-pre-P
+GSE235863_CD45	P1	SD, non-responder	non_responder	blood	pre-treatment	CD8T	CD8_C04_GIMAP4	sub_cluster	CD8_C04_GIMAP4	173	8576	0.0201725746268657	P1-pre-P
+GSE235863_CD45	P1	SD, non-responder	non_responder	blood	pre-treatment	CD8T	CD8_C05_TCF7	sub_cluster	CD8_C05_TCF7	3	8576	0.000349813432835821	P1-pre-P
+GSE235863_CD45	P1	SD, non-responder	non_responder	blood	pre-treatment	CD8T	CD8_C06_KIR2DL3	sub_cluster	CD8_C06_KIR2DL3	181	8576	0.0211054104477612	P1-pre-P
+GSE235863_CD45	P1	SD, non-responder	non_responder	blood	pre-treatment	CD8T	CD8_C07_KLRC2	sub_cluster	CD8_C07_KLRC2	1	8576	0.00011660447761194	P1-pre-P
+GSE235863_CD45	P1	SD, non-responder	non_responder	blood	pre-treatment	CD8T	CD8_C08_GZMK	sub_cluster	CD8_C08_GZMK	340	8576	0.0396455223880597	P1-pre-P
+GSE235863_CD45	P1	SD, non-responder	non_responder	blood	pre-treatment	CD8T	CD8_C09_LAYN	sub_cluster	CD8_C09_LAYN	7	8576	0.000816231343283582	P1-pre-P
+GSE235863_CD45	P1	SD, non-responder	non_responder	blood	pre-treatment	CD8T	CD8_C10_SLC4A10	sub_cluster	CD8_C10_SLC4A10	128	8576	0.0149253731343284	P1-pre-P
+GSE235863_CD45	P1	SD, non-responder	non_responder	blood	pre-treatment	CD8T	CD8_C11_MKI67	sub_cluster	CD8_C11_MKI67	1	8576	0.00011660447761194	P1-pre-P
+GSE235863_CD45	P1	SD, non-responder	non_responder	blood	pre-treatment	ILC2	ILC2	sub_cluster	ILC2	2	8576	0.000233208955223881	P1-pre-P
+GSE235863_CD45	P1	SD, non-responder	non_responder	blood	pre-treatment	Macro	Macro_C01_FCN1	sub_cluster	Macro_C01_FCN1	2	8576	0.000233208955223881	P1-pre-P
+GSE235863_CD45	P1	SD, non-responder	non_responder	blood	pre-treatment	Megakaryocyte	Megakaryocyte	sub_cluster	Megakaryocyte	1	8576	0.00011660447761194	P1-pre-P
+GSE235863_CD45	P1	SD, non-responder	non_responder	blood	pre-treatment	Mono	Mono_C01_FCGR3A	sub_cluster	Mono_C01_FCGR3A	162	8576	0.0188899253731343	P1-pre-P
+GSE235863_CD45	P1	SD, non-responder	non_responder	blood	pre-treatment	Mono	Mono_C02_CD14	sub_cluster	Mono_C02_CD14	1246	8576	0.145289179104478	P1-pre-P
+GSE235863_CD45	P1	SD, non-responder	non_responder	blood	pre-treatment	Mono	Mono_C03_ITGA5	sub_cluster	Mono_C03_ITGA5	2	8576	0.000233208955223881	P1-pre-P
+GSE235863_CD45	P1	SD, non-responder	non_responder	blood	pre-treatment	NKT-like	NKT-like	sub_cluster	NKT-like	17	8576	0.00198227611940299	P1-pre-P
+GSE235863_CD45	P1	SD, non-responder	non_responder	blood	pre-treatment	NK	NK_C01_FCGR3A	sub_cluster	NK_C01_FCGR3A	715	8576	0.0833722014925373	P1-pre-P
+GSE235863_CD45	P1	SD, non-responder	non_responder	blood	pre-treatment	NK	NK_C02_SELL	sub_cluster	NK_C02_SELL	27	8576	0.00314832089552239	P1-pre-P
+GSE235863_CD45	P1	SD, non-responder	non_responder	blood	pre-treatment	NK	NK_C03_GZMK	sub_cluster	NK_C03_GZMK	1	8576	0.00011660447761194	P1-pre-P
+GSE235863_CD45	P1	SD, non-responder	non_responder	blood	pre-treatment	NK	NK_C04_MKI67	sub_cluster	NK_C04_MKI67	5	8576	0.000583022388059701	P1-pre-P
+GSE235863_CD45	P1	SD, non-responder	non_responder	blood	pre-treatment	Plasma	Plasma_C01_CD52	sub_cluster	Plasma_C01_CD52	12	8576	0.00139925373134328	P1-pre-P
+GSE235863_CD45	P1	SD, non-responder	non_responder	blood	pre-treatment	Plasma	Plasma_C03_SDC1_HSPA1A	sub_cluster	Plasma_C03_SDC1_HSPA1A	2	8576	0.000233208955223881	P1-pre-P
+GSE235863_CD45	P1	SD, non-responder	non_responder	blood	pre-treatment	cDC1	cDC1	sub_cluster	cDC1	14	8576	0.00163246268656716	P1-pre-P
+GSE235863_CD45	P1	SD, non-responder	non_responder	blood	pre-treatment	cDC2	cDC2_C01_CD1C	sub_cluster	cDC2_C01_CD1C	126	8576	0.0146921641791045	P1-pre-P
+GSE235863_CD45	P1	SD, non-responder	non_responder	blood	pre-treatment	gdT	gdT_C01_GZMB	sub_cluster	gdT_C01_GZMB	3	8576	0.000349813432835821	P1-pre-P
+GSE235863_CD45	P1	SD, non-responder	non_responder	blood	pre-treatment	gdT	gdT_C02_GZMK	sub_cluster	gdT_C02_GZMK	2	8576	0.000233208955223881	P1-pre-P
+GSE235863_CD45	P1	SD, non-responder	non_responder	blood	pre-treatment	gdT	gdT_C03_KLRG1	sub_cluster	gdT_C03_KLRG1	127	8576	0.0148087686567164	P1-pre-P
+GSE235863_CD45	P1	SD, non-responder	non_responder	blood	pre-treatment	pDC	pDC	sub_cluster	pDC	42	8576	0.00489738805970149	P1-pre-P
+GSE235863_CD45	P1	SD, non-responder	non_responder	liver tumor	post-treatment	B	B_C01_IGHD	sub_cluster	B_C01_IGHD	26	5760	0.00451388888888889	P1-post-T
+GSE235863_CD45	P1	SD, non-responder	non_responder	liver tumor	post-treatment	B	B_C02_CD27	sub_cluster	B_C02_CD27	117	5760	0.0203125	P1-post-T
+GSE235863_CD45	P1	SD, non-responder	non_responder	liver tumor	post-treatment	CD4T	CD4_C01_CCR7	sub_cluster	CD4_C01_CCR7	66	5760	0.0114583333333333	P1-post-T
+GSE235863_CD45	P1	SD, non-responder	non_responder	liver tumor	post-treatment	CD4T	CD4_C02_IL7R	sub_cluster	CD4_C02_IL7R	5	5760	0.000868055555555556	P1-post-T
+GSE235863_CD45	P1	SD, non-responder	non_responder	liver tumor	post-treatment	CD4T	CD4_C03_CD44	sub_cluster	CD4_C03_CD44	224	5760	0.0388888888888889	P1-post-T
+GSE235863_CD45	P1	SD, non-responder	non_responder	liver tumor	post-treatment	CD4T	CD4_C04_GZMK	sub_cluster	CD4_C04_GZMK	524	5760	0.0909722222222222	P1-post-T
+GSE235863_CD45	P1	SD, non-responder	non_responder	liver tumor	post-treatment	CD4T	CD4_C05_GNLY	sub_cluster	CD4_C05_GNLY	72	5760	0.0125	P1-post-T
+GSE235863_CD45	P1	SD, non-responder	non_responder	liver tumor	post-treatment	CD4T	CD4_C06_CXCL13	sub_cluster	CD4_C06_CXCL13	42	5760	0.00729166666666667	P1-post-T
+GSE235863_CD45	P1	SD, non-responder	non_responder	liver tumor	post-treatment	CD4T	CD4_C07_CTLA4	sub_cluster	CD4_C07_CTLA4	364	5760	0.0631944444444445	P1-post-T
+GSE235863_CD45	P1	SD, non-responder	non_responder	liver tumor	post-treatment	CD4T	CD4_C08_FOXP3	sub_cluster	CD4_C08_FOXP3	9	5760	0.0015625	P1-post-T
+GSE235863_CD45	P1	SD, non-responder	non_responder	liver tumor	post-treatment	CD4T	CD4_C09_MKI67	sub_cluster	CD4_C09_MKI67	72	5760	0.0125	P1-post-T
+GSE235863_CD45	P1	SD, non-responder	non_responder	liver tumor	post-treatment	CD8T	CD8_C01_LEF1	sub_cluster	CD8_C01_LEF1	5	5760	0.000868055555555556	P1-post-T
+GSE235863_CD45	P1	SD, non-responder	non_responder	liver tumor	post-treatment	CD8T	CD8_C02_GPR183	sub_cluster	CD8_C02_GPR183	2	5760	0.000347222222222222	P1-post-T
+GSE235863_CD45	P1	SD, non-responder	non_responder	liver tumor	post-treatment	CD8T	CD8_C03_CX3CR1	sub_cluster	CD8_C03_CX3CR1	247	5760	0.0428819444444444	P1-post-T
+GSE235863_CD45	P1	SD, non-responder	non_responder	liver tumor	post-treatment	CD8T	CD8_C04_GIMAP4	sub_cluster	CD8_C04_GIMAP4	5	5760	0.000868055555555556	P1-post-T
+GSE235863_CD45	P1	SD, non-responder	non_responder	liver tumor	post-treatment	CD8T	CD8_C05_TCF7	sub_cluster	CD8_C05_TCF7	29	5760	0.00503472222222222	P1-post-T
+GSE235863_CD45	P1	SD, non-responder	non_responder	liver tumor	post-treatment	CD8T	CD8_C06_KIR2DL3	sub_cluster	CD8_C06_KIR2DL3	1	5760	0.000173611111111111	P1-post-T
+GSE235863_CD45	P1	SD, non-responder	non_responder	liver tumor	post-treatment	CD8T	CD8_C07_KLRC2	sub_cluster	CD8_C07_KLRC2	181	5760	0.0314236111111111	P1-post-T
+GSE235863_CD45	P1	SD, non-responder	non_responder	liver tumor	post-treatment	CD8T	CD8_C08_GZMK	sub_cluster	CD8_C08_GZMK	729	5760	0.1265625	P1-post-T
+GSE235863_CD45	P1	SD, non-responder	non_responder	liver tumor	post-treatment	CD8T	CD8_C09_LAYN	sub_cluster	CD8_C09_LAYN	161	5760	0.0279513888888889	P1-post-T
+GSE235863_CD45	P1	SD, non-responder	non_responder	liver tumor	post-treatment	CD8T	CD8_C10_SLC4A10	sub_cluster	CD8_C10_SLC4A10	111	5760	0.0192708333333333	P1-post-T
+GSE235863_CD45	P1	SD, non-responder	non_responder	liver tumor	post-treatment	CD8T	CD8_C11_MKI67	sub_cluster	CD8_C11_MKI67	46	5760	0.00798611111111111	P1-post-T
+GSE235863_CD45	P1	SD, non-responder	non_responder	liver tumor	post-treatment	ILC2	ILC2	sub_cluster	ILC2	2	5760	0.000347222222222222	P1-post-T
+GSE235863_CD45	P1	SD, non-responder	non_responder	liver tumor	post-treatment	ILC3	ILC3	sub_cluster	ILC3	2	5760	0.000347222222222222	P1-post-T
+GSE235863_CD45	P1	SD, non-responder	non_responder	liver tumor	post-treatment	LAMP3+ DC	LAMP3+ DC	sub_cluster	LAMP3+ DC	9	5760	0.0015625	P1-post-T
+GSE235863_CD45	P1	SD, non-responder	non_responder	liver tumor	post-treatment	Macro	Macro_C01_FCN1	sub_cluster	Macro_C01_FCN1	550	5760	0.0954861111111111	P1-post-T
+GSE235863_CD45	P1	SD, non-responder	non_responder	liver tumor	post-treatment	Macro	Macro_C02_C1QC	sub_cluster	Macro_C02_C1QC	496	5760	0.0861111111111111	P1-post-T
+GSE235863_CD45	P1	SD, non-responder	non_responder	liver tumor	post-treatment	Macro	Macro_C03_TREM2	sub_cluster	Macro_C03_TREM2	388	5760	0.0673611111111111	P1-post-T
+GSE235863_CD45	P1	SD, non-responder	non_responder	liver tumor	post-treatment	Macro	Macro_C04_IL1B	sub_cluster	Macro_C04_IL1B	10	5760	0.00173611111111111	P1-post-T
+GSE235863_CD45	P1	SD, non-responder	non_responder	liver tumor	post-treatment	Mast	Mast	sub_cluster	Mast	2	5760	0.000347222222222222	P1-post-T
+GSE235863_CD45	P1	SD, non-responder	non_responder	liver tumor	post-treatment	Mono	Mono_C01_FCGR3A	sub_cluster	Mono_C01_FCGR3A	262	5760	0.0454861111111111	P1-post-T
+GSE235863_CD45	P1	SD, non-responder	non_responder	liver tumor	post-treatment	Mono	Mono_C02_CD14	sub_cluster	Mono_C02_CD14	69	5760	0.0119791666666667	P1-post-T
+GSE235863_CD45	P1	SD, non-responder	non_responder	liver tumor	post-treatment	Mono	Mono_C03_ITGA5	sub_cluster	Mono_C03_ITGA5	7	5760	0.00121527777777778	P1-post-T
+GSE235863_CD45	P1	SD, non-responder	non_responder	liver tumor	post-treatment	NKT-like	NKT-like	sub_cluster	NKT-like	1	5760	0.000173611111111111	P1-post-T
+GSE235863_CD45	P1	SD, non-responder	non_responder	liver tumor	post-treatment	NK	NK_C01_FCGR3A	sub_cluster	NK_C01_FCGR3A	222	5760	0.0385416666666667	P1-post-T
+GSE235863_CD45	P1	SD, non-responder	non_responder	liver tumor	post-treatment	NK	NK_C02_SELL	sub_cluster	NK_C02_SELL	3	5760	0.000520833333333333	P1-post-T
+GSE235863_CD45	P1	SD, non-responder	non_responder	liver tumor	post-treatment	NK	NK_C03_GZMK	sub_cluster	NK_C03_GZMK	158	5760	0.0274305555555556	P1-post-T
+GSE235863_CD45	P1	SD, non-responder	non_responder	liver tumor	post-treatment	NK	NK_C04_MKI67	sub_cluster	NK_C04_MKI67	20	5760	0.00347222222222222	P1-post-T
+GSE235863_CD45	P1	SD, non-responder	non_responder	liver tumor	post-treatment	Plasma	Plasma_C02_SDC1	sub_cluster	Plasma_C02_SDC1	7	5760	0.00121527777777778	P1-post-T
+GSE235863_CD45	P1	SD, non-responder	non_responder	liver tumor	post-treatment	Plasma	Plasma_C03_SDC1_HSPA1A	sub_cluster	Plasma_C03_SDC1_HSPA1A	4	5760	0.000694444444444445	P1-post-T
+GSE235863_CD45	P1	SD, non-responder	non_responder	liver tumor	post-treatment	cDC1	cDC1	sub_cluster	cDC1	98	5760	0.0170138888888889	P1-post-T
+GSE235863_CD45	P1	SD, non-responder	non_responder	liver tumor	post-treatment	cDC2	cDC2_C01_CD1C	sub_cluster	cDC2_C01_CD1C	289	5760	0.0501736111111111	P1-post-T
+GSE235863_CD45	P1	SD, non-responder	non_responder	liver tumor	post-treatment	cDC2	cDC2_C02_MKI67	sub_cluster	cDC2_C02_MKI67	80	5760	0.0138888888888889	P1-post-T
+GSE235863_CD45	P1	SD, non-responder	non_responder	liver tumor	post-treatment	gdT	gdT_C01_GZMB	sub_cluster	gdT_C01_GZMB	1	5760	0.000173611111111111	P1-post-T
+GSE235863_CD45	P1	SD, non-responder	non_responder	liver tumor	post-treatment	gdT	gdT_C02_GZMK	sub_cluster	gdT_C02_GZMK	23	5760	0.00399305555555556	P1-post-T
+GSE235863_CD45	P1	SD, non-responder	non_responder	liver tumor	post-treatment	gdT	gdT_C03_KLRG1	sub_cluster	gdT_C03_KLRG1	2	5760	0.000347222222222222	P1-post-T
+GSE235863_CD45	P1	SD, non-responder	non_responder	liver tumor	post-treatment	pDC	pDC	sub_cluster	pDC	17	5760	0.00295138888888889	P1-post-T
+GSE235863_CD45	P11	PR, responder	responder	blood	post-treatment	B	B_C01_IGHD	sub_cluster	B_C01_IGHD	87	7724	0.0112635939927499	P11-post-P
+GSE235863_CD45	P11	PR, responder	responder	blood	post-treatment	B	B_C02_CD27	sub_cluster	B_C02_CD27	48	7724	0.0062143966856551	P11-post-P
+GSE235863_CD45	P11	PR, responder	responder	blood	post-treatment	CD4T	CD4_C01_CCR7	sub_cluster	CD4_C01_CCR7	712	7724	0.092180217503884	P11-post-P
+GSE235863_CD45	P11	PR, responder	responder	blood	post-treatment	CD4T	CD4_C02_IL7R	sub_cluster	CD4_C02_IL7R	86	7724	0.0111341273951321	P11-post-P
+GSE235863_CD45	P11	PR, responder	responder	blood	post-treatment	CD4T	CD4_C03_CD44	sub_cluster	CD4_C03_CD44	222	7724	0.0287415846711548	P11-post-P
+GSE235863_CD45	P11	PR, responder	responder	blood	post-treatment	CD4T	CD4_C04_GZMK	sub_cluster	CD4_C04_GZMK	84	7724	0.0108751941998964	P11-post-P
+GSE235863_CD45	P11	PR, responder	responder	blood	post-treatment	CD4T	CD4_C05_GNLY	sub_cluster	CD4_C05_GNLY	241	7724	0.0312014500258933	P11-post-P
+GSE235863_CD45	P11	PR, responder	responder	blood	post-treatment	CD4T	CD4_C06_CXCL13	sub_cluster	CD4_C06_CXCL13	1	7724	0.000129466597617815	P11-post-P
+GSE235863_CD45	P11	PR, responder	responder	blood	post-treatment	CD4T	CD4_C08_FOXP3	sub_cluster	CD4_C08_FOXP3	144	7724	0.0186431900569653	P11-post-P
+GSE235863_CD45	P11	PR, responder	responder	blood	post-treatment	CD4T	CD4_C09_MKI67	sub_cluster	CD4_C09_MKI67	3	7724	0.000388399792853444	P11-post-P
+GSE235863_CD45	P11	PR, responder	responder	blood	post-treatment	CD8T	CD8_C01_LEF1	sub_cluster	CD8_C01_LEF1	286	7724	0.037027446918695	P11-post-P
+GSE235863_CD45	P11	PR, responder	responder	blood	post-treatment	CD8T	CD8_C02_GPR183	sub_cluster	CD8_C02_GPR183	15	7724	0.00194199896426722	P11-post-P
+GSE235863_CD45	P11	PR, responder	responder	blood	post-treatment	CD8T	CD8_C03_CX3CR1	sub_cluster	CD8_C03_CX3CR1	1814	7724	0.234852408078716	P11-post-P
+GSE235863_CD45	P11	PR, responder	responder	blood	post-treatment	CD8T	CD8_C04_GIMAP4	sub_cluster	CD8_C04_GIMAP4	78	7724	0.0100983946141895	P11-post-P
+GSE235863_CD45	P11	PR, responder	responder	blood	post-treatment	CD8T	CD8_C05_TCF7	sub_cluster	CD8_C05_TCF7	48	7724	0.0062143966856551	P11-post-P
+GSE235863_CD45	P11	PR, responder	responder	blood	post-treatment	CD8T	CD8_C06_KIR2DL3	sub_cluster	CD8_C06_KIR2DL3	45	7724	0.00582599689280166	P11-post-P
+GSE235863_CD45	P11	PR, responder	responder	blood	post-treatment	CD8T	CD8_C07_KLRC2	sub_cluster	CD8_C07_KLRC2	6	7724	0.000776799585706888	P11-post-P
+GSE235863_CD45	P11	PR, responder	responder	blood	post-treatment	CD8T	CD8_C08_GZMK	sub_cluster	CD8_C08_GZMK	177	7724	0.0229155877783532	P11-post-P
+GSE235863_CD45	P11	PR, responder	responder	blood	post-treatment	CD8T	CD8_C09_LAYN	sub_cluster	CD8_C09_LAYN	5	7724	0.000647332988089073	P11-post-P
+GSE235863_CD45	P11	PR, responder	responder	blood	post-treatment	CD8T	CD8_C10_SLC4A10	sub_cluster	CD8_C10_SLC4A10	63	7724	0.00815639564992232	P11-post-P
+GSE235863_CD45	P11	PR, responder	responder	blood	post-treatment	ILC2	ILC2	sub_cluster	ILC2	1	7724	0.000129466597617815	P11-post-P
+GSE235863_CD45	P11	PR, responder	responder	blood	post-treatment	ILC3	ILC3	sub_cluster	ILC3	1	7724	0.000129466597617815	P11-post-P
+GSE235863_CD45	P11	PR, responder	responder	blood	post-treatment	Macro	Macro_C01_FCN1	sub_cluster	Macro_C01_FCN1	9	7724	0.00116519937856033	P11-post-P
+GSE235863_CD45	P11	PR, responder	responder	blood	post-treatment	Mast	Mast	sub_cluster	Mast	2	7724	0.000258933195235629	P11-post-P
+GSE235863_CD45	P11	PR, responder	responder	blood	post-treatment	Megakaryocyte	Megakaryocyte	sub_cluster	Megakaryocyte	2	7724	0.000258933195235629	P11-post-P
+GSE235863_CD45	P11	PR, responder	responder	blood	post-treatment	Mono	Mono_C01_FCGR3A	sub_cluster	Mono_C01_FCGR3A	32	7724	0.00414293112377007	P11-post-P
+GSE235863_CD45	P11	PR, responder	responder	blood	post-treatment	Mono	Mono_C02_CD14	sub_cluster	Mono_C02_CD14	187	7724	0.0242102537545313	P11-post-P
+GSE235863_CD45	P11	PR, responder	responder	blood	post-treatment	Mono	Mono_C03_ITGA5	sub_cluster	Mono_C03_ITGA5	79	7724	0.0102278612118074	P11-post-P
+GSE235863_CD45	P11	PR, responder	responder	blood	post-treatment	NKT-like	NKT-like	sub_cluster	NKT-like	24	7724	0.00310719834282755	P11-post-P
+GSE235863_CD45	P11	PR, responder	responder	blood	post-treatment	NK	NK_C01_FCGR3A	sub_cluster	NK_C01_FCGR3A	1767	7724	0.228767477990678	P11-post-P
+GSE235863_CD45	P11	PR, responder	responder	blood	post-treatment	NK	NK_C02_SELL	sub_cluster	NK_C02_SELL	40	7724	0.00517866390471258	P11-post-P
+GSE235863_CD45	P11	PR, responder	responder	blood	post-treatment	NK	NK_C03_GZMK	sub_cluster	NK_C03_GZMK	1	7724	0.000129466597617815	P11-post-P
+GSE235863_CD45	P11	PR, responder	responder	blood	post-treatment	NK	NK_C04_MKI67	sub_cluster	NK_C04_MKI67	13	7724	0.00168306576903159	P11-post-P
+GSE235863_CD45	P11	PR, responder	responder	blood	post-treatment	cDC1	cDC1	sub_cluster	cDC1	1	7724	0.000129466597617815	P11-post-P
+GSE235863_CD45	P11	PR, responder	responder	blood	post-treatment	cDC2	cDC2_C01_CD1C	sub_cluster	cDC2_C01_CD1C	43	7724	0.00556706369756603	P11-post-P
+GSE235863_CD45	P11	PR, responder	responder	blood	post-treatment	gdT	gdT_C01_GZMB	sub_cluster	gdT_C01_GZMB	861	7724	0.111470740548938	P11-post-P
+GSE235863_CD45	P11	PR, responder	responder	blood	post-treatment	gdT	gdT_C02_GZMK	sub_cluster	gdT_C02_GZMK	351	7724	0.0454427757638529	P11-post-P
+GSE235863_CD45	P11	PR, responder	responder	blood	post-treatment	gdT	gdT_C03_KLRG1	sub_cluster	gdT_C03_KLRG1	140	7724	0.018125323666494	P11-post-P
+GSE235863_CD45	P11	PR, responder	responder	blood	post-treatment	pDC	pDC	sub_cluster	pDC	5	7724	0.000647332988089073	P11-post-P
+GSE235863_CD45	P11	PR, responder	responder	blood	pre-treatment	B	B_C01_IGHD	sub_cluster	B_C01_IGHD	90	6324	0.0142314990512334	P11-pre-P
+GSE235863_CD45	P11	PR, responder	responder	blood	pre-treatment	B	B_C02_CD27	sub_cluster	B_C02_CD27	36	6324	0.00569259962049336	P11-pre-P
+GSE235863_CD45	P11	PR, responder	responder	blood	pre-treatment	CD4T	CD4_C01_CCR7	sub_cluster	CD4_C01_CCR7	1326	6324	0.209677419354839	P11-pre-P
+GSE235863_CD45	P11	PR, responder	responder	blood	pre-treatment	CD4T	CD4_C02_IL7R	sub_cluster	CD4_C02_IL7R	63	6324	0.00996204933586338	P11-pre-P
+GSE235863_CD45	P11	PR, responder	responder	blood	pre-treatment	CD4T	CD4_C03_CD44	sub_cluster	CD4_C03_CD44	256	6324	0.0404807084123972	P11-pre-P
+GSE235863_CD45	P11	PR, responder	responder	blood	pre-treatment	CD4T	CD4_C04_GZMK	sub_cluster	CD4_C04_GZMK	78	6324	0.0123339658444023	P11-pre-P
+GSE235863_CD45	P11	PR, responder	responder	blood	pre-treatment	CD4T	CD4_C05_GNLY	sub_cluster	CD4_C05_GNLY	91	6324	0.0143896268184693	P11-pre-P
+GSE235863_CD45	P11	PR, responder	responder	blood	pre-treatment	CD4T	CD4_C06_CXCL13	sub_cluster	CD4_C06_CXCL13	4	6324	0.000632511068943707	P11-pre-P
+GSE235863_CD45	P11	PR, responder	responder	blood	pre-treatment	CD4T	CD4_C08_FOXP3	sub_cluster	CD4_C08_FOXP3	157	6324	0.0248260594560405	P11-pre-P
+GSE235863_CD45	P11	PR, responder	responder	blood	pre-treatment	CD8T	CD8_C01_LEF1	sub_cluster	CD8_C01_LEF1	598	6324	0.0945604048070841	P11-pre-P
+GSE235863_CD45	P11	PR, responder	responder	blood	pre-treatment	CD8T	CD8_C02_GPR183	sub_cluster	CD8_C02_GPR183	32	6324	0.00506008855154965	P11-pre-P
+GSE235863_CD45	P11	PR, responder	responder	blood	pre-treatment	CD8T	CD8_C03_CX3CR1	sub_cluster	CD8_C03_CX3CR1	1299	6324	0.205407969639469	P11-pre-P
+GSE235863_CD45	P11	PR, responder	responder	blood	pre-treatment	CD8T	CD8_C04_GIMAP4	sub_cluster	CD8_C04_GIMAP4	12	6324	0.00189753320683112	P11-pre-P
+GSE235863_CD45	P11	PR, responder	responder	blood	pre-treatment	CD8T	CD8_C05_TCF7	sub_cluster	CD8_C05_TCF7	61	6324	0.00964579380139152	P11-pre-P
+GSE235863_CD45	P11	PR, responder	responder	blood	pre-treatment	CD8T	CD8_C06_KIR2DL3	sub_cluster	CD8_C06_KIR2DL3	21	6324	0.00332068311195446	P11-pre-P
+GSE235863_CD45	P11	PR, responder	responder	blood	pre-treatment	CD8T	CD8_C07_KLRC2	sub_cluster	CD8_C07_KLRC2	7	6324	0.00110689437065149	P11-pre-P
+GSE235863_CD45	P11	PR, responder	responder	blood	pre-treatment	CD8T	CD8_C08_GZMK	sub_cluster	CD8_C08_GZMK	188	6324	0.0297280202403542	P11-pre-P
+GSE235863_CD45	P11	PR, responder	responder	blood	pre-treatment	CD8T	CD8_C09_LAYN	sub_cluster	CD8_C09_LAYN	4	6324	0.000632511068943707	P11-pre-P
+GSE235863_CD45	P11	PR, responder	responder	blood	pre-treatment	CD8T	CD8_C10_SLC4A10	sub_cluster	CD8_C10_SLC4A10	42	6324	0.00664136622390892	P11-pre-P
+GSE235863_CD45	P11	PR, responder	responder	blood	pre-treatment	CD8T	CD8_C11_MKI67	sub_cluster	CD8_C11_MKI67	1	6324	0.000158127767235927	P11-pre-P
+GSE235863_CD45	P11	PR, responder	responder	blood	pre-treatment	ILC2	ILC2	sub_cluster	ILC2	5	6324	0.000790638836179633	P11-pre-P
+GSE235863_CD45	P11	PR, responder	responder	blood	pre-treatment	ILC3	ILC3	sub_cluster	ILC3	2	6324	0.000316255534471853	P11-pre-P
+GSE235863_CD45	P11	PR, responder	responder	blood	pre-treatment	Macro	Macro_C01_FCN1	sub_cluster	Macro_C01_FCN1	12	6324	0.00189753320683112	P11-pre-P
+GSE235863_CD45	P11	PR, responder	responder	blood	pre-treatment	Megakaryocyte	Megakaryocyte	sub_cluster	Megakaryocyte	5	6324	0.000790638836179633	P11-pre-P
+GSE235863_CD45	P11	PR, responder	responder	blood	pre-treatment	Mono	Mono_C01_FCGR3A	sub_cluster	Mono_C01_FCGR3A	36	6324	0.00569259962049336	P11-pre-P
+GSE235863_CD45	P11	PR, responder	responder	blood	pre-treatment	Mono	Mono_C02_CD14	sub_cluster	Mono_C02_CD14	88	6324	0.0139152435167615	P11-pre-P
+GSE235863_CD45	P11	PR, responder	responder	blood	pre-treatment	Mono	Mono_C03_ITGA5	sub_cluster	Mono_C03_ITGA5	98	6324	0.0154965211891208	P11-pre-P
+GSE235863_CD45	P11	PR, responder	responder	blood	pre-treatment	NKT-like	NKT-like	sub_cluster	NKT-like	5	6324	0.000790638836179633	P11-pre-P
+GSE235863_CD45	P11	PR, responder	responder	blood	pre-treatment	NK	NK_C01_FCGR3A	sub_cluster	NK_C01_FCGR3A	844	6324	0.133459835547122	P11-pre-P
+GSE235863_CD45	P11	PR, responder	responder	blood	pre-treatment	NK	NK_C02_SELL	sub_cluster	NK_C02_SELL	77	6324	0.0121758380771664	P11-pre-P
+GSE235863_CD45	P11	PR, responder	responder	blood	pre-treatment	NK	NK_C03_GZMK	sub_cluster	NK_C03_GZMK	1	6324	0.000158127767235927	P11-pre-P
+GSE235863_CD45	P11	PR, responder	responder	blood	pre-treatment	NK	NK_C04_MKI67	sub_cluster	NK_C04_MKI67	2	6324	0.000316255534471853	P11-pre-P
+GSE235863_CD45	P11	PR, responder	responder	blood	pre-treatment	Plasma	Plasma_C01_CD52	sub_cluster	Plasma_C01_CD52	2	6324	0.000316255534471853	P11-pre-P
+GSE235863_CD45	P11	PR, responder	responder	blood	pre-treatment	cDC1	cDC1	sub_cluster	cDC1	1	6324	0.000158127767235927	P11-pre-P
+GSE235863_CD45	P11	PR, responder	responder	blood	pre-treatment	gdT	gdT_C01_GZMB	sub_cluster	gdT_C01_GZMB	454	6324	0.0717900063251107	P11-pre-P
+GSE235863_CD45	P11	PR, responder	responder	blood	pre-treatment	gdT	gdT_C02_GZMK	sub_cluster	gdT_C02_GZMK	301	6324	0.0475964579380139	P11-pre-P
+GSE235863_CD45	P11	PR, responder	responder	blood	pre-treatment	gdT	gdT_C03_KLRG1	sub_cluster	gdT_C03_KLRG1	22	6324	0.00347881087919039	P11-pre-P
+GSE235863_CD45	P11	PR, responder	responder	blood	pre-treatment	pDC	pDC	sub_cluster	pDC	3	6324	0.00047438330170778	P11-pre-P
+GSE235863_CD45	P11	PR, responder	responder	liver tumor	post-treatment	B	B_C01_IGHD	sub_cluster	B_C01_IGHD	2	8389	0.000238407438312075	P11-post-T
+GSE235863_CD45	P11	PR, responder	responder	liver tumor	post-treatment	B	B_C02_CD27	sub_cluster	B_C02_CD27	87	8389	0.0103707235665753	P11-post-T
+GSE235863_CD45	P11	PR, responder	responder	liver tumor	post-treatment	CD4T	CD4_C01_CCR7	sub_cluster	CD4_C01_CCR7	77	8389	0.0091786863750149	P11-post-T
+GSE235863_CD45	P11	PR, responder	responder	liver tumor	post-treatment	CD4T	CD4_C02_IL7R	sub_cluster	CD4_C02_IL7R	87	8389	0.0103707235665753	P11-post-T
+GSE235863_CD45	P11	PR, responder	responder	liver tumor	post-treatment	CD4T	CD4_C03_CD44	sub_cluster	CD4_C03_CD44	65	8389	0.00774824174514245	P11-post-T
+GSE235863_CD45	P11	PR, responder	responder	liver tumor	post-treatment	CD4T	CD4_C04_GZMK	sub_cluster	CD4_C04_GZMK	2254	8389	0.268685182977709	P11-post-T
+GSE235863_CD45	P11	PR, responder	responder	liver tumor	post-treatment	CD4T	CD4_C05_GNLY	sub_cluster	CD4_C05_GNLY	12	8389	0.00143044462987245	P11-post-T
+GSE235863_CD45	P11	PR, responder	responder	liver tumor	post-treatment	CD4T	CD4_C06_CXCL13	sub_cluster	CD4_C06_CXCL13	176	8389	0.0209798545714626	P11-post-T
+GSE235863_CD45	P11	PR, responder	responder	liver tumor	post-treatment	CD4T	CD4_C07_CTLA4	sub_cluster	CD4_C07_CTLA4	481	8389	0.0573369889140541	P11-post-T
+GSE235863_CD45	P11	PR, responder	responder	liver tumor	post-treatment	CD4T	CD4_C08_FOXP3	sub_cluster	CD4_C08_FOXP3	3	8389	0.000357611157468113	P11-post-T
+GSE235863_CD45	P11	PR, responder	responder	liver tumor	post-treatment	CD4T	CD4_C09_MKI67	sub_cluster	CD4_C09_MKI67	5	8389	0.000596018595780188	P11-post-T
+GSE235863_CD45	P11	PR, responder	responder	liver tumor	post-treatment	CD8T	CD8_C01_LEF1	sub_cluster	CD8_C01_LEF1	29	8389	0.00345690785552509	P11-post-T
+GSE235863_CD45	P11	PR, responder	responder	liver tumor	post-treatment	CD8T	CD8_C02_GPR183	sub_cluster	CD8_C02_GPR183	4	8389	0.000476814876624151	P11-post-T
+GSE235863_CD45	P11	PR, responder	responder	liver tumor	post-treatment	CD8T	CD8_C03_CX3CR1	sub_cluster	CD8_C03_CX3CR1	111	8389	0.0132316128263202	P11-post-T
+GSE235863_CD45	P11	PR, responder	responder	liver tumor	post-treatment	CD8T	CD8_C04_GIMAP4	sub_cluster	CD8_C04_GIMAP4	44	8389	0.00524496364286566	P11-post-T
+GSE235863_CD45	P11	PR, responder	responder	liver tumor	post-treatment	CD8T	CD8_C05_TCF7	sub_cluster	CD8_C05_TCF7	14	8389	0.00166885206818453	P11-post-T
+GSE235863_CD45	P11	PR, responder	responder	liver tumor	post-treatment	CD8T	CD8_C06_KIR2DL3	sub_cluster	CD8_C06_KIR2DL3	2	8389	0.000238407438312075	P11-post-T
+GSE235863_CD45	P11	PR, responder	responder	liver tumor	post-treatment	CD8T	CD8_C07_KLRC2	sub_cluster	CD8_C07_KLRC2	276	8389	0.0329002264870664	P11-post-T
+GSE235863_CD45	P11	PR, responder	responder	liver tumor	post-treatment	CD8T	CD8_C08_GZMK	sub_cluster	CD8_C08_GZMK	3715	8389	0.44284181666468	P11-post-T
+GSE235863_CD45	P11	PR, responder	responder	liver tumor	post-treatment	CD8T	CD8_C09_LAYN	sub_cluster	CD8_C09_LAYN	97	8389	0.0115627607581357	P11-post-T
+GSE235863_CD45	P11	PR, responder	responder	liver tumor	post-treatment	CD8T	CD8_C10_SLC4A10	sub_cluster	CD8_C10_SLC4A10	235	8389	0.0280128740016689	P11-post-T
+GSE235863_CD45	P11	PR, responder	responder	liver tumor	post-treatment	CD8T	CD8_C11_MKI67	sub_cluster	CD8_C11_MKI67	1	8389	0.000119203719156038	P11-post-T
+GSE235863_CD45	P11	PR, responder	responder	liver tumor	post-treatment	ILC3	ILC3	sub_cluster	ILC3	2	8389	0.000238407438312075	P11-post-T
+GSE235863_CD45	P11	PR, responder	responder	liver tumor	post-treatment	LAMP3+ DC	LAMP3+ DC	sub_cluster	LAMP3+ DC	2	8389	0.000238407438312075	P11-post-T
+GSE235863_CD45	P11	PR, responder	responder	liver tumor	post-treatment	Macro	Macro_C01_FCN1	sub_cluster	Macro_C01_FCN1	144	8389	0.0171653355584694	P11-post-T
+GSE235863_CD45	P11	PR, responder	responder	liver tumor	post-treatment	Macro	Macro_C02_C1QC	sub_cluster	Macro_C02_C1QC	38	8389	0.00452974132792943	P11-post-T
+GSE235863_CD45	P11	PR, responder	responder	liver tumor	post-treatment	Macro	Macro_C03_TREM2	sub_cluster	Macro_C03_TREM2	23	8389	0.00274168554058887	P11-post-T
+GSE235863_CD45	P11	PR, responder	responder	liver tumor	post-treatment	Mast	Mast	sub_cluster	Mast	16	8389	0.0019072595064966	P11-post-T
+GSE235863_CD45	P11	PR, responder	responder	liver tumor	post-treatment	Mono	Mono_C01_FCGR3A	sub_cluster	Mono_C01_FCGR3A	32	8389	0.00381451901299321	P11-post-T
+GSE235863_CD45	P11	PR, responder	responder	liver tumor	post-treatment	Mono	Mono_C02_CD14	sub_cluster	Mono_C02_CD14	19	8389	0.00226487066396472	P11-post-T
+GSE235863_CD45	P11	PR, responder	responder	liver tumor	post-treatment	Mono	Mono_C03_ITGA5	sub_cluster	Mono_C03_ITGA5	4	8389	0.000476814876624151	P11-post-T
+GSE235863_CD45	P11	PR, responder	responder	liver tumor	post-treatment	NK	NK_C01_FCGR3A	sub_cluster	NK_C01_FCGR3A	69	8389	0.0082250566217666	P11-post-T
+GSE235863_CD45	P11	PR, responder	responder	liver tumor	post-treatment	NK	NK_C02_SELL	sub_cluster	NK_C02_SELL	7	8389	0.000834426034092264	P11-post-T
+GSE235863_CD45	P11	PR, responder	responder	liver tumor	post-treatment	NK	NK_C03_GZMK	sub_cluster	NK_C03_GZMK	32	8389	0.00381451901299321	P11-post-T
+GSE235863_CD45	P11	PR, responder	responder	liver tumor	post-treatment	Plasma	Plasma_C01_CD52	sub_cluster	Plasma_C01_CD52	1	8389	0.000119203719156038	P11-post-T
+GSE235863_CD45	P11	PR, responder	responder	liver tumor	post-treatment	Plasma	Plasma_C02_SDC1	sub_cluster	Plasma_C02_SDC1	3	8389	0.000357611157468113	P11-post-T
+GSE235863_CD45	P11	PR, responder	responder	liver tumor	post-treatment	Plasma	Plasma_C03_SDC1_HSPA1A	sub_cluster	Plasma_C03_SDC1_HSPA1A	16	8389	0.0019072595064966	P11-post-T
+GSE235863_CD45	P11	PR, responder	responder	liver tumor	post-treatment	cDC1	cDC1	sub_cluster	cDC1	12	8389	0.00143044462987245	P11-post-T
+GSE235863_CD45	P11	PR, responder	responder	liver tumor	post-treatment	cDC2	cDC2_C01_CD1C	sub_cluster	cDC2_C01_CD1C	84	8389	0.0100131124091072	P11-post-T
+GSE235863_CD45	P11	PR, responder	responder	liver tumor	post-treatment	cDC2	cDC2_C02_MKI67	sub_cluster	cDC2_C02_MKI67	6	8389	0.000715222314936226	P11-post-T
+GSE235863_CD45	P11	PR, responder	responder	liver tumor	post-treatment	gdT	gdT_C01_GZMB	sub_cluster	gdT_C01_GZMB	9	8389	0.00107283347240434	P11-post-T
+GSE235863_CD45	P11	PR, responder	responder	liver tumor	post-treatment	gdT	gdT_C02_GZMK	sub_cluster	gdT_C02_GZMK	69	8389	0.0082250566217666	P11-post-T
+GSE235863_CD45	P11	PR, responder	responder	liver tumor	post-treatment	gdT	gdT_C03_KLRG1	sub_cluster	gdT_C03_KLRG1	8	8389	0.000953629753248301	P11-post-T
+GSE235863_CD45	P11	PR, responder	responder	liver tumor	post-treatment	pDC	pDC	sub_cluster	pDC	16	8389	0.0019072595064966	P11-post-T
+GSE235863_CD45	P11	PR, responder	responder	liver tumor	pre-treatment	B	B_C01_IGHD	sub_cluster	B_C01_IGHD	82	5623	0.0145829628312289	P11-pre-T
+GSE235863_CD45	P11	PR, responder	responder	liver tumor	pre-treatment	B	B_C02_CD27	sub_cluster	B_C02_CD27	108	5623	0.0192068290947893	P11-pre-T
+GSE235863_CD45	P11	PR, responder	responder	liver tumor	pre-treatment	CD4T	CD4_C01_CCR7	sub_cluster	CD4_C01_CCR7	186	5623	0.0330784278854704	P11-pre-T
+GSE235863_CD45	P11	PR, responder	responder	liver tumor	pre-treatment	CD4T	CD4_C02_IL7R	sub_cluster	CD4_C02_IL7R	28	5623	0.00497954828383425	P11-pre-T
+GSE235863_CD45	P11	PR, responder	responder	liver tumor	pre-treatment	CD4T	CD4_C03_CD44	sub_cluster	CD4_C03_CD44	382	5623	0.0679352658723102	P11-pre-T
+GSE235863_CD45	P11	PR, responder	responder	liver tumor	pre-treatment	CD4T	CD4_C04_GZMK	sub_cluster	CD4_C04_GZMK	672	5623	0.119509158812022	P11-pre-T
+GSE235863_CD45	P11	PR, responder	responder	liver tumor	pre-treatment	CD4T	CD4_C05_GNLY	sub_cluster	CD4_C05_GNLY	20	5623	0.00355682020273875	P11-pre-T
+GSE235863_CD45	P11	PR, responder	responder	liver tumor	pre-treatment	CD4T	CD4_C06_CXCL13	sub_cluster	CD4_C06_CXCL13	103	5623	0.0183176240441046	P11-pre-T
+GSE235863_CD45	P11	PR, responder	responder	liver tumor	pre-treatment	CD4T	CD4_C07_CTLA4	sub_cluster	CD4_C07_CTLA4	235	5623	0.0417926373821803	P11-pre-T
+GSE235863_CD45	P11	PR, responder	responder	liver tumor	pre-treatment	CD4T	CD4_C08_FOXP3	sub_cluster	CD4_C08_FOXP3	53	5623	0.00942557353725769	P11-pre-T
+GSE235863_CD45	P11	PR, responder	responder	liver tumor	pre-treatment	CD4T	CD4_C09_MKI67	sub_cluster	CD4_C09_MKI67	16	5623	0.002845456162191	P11-pre-T
+GSE235863_CD45	P11	PR, responder	responder	liver tumor	pre-treatment	CD8T	CD8_C01_LEF1	sub_cluster	CD8_C01_LEF1	61	5623	0.0108483016183532	P11-pre-T
+GSE235863_CD45	P11	PR, responder	responder	liver tumor	pre-treatment	CD8T	CD8_C02_GPR183	sub_cluster	CD8_C02_GPR183	13	5623	0.00231193313178019	P11-pre-T
+GSE235863_CD45	P11	PR, responder	responder	liver tumor	pre-treatment	CD8T	CD8_C03_CX3CR1	sub_cluster	CD8_C03_CX3CR1	104	5623	0.0184954650542415	P11-pre-T
+GSE235863_CD45	P11	PR, responder	responder	liver tumor	pre-treatment	CD8T	CD8_C04_GIMAP4	sub_cluster	CD8_C04_GIMAP4	14	5623	0.00248977414191713	P11-pre-T
+GSE235863_CD45	P11	PR, responder	responder	liver tumor	pre-treatment	CD8T	CD8_C05_TCF7	sub_cluster	CD8_C05_TCF7	86	5623	0.0152943268717766	P11-pre-T
+GSE235863_CD45	P11	PR, responder	responder	liver tumor	pre-treatment	CD8T	CD8_C06_KIR2DL3	sub_cluster	CD8_C06_KIR2DL3	1	5623	0.000177841010136938	P11-pre-T
+GSE235863_CD45	P11	PR, responder	responder	liver tumor	pre-treatment	CD8T	CD8_C07_KLRC2	sub_cluster	CD8_C07_KLRC2	137	5623	0.0243642183887605	P11-pre-T
+GSE235863_CD45	P11	PR, responder	responder	liver tumor	pre-treatment	CD8T	CD8_C08_GZMK	sub_cluster	CD8_C08_GZMK	1313	5623	0.233505246309799	P11-pre-T
+GSE235863_CD45	P11	PR, responder	responder	liver tumor	pre-treatment	CD8T	CD8_C09_LAYN	sub_cluster	CD8_C09_LAYN	601	5623	0.106882447092299	P11-pre-T
+GSE235863_CD45	P11	PR, responder	responder	liver tumor	pre-treatment	CD8T	CD8_C10_SLC4A10	sub_cluster	CD8_C10_SLC4A10	440	5623	0.0782500444602525	P11-pre-T
+GSE235863_CD45	P11	PR, responder	responder	liver tumor	pre-treatment	CD8T	CD8_C11_MKI67	sub_cluster	CD8_C11_MKI67	11	5623	0.00195625111150631	P11-pre-T
+GSE235863_CD45	P11	PR, responder	responder	liver tumor	pre-treatment	ILC2	ILC2	sub_cluster	ILC2	2	5623	0.000355682020273875	P11-pre-T
+GSE235863_CD45	P11	PR, responder	responder	liver tumor	pre-treatment	ILC3	ILC3	sub_cluster	ILC3	10	5623	0.00177841010136938	P11-pre-T
+GSE235863_CD45	P11	PR, responder	responder	liver tumor	pre-treatment	Macro	Macro_C01_FCN1	sub_cluster	Macro_C01_FCN1	24	5623	0.0042681842432865	P11-pre-T
+GSE235863_CD45	P11	PR, responder	responder	liver tumor	pre-treatment	Macro	Macro_C02_C1QC	sub_cluster	Macro_C02_C1QC	23	5623	0.00409034323314956	P11-pre-T
+GSE235863_CD45	P11	PR, responder	responder	liver tumor	pre-treatment	Macro	Macro_C03_TREM2	sub_cluster	Macro_C03_TREM2	8	5623	0.0014227280810955	P11-pre-T
+GSE235863_CD45	P11	PR, responder	responder	liver tumor	pre-treatment	Macro	Macro_C04_IL1B	sub_cluster	Macro_C04_IL1B	102	5623	0.0181397830339676	P11-pre-T
+GSE235863_CD45	P11	PR, responder	responder	liver tumor	pre-treatment	Mast	Mast	sub_cluster	Mast	10	5623	0.00177841010136938	P11-pre-T
+GSE235863_CD45	P11	PR, responder	responder	liver tumor	pre-treatment	Mono	Mono_C01_FCGR3A	sub_cluster	Mono_C01_FCGR3A	8	5623	0.0014227280810955	P11-pre-T
+GSE235863_CD45	P11	PR, responder	responder	liver tumor	pre-treatment	Mono	Mono_C02_CD14	sub_cluster	Mono_C02_CD14	6	5623	0.00106704606082163	P11-pre-T
+GSE235863_CD45	P11	PR, responder	responder	liver tumor	pre-treatment	Mono	Mono_C03_ITGA5	sub_cluster	Mono_C03_ITGA5	5	5623	0.000889205050684688	P11-pre-T
+GSE235863_CD45	P11	PR, responder	responder	liver tumor	pre-treatment	NK	NK_C01_FCGR3A	sub_cluster	NK_C01_FCGR3A	138	5623	0.0245420593988974	P11-pre-T
+GSE235863_CD45	P11	PR, responder	responder	liver tumor	pre-treatment	NK	NK_C02_SELL	sub_cluster	NK_C02_SELL	36	5623	0.00640227636492975	P11-pre-T
+GSE235863_CD45	P11	PR, responder	responder	liver tumor	pre-treatment	NK	NK_C03_GZMK	sub_cluster	NK_C03_GZMK	151	5623	0.0268539925306776	P11-pre-T
+GSE235863_CD45	P11	PR, responder	responder	liver tumor	pre-treatment	Plasma	Plasma_C02_SDC1	sub_cluster	Plasma_C02_SDC1	13	5623	0.00231193313178019	P11-pre-T
+GSE235863_CD45	P11	PR, responder	responder	liver tumor	pre-treatment	Plasma	Plasma_C03_SDC1_HSPA1A	sub_cluster	Plasma_C03_SDC1_HSPA1A	3	5623	0.000533523030410813	P11-pre-T
+GSE235863_CD45	P11	PR, responder	responder	liver tumor	pre-treatment	cDC1	cDC1	sub_cluster	cDC1	20	5623	0.00355682020273875	P11-pre-T
+GSE235863_CD45	P11	PR, responder	responder	liver tumor	pre-treatment	cDC2	cDC2_C01_CD1C	sub_cluster	cDC2_C01_CD1C	171	5623	0.0304108127334163	P11-pre-T
+GSE235863_CD45	P11	PR, responder	responder	liver tumor	pre-treatment	cDC2	cDC2_C02_MKI67	sub_cluster	cDC2_C02_MKI67	4	5623	0.00071136404054775	P11-pre-T
+GSE235863_CD45	P11	PR, responder	responder	liver tumor	pre-treatment	gdT	gdT_C01_GZMB	sub_cluster	gdT_C01_GZMB	20	5623	0.00355682020273875	P11-pre-T
+GSE235863_CD45	P11	PR, responder	responder	liver tumor	pre-treatment	gdT	gdT_C02_GZMK	sub_cluster	gdT_C02_GZMK	110	5623	0.0195625111150631	P11-pre-T
+GSE235863_CD45	P11	PR, responder	responder	liver tumor	pre-treatment	gdT	gdT_C03_KLRG1	sub_cluster	gdT_C03_KLRG1	8	5623	0.0014227280810955	P11-pre-T
+GSE235863_CD45	P11	PR, responder	responder	liver tumor	pre-treatment	pDC	pDC	sub_cluster	pDC	85	5623	0.0151164858616397	P11-pre-T
+GSE235863_CD45	P15	PD, non-responder	non_responder	blood	post-treatment	B	B_C01_IGHD	sub_cluster	B_C01_IGHD	38	3348	0.0113500597371565	P15-post-P
+GSE235863_CD45	P15	PD, non-responder	non_responder	blood	post-treatment	B	B_C02_CD27	sub_cluster	B_C02_CD27	8	3348	0.002389486260454	P15-post-P
+GSE235863_CD45	P15	PD, non-responder	non_responder	blood	post-treatment	CD4T	CD4_C01_CCR7	sub_cluster	CD4_C01_CCR7	1054	3348	0.314814814814815	P15-post-P
+GSE235863_CD45	P15	PD, non-responder	non_responder	blood	post-treatment	CD4T	CD4_C02_IL7R	sub_cluster	CD4_C02_IL7R	104	3348	0.031063321385902	P15-post-P
+GSE235863_CD45	P15	PD, non-responder	non_responder	blood	post-treatment	CD4T	CD4_C03_CD44	sub_cluster	CD4_C03_CD44	235	3348	0.0701911589008363	P15-post-P
+GSE235863_CD45	P15	PD, non-responder	non_responder	blood	post-treatment	CD4T	CD4_C04_GZMK	sub_cluster	CD4_C04_GZMK	223	3348	0.0666069295101553	P15-post-P
+GSE235863_CD45	P15	PD, non-responder	non_responder	blood	post-treatment	CD4T	CD4_C05_GNLY	sub_cluster	CD4_C05_GNLY	80	3348	0.02389486260454	P15-post-P
+GSE235863_CD45	P15	PD, non-responder	non_responder	blood	post-treatment	CD4T	CD4_C06_CXCL13	sub_cluster	CD4_C06_CXCL13	3	3348	0.000896057347670251	P15-post-P
+GSE235863_CD45	P15	PD, non-responder	non_responder	blood	post-treatment	CD4T	CD4_C07_CTLA4	sub_cluster	CD4_C07_CTLA4	8	3348	0.002389486260454	P15-post-P
+GSE235863_CD45	P15	PD, non-responder	non_responder	blood	post-treatment	CD4T	CD4_C08_FOXP3	sub_cluster	CD4_C08_FOXP3	196	3348	0.0585424133811231	P15-post-P
+GSE235863_CD45	P15	PD, non-responder	non_responder	blood	post-treatment	CD8T	CD8_C01_LEF1	sub_cluster	CD8_C01_LEF1	175	3348	0.0522700119474313	P15-post-P
+GSE235863_CD45	P15	PD, non-responder	non_responder	blood	post-treatment	CD8T	CD8_C02_GPR183	sub_cluster	CD8_C02_GPR183	202	3348	0.0603345280764636	P15-post-P
+GSE235863_CD45	P15	PD, non-responder	non_responder	blood	post-treatment	CD8T	CD8_C03_CX3CR1	sub_cluster	CD8_C03_CX3CR1	116	3348	0.034647550776583	P15-post-P
+GSE235863_CD45	P15	PD, non-responder	non_responder	blood	post-treatment	CD8T	CD8_C04_GIMAP4	sub_cluster	CD8_C04_GIMAP4	5	3348	0.00149342891278375	P15-post-P
+GSE235863_CD45	P15	PD, non-responder	non_responder	blood	post-treatment	CD8T	CD8_C05_TCF7	sub_cluster	CD8_C05_TCF7	133	3348	0.0397252090800478	P15-post-P
+GSE235863_CD45	P15	PD, non-responder	non_responder	blood	post-treatment	CD8T	CD8_C06_KIR2DL3	sub_cluster	CD8_C06_KIR2DL3	4	3348	0.001194743130227	P15-post-P
+GSE235863_CD45	P15	PD, non-responder	non_responder	blood	post-treatment	CD8T	CD8_C08_GZMK	sub_cluster	CD8_C08_GZMK	105	3348	0.0313620071684588	P15-post-P
+GSE235863_CD45	P15	PD, non-responder	non_responder	blood	post-treatment	CD8T	CD8_C09_LAYN	sub_cluster	CD8_C09_LAYN	2	3348	0.000597371565113501	P15-post-P
+GSE235863_CD45	P15	PD, non-responder	non_responder	blood	post-treatment	CD8T	CD8_C10_SLC4A10	sub_cluster	CD8_C10_SLC4A10	10	3348	0.0029868578255675	P15-post-P
+GSE235863_CD45	P15	PD, non-responder	non_responder	blood	post-treatment	ILC2	ILC2	sub_cluster	ILC2	4	3348	0.001194743130227	P15-post-P
+GSE235863_CD45	P15	PD, non-responder	non_responder	blood	post-treatment	ILC3	ILC3	sub_cluster	ILC3	1	3348	0.00029868578255675	P15-post-P
+GSE235863_CD45	P15	PD, non-responder	non_responder	blood	post-treatment	Macro	Macro_C01_FCN1	sub_cluster	Macro_C01_FCN1	29	3348	0.00866188769414576	P15-post-P
+GSE235863_CD45	P15	PD, non-responder	non_responder	blood	post-treatment	Macro	Macro_C04_IL1B	sub_cluster	Macro_C04_IL1B	1	3348	0.00029868578255675	P15-post-P
+GSE235863_CD45	P15	PD, non-responder	non_responder	blood	post-treatment	Mast	Mast	sub_cluster	Mast	8	3348	0.002389486260454	P15-post-P
+GSE235863_CD45	P15	PD, non-responder	non_responder	blood	post-treatment	Megakaryocyte	Megakaryocyte	sub_cluster	Megakaryocyte	10	3348	0.0029868578255675	P15-post-P
+GSE235863_CD45	P15	PD, non-responder	non_responder	blood	post-treatment	Mono	Mono_C01_FCGR3A	sub_cluster	Mono_C01_FCGR3A	42	3348	0.0125448028673835	P15-post-P
+GSE235863_CD45	P15	PD, non-responder	non_responder	blood	post-treatment	Mono	Mono_C02_CD14	sub_cluster	Mono_C02_CD14	178	3348	0.0531660692951016	P15-post-P
+GSE235863_CD45	P15	PD, non-responder	non_responder	blood	post-treatment	Mono	Mono_C03_ITGA5	sub_cluster	Mono_C03_ITGA5	118	3348	0.0352449223416965	P15-post-P
+GSE235863_CD45	P15	PD, non-responder	non_responder	blood	post-treatment	NKT-like	NKT-like	sub_cluster	NKT-like	2	3348	0.000597371565113501	P15-post-P
+GSE235863_CD45	P15	PD, non-responder	non_responder	blood	post-treatment	NK	NK_C01_FCGR3A	sub_cluster	NK_C01_FCGR3A	198	3348	0.0591397849462366	P15-post-P
+GSE235863_CD45	P15	PD, non-responder	non_responder	blood	post-treatment	NK	NK_C02_SELL	sub_cluster	NK_C02_SELL	12	3348	0.003584229390681	P15-post-P
+GSE235863_CD45	P15	PD, non-responder	non_responder	blood	post-treatment	NK	NK_C03_GZMK	sub_cluster	NK_C03_GZMK	2	3348	0.000597371565113501	P15-post-P
+GSE235863_CD45	P15	PD, non-responder	non_responder	blood	post-treatment	NK	NK_C04_MKI67	sub_cluster	NK_C04_MKI67	2	3348	0.000597371565113501	P15-post-P
+GSE235863_CD45	P15	PD, non-responder	non_responder	blood	post-treatment	cDC2	cDC2_C01_CD1C	sub_cluster	cDC2_C01_CD1C	14	3348	0.0041816009557945	P15-post-P
+GSE235863_CD45	P15	PD, non-responder	non_responder	blood	post-treatment	gdT	gdT_C02_GZMK	sub_cluster	gdT_C02_GZMK	20	3348	0.00597371565113501	P15-post-P
+GSE235863_CD45	P15	PD, non-responder	non_responder	blood	post-treatment	gdT	gdT_C03_KLRG1	sub_cluster	gdT_C03_KLRG1	2	3348	0.000597371565113501	P15-post-P
+GSE235863_CD45	P15	PD, non-responder	non_responder	blood	post-treatment	pDC	pDC	sub_cluster	pDC	4	3348	0.001194743130227	P15-post-P
+GSE235863_CD45	P15	PD, non-responder	non_responder	blood	pre-treatment	B	B_C01_IGHD	sub_cluster	B_C01_IGHD	234	8646	0.0270645385149202	P15-pre-P
+GSE235863_CD45	P15	PD, non-responder	non_responder	blood	pre-treatment	B	B_C02_CD27	sub_cluster	B_C02_CD27	172	8646	0.0198935924126764	P15-pre-P
+GSE235863_CD45	P15	PD, non-responder	non_responder	blood	pre-treatment	CD4T	CD4_C01_CCR7	sub_cluster	CD4_C01_CCR7	2039	8646	0.235831598427018	P15-pre-P
+GSE235863_CD45	P15	PD, non-responder	non_responder	blood	pre-treatment	CD4T	CD4_C02_IL7R	sub_cluster	CD4_C02_IL7R	138	8646	0.0159611380985427	P15-pre-P
+GSE235863_CD45	P15	PD, non-responder	non_responder	blood	pre-treatment	CD4T	CD4_C03_CD44	sub_cluster	CD4_C03_CD44	406	8646	0.0469581309275966	P15-pre-P
+GSE235863_CD45	P15	PD, non-responder	non_responder	blood	pre-treatment	CD4T	CD4_C04_GZMK	sub_cluster	CD4_C04_GZMK	173	8646	0.0200092528336803	P15-pre-P
+GSE235863_CD45	P15	PD, non-responder	non_responder	blood	pre-treatment	CD4T	CD4_C05_GNLY	sub_cluster	CD4_C05_GNLY	119	8646	0.013763590099468	P15-pre-P
+GSE235863_CD45	P15	PD, non-responder	non_responder	blood	pre-treatment	CD4T	CD4_C06_CXCL13	sub_cluster	CD4_C06_CXCL13	3	8646	0.000346981263011797	P15-pre-P
+GSE235863_CD45	P15	PD, non-responder	non_responder	blood	pre-treatment	CD4T	CD4_C07_CTLA4	sub_cluster	CD4_C07_CTLA4	2	8646	0.000231320842007865	P15-pre-P
+GSE235863_CD45	P15	PD, non-responder	non_responder	blood	pre-treatment	CD4T	CD4_C08_FOXP3	sub_cluster	CD4_C08_FOXP3	113	8646	0.0130696275734444	P15-pre-P
+GSE235863_CD45	P15	PD, non-responder	non_responder	blood	pre-treatment	CD4T	CD4_C09_MKI67	sub_cluster	CD4_C09_MKI67	1	8646	0.000115660421003932	P15-pre-P
+GSE235863_CD45	P15	PD, non-responder	non_responder	blood	pre-treatment	CD8T	CD8_C01_LEF1	sub_cluster	CD8_C01_LEF1	591	8646	0.0683553088133241	P15-pre-P
+GSE235863_CD45	P15	PD, non-responder	non_responder	blood	pre-treatment	CD8T	CD8_C02_GPR183	sub_cluster	CD8_C02_GPR183	197	8646	0.0227851029377747	P15-pre-P
+GSE235863_CD45	P15	PD, non-responder	non_responder	blood	pre-treatment	CD8T	CD8_C03_CX3CR1	sub_cluster	CD8_C03_CX3CR1	541	8646	0.0625722877631275	P15-pre-P
+GSE235863_CD45	P15	PD, non-responder	non_responder	blood	pre-treatment	CD8T	CD8_C04_GIMAP4	sub_cluster	CD8_C04_GIMAP4	7	8646	0.000809622947027527	P15-pre-P
+GSE235863_CD45	P15	PD, non-responder	non_responder	blood	pre-treatment	CD8T	CD8_C05_TCF7	sub_cluster	CD8_C05_TCF7	108	8646	0.0124913254684247	P15-pre-P
+GSE235863_CD45	P15	PD, non-responder	non_responder	blood	pre-treatment	CD8T	CD8_C06_KIR2DL3	sub_cluster	CD8_C06_KIR2DL3	67	8646	0.00774924820726348	P15-pre-P
+GSE235863_CD45	P15	PD, non-responder	non_responder	blood	pre-treatment	CD8T	CD8_C07_KLRC2	sub_cluster	CD8_C07_KLRC2	3	8646	0.000346981263011797	P15-pre-P
+GSE235863_CD45	P15	PD, non-responder	non_responder	blood	pre-treatment	CD8T	CD8_C08_GZMK	sub_cluster	CD8_C08_GZMK	96	8646	0.0111034004163775	P15-pre-P
+GSE235863_CD45	P15	PD, non-responder	non_responder	blood	pre-treatment	CD8T	CD8_C09_LAYN	sub_cluster	CD8_C09_LAYN	6	8646	0.000693962526023595	P15-pre-P
+GSE235863_CD45	P15	PD, non-responder	non_responder	blood	pre-treatment	CD8T	CD8_C10_SLC4A10	sub_cluster	CD8_C10_SLC4A10	19	8646	0.00219754799907472	P15-pre-P
+GSE235863_CD45	P15	PD, non-responder	non_responder	blood	pre-treatment	ILC2	ILC2	sub_cluster	ILC2	9	8646	0.00104094378903539	P15-pre-P
+GSE235863_CD45	P15	PD, non-responder	non_responder	blood	pre-treatment	ILC3	ILC3	sub_cluster	ILC3	4	8646	0.00046264168401573	P15-pre-P
+GSE235863_CD45	P15	PD, non-responder	non_responder	blood	pre-treatment	Macro	Macro_C01_FCN1	sub_cluster	Macro_C01_FCN1	18	8646	0.00208188757807078	P15-pre-P
+GSE235863_CD45	P15	PD, non-responder	non_responder	blood	pre-treatment	Mast	Mast	sub_cluster	Mast	4	8646	0.00046264168401573	P15-pre-P
+GSE235863_CD45	P15	PD, non-responder	non_responder	blood	pre-treatment	Megakaryocyte	Megakaryocyte	sub_cluster	Megakaryocyte	17	8646	0.00196622715706685	P15-pre-P
+GSE235863_CD45	P15	PD, non-responder	non_responder	blood	pre-treatment	Mono	Mono_C01_FCGR3A	sub_cluster	Mono_C01_FCGR3A	143	8646	0.0165394402035623	P15-pre-P
+GSE235863_CD45	P15	PD, non-responder	non_responder	blood	pre-treatment	Mono	Mono_C02_CD14	sub_cluster	Mono_C02_CD14	313	8646	0.0362017117742309	P15-pre-P
+GSE235863_CD45	P15	PD, non-responder	non_responder	blood	pre-treatment	Mono	Mono_C03_ITGA5	sub_cluster	Mono_C03_ITGA5	52	8646	0.00601434189220449	P15-pre-P
+GSE235863_CD45	P15	PD, non-responder	non_responder	blood	pre-treatment	NKT-like	NKT-like	sub_cluster	NKT-like	10	8646	0.00115660421003932	P15-pre-P
+GSE235863_CD45	P15	PD, non-responder	non_responder	blood	pre-treatment	NK	NK_C01_FCGR3A	sub_cluster	NK_C01_FCGR3A	2735	8646	0.316331251445755	P15-pre-P
+GSE235863_CD45	P15	PD, non-responder	non_responder	blood	pre-treatment	NK	NK_C02_SELL	sub_cluster	NK_C02_SELL	160	8646	0.0185056673606292	P15-pre-P
+GSE235863_CD45	P15	PD, non-responder	non_responder	blood	pre-treatment	NK	NK_C03_GZMK	sub_cluster	NK_C03_GZMK	6	8646	0.000693962526023595	P15-pre-P
+GSE235863_CD45	P15	PD, non-responder	non_responder	blood	pre-treatment	NK	NK_C04_MKI67	sub_cluster	NK_C04_MKI67	6	8646	0.000693962526023595	P15-pre-P
+GSE235863_CD45	P15	PD, non-responder	non_responder	blood	pre-treatment	Plasma	Plasma_C01_CD52	sub_cluster	Plasma_C01_CD52	22	8646	0.00254452926208651	P15-pre-P
+GSE235863_CD45	P15	PD, non-responder	non_responder	blood	pre-treatment	Plasma	Plasma_C02_SDC1	sub_cluster	Plasma_C02_SDC1	1	8646	0.000115660421003932	P15-pre-P
+GSE235863_CD45	P15	PD, non-responder	non_responder	blood	pre-treatment	Plasma	Plasma_C03_SDC1_HSPA1A	sub_cluster	Plasma_C03_SDC1_HSPA1A	2	8646	0.000231320842007865	P15-pre-P
+GSE235863_CD45	P15	PD, non-responder	non_responder	blood	pre-treatment	cDC1	cDC1	sub_cluster	cDC1	2	8646	0.000231320842007865	P15-pre-P
+GSE235863_CD45	P15	PD, non-responder	non_responder	blood	pre-treatment	cDC2	cDC2_C01_CD1C	sub_cluster	cDC2_C01_CD1C	7	8646	0.000809622947027527	P15-pre-P
+GSE235863_CD45	P15	PD, non-responder	non_responder	blood	pre-treatment	gdT	gdT_C01_GZMB	sub_cluster	gdT_C01_GZMB	19	8646	0.00219754799907472	P15-pre-P
+GSE235863_CD45	P15	PD, non-responder	non_responder	blood	pre-treatment	gdT	gdT_C02_GZMK	sub_cluster	gdT_C02_GZMK	59	8646	0.00682396483923202	P15-pre-P
+GSE235863_CD45	P15	PD, non-responder	non_responder	blood	pre-treatment	gdT	gdT_C03_KLRG1	sub_cluster	gdT_C03_KLRG1	17	8646	0.00196622715706685	P15-pre-P
+GSE235863_CD45	P15	PD, non-responder	non_responder	blood	pre-treatment	pDC	pDC	sub_cluster	pDC	5	8646	0.000578302105019662	P15-pre-P
+GSE235863_CD45	P15	PD, non-responder	non_responder	liver tumor	pre-treatment	B	B_C01_IGHD	sub_cluster	B_C01_IGHD	51	3800	0.013421052631579	P15-pre-T
+GSE235863_CD45	P15	PD, non-responder	non_responder	liver tumor	pre-treatment	B	B_C02_CD27	sub_cluster	B_C02_CD27	140	3800	0.0368421052631579	P15-pre-T
+GSE235863_CD45	P15	PD, non-responder	non_responder	liver tumor	pre-treatment	CD4T	CD4_C01_CCR7	sub_cluster	CD4_C01_CCR7	151	3800	0.0397368421052632	P15-pre-T
+GSE235863_CD45	P15	PD, non-responder	non_responder	liver tumor	pre-treatment	CD4T	CD4_C02_IL7R	sub_cluster	CD4_C02_IL7R	14	3800	0.00368421052631579	P15-pre-T
+GSE235863_CD45	P15	PD, non-responder	non_responder	liver tumor	pre-treatment	CD4T	CD4_C03_CD44	sub_cluster	CD4_C03_CD44	257	3800	0.0676315789473684	P15-pre-T
+GSE235863_CD45	P15	PD, non-responder	non_responder	liver tumor	pre-treatment	CD4T	CD4_C04_GZMK	sub_cluster	CD4_C04_GZMK	740	3800	0.194736842105263	P15-pre-T
+GSE235863_CD45	P15	PD, non-responder	non_responder	liver tumor	pre-treatment	CD4T	CD4_C05_GNLY	sub_cluster	CD4_C05_GNLY	14	3800	0.00368421052631579	P15-pre-T
+GSE235863_CD45	P15	PD, non-responder	non_responder	liver tumor	pre-treatment	CD4T	CD4_C06_CXCL13	sub_cluster	CD4_C06_CXCL13	47	3800	0.0123684210526316	P15-pre-T
+GSE235863_CD45	P15	PD, non-responder	non_responder	liver tumor	pre-treatment	CD4T	CD4_C07_CTLA4	sub_cluster	CD4_C07_CTLA4	56	3800	0.0147368421052632	P15-pre-T
+GSE235863_CD45	P15	PD, non-responder	non_responder	liver tumor	pre-treatment	CD4T	CD4_C08_FOXP3	sub_cluster	CD4_C08_FOXP3	12	3800	0.00315789473684211	P15-pre-T
+GSE235863_CD45	P15	PD, non-responder	non_responder	liver tumor	pre-treatment	CD4T	CD4_C09_MKI67	sub_cluster	CD4_C09_MKI67	5	3800	0.00131578947368421	P15-pre-T
+GSE235863_CD45	P15	PD, non-responder	non_responder	liver tumor	pre-treatment	CD8T	CD8_C01_LEF1	sub_cluster	CD8_C01_LEF1	14	3800	0.00368421052631579	P15-pre-T
+GSE235863_CD45	P15	PD, non-responder	non_responder	liver tumor	pre-treatment	CD8T	CD8_C02_GPR183	sub_cluster	CD8_C02_GPR183	17	3800	0.00447368421052632	P15-pre-T
+GSE235863_CD45	P15	PD, non-responder	non_responder	liver tumor	pre-treatment	CD8T	CD8_C03_CX3CR1	sub_cluster	CD8_C03_CX3CR1	30	3800	0.00789473684210526	P15-pre-T
+GSE235863_CD45	P15	PD, non-responder	non_responder	liver tumor	pre-treatment	CD8T	CD8_C04_GIMAP4	sub_cluster	CD8_C04_GIMAP4	7	3800	0.0018421052631579	P15-pre-T
+GSE235863_CD45	P15	PD, non-responder	non_responder	liver tumor	pre-treatment	CD8T	CD8_C05_TCF7	sub_cluster	CD8_C05_TCF7	49	3800	0.0128947368421053	P15-pre-T
+GSE235863_CD45	P15	PD, non-responder	non_responder	liver tumor	pre-treatment	CD8T	CD8_C06_KIR2DL3	sub_cluster	CD8_C06_KIR2DL3	3	3800	0.000789473684210526	P15-pre-T
+GSE235863_CD45	P15	PD, non-responder	non_responder	liver tumor	pre-treatment	CD8T	CD8_C07_KLRC2	sub_cluster	CD8_C07_KLRC2	52	3800	0.0136842105263158	P15-pre-T
+GSE235863_CD45	P15	PD, non-responder	non_responder	liver tumor	pre-treatment	CD8T	CD8_C08_GZMK	sub_cluster	CD8_C08_GZMK	787	3800	0.207105263157895	P15-pre-T
+GSE235863_CD45	P15	PD, non-responder	non_responder	liver tumor	pre-treatment	CD8T	CD8_C09_LAYN	sub_cluster	CD8_C09_LAYN	114	3800	0.03	P15-pre-T
+GSE235863_CD45	P15	PD, non-responder	non_responder	liver tumor	pre-treatment	CD8T	CD8_C10_SLC4A10	sub_cluster	CD8_C10_SLC4A10	153	3800	0.0402631578947368	P15-pre-T
+GSE235863_CD45	P15	PD, non-responder	non_responder	liver tumor	pre-treatment	CD8T	CD8_C11_MKI67	sub_cluster	CD8_C11_MKI67	4	3800	0.00105263157894737	P15-pre-T
+GSE235863_CD45	P15	PD, non-responder	non_responder	liver tumor	pre-treatment	ILC2	ILC2	sub_cluster	ILC2	14	3800	0.00368421052631579	P15-pre-T
+GSE235863_CD45	P15	PD, non-responder	non_responder	liver tumor	pre-treatment	ILC3	ILC3	sub_cluster	ILC3	7	3800	0.0018421052631579	P15-pre-T
+GSE235863_CD45	P15	PD, non-responder	non_responder	liver tumor	pre-treatment	LAMP3+ DC	LAMP3+ DC	sub_cluster	LAMP3+ DC	2	3800	0.000526315789473684	P15-pre-T
+GSE235863_CD45	P15	PD, non-responder	non_responder	liver tumor	pre-treatment	Macro	Macro_C01_FCN1	sub_cluster	Macro_C01_FCN1	57	3800	0.015	P15-pre-T
+GSE235863_CD45	P15	PD, non-responder	non_responder	liver tumor	pre-treatment	Macro	Macro_C02_C1QC	sub_cluster	Macro_C02_C1QC	61	3800	0.0160526315789474	P15-pre-T
+GSE235863_CD45	P15	PD, non-responder	non_responder	liver tumor	pre-treatment	Macro	Macro_C03_TREM2	sub_cluster	Macro_C03_TREM2	15	3800	0.00394736842105263	P15-pre-T
+GSE235863_CD45	P15	PD, non-responder	non_responder	liver tumor	pre-treatment	Macro	Macro_C04_IL1B	sub_cluster	Macro_C04_IL1B	96	3800	0.0252631578947368	P15-pre-T
+GSE235863_CD45	P15	PD, non-responder	non_responder	liver tumor	pre-treatment	Mast	Mast	sub_cluster	Mast	12	3800	0.00315789473684211	P15-pre-T
+GSE235863_CD45	P15	PD, non-responder	non_responder	liver tumor	pre-treatment	Mono	Mono_C01_FCGR3A	sub_cluster	Mono_C01_FCGR3A	23	3800	0.00605263157894737	P15-pre-T
+GSE235863_CD45	P15	PD, non-responder	non_responder	liver tumor	pre-treatment	Mono	Mono_C02_CD14	sub_cluster	Mono_C02_CD14	9	3800	0.00236842105263158	P15-pre-T
+GSE235863_CD45	P15	PD, non-responder	non_responder	liver tumor	pre-treatment	Mono	Mono_C03_ITGA5	sub_cluster	Mono_C03_ITGA5	4	3800	0.00105263157894737	P15-pre-T
+GSE235863_CD45	P15	PD, non-responder	non_responder	liver tumor	pre-treatment	NK	NK_C01_FCGR3A	sub_cluster	NK_C01_FCGR3A	194	3800	0.0510526315789474	P15-pre-T
+GSE235863_CD45	P15	PD, non-responder	non_responder	liver tumor	pre-treatment	NK	NK_C02_SELL	sub_cluster	NK_C02_SELL	16	3800	0.00421052631578947	P15-pre-T
+GSE235863_CD45	P15	PD, non-responder	non_responder	liver tumor	pre-treatment	NK	NK_C03_GZMK	sub_cluster	NK_C03_GZMK	346	3800	0.0910526315789474	P15-pre-T
+GSE235863_CD45	P15	PD, non-responder	non_responder	liver tumor	pre-treatment	NK	NK_C04_MKI67	sub_cluster	NK_C04_MKI67	5	3800	0.00131578947368421	P15-pre-T
+GSE235863_CD45	P15	PD, non-responder	non_responder	liver tumor	pre-treatment	Plasma	Plasma_C02_SDC1	sub_cluster	Plasma_C02_SDC1	8	3800	0.00210526315789474	P15-pre-T
+GSE235863_CD45	P15	PD, non-responder	non_responder	liver tumor	pre-treatment	Plasma	Plasma_C03_SDC1_HSPA1A	sub_cluster	Plasma_C03_SDC1_HSPA1A	5	3800	0.00131578947368421	P15-pre-T
+GSE235863_CD45	P15	PD, non-responder	non_responder	liver tumor	pre-treatment	cDC1	cDC1	sub_cluster	cDC1	34	3800	0.00894736842105263	P15-pre-T
+GSE235863_CD45	P15	PD, non-responder	non_responder	liver tumor	pre-treatment	cDC2	cDC2_C01_CD1C	sub_cluster	cDC2_C01_CD1C	126	3800	0.0331578947368421	P15-pre-T
+GSE235863_CD45	P15	PD, non-responder	non_responder	liver tumor	pre-treatment	cDC2	cDC2_C02_MKI67	sub_cluster	cDC2_C02_MKI67	6	3800	0.00157894736842105	P15-pre-T
+GSE235863_CD45	P15	PD, non-responder	non_responder	liver tumor	pre-treatment	gdT	gdT_C02_GZMK	sub_cluster	gdT_C02_GZMK	27	3800	0.00710526315789474	P15-pre-T
+GSE235863_CD45	P15	PD, non-responder	non_responder	liver tumor	pre-treatment	gdT	gdT_C03_KLRG1	sub_cluster	gdT_C03_KLRG1	1	3800	0.000263157894736842	P15-pre-T
+GSE235863_CD45	P15	PD, non-responder	non_responder	liver tumor	pre-treatment	pDC	pDC	sub_cluster	pDC	15	3800	0.00394736842105263	P15-pre-T
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	blood	post-treatment	B	B_C01_IGHD	sub_cluster	B_C01_IGHD	736	8230	0.0894289185905225	P18-post-P
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	blood	post-treatment	B	B_C02_CD27	sub_cluster	B_C02_CD27	149	8230	0.0181044957472661	P18-post-P
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	blood	post-treatment	CD4T	CD4_C01_CCR7	sub_cluster	CD4_C01_CCR7	843	8230	0.102430133657351	P18-post-P
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	blood	post-treatment	CD4T	CD4_C02_IL7R	sub_cluster	CD4_C02_IL7R	375	8230	0.0455650060753341	P18-post-P
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	blood	post-treatment	CD4T	CD4_C03_CD44	sub_cluster	CD4_C03_CD44	15	8230	0.00182260024301337	P18-post-P
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	blood	post-treatment	CD4T	CD4_C04_GZMK	sub_cluster	CD4_C04_GZMK	420	8230	0.0510328068043742	P18-post-P
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	blood	post-treatment	CD4T	CD4_C05_GNLY	sub_cluster	CD4_C05_GNLY	304	8230	0.0369380315917375	P18-post-P
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	blood	post-treatment	CD4T	CD4_C06_CXCL13	sub_cluster	CD4_C06_CXCL13	1	8230	0.000121506682867558	P18-post-P
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	blood	post-treatment	CD4T	CD4_C07_CTLA4	sub_cluster	CD4_C07_CTLA4	3	8230	0.000364520048602673	P18-post-P
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	blood	post-treatment	CD4T	CD4_C08_FOXP3	sub_cluster	CD4_C08_FOXP3	160	8230	0.0194410692588092	P18-post-P
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	blood	post-treatment	CD4T	CD4_C09_MKI67	sub_cluster	CD4_C09_MKI67	4	8230	0.000486026731470231	P18-post-P
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	blood	post-treatment	CD8T	CD8_C01_LEF1	sub_cluster	CD8_C01_LEF1	260	8230	0.031591737545565	P18-post-P
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	blood	post-treatment	CD8T	CD8_C02_GPR183	sub_cluster	CD8_C02_GPR183	5	8230	0.000607533414337789	P18-post-P
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	blood	post-treatment	CD8T	CD8_C03_CX3CR1	sub_cluster	CD8_C03_CX3CR1	988	8230	0.120048602673147	P18-post-P
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	blood	post-treatment	CD8T	CD8_C04_GIMAP4	sub_cluster	CD8_C04_GIMAP4	63	8230	0.00765492102065614	P18-post-P
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	blood	post-treatment	CD8T	CD8_C05_TCF7	sub_cluster	CD8_C05_TCF7	5	8230	0.000607533414337789	P18-post-P
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	blood	post-treatment	CD8T	CD8_C06_KIR2DL3	sub_cluster	CD8_C06_KIR2DL3	474	8230	0.0575941676792224	P18-post-P
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	blood	post-treatment	CD8T	CD8_C08_GZMK	sub_cluster	CD8_C08_GZMK	197	8230	0.0239368165249089	P18-post-P
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	blood	post-treatment	CD8T	CD8_C09_LAYN	sub_cluster	CD8_C09_LAYN	4	8230	0.000486026731470231	P18-post-P
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	blood	post-treatment	CD8T	CD8_C10_SLC4A10	sub_cluster	CD8_C10_SLC4A10	110	8230	0.0133657351154314	P18-post-P
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	blood	post-treatment	CD8T	CD8_C11_MKI67	sub_cluster	CD8_C11_MKI67	1	8230	0.000121506682867558	P18-post-P
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	blood	post-treatment	ILC2	ILC2	sub_cluster	ILC2	4	8230	0.000486026731470231	P18-post-P
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	blood	post-treatment	ILC3	ILC3	sub_cluster	ILC3	1	8230	0.000121506682867558	P18-post-P
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	blood	post-treatment	Macro	Macro_C01_FCN1	sub_cluster	Macro_C01_FCN1	2	8230	0.000243013365735115	P18-post-P
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	blood	post-treatment	Macro	Macro_C02_C1QC	sub_cluster	Macro_C02_C1QC	1	8230	0.000121506682867558	P18-post-P
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	blood	post-treatment	Macro	Macro_C04_IL1B	sub_cluster	Macro_C04_IL1B	1	8230	0.000121506682867558	P18-post-P
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	blood	post-treatment	Megakaryocyte	Megakaryocyte	sub_cluster	Megakaryocyte	4	8230	0.000486026731470231	P18-post-P
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	blood	post-treatment	Mono	Mono_C01_FCGR3A	sub_cluster	Mono_C01_FCGR3A	91	8230	0.0110571081409478	P18-post-P
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	blood	post-treatment	Mono	Mono_C02_CD14	sub_cluster	Mono_C02_CD14	920	8230	0.111786148238153	P18-post-P
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	blood	post-treatment	Mono	Mono_C03_ITGA5	sub_cluster	Mono_C03_ITGA5	3	8230	0.000364520048602673	P18-post-P
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	blood	post-treatment	NKT-like	NKT-like	sub_cluster	NKT-like	129	8230	0.0156743620899149	P18-post-P
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	blood	post-treatment	NK	NK_C01_FCGR3A	sub_cluster	NK_C01_FCGR3A	1652	8230	0.200729040097205	P18-post-P
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	blood	post-treatment	NK	NK_C02_SELL	sub_cluster	NK_C02_SELL	66	8230	0.00801944106925881	P18-post-P
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	blood	post-treatment	NK	NK_C03_GZMK	sub_cluster	NK_C03_GZMK	1	8230	0.000121506682867558	P18-post-P
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	blood	post-treatment	NK	NK_C04_MKI67	sub_cluster	NK_C04_MKI67	7	8230	0.000850546780072904	P18-post-P
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	blood	post-treatment	Plasma	Plasma_C01_CD52	sub_cluster	Plasma_C01_CD52	50	8230	0.00607533414337789	P18-post-P
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	blood	post-treatment	Plasma	Plasma_C02_SDC1	sub_cluster	Plasma_C02_SDC1	1	8230	0.000121506682867558	P18-post-P
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	blood	post-treatment	Plasma	Plasma_C03_SDC1_HSPA1A	sub_cluster	Plasma_C03_SDC1_HSPA1A	4	8230	0.000486026731470231	P18-post-P
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	blood	post-treatment	cDC1	cDC1	sub_cluster	cDC1	4	8230	0.000486026731470231	P18-post-P
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	blood	post-treatment	cDC2	cDC2_C01_CD1C	sub_cluster	cDC2_C01_CD1C	5	8230	0.000607533414337789	P18-post-P
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	blood	post-treatment	gdT	gdT_C01_GZMB	sub_cluster	gdT_C01_GZMB	13	8230	0.00157958687727825	P18-post-P
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	blood	post-treatment	gdT	gdT_C03_KLRG1	sub_cluster	gdT_C03_KLRG1	149	8230	0.0181044957472661	P18-post-P
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	blood	post-treatment	pDC	pDC	sub_cluster	pDC	5	8230	0.000607533414337789	P18-post-P
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	blood	pre-treatment	B	B_C01_IGHD	sub_cluster	B_C01_IGHD	513	7569	0.0677764565992866	P18-pre-P
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	blood	pre-treatment	B	B_C02_CD27	sub_cluster	B_C02_CD27	190	7569	0.0251023913330691	P18-pre-P
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	blood	pre-treatment	CD4T	CD4_C01_CCR7	sub_cluster	CD4_C01_CCR7	373	7569	0.0492799577222883	P18-pre-P
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	blood	pre-treatment	CD4T	CD4_C02_IL7R	sub_cluster	CD4_C02_IL7R	1736	7569	0.229356586074779	P18-pre-P
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	blood	pre-treatment	CD4T	CD4_C03_CD44	sub_cluster	CD4_C03_CD44	9	7569	0.00118906064209275	P18-pre-P
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	blood	pre-treatment	CD4T	CD4_C04_GZMK	sub_cluster	CD4_C04_GZMK	13	7569	0.00171753203857841	P18-pre-P
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	blood	pre-treatment	CD4T	CD4_C05_GNLY	sub_cluster	CD4_C05_GNLY	49	7569	0.0064737746069494	P18-pre-P
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	blood	pre-treatment	CD4T	CD4_C08_FOXP3	sub_cluster	CD4_C08_FOXP3	76	7569	0.0100409565332276	P18-pre-P
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	blood	pre-treatment	CD4T	CD4_C09_MKI67	sub_cluster	CD4_C09_MKI67	1	7569	0.000132117849121416	P18-pre-P
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	blood	pre-treatment	CD8T	CD8_C01_LEF1	sub_cluster	CD8_C01_LEF1	232	7569	0.0306513409961686	P18-pre-P
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	blood	pre-treatment	CD8T	CD8_C02_GPR183	sub_cluster	CD8_C02_GPR183	1	7569	0.000132117849121416	P18-pre-P
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	blood	pre-treatment	CD8T	CD8_C03_CX3CR1	sub_cluster	CD8_C03_CX3CR1	885	7569	0.116924296472453	P18-pre-P
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	blood	pre-treatment	CD8T	CD8_C04_GIMAP4	sub_cluster	CD8_C04_GIMAP4	377	7569	0.0498084291187739	P18-pre-P
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	blood	pre-treatment	CD8T	CD8_C06_KIR2DL3	sub_cluster	CD8_C06_KIR2DL3	362	7569	0.0478266613819527	P18-pre-P
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	blood	pre-treatment	CD8T	CD8_C08_GZMK	sub_cluster	CD8_C08_GZMK	42	7569	0.00554894966309949	P18-pre-P
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	blood	pre-treatment	CD8T	CD8_C10_SLC4A10	sub_cluster	CD8_C10_SLC4A10	146	7569	0.0192892059717268	P18-pre-P
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	blood	pre-treatment	Macro	Macro_C03_TREM2	sub_cluster	Macro_C03_TREM2	1	7569	0.000132117849121416	P18-pre-P
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	blood	pre-treatment	Mono	Mono_C01_FCGR3A	sub_cluster	Mono_C01_FCGR3A	228	7569	0.0301228695996829	P18-pre-P
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	blood	pre-treatment	Mono	Mono_C02_CD14	sub_cluster	Mono_C02_CD14	1436	7569	0.189721231338354	P18-pre-P
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	blood	pre-treatment	Mono	Mono_C03_ITGA5	sub_cluster	Mono_C03_ITGA5	2	7569	0.000264235698242833	P18-pre-P
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	blood	pre-treatment	NKT-like	NKT-like	sub_cluster	NKT-like	98	7569	0.0129475492138988	P18-pre-P
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	blood	pre-treatment	NK	NK_C01_FCGR3A	sub_cluster	NK_C01_FCGR3A	608	7569	0.0803276522658211	P18-pre-P
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	blood	pre-treatment	NK	NK_C02_SELL	sub_cluster	NK_C02_SELL	17	7569	0.00224600343506408	P18-pre-P
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	blood	pre-treatment	NK	NK_C04_MKI67	sub_cluster	NK_C04_MKI67	6	7569	0.000792707094728498	P18-pre-P
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	blood	pre-treatment	Plasma	Plasma_C01_CD52	sub_cluster	Plasma_C01_CD52	7	7569	0.000924824943849914	P18-pre-P
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	blood	pre-treatment	Plasma	Plasma_C02_SDC1	sub_cluster	Plasma_C02_SDC1	1	7569	0.000132117849121416	P18-pre-P
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	blood	pre-treatment	cDC1	cDC1	sub_cluster	cDC1	9	7569	0.00118906064209275	P18-pre-P
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	blood	pre-treatment	cDC2	cDC2_C01_CD1C	sub_cluster	cDC2_C01_CD1C	53	7569	0.00700224600343506	P18-pre-P
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	blood	pre-treatment	gdT	gdT_C03_KLRG1	sub_cluster	gdT_C03_KLRG1	94	7569	0.0124190778174131	P18-pre-P
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	blood	pre-treatment	pDC	pDC	sub_cluster	pDC	4	7569	0.000528471396485665	P18-pre-P
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	liver tumor	post-treatment	B	B_C01_IGHD	sub_cluster	B_C01_IGHD	96	7033	0.0136499360159249	P18-post-T
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	liver tumor	post-treatment	B	B_C02_CD27	sub_cluster	B_C02_CD27	727	7033	0.103369827953931	P18-post-T
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	liver tumor	post-treatment	CD4T	CD4_C01_CCR7	sub_cluster	CD4_C01_CCR7	88	7033	0.0125124413479312	P18-post-T
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	liver tumor	post-treatment	CD4T	CD4_C02_IL7R	sub_cluster	CD4_C02_IL7R	4	7033	0.000568747333996872	P18-post-T
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	liver tumor	post-treatment	CD4T	CD4_C03_CD44	sub_cluster	CD4_C03_CD44	341	7033	0.0484857102232333	P18-post-T
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	liver tumor	post-treatment	CD4T	CD4_C04_GZMK	sub_cluster	CD4_C04_GZMK	283	7033	0.0402388738802787	P18-post-T
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	liver tumor	post-treatment	CD4T	CD4_C05_GNLY	sub_cluster	CD4_C05_GNLY	3	7033	0.000426560500497654	P18-post-T
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	liver tumor	post-treatment	CD4T	CD4_C06_CXCL13	sub_cluster	CD4_C06_CXCL13	626	7033	0.0890089577705104	P18-post-T
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	liver tumor	post-treatment	CD4T	CD4_C07_CTLA4	sub_cluster	CD4_C07_CTLA4	218	7033	0.0309967297028295	P18-post-T
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	liver tumor	post-treatment	CD4T	CD4_C08_FOXP3	sub_cluster	CD4_C08_FOXP3	22	7033	0.0031281103369828	P18-post-T
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	liver tumor	post-treatment	CD8T	CD8_C01_LEF1	sub_cluster	CD8_C01_LEF1	9	7033	0.00127968150149296	P18-post-T
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	liver tumor	post-treatment	CD8T	CD8_C02_GPR183	sub_cluster	CD8_C02_GPR183	3	7033	0.000426560500497654	P18-post-T
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	liver tumor	post-treatment	CD8T	CD8_C03_CX3CR1	sub_cluster	CD8_C03_CX3CR1	10	7033	0.00142186833499218	P18-post-T
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	liver tumor	post-treatment	CD8T	CD8_C04_GIMAP4	sub_cluster	CD8_C04_GIMAP4	4	7033	0.000568747333996872	P18-post-T
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	liver tumor	post-treatment	CD8T	CD8_C05_TCF7	sub_cluster	CD8_C05_TCF7	115	7033	0.0163514858524101	P18-post-T
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	liver tumor	post-treatment	CD8T	CD8_C06_KIR2DL3	sub_cluster	CD8_C06_KIR2DL3	5	7033	0.00071093416749609	P18-post-T
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	liver tumor	post-treatment	CD8T	CD8_C07_KLRC2	sub_cluster	CD8_C07_KLRC2	46	7033	0.00654059434096403	P18-post-T
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	liver tumor	post-treatment	CD8T	CD8_C08_GZMK	sub_cluster	CD8_C08_GZMK	1905	7033	0.27086591781601	P18-post-T
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	liver tumor	post-treatment	CD8T	CD8_C09_LAYN	sub_cluster	CD8_C09_LAYN	412	7033	0.0585809754016778	P18-post-T
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	liver tumor	post-treatment	CD8T	CD8_C10_SLC4A10	sub_cluster	CD8_C10_SLC4A10	451	7033	0.0641262619081473	P18-post-T
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	liver tumor	post-treatment	CD8T	CD8_C11_MKI67	sub_cluster	CD8_C11_MKI67	4	7033	0.000568747333996872	P18-post-T
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	liver tumor	post-treatment	ILC2	ILC2	sub_cluster	ILC2	4	7033	0.000568747333996872	P18-post-T
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	liver tumor	post-treatment	ILC3	ILC3	sub_cluster	ILC3	4	7033	0.000568747333996872	P18-post-T
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	liver tumor	post-treatment	Macro	Macro_C01_FCN1	sub_cluster	Macro_C01_FCN1	29	7033	0.00412341817147732	P18-post-T
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	liver tumor	post-treatment	Macro	Macro_C02_C1QC	sub_cluster	Macro_C02_C1QC	4	7033	0.000568747333996872	P18-post-T
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	liver tumor	post-treatment	Macro	Macro_C03_TREM2	sub_cluster	Macro_C03_TREM2	7	7033	0.000995307834494526	P18-post-T
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	liver tumor	post-treatment	Mast	Mast	sub_cluster	Mast	1	7033	0.000142186833499218	P18-post-T
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	liver tumor	post-treatment	Mono	Mono_C01_FCGR3A	sub_cluster	Mono_C01_FCGR3A	3	7033	0.000426560500497654	P18-post-T
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	liver tumor	post-treatment	Mono	Mono_C02_CD14	sub_cluster	Mono_C02_CD14	3	7033	0.000426560500497654	P18-post-T
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	liver tumor	post-treatment	Mono	Mono_C03_ITGA5	sub_cluster	Mono_C03_ITGA5	1	7033	0.000142186833499218	P18-post-T
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	liver tumor	post-treatment	NK	NK_C01_FCGR3A	sub_cluster	NK_C01_FCGR3A	22	7033	0.0031281103369828	P18-post-T
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	liver tumor	post-treatment	NK	NK_C02_SELL	sub_cluster	NK_C02_SELL	1	7033	0.000142186833499218	P18-post-T
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	liver tumor	post-treatment	NK	NK_C03_GZMK	sub_cluster	NK_C03_GZMK	142	7033	0.020190530356889	P18-post-T
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	liver tumor	post-treatment	Plasma	Plasma_C01_CD52	sub_cluster	Plasma_C01_CD52	6	7033	0.000853121000995308	P18-post-T
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	liver tumor	post-treatment	Plasma	Plasma_C02_SDC1	sub_cluster	Plasma_C02_SDC1	1277	7033	0.181572586378501	P18-post-T
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	liver tumor	post-treatment	Plasma	Plasma_C03_SDC1_HSPA1A	sub_cluster	Plasma_C03_SDC1_HSPA1A	130	7033	0.0184842883548983	P18-post-T
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	liver tumor	post-treatment	cDC1	cDC1	sub_cluster	cDC1	1	7033	0.000142186833499218	P18-post-T
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	liver tumor	post-treatment	cDC2	cDC2_C01_CD1C	sub_cluster	cDC2_C01_CD1C	7	7033	0.000995307834494526	P18-post-T
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	liver tumor	post-treatment	gdT	gdT_C01_GZMB	sub_cluster	gdT_C01_GZMB	1	7033	0.000142186833499218	P18-post-T
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	liver tumor	post-treatment	gdT	gdT_C02_GZMK	sub_cluster	gdT_C02_GZMK	17	7033	0.00241717616948671	P18-post-T
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	liver tumor	post-treatment	pDC	pDC	sub_cluster	pDC	1	7033	0.000142186833499218	P18-post-T
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	liver tumor	pre-treatment	B	B_C01_IGHD	sub_cluster	B_C01_IGHD	206	8873	0.0232164994928435	P18-pre-T
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	liver tumor	pre-treatment	B	B_C02_CD27	sub_cluster	B_C02_CD27	1592	8873	0.179420714527217	P18-pre-T
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	liver tumor	pre-treatment	CD4T	CD4_C01_CCR7	sub_cluster	CD4_C01_CCR7	17	8873	0.00191592471542883	P18-pre-T
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	liver tumor	pre-treatment	CD4T	CD4_C02_IL7R	sub_cluster	CD4_C02_IL7R	46	8873	0.00518426687704271	P18-pre-T
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	liver tumor	pre-treatment	CD4T	CD4_C03_CD44	sub_cluster	CD4_C03_CD44	6	8873	0.000676208723092528	P18-pre-T
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	liver tumor	pre-treatment	CD4T	CD4_C04_GZMK	sub_cluster	CD4_C04_GZMK	599	8873	0.067508170855404	P18-pre-T
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	liver tumor	pre-treatment	CD4T	CD4_C05_GNLY	sub_cluster	CD4_C05_GNLY	4	8873	0.000450805815395019	P18-pre-T
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	liver tumor	pre-treatment	CD4T	CD4_C06_CXCL13	sub_cluster	CD4_C06_CXCL13	271	8873	0.0305420939930125	P18-pre-T
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	liver tumor	pre-treatment	CD4T	CD4_C07_CTLA4	sub_cluster	CD4_C07_CTLA4	1342	8873	0.151245351065029	P18-pre-T
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	liver tumor	pre-treatment	CD4T	CD4_C08_FOXP3	sub_cluster	CD4_C08_FOXP3	13	8873	0.00146511890003381	P18-pre-T
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	liver tumor	pre-treatment	CD4T	CD4_C09_MKI67	sub_cluster	CD4_C09_MKI67	37	8873	0.00416995379240392	P18-pre-T
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	liver tumor	pre-treatment	CD8T	CD8_C01_LEF1	sub_cluster	CD8_C01_LEF1	7	8873	0.000788910176941283	P18-pre-T
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	liver tumor	pre-treatment	CD8T	CD8_C03_CX3CR1	sub_cluster	CD8_C03_CX3CR1	456	8873	0.0513918629550321	P18-pre-T
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	liver tumor	pre-treatment	CD8T	CD8_C04_GIMAP4	sub_cluster	CD8_C04_GIMAP4	4	8873	0.000450805815395019	P18-pre-T
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	liver tumor	pre-treatment	CD8T	CD8_C07_KLRC2	sub_cluster	CD8_C07_KLRC2	23	8873	0.00259213343852136	P18-pre-T
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	liver tumor	pre-treatment	CD8T	CD8_C08_GZMK	sub_cluster	CD8_C08_GZMK	297	8873	0.0334723317930801	P18-pre-T
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	liver tumor	pre-treatment	CD8T	CD8_C09_LAYN	sub_cluster	CD8_C09_LAYN	492	8873	0.0554491152935873	P18-pre-T
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	liver tumor	pre-treatment	CD8T	CD8_C10_SLC4A10	sub_cluster	CD8_C10_SLC4A10	267	8873	0.0300912881776175	P18-pre-T
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	liver tumor	pre-treatment	CD8T	CD8_C11_MKI67	sub_cluster	CD8_C11_MKI67	16	8873	0.00180322326158007	P18-pre-T
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	liver tumor	pre-treatment	ILC2	ILC2	sub_cluster	ILC2	211	8873	0.0237800067620872	P18-pre-T
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	liver tumor	pre-treatment	ILC3	ILC3	sub_cluster	ILC3	57	8873	0.00642398286937902	P18-pre-T
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	liver tumor	pre-treatment	Macro	Macro_C01_FCN1	sub_cluster	Macro_C01_FCN1	21	8873	0.00236673053082385	P18-pre-T
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	liver tumor	pre-treatment	Macro	Macro_C02_C1QC	sub_cluster	Macro_C02_C1QC	351	8873	0.0395582103009129	P18-pre-T
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	liver tumor	pre-treatment	Macro	Macro_C03_TREM2	sub_cluster	Macro_C03_TREM2	388	8873	0.0437281640933168	P18-pre-T
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	liver tumor	pre-treatment	Macro	Macro_C04_IL1B	sub_cluster	Macro_C04_IL1B	1	8873	0.000112701453848755	P18-pre-T
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	liver tumor	pre-treatment	Mast	Mast	sub_cluster	Mast	127	8873	0.0143130846387918	P18-pre-T
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	liver tumor	pre-treatment	Mono	Mono_C01_FCGR3A	sub_cluster	Mono_C01_FCGR3A	6	8873	0.000676208723092528	P18-pre-T
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	liver tumor	pre-treatment	Mono	Mono_C02_CD14	sub_cluster	Mono_C02_CD14	2	8873	0.000225402907697509	P18-pre-T
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	liver tumor	pre-treatment	NKT-like	NKT-like	sub_cluster	NKT-like	1	8873	0.000112701453848755	P18-pre-T
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	liver tumor	pre-treatment	NK	NK_C01_FCGR3A	sub_cluster	NK_C01_FCGR3A	485	8873	0.054660205116646	P18-pre-T
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	liver tumor	pre-treatment	NK	NK_C02_SELL	sub_cluster	NK_C02_SELL	57	8873	0.00642398286937902	P18-pre-T
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	liver tumor	pre-treatment	NK	NK_C03_GZMK	sub_cluster	NK_C03_GZMK	141	8873	0.0158909049926744	P18-pre-T
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	liver tumor	pre-treatment	NK	NK_C04_MKI67	sub_cluster	NK_C04_MKI67	9	8873	0.00101431308463879	P18-pre-T
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	liver tumor	pre-treatment	Plasma	Plasma_C01_CD52	sub_cluster	Plasma_C01_CD52	38	8873	0.00428265524625268	P18-pre-T
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	liver tumor	pre-treatment	Plasma	Plasma_C02_SDC1	sub_cluster	Plasma_C02_SDC1	83	8873	0.00935422066944663	P18-pre-T
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	liver tumor	pre-treatment	Plasma	Plasma_C03_SDC1_HSPA1A	sub_cluster	Plasma_C03_SDC1_HSPA1A	1030	8873	0.116082497464217	P18-pre-T
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	liver tumor	pre-treatment	cDC1	cDC1	sub_cluster	cDC1	31	8873	0.00349374506931139	P18-pre-T
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	liver tumor	pre-treatment	cDC2	cDC2_C01_CD1C	sub_cluster	cDC2_C01_CD1C	101	8873	0.0113828468387242	P18-pre-T
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	liver tumor	pre-treatment	cDC2	cDC2_C02_MKI67	sub_cluster	cDC2_C02_MKI67	14	8873	0.00157782035388257	P18-pre-T
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	liver tumor	pre-treatment	gdT	gdT_C02_GZMK	sub_cluster	gdT_C02_GZMK	14	8873	0.00157782035388257	P18-pre-T
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	liver tumor	pre-treatment	gdT	gdT_C03_KLRG1	sub_cluster	gdT_C03_KLRG1	2	8873	0.000225402907697509	P18-pre-T
+GSE235863_CD45	P18	CR, responder|PR, responder	responder	liver tumor	pre-treatment	pDC	pDC	sub_cluster	pDC	8	8873	0.000901611630790037	P18-pre-T
+GSE235863_CD45	P26	PD, non-responder	non_responder	blood	post-treatment	B	B_C01_IGHD	sub_cluster	B_C01_IGHD	418	5267	0.0793620656920448	P26-post-P
+GSE235863_CD45	P26	PD, non-responder	non_responder	blood	post-treatment	B	B_C02_CD27	sub_cluster	B_C02_CD27	62	5267	0.0117714068729827	P26-post-P
+GSE235863_CD45	P26	PD, non-responder	non_responder	blood	post-treatment	CD4T	CD4_C01_CCR7	sub_cluster	CD4_C01_CCR7	432	5267	0.0820201253085248	P26-post-P
+GSE235863_CD45	P26	PD, non-responder	non_responder	blood	post-treatment	CD4T	CD4_C02_IL7R	sub_cluster	CD4_C02_IL7R	30	5267	0.00569584203531422	P26-post-P
+GSE235863_CD45	P26	PD, non-responder	non_responder	blood	post-treatment	CD4T	CD4_C03_CD44	sub_cluster	CD4_C03_CD44	25	5267	0.00474653502942852	P26-post-P
+GSE235863_CD45	P26	PD, non-responder	non_responder	blood	post-treatment	CD4T	CD4_C04_GZMK	sub_cluster	CD4_C04_GZMK	25	5267	0.00474653502942852	P26-post-P
+GSE235863_CD45	P26	PD, non-responder	non_responder	blood	post-treatment	CD4T	CD4_C05_GNLY	sub_cluster	CD4_C05_GNLY	7	5267	0.00132902980823998	P26-post-P
+GSE235863_CD45	P26	PD, non-responder	non_responder	blood	post-treatment	CD4T	CD4_C06_CXCL13	sub_cluster	CD4_C06_CXCL13	3	5267	0.000569584203531422	P26-post-P
+GSE235863_CD45	P26	PD, non-responder	non_responder	blood	post-treatment	CD4T	CD4_C07_CTLA4	sub_cluster	CD4_C07_CTLA4	5	5267	0.000949307005885703	P26-post-P
+GSE235863_CD45	P26	PD, non-responder	non_responder	blood	post-treatment	CD4T	CD4_C08_FOXP3	sub_cluster	CD4_C08_FOXP3	123	5267	0.0233529523447883	P26-post-P
+GSE235863_CD45	P26	PD, non-responder	non_responder	blood	post-treatment	CD4T	CD4_C09_MKI67	sub_cluster	CD4_C09_MKI67	6	5267	0.00113916840706284	P26-post-P
+GSE235863_CD45	P26	PD, non-responder	non_responder	blood	post-treatment	CD8T	CD8_C01_LEF1	sub_cluster	CD8_C01_LEF1	690	5267	0.131004366812227	P26-post-P
+GSE235863_CD45	P26	PD, non-responder	non_responder	blood	post-treatment	CD8T	CD8_C02_GPR183	sub_cluster	CD8_C02_GPR183	12	5267	0.00227833681412569	P26-post-P
+GSE235863_CD45	P26	PD, non-responder	non_responder	blood	post-treatment	CD8T	CD8_C03_CX3CR1	sub_cluster	CD8_C03_CX3CR1	187	5267	0.0355040820201253	P26-post-P
+GSE235863_CD45	P26	PD, non-responder	non_responder	blood	post-treatment	CD8T	CD8_C04_GIMAP4	sub_cluster	CD8_C04_GIMAP4	1	5267	0.000189861401177141	P26-post-P
+GSE235863_CD45	P26	PD, non-responder	non_responder	blood	post-treatment	CD8T	CD8_C05_TCF7	sub_cluster	CD8_C05_TCF7	10	5267	0.00189861401177141	P26-post-P
+GSE235863_CD45	P26	PD, non-responder	non_responder	blood	post-treatment	CD8T	CD8_C06_KIR2DL3	sub_cluster	CD8_C06_KIR2DL3	24	5267	0.00455667362825138	P26-post-P
+GSE235863_CD45	P26	PD, non-responder	non_responder	blood	post-treatment	CD8T	CD8_C07_KLRC2	sub_cluster	CD8_C07_KLRC2	3	5267	0.000569584203531422	P26-post-P
+GSE235863_CD45	P26	PD, non-responder	non_responder	blood	post-treatment	CD8T	CD8_C08_GZMK	sub_cluster	CD8_C08_GZMK	28	5267	0.00531611923295994	P26-post-P
+GSE235863_CD45	P26	PD, non-responder	non_responder	blood	post-treatment	CD8T	CD8_C09_LAYN	sub_cluster	CD8_C09_LAYN	4	5267	0.000759445604708563	P26-post-P
+GSE235863_CD45	P26	PD, non-responder	non_responder	blood	post-treatment	CD8T	CD8_C10_SLC4A10	sub_cluster	CD8_C10_SLC4A10	25	5267	0.00474653502942852	P26-post-P
+GSE235863_CD45	P26	PD, non-responder	non_responder	blood	post-treatment	Macro	Macro_C01_FCN1	sub_cluster	Macro_C01_FCN1	3	5267	0.000569584203531422	P26-post-P
+GSE235863_CD45	P26	PD, non-responder	non_responder	blood	post-treatment	Mast	Mast	sub_cluster	Mast	3	5267	0.000569584203531422	P26-post-P
+GSE235863_CD45	P26	PD, non-responder	non_responder	blood	post-treatment	Megakaryocyte	Megakaryocyte	sub_cluster	Megakaryocyte	7	5267	0.00132902980823998	P26-post-P
+GSE235863_CD45	P26	PD, non-responder	non_responder	blood	post-treatment	Mono	Mono_C01_FCGR3A	sub_cluster	Mono_C01_FCGR3A	42	5267	0.00797417884943991	P26-post-P
+GSE235863_CD45	P26	PD, non-responder	non_responder	blood	post-treatment	Mono	Mono_C02_CD14	sub_cluster	Mono_C02_CD14	208	5267	0.0394911714448453	P26-post-P
+GSE235863_CD45	P26	PD, non-responder	non_responder	blood	post-treatment	Mono	Mono_C03_ITGA5	sub_cluster	Mono_C03_ITGA5	341	5267	0.064742737801405	P26-post-P
+GSE235863_CD45	P26	PD, non-responder	non_responder	blood	post-treatment	NKT-like	NKT-like	sub_cluster	NKT-like	11	5267	0.00208847541294855	P26-post-P
+GSE235863_CD45	P26	PD, non-responder	non_responder	blood	post-treatment	NK	NK_C01_FCGR3A	sub_cluster	NK_C01_FCGR3A	2458	5267	0.466679324093412	P26-post-P
+GSE235863_CD45	P26	PD, non-responder	non_responder	blood	post-treatment	NK	NK_C02_SELL	sub_cluster	NK_C02_SELL	32	5267	0.0060755648376685	P26-post-P
+GSE235863_CD45	P26	PD, non-responder	non_responder	blood	post-treatment	NK	NK_C03_GZMK	sub_cluster	NK_C03_GZMK	3	5267	0.000569584203531422	P26-post-P
+GSE235863_CD45	P26	PD, non-responder	non_responder	blood	post-treatment	NK	NK_C04_MKI67	sub_cluster	NK_C04_MKI67	8	5267	0.00151889120941713	P26-post-P
+GSE235863_CD45	P26	PD, non-responder	non_responder	blood	post-treatment	Plasma	Plasma_C01_CD52	sub_cluster	Plasma_C01_CD52	5	5267	0.000949307005885703	P26-post-P
+GSE235863_CD45	P26	PD, non-responder	non_responder	blood	post-treatment	Plasma	Plasma_C03_SDC1_HSPA1A	sub_cluster	Plasma_C03_SDC1_HSPA1A	1	5267	0.000189861401177141	P26-post-P
+GSE235863_CD45	P26	PD, non-responder	non_responder	blood	post-treatment	cDC2	cDC2_C01_CD1C	sub_cluster	cDC2_C01_CD1C	4	5267	0.000759445604708563	P26-post-P
+GSE235863_CD45	P26	PD, non-responder	non_responder	blood	post-treatment	gdT	gdT_C01_GZMB	sub_cluster	gdT_C01_GZMB	3	5267	0.000569584203531422	P26-post-P
+GSE235863_CD45	P26	PD, non-responder	non_responder	blood	post-treatment	gdT	gdT_C02_GZMK	sub_cluster	gdT_C02_GZMK	4	5267	0.000759445604708563	P26-post-P
+GSE235863_CD45	P26	PD, non-responder	non_responder	blood	post-treatment	gdT	gdT_C03_KLRG1	sub_cluster	gdT_C03_KLRG1	11	5267	0.00208847541294855	P26-post-P
+GSE235863_CD45	P26	PD, non-responder	non_responder	blood	post-treatment	pDC	pDC	sub_cluster	pDC	3	5267	0.000569584203531422	P26-post-P
+GSE235863_CD45	P26	PD, non-responder	non_responder	blood	pre-treatment	B	B_C01_IGHD	sub_cluster	B_C01_IGHD	186	3763	0.0494286473558331	P26-pre-P
+GSE235863_CD45	P26	PD, non-responder	non_responder	blood	pre-treatment	B	B_C02_CD27	sub_cluster	B_C02_CD27	63	3763	0.0167419612011693	P26-pre-P
+GSE235863_CD45	P26	PD, non-responder	non_responder	blood	pre-treatment	CD4T	CD4_C01_CCR7	sub_cluster	CD4_C01_CCR7	540	3763	0.143502524581451	P26-pre-P
+GSE235863_CD45	P26	PD, non-responder	non_responder	blood	pre-treatment	CD4T	CD4_C02_IL7R	sub_cluster	CD4_C02_IL7R	42	3763	0.0111613074674462	P26-pre-P
+GSE235863_CD45	P26	PD, non-responder	non_responder	blood	pre-treatment	CD4T	CD4_C03_CD44	sub_cluster	CD4_C03_CD44	103	3763	0.0273717778368323	P26-pre-P
+GSE235863_CD45	P26	PD, non-responder	non_responder	blood	pre-treatment	CD4T	CD4_C04_GZMK	sub_cluster	CD4_C04_GZMK	45	3763	0.0119585437151209	P26-pre-P
+GSE235863_CD45	P26	PD, non-responder	non_responder	blood	pre-treatment	CD4T	CD4_C05_GNLY	sub_cluster	CD4_C05_GNLY	3	3763	0.000797236247674728	P26-pre-P
+GSE235863_CD45	P26	PD, non-responder	non_responder	blood	pre-treatment	CD4T	CD4_C06_CXCL13	sub_cluster	CD4_C06_CXCL13	1	3763	0.000265745415891576	P26-pre-P
+GSE235863_CD45	P26	PD, non-responder	non_responder	blood	pre-treatment	CD4T	CD4_C07_CTLA4	sub_cluster	CD4_C07_CTLA4	2	3763	0.000531490831783152	P26-pre-P
+GSE235863_CD45	P26	PD, non-responder	non_responder	blood	pre-treatment	CD4T	CD4_C08_FOXP3	sub_cluster	CD4_C08_FOXP3	83	3763	0.0220568695190008	P26-pre-P
+GSE235863_CD45	P26	PD, non-responder	non_responder	blood	pre-treatment	CD4T	CD4_C09_MKI67	sub_cluster	CD4_C09_MKI67	5	3763	0.00132872707945788	P26-pre-P
+GSE235863_CD45	P26	PD, non-responder	non_responder	blood	pre-treatment	CD8T	CD8_C01_LEF1	sub_cluster	CD8_C01_LEF1	666	3763	0.17698644698379	P26-pre-P
+GSE235863_CD45	P26	PD, non-responder	non_responder	blood	pre-treatment	CD8T	CD8_C02_GPR183	sub_cluster	CD8_C02_GPR183	23	3763	0.00611214456550625	P26-pre-P
+GSE235863_CD45	P26	PD, non-responder	non_responder	blood	pre-treatment	CD8T	CD8_C03_CX3CR1	sub_cluster	CD8_C03_CX3CR1	40	3763	0.010629816635663	P26-pre-P
+GSE235863_CD45	P26	PD, non-responder	non_responder	blood	pre-treatment	CD8T	CD8_C05_TCF7	sub_cluster	CD8_C05_TCF7	21	3763	0.00558065373372309	P26-pre-P
+GSE235863_CD45	P26	PD, non-responder	non_responder	blood	pre-treatment	CD8T	CD8_C06_KIR2DL3	sub_cluster	CD8_C06_KIR2DL3	3	3763	0.000797236247674728	P26-pre-P
+GSE235863_CD45	P26	PD, non-responder	non_responder	blood	pre-treatment	CD8T	CD8_C07_KLRC2	sub_cluster	CD8_C07_KLRC2	2	3763	0.000531490831783152	P26-pre-P
+GSE235863_CD45	P26	PD, non-responder	non_responder	blood	pre-treatment	CD8T	CD8_C08_GZMK	sub_cluster	CD8_C08_GZMK	19	3763	0.00504916290193994	P26-pre-P
+GSE235863_CD45	P26	PD, non-responder	non_responder	blood	pre-treatment	CD8T	CD8_C09_LAYN	sub_cluster	CD8_C09_LAYN	1	3763	0.000265745415891576	P26-pre-P
+GSE235863_CD45	P26	PD, non-responder	non_responder	blood	pre-treatment	CD8T	CD8_C10_SLC4A10	sub_cluster	CD8_C10_SLC4A10	55	3763	0.0146159978740367	P26-pre-P
+GSE235863_CD45	P26	PD, non-responder	non_responder	blood	pre-treatment	Macro	Macro_C01_FCN1	sub_cluster	Macro_C01_FCN1	18	3763	0.00478341748604837	P26-pre-P
+GSE235863_CD45	P26	PD, non-responder	non_responder	blood	pre-treatment	Macro	Macro_C02_C1QC	sub_cluster	Macro_C02_C1QC	1	3763	0.000265745415891576	P26-pre-P
+GSE235863_CD45	P26	PD, non-responder	non_responder	blood	pre-treatment	Macro	Macro_C04_IL1B	sub_cluster	Macro_C04_IL1B	1	3763	0.000265745415891576	P26-pre-P
+GSE235863_CD45	P26	PD, non-responder	non_responder	blood	pre-treatment	Mast	Mast	sub_cluster	Mast	3	3763	0.000797236247674728	P26-pre-P
+GSE235863_CD45	P26	PD, non-responder	non_responder	blood	pre-treatment	Megakaryocyte	Megakaryocyte	sub_cluster	Megakaryocyte	7	3763	0.00186021791124103	P26-pre-P
+GSE235863_CD45	P26	PD, non-responder	non_responder	blood	pre-treatment	Mono	Mono_C01_FCGR3A	sub_cluster	Mono_C01_FCGR3A	51	3763	0.0135530162104704	P26-pre-P
+GSE235863_CD45	P26	PD, non-responder	non_responder	blood	pre-treatment	Mono	Mono_C02_CD14	sub_cluster	Mono_C02_CD14	34	3763	0.00903534414031358	P26-pre-P
+GSE235863_CD45	P26	PD, non-responder	non_responder	blood	pre-treatment	Mono	Mono_C03_ITGA5	sub_cluster	Mono_C03_ITGA5	234	3763	0.0621844273186288	P26-pre-P
+GSE235863_CD45	P26	PD, non-responder	non_responder	blood	pre-treatment	NKT-like	NKT-like	sub_cluster	NKT-like	1	3763	0.000265745415891576	P26-pre-P
+GSE235863_CD45	P26	PD, non-responder	non_responder	blood	pre-treatment	NK	NK_C01_FCGR3A	sub_cluster	NK_C01_FCGR3A	1386	3763	0.368323146425724	P26-pre-P
+GSE235863_CD45	P26	PD, non-responder	non_responder	blood	pre-treatment	NK	NK_C02_SELL	sub_cluster	NK_C02_SELL	44	3763	0.0116927982992293	P26-pre-P
+GSE235863_CD45	P26	PD, non-responder	non_responder	blood	pre-treatment	NK	NK_C04_MKI67	sub_cluster	NK_C04_MKI67	14	3763	0.00372043582248206	P26-pre-P
+GSE235863_CD45	P26	PD, non-responder	non_responder	blood	pre-treatment	Plasma	Plasma_C01_CD52	sub_cluster	Plasma_C01_CD52	26	3763	0.00690938081318097	P26-pre-P
+GSE235863_CD45	P26	PD, non-responder	non_responder	blood	pre-treatment	Plasma	Plasma_C02_SDC1	sub_cluster	Plasma_C02_SDC1	1	3763	0.000265745415891576	P26-pre-P
+GSE235863_CD45	P26	PD, non-responder	non_responder	blood	pre-treatment	Plasma	Plasma_C03_SDC1_HSPA1A	sub_cluster	Plasma_C03_SDC1_HSPA1A	1	3763	0.000265745415891576	P26-pre-P
+GSE235863_CD45	P26	PD, non-responder	non_responder	blood	pre-treatment	cDC1	cDC1	sub_cluster	cDC1	7	3763	0.00186021791124103	P26-pre-P
+GSE235863_CD45	P26	PD, non-responder	non_responder	blood	pre-treatment	cDC2	cDC2_C01_CD1C	sub_cluster	cDC2_C01_CD1C	4	3763	0.0010629816635663	P26-pre-P
+GSE235863_CD45	P26	PD, non-responder	non_responder	blood	pre-treatment	gdT	gdT_C01_GZMB	sub_cluster	gdT_C01_GZMB	2	3763	0.000531490831783152	P26-pre-P
+GSE235863_CD45	P26	PD, non-responder	non_responder	blood	pre-treatment	gdT	gdT_C02_GZMK	sub_cluster	gdT_C02_GZMK	5	3763	0.00132872707945788	P26-pre-P
+GSE235863_CD45	P26	PD, non-responder	non_responder	blood	pre-treatment	gdT	gdT_C03_KLRG1	sub_cluster	gdT_C03_KLRG1	2	3763	0.000531490831783152	P26-pre-P
+GSE235863_CD45	P26	PD, non-responder	non_responder	blood	pre-treatment	pDC	pDC	sub_cluster	pDC	18	3763	0.00478341748604837	P26-pre-P
+GSE235863_CD45	P26	PD, non-responder	non_responder	liver tumor	post-treatment	B	B_C01_IGHD	sub_cluster	B_C01_IGHD	139	8886	0.0156425838397479	P26-post-T
+GSE235863_CD45	P26	PD, non-responder	non_responder	liver tumor	post-treatment	B	B_C02_CD27	sub_cluster	B_C02_CD27	242	8886	0.0272338510015755	P26-post-T
+GSE235863_CD45	P26	PD, non-responder	non_responder	liver tumor	post-treatment	CD4T	CD4_C01_CCR7	sub_cluster	CD4_C01_CCR7	90	8886	0.0101282916948008	P26-post-T
+GSE235863_CD45	P26	PD, non-responder	non_responder	liver tumor	post-treatment	CD4T	CD4_C02_IL7R	sub_cluster	CD4_C02_IL7R	22	8886	0.00247580463650686	P26-post-T
+GSE235863_CD45	P26	PD, non-responder	non_responder	liver tumor	post-treatment	CD4T	CD4_C03_CD44	sub_cluster	CD4_C03_CD44	395	8886	0.0444519468827369	P26-post-T
+GSE235863_CD45	P26	PD, non-responder	non_responder	liver tumor	post-treatment	CD4T	CD4_C04_GZMK	sub_cluster	CD4_C04_GZMK	653	8886	0.0734863830744992	P26-post-T
+GSE235863_CD45	P26	PD, non-responder	non_responder	liver tumor	post-treatment	CD4T	CD4_C05_GNLY	sub_cluster	CD4_C05_GNLY	6	8886	0.000675219446320054	P26-post-T
+GSE235863_CD45	P26	PD, non-responder	non_responder	liver tumor	post-treatment	CD4T	CD4_C06_CXCL13	sub_cluster	CD4_C06_CXCL13	441	8886	0.049628629304524	P26-post-T
+GSE235863_CD45	P26	PD, non-responder	non_responder	liver tumor	post-treatment	CD4T	CD4_C07_CTLA4	sub_cluster	CD4_C07_CTLA4	1712	8886	0.192662615349989	P26-post-T
+GSE235863_CD45	P26	PD, non-responder	non_responder	liver tumor	post-treatment	CD4T	CD4_C08_FOXP3	sub_cluster	CD4_C08_FOXP3	56	8886	0.00630204816565384	P26-post-T
+GSE235863_CD45	P26	PD, non-responder	non_responder	liver tumor	post-treatment	CD4T	CD4_C09_MKI67	sub_cluster	CD4_C09_MKI67	132	8886	0.0148548278190412	P26-post-T
+GSE235863_CD45	P26	PD, non-responder	non_responder	liver tumor	post-treatment	CD8T	CD8_C01_LEF1	sub_cluster	CD8_C01_LEF1	6	8886	0.000675219446320054	P26-post-T
+GSE235863_CD45	P26	PD, non-responder	non_responder	liver tumor	post-treatment	CD8T	CD8_C02_GPR183	sub_cluster	CD8_C02_GPR183	4	8886	0.000450146297546703	P26-post-T
+GSE235863_CD45	P26	PD, non-responder	non_responder	liver tumor	post-treatment	CD8T	CD8_C03_CX3CR1	sub_cluster	CD8_C03_CX3CR1	37	8886	0.004163853252307	P26-post-T
+GSE235863_CD45	P26	PD, non-responder	non_responder	liver tumor	post-treatment	CD8T	CD8_C04_GIMAP4	sub_cluster	CD8_C04_GIMAP4	3	8886	0.000337609723160027	P26-post-T
+GSE235863_CD45	P26	PD, non-responder	non_responder	liver tumor	post-treatment	CD8T	CD8_C05_TCF7	sub_cluster	CD8_C05_TCF7	27	8886	0.00303848750844024	P26-post-T
+GSE235863_CD45	P26	PD, non-responder	non_responder	liver tumor	post-treatment	CD8T	CD8_C07_KLRC2	sub_cluster	CD8_C07_KLRC2	222	8886	0.024983119513842	P26-post-T
+GSE235863_CD45	P26	PD, non-responder	non_responder	liver tumor	post-treatment	CD8T	CD8_C08_GZMK	sub_cluster	CD8_C08_GZMK	246	8886	0.0276839972991222	P26-post-T
+GSE235863_CD45	P26	PD, non-responder	non_responder	liver tumor	post-treatment	CD8T	CD8_C09_LAYN	sub_cluster	CD8_C09_LAYN	311	8886	0.0349988746342561	P26-post-T
+GSE235863_CD45	P26	PD, non-responder	non_responder	liver tumor	post-treatment	CD8T	CD8_C10_SLC4A10	sub_cluster	CD8_C10_SLC4A10	924	8886	0.103983794733288	P26-post-T
+GSE235863_CD45	P26	PD, non-responder	non_responder	liver tumor	post-treatment	CD8T	CD8_C11_MKI67	sub_cluster	CD8_C11_MKI67	56	8886	0.00630204816565384	P26-post-T
+GSE235863_CD45	P26	PD, non-responder	non_responder	liver tumor	post-treatment	ILC3	ILC3	sub_cluster	ILC3	1	8886	0.000112536574386676	P26-post-T
+GSE235863_CD45	P26	PD, non-responder	non_responder	liver tumor	post-treatment	LAMP3+ DC	LAMP3+ DC	sub_cluster	LAMP3+ DC	67	8886	0.00753995048390727	P26-post-T
+GSE235863_CD45	P26	PD, non-responder	non_responder	liver tumor	post-treatment	Macro	Macro_C01_FCN1	sub_cluster	Macro_C01_FCN1	496	8886	0.0558181408957911	P26-post-T
+GSE235863_CD45	P26	PD, non-responder	non_responder	liver tumor	post-treatment	Macro	Macro_C02_C1QC	sub_cluster	Macro_C02_C1QC	659	8886	0.0741616025208193	P26-post-T
+GSE235863_CD45	P26	PD, non-responder	non_responder	liver tumor	post-treatment	Macro	Macro_C03_TREM2	sub_cluster	Macro_C03_TREM2	109	8886	0.0122664866081476	P26-post-T
+GSE235863_CD45	P26	PD, non-responder	non_responder	liver tumor	post-treatment	Macro	Macro_C04_IL1B	sub_cluster	Macro_C04_IL1B	12	8886	0.00135043889264011	P26-post-T
+GSE235863_CD45	P26	PD, non-responder	non_responder	liver tumor	post-treatment	Mono	Mono_C01_FCGR3A	sub_cluster	Mono_C01_FCGR3A	41	8886	0.0046139995498537	P26-post-T
+GSE235863_CD45	P26	PD, non-responder	non_responder	liver tumor	post-treatment	Mono	Mono_C02_CD14	sub_cluster	Mono_C02_CD14	196	8886	0.0220571685797884	P26-post-T
+GSE235863_CD45	P26	PD, non-responder	non_responder	liver tumor	post-treatment	Mono	Mono_C03_ITGA5	sub_cluster	Mono_C03_ITGA5	25	8886	0.00281341435966689	P26-post-T
+GSE235863_CD45	P26	PD, non-responder	non_responder	liver tumor	post-treatment	NK	NK_C01_FCGR3A	sub_cluster	NK_C01_FCGR3A	295	8886	0.0331982894440693	P26-post-T
+GSE235863_CD45	P26	PD, non-responder	non_responder	liver tumor	post-treatment	NK	NK_C02_SELL	sub_cluster	NK_C02_SELL	5	8886	0.000562682871933378	P26-post-T
+GSE235863_CD45	P26	PD, non-responder	non_responder	liver tumor	post-treatment	NK	NK_C03_GZMK	sub_cluster	NK_C03_GZMK	71	8886	0.00799009678145397	P26-post-T
+GSE235863_CD45	P26	PD, non-responder	non_responder	liver tumor	post-treatment	NK	NK_C04_MKI67	sub_cluster	NK_C04_MKI67	9	8886	0.00101282916948008	P26-post-T
+GSE235863_CD45	P26	PD, non-responder	non_responder	liver tumor	post-treatment	Plasma	Plasma_C01_CD52	sub_cluster	Plasma_C01_CD52	1	8886	0.000112536574386676	P26-post-T
+GSE235863_CD45	P26	PD, non-responder	non_responder	liver tumor	post-treatment	Plasma	Plasma_C02_SDC1	sub_cluster	Plasma_C02_SDC1	84	8886	0.00945307224848076	P26-post-T
+GSE235863_CD45	P26	PD, non-responder	non_responder	liver tumor	post-treatment	Plasma	Plasma_C03_SDC1_HSPA1A	sub_cluster	Plasma_C03_SDC1_HSPA1A	21	8886	0.00236326806212019	P26-post-T
+GSE235863_CD45	P26	PD, non-responder	non_responder	liver tumor	post-treatment	cDC1	cDC1	sub_cluster	cDC1	125	8886	0.0140670717983345	P26-post-T
+GSE235863_CD45	P26	PD, non-responder	non_responder	liver tumor	post-treatment	cDC2	cDC2_C01_CD1C	sub_cluster	cDC2_C01_CD1C	814	8886	0.091604771550754	P26-post-T
+GSE235863_CD45	P26	PD, non-responder	non_responder	liver tumor	post-treatment	cDC2	cDC2_C02_MKI67	sub_cluster	cDC2_C02_MKI67	80	8886	0.00900292595093405	P26-post-T
+GSE235863_CD45	P26	PD, non-responder	non_responder	liver tumor	post-treatment	gdT	gdT_C01_GZMB	sub_cluster	gdT_C01_GZMB	2	8886	0.000225073148773351	P26-post-T
+GSE235863_CD45	P26	PD, non-responder	non_responder	liver tumor	post-treatment	gdT	gdT_C02_GZMK	sub_cluster	gdT_C02_GZMK	35	8886	0.00393878010353365	P26-post-T
+GSE235863_CD45	P26	PD, non-responder	non_responder	liver tumor	post-treatment	gdT	gdT_C03_KLRG1	sub_cluster	gdT_C03_KLRG1	1	8886	0.000112536574386676	P26-post-T
+GSE235863_CD45	P26	PD, non-responder	non_responder	liver tumor	post-treatment	pDC	pDC	sub_cluster	pDC	13	8886	0.00146297546702678	P26-post-T
+GSE235863_CD45	P26	PD, non-responder	non_responder	liver tumor	pre-treatment	B	B_C01_IGHD	sub_cluster	B_C01_IGHD	74	4941	0.014976725359239	P26-pre-T
+GSE235863_CD45	P26	PD, non-responder	non_responder	liver tumor	pre-treatment	B	B_C02_CD27	sub_cluster	B_C02_CD27	314	4941	0.0635498886865007	P26-pre-T
+GSE235863_CD45	P26	PD, non-responder	non_responder	liver tumor	pre-treatment	CD4T	CD4_C01_CCR7	sub_cluster	CD4_C01_CCR7	43	4941	0.00870269176280105	P26-pre-T
+GSE235863_CD45	P26	PD, non-responder	non_responder	liver tumor	pre-treatment	CD4T	CD4_C02_IL7R	sub_cluster	CD4_C02_IL7R	13	4941	0.00263104634689334	P26-pre-T
+GSE235863_CD45	P26	PD, non-responder	non_responder	liver tumor	pre-treatment	CD4T	CD4_C03_CD44	sub_cluster	CD4_C03_CD44	154	4941	0.0311677798016596	P26-pre-T
+GSE235863_CD45	P26	PD, non-responder	non_responder	liver tumor	pre-treatment	CD4T	CD4_C04_GZMK	sub_cluster	CD4_C04_GZMK	1211	4941	0.245092086622141	P26-pre-T
+GSE235863_CD45	P26	PD, non-responder	non_responder	liver tumor	pre-treatment	CD4T	CD4_C06_CXCL13	sub_cluster	CD4_C06_CXCL13	56	4941	0.0113337381096944	P26-pre-T
+GSE235863_CD45	P26	PD, non-responder	non_responder	liver tumor	pre-treatment	CD4T	CD4_C07_CTLA4	sub_cluster	CD4_C07_CTLA4	625	4941	0.126492612831411	P26-pre-T
+GSE235863_CD45	P26	PD, non-responder	non_responder	liver tumor	pre-treatment	CD4T	CD4_C08_FOXP3	sub_cluster	CD4_C08_FOXP3	16	4941	0.00323821088848411	P26-pre-T
+GSE235863_CD45	P26	PD, non-responder	non_responder	liver tumor	pre-treatment	CD4T	CD4_C09_MKI67	sub_cluster	CD4_C09_MKI67	29	4941	0.00586925723537745	P26-pre-T
+GSE235863_CD45	P26	PD, non-responder	non_responder	liver tumor	pre-treatment	CD8T	CD8_C01_LEF1	sub_cluster	CD8_C01_LEF1	6	4941	0.00121432908318154	P26-pre-T
+GSE235863_CD45	P26	PD, non-responder	non_responder	liver tumor	pre-treatment	CD8T	CD8_C02_GPR183	sub_cluster	CD8_C02_GPR183	3	4941	0.000607164541590771	P26-pre-T
+GSE235863_CD45	P26	PD, non-responder	non_responder	liver tumor	pre-treatment	CD8T	CD8_C03_CX3CR1	sub_cluster	CD8_C03_CX3CR1	9	4941	0.00182149362477231	P26-pre-T
+GSE235863_CD45	P26	PD, non-responder	non_responder	liver tumor	pre-treatment	CD8T	CD8_C05_TCF7	sub_cluster	CD8_C05_TCF7	10	4941	0.00202388180530257	P26-pre-T
+GSE235863_CD45	P26	PD, non-responder	non_responder	liver tumor	pre-treatment	CD8T	CD8_C07_KLRC2	sub_cluster	CD8_C07_KLRC2	37	4941	0.00748836267961951	P26-pre-T
+GSE235863_CD45	P26	PD, non-responder	non_responder	liver tumor	pre-treatment	CD8T	CD8_C08_GZMK	sub_cluster	CD8_C08_GZMK	367	4941	0.0742764622546043	P26-pre-T
+GSE235863_CD45	P26	PD, non-responder	non_responder	liver tumor	pre-treatment	CD8T	CD8_C09_LAYN	sub_cluster	CD8_C09_LAYN	87	4941	0.0176077717061324	P26-pre-T
+GSE235863_CD45	P26	PD, non-responder	non_responder	liver tumor	pre-treatment	CD8T	CD8_C10_SLC4A10	sub_cluster	CD8_C10_SLC4A10	703	4941	0.142278890912771	P26-pre-T
+GSE235863_CD45	P26	PD, non-responder	non_responder	liver tumor	pre-treatment	CD8T	CD8_C11_MKI67	sub_cluster	CD8_C11_MKI67	25	4941	0.00505970451325643	P26-pre-T
+GSE235863_CD45	P26	PD, non-responder	non_responder	liver tumor	pre-treatment	ILC2	ILC2	sub_cluster	ILC2	5	4941	0.00101194090265129	P26-pre-T
+GSE235863_CD45	P26	PD, non-responder	non_responder	liver tumor	pre-treatment	ILC3	ILC3	sub_cluster	ILC3	7	4941	0.0014167172637118	P26-pre-T
+GSE235863_CD45	P26	PD, non-responder	non_responder	liver tumor	pre-treatment	LAMP3+ DC	LAMP3+ DC	sub_cluster	LAMP3+ DC	20	4941	0.00404776361060514	P26-pre-T
+GSE235863_CD45	P26	PD, non-responder	non_responder	liver tumor	pre-treatment	Macro	Macro_C01_FCN1	sub_cluster	Macro_C01_FCN1	66	4941	0.013357619914997	P26-pre-T
+GSE235863_CD45	P26	PD, non-responder	non_responder	liver tumor	pre-treatment	Macro	Macro_C02_C1QC	sub_cluster	Macro_C02_C1QC	124	4941	0.0250961343857519	P26-pre-T
+GSE235863_CD45	P26	PD, non-responder	non_responder	liver tumor	pre-treatment	Macro	Macro_C03_TREM2	sub_cluster	Macro_C03_TREM2	36	4941	0.00728597449908925	P26-pre-T
+GSE235863_CD45	P26	PD, non-responder	non_responder	liver tumor	pre-treatment	Macro	Macro_C04_IL1B	sub_cluster	Macro_C04_IL1B	78	4941	0.01578627808136	P26-pre-T
+GSE235863_CD45	P26	PD, non-responder	non_responder	liver tumor	pre-treatment	Mast	Mast	sub_cluster	Mast	2	4941	0.000404776361060514	P26-pre-T
+GSE235863_CD45	P26	PD, non-responder	non_responder	liver tumor	pre-treatment	Mono	Mono_C01_FCGR3A	sub_cluster	Mono_C01_FCGR3A	11	4941	0.00222626998583283	P26-pre-T
+GSE235863_CD45	P26	PD, non-responder	non_responder	liver tumor	pre-treatment	Mono	Mono_C02_CD14	sub_cluster	Mono_C02_CD14	37	4941	0.00748836267961951	P26-pre-T
+GSE235863_CD45	P26	PD, non-responder	non_responder	liver tumor	pre-treatment	Mono	Mono_C03_ITGA5	sub_cluster	Mono_C03_ITGA5	3	4941	0.000607164541590771	P26-pre-T
+GSE235863_CD45	P26	PD, non-responder	non_responder	liver tumor	pre-treatment	NK	NK_C01_FCGR3A	sub_cluster	NK_C01_FCGR3A	268	4941	0.0542400323821089	P26-pre-T
+GSE235863_CD45	P26	PD, non-responder	non_responder	liver tumor	pre-treatment	NK	NK_C02_SELL	sub_cluster	NK_C02_SELL	4	4941	0.000809552722121028	P26-pre-T
+GSE235863_CD45	P26	PD, non-responder	non_responder	liver tumor	pre-treatment	NK	NK_C03_GZMK	sub_cluster	NK_C03_GZMK	107	4941	0.0216555353167375	P26-pre-T
+GSE235863_CD45	P26	PD, non-responder	non_responder	liver tumor	pre-treatment	NK	NK_C04_MKI67	sub_cluster	NK_C04_MKI67	3	4941	0.000607164541590771	P26-pre-T
+GSE235863_CD45	P26	PD, non-responder	non_responder	liver tumor	pre-treatment	Plasma	Plasma_C02_SDC1	sub_cluster	Plasma_C02_SDC1	3	4941	0.000607164541590771	P26-pre-T
+GSE235863_CD45	P26	PD, non-responder	non_responder	liver tumor	pre-treatment	Plasma	Plasma_C03_SDC1_HSPA1A	sub_cluster	Plasma_C03_SDC1_HSPA1A	5	4941	0.00101194090265129	P26-pre-T
+GSE235863_CD45	P26	PD, non-responder	non_responder	liver tumor	pre-treatment	cDC1	cDC1	sub_cluster	cDC1	46	4941	0.00930985630439182	P26-pre-T
+GSE235863_CD45	P26	PD, non-responder	non_responder	liver tumor	pre-treatment	cDC2	cDC2_C01_CD1C	sub_cluster	cDC2_C01_CD1C	281	4941	0.0568710787290022	P26-pre-T
+GSE235863_CD45	P26	PD, non-responder	non_responder	liver tumor	pre-treatment	cDC2	cDC2_C02_MKI67	sub_cluster	cDC2_C02_MKI67	10	4941	0.00202388180530257	P26-pre-T
+GSE235863_CD45	P26	PD, non-responder	non_responder	liver tumor	pre-treatment	gdT	gdT_C02_GZMK	sub_cluster	gdT_C02_GZMK	15	4941	0.00303582270795386	P26-pre-T
+GSE235863_CD45	P26	PD, non-responder	non_responder	liver tumor	pre-treatment	gdT	gdT_C03_KLRG1	sub_cluster	gdT_C03_KLRG1	2	4941	0.000404776361060514	P26-pre-T
+GSE235863_CD45	P26	PD, non-responder	non_responder	liver tumor	pre-treatment	pDC	pDC	sub_cluster	pDC	26	4941	0.00526209269378668	P26-pre-T
+GSE235863_CD45	P27	PR, responder	responder	blood	post-treatment	B	B_C01_IGHD	sub_cluster	B_C01_IGHD	156	5374	0.0290286564942315	P27-post-P
+GSE235863_CD45	P27	PR, responder	responder	blood	post-treatment	B	B_C02_CD27	sub_cluster	B_C02_CD27	91	5374	0.0169333829549684	P27-post-P
+GSE235863_CD45	P27	PR, responder	responder	blood	post-treatment	CD4T	CD4_C01_CCR7	sub_cluster	CD4_C01_CCR7	506	5374	0.094157052474879	P27-post-P
+GSE235863_CD45	P27	PR, responder	responder	blood	post-treatment	CD4T	CD4_C02_IL7R	sub_cluster	CD4_C02_IL7R	208	5374	0.038704875325642	P27-post-P
+GSE235863_CD45	P27	PR, responder	responder	blood	post-treatment	CD4T	CD4_C03_CD44	sub_cluster	CD4_C03_CD44	137	5374	0.0254931149981392	P27-post-P
+GSE235863_CD45	P27	PR, responder	responder	blood	post-treatment	CD4T	CD4_C04_GZMK	sub_cluster	CD4_C04_GZMK	97	5374	0.018049869743208	P27-post-P
+GSE235863_CD45	P27	PR, responder	responder	blood	post-treatment	CD4T	CD4_C05_GNLY	sub_cluster	CD4_C05_GNLY	93	5374	0.0173055452177149	P27-post-P
+GSE235863_CD45	P27	PR, responder	responder	blood	post-treatment	CD4T	CD4_C06_CXCL13	sub_cluster	CD4_C06_CXCL13	2	5374	0.000372162262746558	P27-post-P
+GSE235863_CD45	P27	PR, responder	responder	blood	post-treatment	CD4T	CD4_C07_CTLA4	sub_cluster	CD4_C07_CTLA4	3	5374	0.000558243394119836	P27-post-P
+GSE235863_CD45	P27	PR, responder	responder	blood	post-treatment	CD4T	CD4_C08_FOXP3	sub_cluster	CD4_C08_FOXP3	109	5374	0.0202828433196874	P27-post-P
+GSE235863_CD45	P27	PR, responder	responder	blood	post-treatment	CD4T	CD4_C09_MKI67	sub_cluster	CD4_C09_MKI67	1	5374	0.000186081131373279	P27-post-P
+GSE235863_CD45	P27	PR, responder	responder	blood	post-treatment	CD8T	CD8_C01_LEF1	sub_cluster	CD8_C01_LEF1	262	5374	0.048753256419799	P27-post-P
+GSE235863_CD45	P27	PR, responder	responder	blood	post-treatment	CD8T	CD8_C02_GPR183	sub_cluster	CD8_C02_GPR183	27	5374	0.00502419054707853	P27-post-P
+GSE235863_CD45	P27	PR, responder	responder	blood	post-treatment	CD8T	CD8_C03_CX3CR1	sub_cluster	CD8_C03_CX3CR1	1175	5374	0.218645329363603	P27-post-P
+GSE235863_CD45	P27	PR, responder	responder	blood	post-treatment	CD8T	CD8_C04_GIMAP4	sub_cluster	CD8_C04_GIMAP4	34	5374	0.00632675846669148	P27-post-P
+GSE235863_CD45	P27	PR, responder	responder	blood	post-treatment	CD8T	CD8_C05_TCF7	sub_cluster	CD8_C05_TCF7	38	5374	0.00707108299218459	P27-post-P
+GSE235863_CD45	P27	PR, responder	responder	blood	post-treatment	CD8T	CD8_C06_KIR2DL3	sub_cluster	CD8_C06_KIR2DL3	93	5374	0.0173055452177149	P27-post-P
+GSE235863_CD45	P27	PR, responder	responder	blood	post-treatment	CD8T	CD8_C07_KLRC2	sub_cluster	CD8_C07_KLRC2	1	5374	0.000186081131373279	P27-post-P
+GSE235863_CD45	P27	PR, responder	responder	blood	post-treatment	CD8T	CD8_C08_GZMK	sub_cluster	CD8_C08_GZMK	138	5374	0.0256791961295125	P27-post-P
+GSE235863_CD45	P27	PR, responder	responder	blood	post-treatment	CD8T	CD8_C09_LAYN	sub_cluster	CD8_C09_LAYN	4	5374	0.000744324525493115	P27-post-P
+GSE235863_CD45	P27	PR, responder	responder	blood	post-treatment	CD8T	CD8_C10_SLC4A10	sub_cluster	CD8_C10_SLC4A10	49	5374	0.00911797543729066	P27-post-P
+GSE235863_CD45	P27	PR, responder	responder	blood	post-treatment	CD8T	CD8_C11_MKI67	sub_cluster	CD8_C11_MKI67	1	5374	0.000186081131373279	P27-post-P
+GSE235863_CD45	P27	PR, responder	responder	blood	post-treatment	ILC2	ILC2	sub_cluster	ILC2	1	5374	0.000186081131373279	P27-post-P
+GSE235863_CD45	P27	PR, responder	responder	blood	post-treatment	ILC3	ILC3	sub_cluster	ILC3	1	5374	0.000186081131373279	P27-post-P
+GSE235863_CD45	P27	PR, responder	responder	blood	post-treatment	Macro	Macro_C01_FCN1	sub_cluster	Macro_C01_FCN1	18	5374	0.00334946036471902	P27-post-P
+GSE235863_CD45	P27	PR, responder	responder	blood	post-treatment	Macro	Macro_C02_C1QC	sub_cluster	Macro_C02_C1QC	2	5374	0.000372162262746558	P27-post-P
+GSE235863_CD45	P27	PR, responder	responder	blood	post-treatment	Mast	Mast	sub_cluster	Mast	8	5374	0.00148864905098623	P27-post-P
+GSE235863_CD45	P27	PR, responder	responder	blood	post-treatment	Megakaryocyte	Megakaryocyte	sub_cluster	Megakaryocyte	7	5374	0.00130256791961295	P27-post-P
+GSE235863_CD45	P27	PR, responder	responder	blood	post-treatment	Mono	Mono_C01_FCGR3A	sub_cluster	Mono_C01_FCGR3A	241	5374	0.0448455526609602	P27-post-P
+GSE235863_CD45	P27	PR, responder	responder	blood	post-treatment	Mono	Mono_C02_CD14	sub_cluster	Mono_C02_CD14	287	5374	0.053405284704131	P27-post-P
+GSE235863_CD45	P27	PR, responder	responder	blood	post-treatment	Mono	Mono_C03_ITGA5	sub_cluster	Mono_C03_ITGA5	793	5374	0.14756233717901	P27-post-P
+GSE235863_CD45	P27	PR, responder	responder	blood	post-treatment	NKT-like	NKT-like	sub_cluster	NKT-like	5	5374	0.000930405656866394	P27-post-P
+GSE235863_CD45	P27	PR, responder	responder	blood	post-treatment	NK	NK_C01_FCGR3A	sub_cluster	NK_C01_FCGR3A	609	5374	0.113323409006327	P27-post-P
+GSE235863_CD45	P27	PR, responder	responder	blood	post-treatment	NK	NK_C02_SELL	sub_cluster	NK_C02_SELL	34	5374	0.00632675846669148	P27-post-P
+GSE235863_CD45	P27	PR, responder	responder	blood	post-treatment	NK	NK_C04_MKI67	sub_cluster	NK_C04_MKI67	3	5374	0.000558243394119836	P27-post-P
+GSE235863_CD45	P27	PR, responder	responder	blood	post-treatment	cDC1	cDC1	sub_cluster	cDC1	2	5374	0.000372162262746558	P27-post-P
+GSE235863_CD45	P27	PR, responder	responder	blood	post-treatment	cDC2	cDC2_C01_CD1C	sub_cluster	cDC2_C01_CD1C	49	5374	0.00911797543729066	P27-post-P
+GSE235863_CD45	P27	PR, responder	responder	blood	post-treatment	gdT	gdT_C01_GZMB	sub_cluster	gdT_C01_GZMB	12	5374	0.00223297357647935	P27-post-P
+GSE235863_CD45	P27	PR, responder	responder	blood	post-treatment	gdT	gdT_C02_GZMK	sub_cluster	gdT_C02_GZMK	35	5374	0.00651283959806476	P27-post-P
+GSE235863_CD45	P27	PR, responder	responder	blood	post-treatment	gdT	gdT_C03_KLRG1	sub_cluster	gdT_C03_KLRG1	20	5374	0.00372162262746558	P27-post-P
+GSE235863_CD45	P27	PR, responder	responder	blood	post-treatment	pDC	pDC	sub_cluster	pDC	22	5374	0.00409378489021213	P27-post-P
+GSE235863_CD45	P27	PR, responder	responder	liver tumor	post-treatment	B	B_C01_IGHD	sub_cluster	B_C01_IGHD	25	7681	0.0032547845332639	P27-post-T
+GSE235863_CD45	P27	PR, responder	responder	liver tumor	post-treatment	B	B_C02_CD27	sub_cluster	B_C02_CD27	157	7681	0.0204400468688973	P27-post-T
+GSE235863_CD45	P27	PR, responder	responder	liver tumor	post-treatment	CD4T	CD4_C01_CCR7	sub_cluster	CD4_C01_CCR7	173	7681	0.0225231089701862	P27-post-T
+GSE235863_CD45	P27	PR, responder	responder	liver tumor	post-treatment	CD4T	CD4_C02_IL7R	sub_cluster	CD4_C02_IL7R	23	7681	0.00299440177060279	P27-post-T
+GSE235863_CD45	P27	PR, responder	responder	liver tumor	post-treatment	CD4T	CD4_C03_CD44	sub_cluster	CD4_C03_CD44	845	7681	0.11001171722432	P27-post-T
+GSE235863_CD45	P27	PR, responder	responder	liver tumor	post-treatment	CD4T	CD4_C04_GZMK	sub_cluster	CD4_C04_GZMK	1768	7681	0.230178362192423	P27-post-T
+GSE235863_CD45	P27	PR, responder	responder	liver tumor	post-treatment	CD4T	CD4_C05_GNLY	sub_cluster	CD4_C05_GNLY	22	7681	0.00286421038927223	P27-post-T
+GSE235863_CD45	P27	PR, responder	responder	liver tumor	post-treatment	CD4T	CD4_C06_CXCL13	sub_cluster	CD4_C06_CXCL13	129	7681	0.0167946881916417	P27-post-T
+GSE235863_CD45	P27	PR, responder	responder	liver tumor	post-treatment	CD4T	CD4_C07_CTLA4	sub_cluster	CD4_C07_CTLA4	557	7681	0.0725165994011197	P27-post-T
+GSE235863_CD45	P27	PR, responder	responder	liver tumor	post-treatment	CD4T	CD4_C08_FOXP3	sub_cluster	CD4_C08_FOXP3	51	7681	0.00663976044785835	P27-post-T
+GSE235863_CD45	P27	PR, responder	responder	liver tumor	post-treatment	CD4T	CD4_C09_MKI67	sub_cluster	CD4_C09_MKI67	17	7681	0.00221325348261945	P27-post-T
+GSE235863_CD45	P27	PR, responder	responder	liver tumor	post-treatment	CD8T	CD8_C01_LEF1	sub_cluster	CD8_C01_LEF1	5	7681	0.00065095690665278	P27-post-T
+GSE235863_CD45	P27	PR, responder	responder	liver tumor	post-treatment	CD8T	CD8_C02_GPR183	sub_cluster	CD8_C02_GPR183	9	7681	0.001171722431975	P27-post-T
+GSE235863_CD45	P27	PR, responder	responder	liver tumor	post-treatment	CD8T	CD8_C03_CX3CR1	sub_cluster	CD8_C03_CX3CR1	96	7681	0.0124983726077334	P27-post-T
+GSE235863_CD45	P27	PR, responder	responder	liver tumor	post-treatment	CD8T	CD8_C04_GIMAP4	sub_cluster	CD8_C04_GIMAP4	8	7681	0.00104153105064445	P27-post-T
+GSE235863_CD45	P27	PR, responder	responder	liver tumor	post-treatment	CD8T	CD8_C05_TCF7	sub_cluster	CD8_C05_TCF7	108	7681	0.0140606691837	P27-post-T
+GSE235863_CD45	P27	PR, responder	responder	liver tumor	post-treatment	CD8T	CD8_C06_KIR2DL3	sub_cluster	CD8_C06_KIR2DL3	5	7681	0.00065095690665278	P27-post-T
+GSE235863_CD45	P27	PR, responder	responder	liver tumor	post-treatment	CD8T	CD8_C07_KLRC2	sub_cluster	CD8_C07_KLRC2	146	7681	0.0190079416742612	P27-post-T
+GSE235863_CD45	P27	PR, responder	responder	liver tumor	post-treatment	CD8T	CD8_C08_GZMK	sub_cluster	CD8_C08_GZMK	672	7681	0.0874886082541336	P27-post-T
+GSE235863_CD45	P27	PR, responder	responder	liver tumor	post-treatment	CD8T	CD8_C09_LAYN	sub_cluster	CD8_C09_LAYN	531	7681	0.0691316234865252	P27-post-T
+GSE235863_CD45	P27	PR, responder	responder	liver tumor	post-treatment	CD8T	CD8_C10_SLC4A10	sub_cluster	CD8_C10_SLC4A10	320	7681	0.0416612420257779	P27-post-T
+GSE235863_CD45	P27	PR, responder	responder	liver tumor	post-treatment	CD8T	CD8_C11_MKI67	sub_cluster	CD8_C11_MKI67	7	7681	0.000911339669313891	P27-post-T
+GSE235863_CD45	P27	PR, responder	responder	liver tumor	post-treatment	ILC2	ILC2	sub_cluster	ILC2	1	7681	0.000130191381330556	P27-post-T
+GSE235863_CD45	P27	PR, responder	responder	liver tumor	post-treatment	ILC3	ILC3	sub_cluster	ILC3	5	7681	0.00065095690665278	P27-post-T
+GSE235863_CD45	P27	PR, responder	responder	liver tumor	post-treatment	LAMP3+ DC	LAMP3+ DC	sub_cluster	LAMP3+ DC	14	7681	0.00182267933862778	P27-post-T
+GSE235863_CD45	P27	PR, responder	responder	liver tumor	post-treatment	Macro	Macro_C01_FCN1	sub_cluster	Macro_C01_FCN1	376	7681	0.048951959380289	P27-post-T
+GSE235863_CD45	P27	PR, responder	responder	liver tumor	post-treatment	Macro	Macro_C02_C1QC	sub_cluster	Macro_C02_C1QC	723	7681	0.0941283687019919	P27-post-T
+GSE235863_CD45	P27	PR, responder	responder	liver tumor	post-treatment	Macro	Macro_C03_TREM2	sub_cluster	Macro_C03_TREM2	167	7681	0.0217419606822028	P27-post-T
+GSE235863_CD45	P27	PR, responder	responder	liver tumor	post-treatment	Macro	Macro_C04_IL1B	sub_cluster	Macro_C04_IL1B	28	7681	0.00364535867725557	P27-post-T
+GSE235863_CD45	P27	PR, responder	responder	liver tumor	post-treatment	Mono	Mono_C01_FCGR3A	sub_cluster	Mono_C01_FCGR3A	37	7681	0.00481708110923057	P27-post-T
+GSE235863_CD45	P27	PR, responder	responder	liver tumor	post-treatment	Mono	Mono_C02_CD14	sub_cluster	Mono_C02_CD14	50	7681	0.0065095690665278	P27-post-T
+GSE235863_CD45	P27	PR, responder	responder	liver tumor	post-treatment	Mono	Mono_C03_ITGA5	sub_cluster	Mono_C03_ITGA5	34	7681	0.0044265069652389	P27-post-T
+GSE235863_CD45	P27	PR, responder	responder	liver tumor	post-treatment	NKT-like	NKT-like	sub_cluster	NKT-like	1	7681	0.000130191381330556	P27-post-T
+GSE235863_CD45	P27	PR, responder	responder	liver tumor	post-treatment	NK	NK_C01_FCGR3A	sub_cluster	NK_C01_FCGR3A	73	7681	0.00950397083713058	P27-post-T
+GSE235863_CD45	P27	PR, responder	responder	liver tumor	post-treatment	NK	NK_C03_GZMK	sub_cluster	NK_C03_GZMK	31	7681	0.00403593282124723	P27-post-T
+GSE235863_CD45	P27	PR, responder	responder	liver tumor	post-treatment	Plasma	Plasma_C01_CD52	sub_cluster	Plasma_C01_CD52	1	7681	0.000130191381330556	P27-post-T
+GSE235863_CD45	P27	PR, responder	responder	liver tumor	post-treatment	Plasma	Plasma_C02_SDC1	sub_cluster	Plasma_C02_SDC1	137	7681	0.0178362192422862	P27-post-T
+GSE235863_CD45	P27	PR, responder	responder	liver tumor	post-treatment	Plasma	Plasma_C03_SDC1_HSPA1A	sub_cluster	Plasma_C03_SDC1_HSPA1A	10	7681	0.00130191381330556	P27-post-T
+GSE235863_CD45	P27	PR, responder	responder	liver tumor	post-treatment	cDC1	cDC1	sub_cluster	cDC1	36	7681	0.00468688972790001	P27-post-T
+GSE235863_CD45	P27	PR, responder	responder	liver tumor	post-treatment	cDC2	cDC2_C01_CD1C	sub_cluster	cDC2_C01_CD1C	202	7681	0.0262986590287723	P27-post-T
+GSE235863_CD45	P27	PR, responder	responder	liver tumor	post-treatment	cDC2	cDC2_C02_MKI67	sub_cluster	cDC2_C02_MKI67	21	7681	0.00273401900794167	P27-post-T
+GSE235863_CD45	P27	PR, responder	responder	liver tumor	post-treatment	gdT	gdT_C01_GZMB	sub_cluster	gdT_C01_GZMB	2	7681	0.000260382762661112	P27-post-T
+GSE235863_CD45	P27	PR, responder	responder	liver tumor	post-treatment	gdT	gdT_C02_GZMK	sub_cluster	gdT_C02_GZMK	19	7681	0.00247363624528056	P27-post-T
+GSE235863_CD45	P27	PR, responder	responder	liver tumor	post-treatment	pDC	pDC	sub_cluster	pDC	39	7681	0.00507746387189168	P27-post-T
+GSE235863_CD45	P27	PR, responder	responder	liver tumor	pre-treatment	B	B_C01_IGHD	sub_cluster	B_C01_IGHD	12	5005	0.0023976023976024	P27-pre-T
+GSE235863_CD45	P27	PR, responder	responder	liver tumor	pre-treatment	B	B_C02_CD27	sub_cluster	B_C02_CD27	273	5005	0.0545454545454545	P27-pre-T
+GSE235863_CD45	P27	PR, responder	responder	liver tumor	pre-treatment	CD4T	CD4_C01_CCR7	sub_cluster	CD4_C01_CCR7	21	5005	0.0041958041958042	P27-pre-T
+GSE235863_CD45	P27	PR, responder	responder	liver tumor	pre-treatment	CD4T	CD4_C02_IL7R	sub_cluster	CD4_C02_IL7R	26	5005	0.0051948051948052	P27-pre-T
+GSE235863_CD45	P27	PR, responder	responder	liver tumor	pre-treatment	CD4T	CD4_C03_CD44	sub_cluster	CD4_C03_CD44	54	5005	0.0107892107892108	P27-pre-T
+GSE235863_CD45	P27	PR, responder	responder	liver tumor	pre-treatment	CD4T	CD4_C04_GZMK	sub_cluster	CD4_C04_GZMK	607	5005	0.121278721278721	P27-pre-T
+GSE235863_CD45	P27	PR, responder	responder	liver tumor	pre-treatment	CD4T	CD4_C05_GNLY	sub_cluster	CD4_C05_GNLY	8	5005	0.0015984015984016	P27-pre-T
+GSE235863_CD45	P27	PR, responder	responder	liver tumor	pre-treatment	CD4T	CD4_C06_CXCL13	sub_cluster	CD4_C06_CXCL13	486	5005	0.0971028971028971	P27-pre-T
+GSE235863_CD45	P27	PR, responder	responder	liver tumor	pre-treatment	CD4T	CD4_C07_CTLA4	sub_cluster	CD4_C07_CTLA4	297	5005	0.0593406593406593	P27-pre-T
+GSE235863_CD45	P27	PR, responder	responder	liver tumor	pre-treatment	CD4T	CD4_C08_FOXP3	sub_cluster	CD4_C08_FOXP3	8	5005	0.0015984015984016	P27-pre-T
+GSE235863_CD45	P27	PR, responder	responder	liver tumor	pre-treatment	CD4T	CD4_C09_MKI67	sub_cluster	CD4_C09_MKI67	42	5005	0.00839160839160839	P27-pre-T
+GSE235863_CD45	P27	PR, responder	responder	liver tumor	pre-treatment	CD8T	CD8_C01_LEF1	sub_cluster	CD8_C01_LEF1	5	5005	0.000999000999000999	P27-pre-T
+GSE235863_CD45	P27	PR, responder	responder	liver tumor	pre-treatment	CD8T	CD8_C02_GPR183	sub_cluster	CD8_C02_GPR183	4	5005	0.000799200799200799	P27-pre-T
+GSE235863_CD45	P27	PR, responder	responder	liver tumor	pre-treatment	CD8T	CD8_C03_CX3CR1	sub_cluster	CD8_C03_CX3CR1	38	5005	0.00759240759240759	P27-pre-T
+GSE235863_CD45	P27	PR, responder	responder	liver tumor	pre-treatment	CD8T	CD8_C04_GIMAP4	sub_cluster	CD8_C04_GIMAP4	1	5005	0.0001998001998002	P27-pre-T
+GSE235863_CD45	P27	PR, responder	responder	liver tumor	pre-treatment	CD8T	CD8_C05_TCF7	sub_cluster	CD8_C05_TCF7	9	5005	0.0017982017982018	P27-pre-T
+GSE235863_CD45	P27	PR, responder	responder	liver tumor	pre-treatment	CD8T	CD8_C07_KLRC2	sub_cluster	CD8_C07_KLRC2	112	5005	0.0223776223776224	P27-pre-T
+GSE235863_CD45	P27	PR, responder	responder	liver tumor	pre-treatment	CD8T	CD8_C08_GZMK	sub_cluster	CD8_C08_GZMK	680	5005	0.135864135864136	P27-pre-T
+GSE235863_CD45	P27	PR, responder	responder	liver tumor	pre-treatment	CD8T	CD8_C09_LAYN	sub_cluster	CD8_C09_LAYN	1881	5005	0.375824175824176	P27-pre-T
+GSE235863_CD45	P27	PR, responder	responder	liver tumor	pre-treatment	CD8T	CD8_C10_SLC4A10	sub_cluster	CD8_C10_SLC4A10	27	5005	0.0053946053946054	P27-pre-T
+GSE235863_CD45	P27	PR, responder	responder	liver tumor	pre-treatment	CD8T	CD8_C11_MKI67	sub_cluster	CD8_C11_MKI67	114	5005	0.0227772227772228	P27-pre-T
+GSE235863_CD45	P27	PR, responder	responder	liver tumor	pre-treatment	ILC2	ILC2	sub_cluster	ILC2	1	5005	0.0001998001998002	P27-pre-T
+GSE235863_CD45	P27	PR, responder	responder	liver tumor	pre-treatment	ILC3	ILC3	sub_cluster	ILC3	1	5005	0.0001998001998002	P27-pre-T
+GSE235863_CD45	P27	PR, responder	responder	liver tumor	pre-treatment	LAMP3+ DC	LAMP3+ DC	sub_cluster	LAMP3+ DC	4	5005	0.000799200799200799	P27-pre-T
+GSE235863_CD45	P27	PR, responder	responder	liver tumor	pre-treatment	Macro	Macro_C01_FCN1	sub_cluster	Macro_C01_FCN1	17	5005	0.0033966033966034	P27-pre-T
+GSE235863_CD45	P27	PR, responder	responder	liver tumor	pre-treatment	Macro	Macro_C02_C1QC	sub_cluster	Macro_C02_C1QC	2	5005	0.0003996003996004	P27-pre-T
+GSE235863_CD45	P27	PR, responder	responder	liver tumor	pre-treatment	Mono	Mono_C02_CD14	sub_cluster	Mono_C02_CD14	4	5005	0.000799200799200799	P27-pre-T
+GSE235863_CD45	P27	PR, responder	responder	liver tumor	pre-treatment	NKT-like	NKT-like	sub_cluster	NKT-like	1	5005	0.0001998001998002	P27-pre-T
+GSE235863_CD45	P27	PR, responder	responder	liver tumor	pre-treatment	NK	NK_C01_FCGR3A	sub_cluster	NK_C01_FCGR3A	54	5005	0.0107892107892108	P27-pre-T
+GSE235863_CD45	P27	PR, responder	responder	liver tumor	pre-treatment	NK	NK_C02_SELL	sub_cluster	NK_C02_SELL	11	5005	0.0021978021978022	P27-pre-T
+GSE235863_CD45	P27	PR, responder	responder	liver tumor	pre-treatment	NK	NK_C03_GZMK	sub_cluster	NK_C03_GZMK	58	5005	0.0115884115884116	P27-pre-T
+GSE235863_CD45	P27	PR, responder	responder	liver tumor	pre-treatment	NK	NK_C04_MKI67	sub_cluster	NK_C04_MKI67	2	5005	0.0003996003996004	P27-pre-T
+GSE235863_CD45	P27	PR, responder	responder	liver tumor	pre-treatment	Plasma	Plasma_C01_CD52	sub_cluster	Plasma_C01_CD52	3	5005	0.000599400599400599	P27-pre-T
+GSE235863_CD45	P27	PR, responder	responder	liver tumor	pre-treatment	Plasma	Plasma_C02_SDC1	sub_cluster	Plasma_C02_SDC1	26	5005	0.0051948051948052	P27-pre-T
+GSE235863_CD45	P27	PR, responder	responder	liver tumor	pre-treatment	Plasma	Plasma_C03_SDC1_HSPA1A	sub_cluster	Plasma_C03_SDC1_HSPA1A	47	5005	0.00939060939060939	P27-pre-T
+GSE235863_CD45	P27	PR, responder	responder	liver tumor	pre-treatment	cDC1	cDC1	sub_cluster	cDC1	15	5005	0.002997002997003	P27-pre-T
+GSE235863_CD45	P27	PR, responder	responder	liver tumor	pre-treatment	cDC2	cDC2_C01_CD1C	sub_cluster	cDC2_C01_CD1C	11	5005	0.0021978021978022	P27-pre-T
+GSE235863_CD45	P27	PR, responder	responder	liver tumor	pre-treatment	cDC2	cDC2_C02_MKI67	sub_cluster	cDC2_C02_MKI67	1	5005	0.0001998001998002	P27-pre-T
+GSE235863_CD45	P27	PR, responder	responder	liver tumor	pre-treatment	gdT	gdT_C02_GZMK	sub_cluster	gdT_C02_GZMK	14	5005	0.0027972027972028	P27-pre-T
+GSE235863_CD45	P27	PR, responder	responder	liver tumor	pre-treatment	pDC	pDC	sub_cluster	pDC	28	5005	0.00559440559440559	P27-pre-T
+GSE235863_CD45	P5	PR, responder	responder	blood	post-treatment	B	B_C01_IGHD	sub_cluster	B_C01_IGHD	92	7061	0.0130293159609121	P5-post-P
+GSE235863_CD45	P5	PR, responder	responder	blood	post-treatment	B	B_C02_CD27	sub_cluster	B_C02_CD27	130	7061	0.018410989944767	P5-post-P
+GSE235863_CD45	P5	PR, responder	responder	blood	post-treatment	CD4T	CD4_C01_CCR7	sub_cluster	CD4_C01_CCR7	2054	7061	0.290893641127319	P5-post-P
+GSE235863_CD45	P5	PR, responder	responder	blood	post-treatment	CD4T	CD4_C02_IL7R	sub_cluster	CD4_C02_IL7R	37	7061	0.00524005098427985	P5-post-P
+GSE235863_CD45	P5	PR, responder	responder	blood	post-treatment	CD4T	CD4_C03_CD44	sub_cluster	CD4_C03_CD44	333	7061	0.0471604588585186	P5-post-P
+GSE235863_CD45	P5	PR, responder	responder	blood	post-treatment	CD4T	CD4_C04_GZMK	sub_cluster	CD4_C04_GZMK	42	7061	0.0059481659821555	P5-post-P
+GSE235863_CD45	P5	PR, responder	responder	blood	post-treatment	CD4T	CD4_C05_GNLY	sub_cluster	CD4_C05_GNLY	105	7061	0.0148704149553888	P5-post-P
+GSE235863_CD45	P5	PR, responder	responder	blood	post-treatment	CD4T	CD4_C06_CXCL13	sub_cluster	CD4_C06_CXCL13	5	7061	0.000708114997875655	P5-post-P
+GSE235863_CD45	P5	PR, responder	responder	blood	post-treatment	CD4T	CD4_C07_CTLA4	sub_cluster	CD4_C07_CTLA4	3	7061	0.000424868998725393	P5-post-P
+GSE235863_CD45	P5	PR, responder	responder	blood	post-treatment	CD4T	CD4_C08_FOXP3	sub_cluster	CD4_C08_FOXP3	119	7061	0.0168531369494406	P5-post-P
+GSE235863_CD45	P5	PR, responder	responder	blood	post-treatment	CD4T	CD4_C09_MKI67	sub_cluster	CD4_C09_MKI67	2	7061	0.000283245999150262	P5-post-P
+GSE235863_CD45	P5	PR, responder	responder	blood	post-treatment	CD8T	CD8_C01_LEF1	sub_cluster	CD8_C01_LEF1	2068	7061	0.292876363121371	P5-post-P
+GSE235863_CD45	P5	PR, responder	responder	blood	post-treatment	CD8T	CD8_C02_GPR183	sub_cluster	CD8_C02_GPR183	113	7061	0.0160033989519898	P5-post-P
+GSE235863_CD45	P5	PR, responder	responder	blood	post-treatment	CD8T	CD8_C03_CX3CR1	sub_cluster	CD8_C03_CX3CR1	503	7061	0.0712363687862909	P5-post-P
+GSE235863_CD45	P5	PR, responder	responder	blood	post-treatment	CD8T	CD8_C04_GIMAP4	sub_cluster	CD8_C04_GIMAP4	1	7061	0.000141622999575131	P5-post-P
+GSE235863_CD45	P5	PR, responder	responder	blood	post-treatment	CD8T	CD8_C05_TCF7	sub_cluster	CD8_C05_TCF7	56	7061	0.00793088797620734	P5-post-P
+GSE235863_CD45	P5	PR, responder	responder	blood	post-treatment	CD8T	CD8_C06_KIR2DL3	sub_cluster	CD8_C06_KIR2DL3	7	7061	0.000991360997025917	P5-post-P
+GSE235863_CD45	P5	PR, responder	responder	blood	post-treatment	CD8T	CD8_C07_KLRC2	sub_cluster	CD8_C07_KLRC2	5	7061	0.000708114997875655	P5-post-P
+GSE235863_CD45	P5	PR, responder	responder	blood	post-treatment	CD8T	CD8_C08_GZMK	sub_cluster	CD8_C08_GZMK	189	7061	0.0267667469196998	P5-post-P
+GSE235863_CD45	P5	PR, responder	responder	blood	post-treatment	CD8T	CD8_C09_LAYN	sub_cluster	CD8_C09_LAYN	12	7061	0.00169947599490157	P5-post-P
+GSE235863_CD45	P5	PR, responder	responder	blood	post-treatment	CD8T	CD8_C10_SLC4A10	sub_cluster	CD8_C10_SLC4A10	168	7061	0.023792663928622	P5-post-P
+GSE235863_CD45	P5	PR, responder	responder	blood	post-treatment	CD8T	CD8_C11_MKI67	sub_cluster	CD8_C11_MKI67	1	7061	0.000141622999575131	P5-post-P
+GSE235863_CD45	P5	PR, responder	responder	blood	post-treatment	ILC2	ILC2	sub_cluster	ILC2	2	7061	0.000283245999150262	P5-post-P
+GSE235863_CD45	P5	PR, responder	responder	blood	post-treatment	ILC3	ILC3	sub_cluster	ILC3	2	7061	0.000283245999150262	P5-post-P
+GSE235863_CD45	P5	PR, responder	responder	blood	post-treatment	Macro	Macro_C01_FCN1	sub_cluster	Macro_C01_FCN1	25	7061	0.00354057498937828	P5-post-P
+GSE235863_CD45	P5	PR, responder	responder	blood	post-treatment	Macro	Macro_C04_IL1B	sub_cluster	Macro_C04_IL1B	1	7061	0.000141622999575131	P5-post-P
+GSE235863_CD45	P5	PR, responder	responder	blood	post-treatment	Mast	Mast	sub_cluster	Mast	1	7061	0.000141622999575131	P5-post-P
+GSE235863_CD45	P5	PR, responder	responder	blood	post-treatment	Megakaryocyte	Megakaryocyte	sub_cluster	Megakaryocyte	18	7061	0.00254921399235236	P5-post-P
+GSE235863_CD45	P5	PR, responder	responder	blood	post-treatment	Mono	Mono_C01_FCGR3A	sub_cluster	Mono_C01_FCGR3A	68	7061	0.00963036397110891	P5-post-P
+GSE235863_CD45	P5	PR, responder	responder	blood	post-treatment	Mono	Mono_C02_CD14	sub_cluster	Mono_C02_CD14	70	7061	0.00991360997025917	P5-post-P
+GSE235863_CD45	P5	PR, responder	responder	blood	post-treatment	Mono	Mono_C03_ITGA5	sub_cluster	Mono_C03_ITGA5	131	7061	0.0185526129443422	P5-post-P
+GSE235863_CD45	P5	PR, responder	responder	blood	post-treatment	NKT-like	NKT-like	sub_cluster	NKT-like	2	7061	0.000283245999150262	P5-post-P
+GSE235863_CD45	P5	PR, responder	responder	blood	post-treatment	NK	NK_C01_FCGR3A	sub_cluster	NK_C01_FCGR3A	509	7061	0.0720861067837417	P5-post-P
+GSE235863_CD45	P5	PR, responder	responder	blood	post-treatment	NK	NK_C02_SELL	sub_cluster	NK_C02_SELL	44	7061	0.00623141198130576	P5-post-P
+GSE235863_CD45	P5	PR, responder	responder	blood	post-treatment	NK	NK_C03_GZMK	sub_cluster	NK_C03_GZMK	5	7061	0.000708114997875655	P5-post-P
+GSE235863_CD45	P5	PR, responder	responder	blood	post-treatment	NK	NK_C04_MKI67	sub_cluster	NK_C04_MKI67	1	7061	0.000141622999575131	P5-post-P
+GSE235863_CD45	P5	PR, responder	responder	blood	post-treatment	Plasma	Plasma_C01_CD52	sub_cluster	Plasma_C01_CD52	1	7061	0.000141622999575131	P5-post-P
+GSE235863_CD45	P5	PR, responder	responder	blood	post-treatment	cDC1	cDC1	sub_cluster	cDC1	2	7061	0.000283245999150262	P5-post-P
+GSE235863_CD45	P5	PR, responder	responder	blood	post-treatment	cDC2	cDC2_C01_CD1C	sub_cluster	cDC2_C01_CD1C	4	7061	0.000566491998300524	P5-post-P
+GSE235863_CD45	P5	PR, responder	responder	blood	post-treatment	gdT	gdT_C01_GZMB	sub_cluster	gdT_C01_GZMB	3	7061	0.000424868998725393	P5-post-P
+GSE235863_CD45	P5	PR, responder	responder	blood	post-treatment	gdT	gdT_C02_GZMK	sub_cluster	gdT_C02_GZMK	121	7061	0.0171363829485909	P5-post-P
+GSE235863_CD45	P5	PR, responder	responder	blood	post-treatment	gdT	gdT_C03_KLRG1	sub_cluster	gdT_C03_KLRG1	5	7061	0.000708114997875655	P5-post-P
+GSE235863_CD45	P5	PR, responder	responder	blood	post-treatment	pDC	pDC	sub_cluster	pDC	1	7061	0.000141622999575131	P5-post-P
+GSE235863_CD45	P5	PR, responder	responder	blood	pre-treatment	B	B_C01_IGHD	sub_cluster	B_C01_IGHD	82	6912	0.0118634259259259	P5-pre-P
+GSE235863_CD45	P5	PR, responder	responder	blood	pre-treatment	B	B_C02_CD27	sub_cluster	B_C02_CD27	70	6912	0.0101273148148148	P5-pre-P
+GSE235863_CD45	P5	PR, responder	responder	blood	pre-treatment	CD4T	CD4_C01_CCR7	sub_cluster	CD4_C01_CCR7	1734	6912	0.250868055555556	P5-pre-P
+GSE235863_CD45	P5	PR, responder	responder	blood	pre-treatment	CD4T	CD4_C02_IL7R	sub_cluster	CD4_C02_IL7R	41	6912	0.00593171296296296	P5-pre-P
+GSE235863_CD45	P5	PR, responder	responder	blood	pre-treatment	CD4T	CD4_C03_CD44	sub_cluster	CD4_C03_CD44	172	6912	0.0248842592592593	P5-pre-P
+GSE235863_CD45	P5	PR, responder	responder	blood	pre-treatment	CD4T	CD4_C04_GZMK	sub_cluster	CD4_C04_GZMK	82	6912	0.0118634259259259	P5-pre-P
+GSE235863_CD45	P5	PR, responder	responder	blood	pre-treatment	CD4T	CD4_C05_GNLY	sub_cluster	CD4_C05_GNLY	74	6912	0.0107060185185185	P5-pre-P
+GSE235863_CD45	P5	PR, responder	responder	blood	pre-treatment	CD4T	CD4_C06_CXCL13	sub_cluster	CD4_C06_CXCL13	8	6912	0.00115740740740741	P5-pre-P
+GSE235863_CD45	P5	PR, responder	responder	blood	pre-treatment	CD4T	CD4_C08_FOXP3	sub_cluster	CD4_C08_FOXP3	278	6912	0.0402199074074074	P5-pre-P
+GSE235863_CD45	P5	PR, responder	responder	blood	pre-treatment	CD4T	CD4_C09_MKI67	sub_cluster	CD4_C09_MKI67	2	6912	0.000289351851851852	P5-pre-P
+GSE235863_CD45	P5	PR, responder	responder	blood	pre-treatment	CD8T	CD8_C01_LEF1	sub_cluster	CD8_C01_LEF1	1916	6912	0.277199074074074	P5-pre-P
+GSE235863_CD45	P5	PR, responder	responder	blood	pre-treatment	CD8T	CD8_C02_GPR183	sub_cluster	CD8_C02_GPR183	118	6912	0.0170717592592593	P5-pre-P
+GSE235863_CD45	P5	PR, responder	responder	blood	pre-treatment	CD8T	CD8_C03_CX3CR1	sub_cluster	CD8_C03_CX3CR1	417	6912	0.0603298611111111	P5-pre-P
+GSE235863_CD45	P5	PR, responder	responder	blood	pre-treatment	CD8T	CD8_C04_GIMAP4	sub_cluster	CD8_C04_GIMAP4	8	6912	0.00115740740740741	P5-pre-P
+GSE235863_CD45	P5	PR, responder	responder	blood	pre-treatment	CD8T	CD8_C05_TCF7	sub_cluster	CD8_C05_TCF7	52	6912	0.00752314814814815	P5-pre-P
+GSE235863_CD45	P5	PR, responder	responder	blood	pre-treatment	CD8T	CD8_C06_KIR2DL3	sub_cluster	CD8_C06_KIR2DL3	19	6912	0.00274884259259259	P5-pre-P
+GSE235863_CD45	P5	PR, responder	responder	blood	pre-treatment	CD8T	CD8_C07_KLRC2	sub_cluster	CD8_C07_KLRC2	3	6912	0.000434027777777778	P5-pre-P
+GSE235863_CD45	P5	PR, responder	responder	blood	pre-treatment	CD8T	CD8_C08_GZMK	sub_cluster	CD8_C08_GZMK	134	6912	0.0193865740740741	P5-pre-P
+GSE235863_CD45	P5	PR, responder	responder	blood	pre-treatment	CD8T	CD8_C09_LAYN	sub_cluster	CD8_C09_LAYN	11	6912	0.00159143518518519	P5-pre-P
+GSE235863_CD45	P5	PR, responder	responder	blood	pre-treatment	CD8T	CD8_C10_SLC4A10	sub_cluster	CD8_C10_SLC4A10	143	6912	0.0206886574074074	P5-pre-P
+GSE235863_CD45	P5	PR, responder	responder	blood	pre-treatment	CD8T	CD8_C11_MKI67	sub_cluster	CD8_C11_MKI67	1	6912	0.000144675925925926	P5-pre-P
+GSE235863_CD45	P5	PR, responder	responder	blood	pre-treatment	ILC3	ILC3	sub_cluster	ILC3	4	6912	0.000578703703703704	P5-pre-P
+GSE235863_CD45	P5	PR, responder	responder	blood	pre-treatment	LAMP3+ DC	LAMP3+ DC	sub_cluster	LAMP3+ DC	1	6912	0.000144675925925926	P5-pre-P
+GSE235863_CD45	P5	PR, responder	responder	blood	pre-treatment	Macro	Macro_C01_FCN1	sub_cluster	Macro_C01_FCN1	10	6912	0.00144675925925926	P5-pre-P
+GSE235863_CD45	P5	PR, responder	responder	blood	pre-treatment	Macro	Macro_C02_C1QC	sub_cluster	Macro_C02_C1QC	1	6912	0.000144675925925926	P5-pre-P
+GSE235863_CD45	P5	PR, responder	responder	blood	pre-treatment	Mast	Mast	sub_cluster	Mast	13	6912	0.00188078703703704	P5-pre-P
+GSE235863_CD45	P5	PR, responder	responder	blood	pre-treatment	Megakaryocyte	Megakaryocyte	sub_cluster	Megakaryocyte	52	6912	0.00752314814814815	P5-pre-P
+GSE235863_CD45	P5	PR, responder	responder	blood	pre-treatment	Mono	Mono_C01_FCGR3A	sub_cluster	Mono_C01_FCGR3A	38	6912	0.00549768518518519	P5-pre-P
+GSE235863_CD45	P5	PR, responder	responder	blood	pre-treatment	Mono	Mono_C02_CD14	sub_cluster	Mono_C02_CD14	356	6912	0.0515046296296296	P5-pre-P
+GSE235863_CD45	P5	PR, responder	responder	blood	pre-treatment	Mono	Mono_C03_ITGA5	sub_cluster	Mono_C03_ITGA5	17	6912	0.00245949074074074	P5-pre-P
+GSE235863_CD45	P5	PR, responder	responder	blood	pre-treatment	NKT-like	NKT-like	sub_cluster	NKT-like	3	6912	0.000434027777777778	P5-pre-P
+GSE235863_CD45	P5	PR, responder	responder	blood	pre-treatment	NK	NK_C01_FCGR3A	sub_cluster	NK_C01_FCGR3A	864	6912	0.125	P5-pre-P
+GSE235863_CD45	P5	PR, responder	responder	blood	pre-treatment	NK	NK_C02_SELL	sub_cluster	NK_C02_SELL	30	6912	0.00434027777777778	P5-pre-P
+GSE235863_CD45	P5	PR, responder	responder	blood	pre-treatment	NK	NK_C03_GZMK	sub_cluster	NK_C03_GZMK	3	6912	0.000434027777777778	P5-pre-P
+GSE235863_CD45	P5	PR, responder	responder	blood	pre-treatment	NK	NK_C04_MKI67	sub_cluster	NK_C04_MKI67	2	6912	0.000289351851851852	P5-pre-P
+GSE235863_CD45	P5	PR, responder	responder	blood	pre-treatment	Plasma	Plasma_C01_CD52	sub_cluster	Plasma_C01_CD52	1	6912	0.000144675925925926	P5-pre-P
+GSE235863_CD45	P5	PR, responder	responder	blood	pre-treatment	cDC1	cDC1	sub_cluster	cDC1	6	6912	0.000868055555555556	P5-pre-P
+GSE235863_CD45	P5	PR, responder	responder	blood	pre-treatment	cDC2	cDC2_C01_CD1C	sub_cluster	cDC2_C01_CD1C	8	6912	0.00115740740740741	P5-pre-P
+GSE235863_CD45	P5	PR, responder	responder	blood	pre-treatment	gdT	gdT_C01_GZMB	sub_cluster	gdT_C01_GZMB	6	6912	0.000868055555555556	P5-pre-P
+GSE235863_CD45	P5	PR, responder	responder	blood	pre-treatment	gdT	gdT_C02_GZMK	sub_cluster	gdT_C02_GZMK	110	6912	0.0159143518518519	P5-pre-P
+GSE235863_CD45	P5	PR, responder	responder	blood	pre-treatment	gdT	gdT_C03_KLRG1	sub_cluster	gdT_C03_KLRG1	5	6912	0.00072337962962963	P5-pre-P
+GSE235863_CD45	P5	PR, responder	responder	blood	pre-treatment	pDC	pDC	sub_cluster	pDC	17	6912	0.00245949074074074	P5-pre-P
+GSE235863_CD45	P5	PR, responder	responder	liver tumor	post-treatment	B	B_C01_IGHD	sub_cluster	B_C01_IGHD	40	8028	0.0049825610363727	P5-post-T
+GSE235863_CD45	P5	PR, responder	responder	liver tumor	post-treatment	B	B_C02_CD27	sub_cluster	B_C02_CD27	260	8028	0.0323866467364225	P5-post-T
+GSE235863_CD45	P5	PR, responder	responder	liver tumor	post-treatment	CD4T	CD4_C01_CCR7	sub_cluster	CD4_C01_CCR7	345	8028	0.0429745889387145	P5-post-T
+GSE235863_CD45	P5	PR, responder	responder	liver tumor	post-treatment	CD4T	CD4_C02_IL7R	sub_cluster	CD4_C02_IL7R	38	8028	0.00473343298455406	P5-post-T
+GSE235863_CD45	P5	PR, responder	responder	liver tumor	post-treatment	CD4T	CD4_C03_CD44	sub_cluster	CD4_C03_CD44	839	8028	0.104509217737917	P5-post-T
+GSE235863_CD45	P5	PR, responder	responder	liver tumor	post-treatment	CD4T	CD4_C04_GZMK	sub_cluster	CD4_C04_GZMK	2275	8028	0.283383158943697	P5-post-T
+GSE235863_CD45	P5	PR, responder	responder	liver tumor	post-treatment	CD4T	CD4_C05_GNLY	sub_cluster	CD4_C05_GNLY	58	8028	0.00722471350274041	P5-post-T
+GSE235863_CD45	P5	PR, responder	responder	liver tumor	post-treatment	CD4T	CD4_C06_CXCL13	sub_cluster	CD4_C06_CXCL13	74	8028	0.00921773791728949	P5-post-T
+GSE235863_CD45	P5	PR, responder	responder	liver tumor	post-treatment	CD4T	CD4_C07_CTLA4	sub_cluster	CD4_C07_CTLA4	241	8028	0.0300199302441455	P5-post-T
+GSE235863_CD45	P5	PR, responder	responder	liver tumor	post-treatment	CD4T	CD4_C08_FOXP3	sub_cluster	CD4_C08_FOXP3	32	8028	0.00398604882909816	P5-post-T
+GSE235863_CD45	P5	PR, responder	responder	liver tumor	post-treatment	CD4T	CD4_C09_MKI67	sub_cluster	CD4_C09_MKI67	31	8028	0.00386148480318884	P5-post-T
+GSE235863_CD45	P5	PR, responder	responder	liver tumor	post-treatment	CD8T	CD8_C01_LEF1	sub_cluster	CD8_C01_LEF1	78	8028	0.00971599402092676	P5-post-T
+GSE235863_CD45	P5	PR, responder	responder	liver tumor	post-treatment	CD8T	CD8_C02_GPR183	sub_cluster	CD8_C02_GPR183	32	8028	0.00398604882909816	P5-post-T
+GSE235863_CD45	P5	PR, responder	responder	liver tumor	post-treatment	CD8T	CD8_C03_CX3CR1	sub_cluster	CD8_C03_CX3CR1	119	8028	0.0148231190832088	P5-post-T
+GSE235863_CD45	P5	PR, responder	responder	liver tumor	post-treatment	CD8T	CD8_C04_GIMAP4	sub_cluster	CD8_C04_GIMAP4	5	8028	0.000622820129546587	P5-post-T
+GSE235863_CD45	P5	PR, responder	responder	liver tumor	post-treatment	CD8T	CD8_C05_TCF7	sub_cluster	CD8_C05_TCF7	79	8028	0.00984055804683607	P5-post-T
+GSE235863_CD45	P5	PR, responder	responder	liver tumor	post-treatment	CD8T	CD8_C07_KLRC2	sub_cluster	CD8_C07_KLRC2	76	8028	0.00946686596910812	P5-post-T
+GSE235863_CD45	P5	PR, responder	responder	liver tumor	post-treatment	CD8T	CD8_C08_GZMK	sub_cluster	CD8_C08_GZMK	1667	8028	0.207648231190832	P5-post-T
+GSE235863_CD45	P5	PR, responder	responder	liver tumor	post-treatment	CD8T	CD8_C09_LAYN	sub_cluster	CD8_C09_LAYN	80	8028	0.00996512207274539	P5-post-T
+GSE235863_CD45	P5	PR, responder	responder	liver tumor	post-treatment	CD8T	CD8_C10_SLC4A10	sub_cluster	CD8_C10_SLC4A10	404	8028	0.0503238664673642	P5-post-T
+GSE235863_CD45	P5	PR, responder	responder	liver tumor	post-treatment	CD8T	CD8_C11_MKI67	sub_cluster	CD8_C11_MKI67	19	8028	0.00236671649227703	P5-post-T
+GSE235863_CD45	P5	PR, responder	responder	liver tumor	post-treatment	ILC2	ILC2	sub_cluster	ILC2	15	8028	0.00186846038863976	P5-post-T
+GSE235863_CD45	P5	PR, responder	responder	liver tumor	post-treatment	ILC3	ILC3	sub_cluster	ILC3	2	8028	0.000249128051818635	P5-post-T
+GSE235863_CD45	P5	PR, responder	responder	liver tumor	post-treatment	LAMP3+ DC	LAMP3+ DC	sub_cluster	LAMP3+ DC	4	8028	0.00049825610363727	P5-post-T
+GSE235863_CD45	P5	PR, responder	responder	liver tumor	post-treatment	Macro	Macro_C01_FCN1	sub_cluster	Macro_C01_FCN1	510	8028	0.0635276532137519	P5-post-T
+GSE235863_CD45	P5	PR, responder	responder	liver tumor	post-treatment	Macro	Macro_C02_C1QC	sub_cluster	Macro_C02_C1QC	62	8028	0.00772296960637768	P5-post-T
+GSE235863_CD45	P5	PR, responder	responder	liver tumor	post-treatment	Macro	Macro_C03_TREM2	sub_cluster	Macro_C03_TREM2	80	8028	0.00996512207274539	P5-post-T
+GSE235863_CD45	P5	PR, responder	responder	liver tumor	post-treatment	Mast	Mast	sub_cluster	Mast	1	8028	0.000124564025909317	P5-post-T
+GSE235863_CD45	P5	PR, responder	responder	liver tumor	post-treatment	Mono	Mono_C01_FCGR3A	sub_cluster	Mono_C01_FCGR3A	8	8028	0.000996512207274539	P5-post-T
+GSE235863_CD45	P5	PR, responder	responder	liver tumor	post-treatment	Mono	Mono_C02_CD14	sub_cluster	Mono_C02_CD14	27	8028	0.00336322869955157	P5-post-T
+GSE235863_CD45	P5	PR, responder	responder	liver tumor	post-treatment	Mono	Mono_C03_ITGA5	sub_cluster	Mono_C03_ITGA5	2	8028	0.000249128051818635	P5-post-T
+GSE235863_CD45	P5	PR, responder	responder	liver tumor	post-treatment	NK	NK_C01_FCGR3A	sub_cluster	NK_C01_FCGR3A	40	8028	0.0049825610363727	P5-post-T
+GSE235863_CD45	P5	PR, responder	responder	liver tumor	post-treatment	NK	NK_C02_SELL	sub_cluster	NK_C02_SELL	2	8028	0.000249128051818635	P5-post-T
+GSE235863_CD45	P5	PR, responder	responder	liver tumor	post-treatment	NK	NK_C03_GZMK	sub_cluster	NK_C03_GZMK	25	8028	0.00311410064773294	P5-post-T
+GSE235863_CD45	P5	PR, responder	responder	liver tumor	post-treatment	NK	NK_C04_MKI67	sub_cluster	NK_C04_MKI67	5	8028	0.000622820129546587	P5-post-T
+GSE235863_CD45	P5	PR, responder	responder	liver tumor	post-treatment	Plasma	Plasma_C02_SDC1	sub_cluster	Plasma_C02_SDC1	1	8028	0.000124564025909317	P5-post-T
+GSE235863_CD45	P5	PR, responder	responder	liver tumor	post-treatment	cDC1	cDC1	sub_cluster	cDC1	26	8028	0.00323866467364225	P5-post-T
+GSE235863_CD45	P5	PR, responder	responder	liver tumor	post-treatment	cDC2	cDC2_C01_CD1C	sub_cluster	cDC2_C01_CD1C	342	8028	0.0426008968609865	P5-post-T
+GSE235863_CD45	P5	PR, responder	responder	liver tumor	post-treatment	cDC2	cDC2_C02_MKI67	sub_cluster	cDC2_C02_MKI67	11	8028	0.00137020428500249	P5-post-T
+GSE235863_CD45	P5	PR, responder	responder	liver tumor	post-treatment	gdT	gdT_C01_GZMB	sub_cluster	gdT_C01_GZMB	1	8028	0.000124564025909317	P5-post-T
+GSE235863_CD45	P5	PR, responder	responder	liver tumor	post-treatment	gdT	gdT_C02_GZMK	sub_cluster	gdT_C02_GZMK	38	8028	0.00473343298455406	P5-post-T
+GSE235863_CD45	P5	PR, responder	responder	liver tumor	post-treatment	gdT	gdT_C03_KLRG1	sub_cluster	gdT_C03_KLRG1	1	8028	0.000124564025909317	P5-post-T
+GSE235863_CD45	P5	PR, responder	responder	liver tumor	post-treatment	pDC	pDC	sub_cluster	pDC	33	8028	0.00411061285500747	P5-post-T
+GSE235863_CD45	P5	PR, responder	responder	liver tumor	pre-treatment	B	B_C01_IGHD	sub_cluster	B_C01_IGHD	1	2496	0.000400641025641026	P5-pre-T
+GSE235863_CD45	P5	PR, responder	responder	liver tumor	pre-treatment	B	B_C02_CD27	sub_cluster	B_C02_CD27	29	2496	0.0116185897435897	P5-pre-T
+GSE235863_CD45	P5	PR, responder	responder	liver tumor	pre-treatment	CD4T	CD4_C01_CCR7	sub_cluster	CD4_C01_CCR7	8	2496	0.00320512820512821	P5-pre-T
+GSE235863_CD45	P5	PR, responder	responder	liver tumor	pre-treatment	CD4T	CD4_C02_IL7R	sub_cluster	CD4_C02_IL7R	1	2496	0.000400641025641026	P5-pre-T
+GSE235863_CD45	P5	PR, responder	responder	liver tumor	pre-treatment	CD4T	CD4_C03_CD44	sub_cluster	CD4_C03_CD44	1021	2496	0.409054487179487	P5-pre-T
+GSE235863_CD45	P5	PR, responder	responder	liver tumor	pre-treatment	CD4T	CD4_C04_GZMK	sub_cluster	CD4_C04_GZMK	64	2496	0.0256410256410256	P5-pre-T
+GSE235863_CD45	P5	PR, responder	responder	liver tumor	pre-treatment	CD4T	CD4_C05_GNLY	sub_cluster	CD4_C05_GNLY	1	2496	0.000400641025641026	P5-pre-T
+GSE235863_CD45	P5	PR, responder	responder	liver tumor	pre-treatment	CD4T	CD4_C06_CXCL13	sub_cluster	CD4_C06_CXCL13	4	2496	0.0016025641025641	P5-pre-T
+GSE235863_CD45	P5	PR, responder	responder	liver tumor	pre-treatment	CD4T	CD4_C07_CTLA4	sub_cluster	CD4_C07_CTLA4	182	2496	0.0729166666666667	P5-pre-T
+GSE235863_CD45	P5	PR, responder	responder	liver tumor	pre-treatment	CD4T	CD4_C08_FOXP3	sub_cluster	CD4_C08_FOXP3	34	2496	0.0136217948717949	P5-pre-T
+GSE235863_CD45	P5	PR, responder	responder	liver tumor	pre-treatment	CD4T	CD4_C09_MKI67	sub_cluster	CD4_C09_MKI67	14	2496	0.00560897435897436	P5-pre-T
+GSE235863_CD45	P5	PR, responder	responder	liver tumor	pre-treatment	CD8T	CD8_C01_LEF1	sub_cluster	CD8_C01_LEF1	5	2496	0.00200320512820513	P5-pre-T
+GSE235863_CD45	P5	PR, responder	responder	liver tumor	pre-treatment	CD8T	CD8_C02_GPR183	sub_cluster	CD8_C02_GPR183	3	2496	0.00120192307692308	P5-pre-T
+GSE235863_CD45	P5	PR, responder	responder	liver tumor	pre-treatment	CD8T	CD8_C03_CX3CR1	sub_cluster	CD8_C03_CX3CR1	9	2496	0.00360576923076923	P5-pre-T
+GSE235863_CD45	P5	PR, responder	responder	liver tumor	pre-treatment	CD8T	CD8_C04_GIMAP4	sub_cluster	CD8_C04_GIMAP4	1	2496	0.000400641025641026	P5-pre-T
+GSE235863_CD45	P5	PR, responder	responder	liver tumor	pre-treatment	CD8T	CD8_C05_TCF7	sub_cluster	CD8_C05_TCF7	3	2496	0.00120192307692308	P5-pre-T
+GSE235863_CD45	P5	PR, responder	responder	liver tumor	pre-treatment	CD8T	CD8_C07_KLRC2	sub_cluster	CD8_C07_KLRC2	15	2496	0.00600961538461539	P5-pre-T
+GSE235863_CD45	P5	PR, responder	responder	liver tumor	pre-treatment	CD8T	CD8_C08_GZMK	sub_cluster	CD8_C08_GZMK	380	2496	0.15224358974359	P5-pre-T
+GSE235863_CD45	P5	PR, responder	responder	liver tumor	pre-treatment	CD8T	CD8_C09_LAYN	sub_cluster	CD8_C09_LAYN	18	2496	0.00721153846153846	P5-pre-T
+GSE235863_CD45	P5	PR, responder	responder	liver tumor	pre-treatment	CD8T	CD8_C10_SLC4A10	sub_cluster	CD8_C10_SLC4A10	225	2496	0.0901442307692308	P5-pre-T
+GSE235863_CD45	P5	PR, responder	responder	liver tumor	pre-treatment	CD8T	CD8_C11_MKI67	sub_cluster	CD8_C11_MKI67	5	2496	0.00200320512820513	P5-pre-T
+GSE235863_CD45	P5	PR, responder	responder	liver tumor	pre-treatment	ILC2	ILC2	sub_cluster	ILC2	20	2496	0.00801282051282051	P5-pre-T
+GSE235863_CD45	P5	PR, responder	responder	liver tumor	pre-treatment	ILC3	ILC3	sub_cluster	ILC3	20	2496	0.00801282051282051	P5-pre-T
+GSE235863_CD45	P5	PR, responder	responder	liver tumor	pre-treatment	Macro	Macro_C01_FCN1	sub_cluster	Macro_C01_FCN1	5	2496	0.00200320512820513	P5-pre-T
+GSE235863_CD45	P5	PR, responder	responder	liver tumor	pre-treatment	Macro	Macro_C02_C1QC	sub_cluster	Macro_C02_C1QC	35	2496	0.0140224358974359	P5-pre-T
+GSE235863_CD45	P5	PR, responder	responder	liver tumor	pre-treatment	Macro	Macro_C03_TREM2	sub_cluster	Macro_C03_TREM2	17	2496	0.00681089743589744	P5-pre-T
+GSE235863_CD45	P5	PR, responder	responder	liver tumor	pre-treatment	Macro	Macro_C04_IL1B	sub_cluster	Macro_C04_IL1B	213	2496	0.0853365384615385	P5-pre-T
+GSE235863_CD45	P5	PR, responder	responder	liver tumor	pre-treatment	Mast	Mast	sub_cluster	Mast	4	2496	0.0016025641025641	P5-pre-T
+GSE235863_CD45	P5	PR, responder	responder	liver tumor	pre-treatment	Mono	Mono_C01_FCGR3A	sub_cluster	Mono_C01_FCGR3A	1	2496	0.000400641025641026	P5-pre-T
+GSE235863_CD45	P5	PR, responder	responder	liver tumor	pre-treatment	NK	NK_C01_FCGR3A	sub_cluster	NK_C01_FCGR3A	10	2496	0.00400641025641026	P5-pre-T
+GSE235863_CD45	P5	PR, responder	responder	liver tumor	pre-treatment	NK	NK_C02_SELL	sub_cluster	NK_C02_SELL	2	2496	0.000801282051282051	P5-pre-T
+GSE235863_CD45	P5	PR, responder	responder	liver tumor	pre-treatment	NK	NK_C03_GZMK	sub_cluster	NK_C03_GZMK	51	2496	0.0204326923076923	P5-pre-T
+GSE235863_CD45	P5	PR, responder	responder	liver tumor	pre-treatment	NK	NK_C04_MKI67	sub_cluster	NK_C04_MKI67	1	2496	0.000400641025641026	P5-pre-T
+GSE235863_CD45	P5	PR, responder	responder	liver tumor	pre-treatment	Plasma	Plasma_C02_SDC1	sub_cluster	Plasma_C02_SDC1	5	2496	0.00200320512820513	P5-pre-T
+GSE235863_CD45	P5	PR, responder	responder	liver tumor	pre-treatment	cDC1	cDC1	sub_cluster	cDC1	7	2496	0.00280448717948718	P5-pre-T
+GSE235863_CD45	P5	PR, responder	responder	liver tumor	pre-treatment	cDC2	cDC2_C01_CD1C	sub_cluster	cDC2_C01_CD1C	62	2496	0.0248397435897436	P5-pre-T
+GSE235863_CD45	P5	PR, responder	responder	liver tumor	pre-treatment	cDC2	cDC2_C02_MKI67	sub_cluster	cDC2_C02_MKI67	2	2496	0.000801282051282051	P5-pre-T
+GSE235863_CD45	P5	PR, responder	responder	liver tumor	pre-treatment	gdT	gdT_C02_GZMK	sub_cluster	gdT_C02_GZMK	2	2496	0.000801282051282051	P5-pre-T
+GSE235863_CD45	P5	PR, responder	responder	liver tumor	pre-treatment	pDC	pDC	sub_cluster	pDC	16	2496	0.00641025641025641	P5-pre-T
+GSE235863_CD45	P51	NR/SD	non_responder	blood	post-treatment	B	B_C01_IGHD	sub_cluster	B_C01_IGHD	3	10374	0.000289184499710816	P51-post-P
+GSE235863_CD45	P51	NR/SD	non_responder	blood	post-treatment	CD4T	CD4_C01_CCR7	sub_cluster	CD4_C01_CCR7	11	10374	0.00106034316560632	P51-post-P
+GSE235863_CD45	P51	NR/SD	non_responder	blood	post-treatment	CD4T	CD4_C02_IL7R	sub_cluster	CD4_C02_IL7R	325	10374	0.031328320802005	P51-post-P
+GSE235863_CD45	P51	NR/SD	non_responder	blood	post-treatment	CD4T	CD4_C05_GNLY	sub_cluster	CD4_C05_GNLY	63	10374	0.00607287449392713	P51-post-P
+GSE235863_CD45	P51	NR/SD	non_responder	blood	post-treatment	CD4T	CD4_C08_FOXP3	sub_cluster	CD4_C08_FOXP3	119	10374	0.0114709851551957	P51-post-P
+GSE235863_CD45	P51	NR/SD	non_responder	blood	post-treatment	CD8T	CD8_C01_LEF1	sub_cluster	CD8_C01_LEF1	13	10374	0.0012531328320802	P51-post-P
+GSE235863_CD45	P51	NR/SD	non_responder	blood	post-treatment	CD8T	CD8_C03_CX3CR1	sub_cluster	CD8_C03_CX3CR1	967	10374	0.0932138037401195	P51-post-P
+GSE235863_CD45	P51	NR/SD	non_responder	blood	post-treatment	CD8T	CD8_C04_GIMAP4	sub_cluster	CD8_C04_GIMAP4	785	10374	0.0756699440909967	P51-post-P
+GSE235863_CD45	P51	NR/SD	non_responder	blood	post-treatment	CD8T	CD8_C06_KIR2DL3	sub_cluster	CD8_C06_KIR2DL3	287	10374	0.0276653171390014	P51-post-P
+GSE235863_CD45	P51	NR/SD	non_responder	blood	post-treatment	CD8T	CD8_C08_GZMK	sub_cluster	CD8_C08_GZMK	1	10374	9.63948332369385e-05	P51-post-P
+GSE235863_CD45	P51	NR/SD	non_responder	blood	post-treatment	CD8T	CD8_C10_SLC4A10	sub_cluster	CD8_C10_SLC4A10	116	10374	0.0111818006554849	P51-post-P
+GSE235863_CD45	P51	NR/SD	non_responder	blood	post-treatment	CD8T	CD8_C11_MKI67	sub_cluster	CD8_C11_MKI67	1	10374	9.63948332369385e-05	P51-post-P
+GSE235863_CD45	P51	NR/SD	non_responder	blood	post-treatment	LAMP3+ DC	LAMP3+ DC	sub_cluster	LAMP3+ DC	1	10374	9.63948332369385e-05	P51-post-P
+GSE235863_CD45	P51	NR/SD	non_responder	blood	post-treatment	Macro	Macro_C01_FCN1	sub_cluster	Macro_C01_FCN1	5	10374	0.000481974166184693	P51-post-P
+GSE235863_CD45	P51	NR/SD	non_responder	blood	post-treatment	Macro	Macro_C03_TREM2	sub_cluster	Macro_C03_TREM2	1	10374	9.63948332369385e-05	P51-post-P
+GSE235863_CD45	P51	NR/SD	non_responder	blood	post-treatment	Mast	Mast	sub_cluster	Mast	2	10374	0.000192789666473877	P51-post-P
+GSE235863_CD45	P51	NR/SD	non_responder	blood	post-treatment	Megakaryocyte	Megakaryocyte	sub_cluster	Megakaryocyte	18	10374	0.00173510699826489	P51-post-P
+GSE235863_CD45	P51	NR/SD	non_responder	blood	post-treatment	Mono	Mono_C01_FCGR3A	sub_cluster	Mono_C01_FCGR3A	810	10374	0.0780798149219202	P51-post-P
+GSE235863_CD45	P51	NR/SD	non_responder	blood	post-treatment	Mono	Mono_C02_CD14	sub_cluster	Mono_C02_CD14	3505	10374	0.337863890495469	P51-post-P
+GSE235863_CD45	P51	NR/SD	non_responder	blood	post-treatment	Mono	Mono_C03_ITGA5	sub_cluster	Mono_C03_ITGA5	1	10374	9.63948332369385e-05	P51-post-P
+GSE235863_CD45	P51	NR/SD	non_responder	blood	post-treatment	NKT-like	NKT-like	sub_cluster	NKT-like	230	10374	0.0221708116444959	P51-post-P
+GSE235863_CD45	P51	NR/SD	non_responder	blood	post-treatment	NK	NK_C01_FCGR3A	sub_cluster	NK_C01_FCGR3A	2492	10374	0.240215924426451	P51-post-P
+GSE235863_CD45	P51	NR/SD	non_responder	blood	post-treatment	NK	NK_C02_SELL	sub_cluster	NK_C02_SELL	10	10374	0.000963948332369385	P51-post-P
+GSE235863_CD45	P51	NR/SD	non_responder	blood	post-treatment	NK	NK_C04_MKI67	sub_cluster	NK_C04_MKI67	10	10374	0.000963948332369385	P51-post-P
+GSE235863_CD45	P51	NR/SD	non_responder	blood	post-treatment	cDC1	cDC1	sub_cluster	cDC1	3	10374	0.000289184499710816	P51-post-P
+GSE235863_CD45	P51	NR/SD	non_responder	blood	post-treatment	cDC2	cDC2_C01_CD1C	sub_cluster	cDC2_C01_CD1C	145	10374	0.0139772508193561	P51-post-P
+GSE235863_CD45	P51	NR/SD	non_responder	blood	post-treatment	gdT	gdT_C03_KLRG1	sub_cluster	gdT_C03_KLRG1	358	10374	0.034509350298824	P51-post-P
+GSE235863_CD45	P51	NR/SD	non_responder	blood	post-treatment	pDC	pDC	sub_cluster	pDC	92	10374	0.00886832465779834	P51-post-P
+GSE235863_CD45	P51	NR/SD	non_responder	liver tumor	post-treatment	B	B_C01_IGHD	sub_cluster	B_C01_IGHD	34	5227	0.00650468720107136	P51-post-T
+GSE235863_CD45	P51	NR/SD	non_responder	liver tumor	post-treatment	B	B_C02_CD27	sub_cluster	B_C02_CD27	118	5227	0.0225750908743065	P51-post-T
+GSE235863_CD45	P51	NR/SD	non_responder	liver tumor	post-treatment	CD4T	CD4_C01_CCR7	sub_cluster	CD4_C01_CCR7	43	5227	0.00822651616606084	P51-post-T
+GSE235863_CD45	P51	NR/SD	non_responder	liver tumor	post-treatment	CD4T	CD4_C02_IL7R	sub_cluster	CD4_C02_IL7R	52	5227	0.00994834513105032	P51-post-T
+GSE235863_CD45	P51	NR/SD	non_responder	liver tumor	post-treatment	CD4T	CD4_C03_CD44	sub_cluster	CD4_C03_CD44	73	5227	0.0139659460493591	P51-post-T
+GSE235863_CD45	P51	NR/SD	non_responder	liver tumor	post-treatment	CD4T	CD4_C04_GZMK	sub_cluster	CD4_C04_GZMK	1206	5227	0.23072508130859	P51-post-T
+GSE235863_CD45	P51	NR/SD	non_responder	liver tumor	post-treatment	CD4T	CD4_C05_GNLY	sub_cluster	CD4_C05_GNLY	7	5227	0.00133920030610293	P51-post-T
+GSE235863_CD45	P51	NR/SD	non_responder	liver tumor	post-treatment	CD4T	CD4_C06_CXCL13	sub_cluster	CD4_C06_CXCL13	50	5227	0.00956571647216376	P51-post-T
+GSE235863_CD45	P51	NR/SD	non_responder	liver tumor	post-treatment	CD4T	CD4_C07_CTLA4	sub_cluster	CD4_C07_CTLA4	500	5227	0.0956571647216377	P51-post-T
+GSE235863_CD45	P51	NR/SD	non_responder	liver tumor	post-treatment	CD4T	CD4_C08_FOXP3	sub_cluster	CD4_C08_FOXP3	8	5227	0.0015305146355462	P51-post-T
+GSE235863_CD45	P51	NR/SD	non_responder	liver tumor	post-treatment	CD4T	CD4_C09_MKI67	sub_cluster	CD4_C09_MKI67	8	5227	0.0015305146355462	P51-post-T
+GSE235863_CD45	P51	NR/SD	non_responder	liver tumor	post-treatment	CD8T	CD8_C02_GPR183	sub_cluster	CD8_C02_GPR183	3	5227	0.000573942988329826	P51-post-T
+GSE235863_CD45	P51	NR/SD	non_responder	liver tumor	post-treatment	CD8T	CD8_C03_CX3CR1	sub_cluster	CD8_C03_CX3CR1	55	5227	0.0105222881193801	P51-post-T
+GSE235863_CD45	P51	NR/SD	non_responder	liver tumor	post-treatment	CD8T	CD8_C04_GIMAP4	sub_cluster	CD8_C04_GIMAP4	7	5227	0.00133920030610293	P51-post-T
+GSE235863_CD45	P51	NR/SD	non_responder	liver tumor	post-treatment	CD8T	CD8_C05_TCF7	sub_cluster	CD8_C05_TCF7	13	5227	0.00248708628276258	P51-post-T
+GSE235863_CD45	P51	NR/SD	non_responder	liver tumor	post-treatment	CD8T	CD8_C06_KIR2DL3	sub_cluster	CD8_C06_KIR2DL3	4	5227	0.000765257317773101	P51-post-T
+GSE235863_CD45	P51	NR/SD	non_responder	liver tumor	post-treatment	CD8T	CD8_C07_KLRC2	sub_cluster	CD8_C07_KLRC2	85	5227	0.0162617180026784	P51-post-T
+GSE235863_CD45	P51	NR/SD	non_responder	liver tumor	post-treatment	CD8T	CD8_C08_GZMK	sub_cluster	CD8_C08_GZMK	562	5227	0.107518653147121	P51-post-T
+GSE235863_CD45	P51	NR/SD	non_responder	liver tumor	post-treatment	CD8T	CD8_C09_LAYN	sub_cluster	CD8_C09_LAYN	79	5227	0.0151138320260187	P51-post-T
+GSE235863_CD45	P51	NR/SD	non_responder	liver tumor	post-treatment	CD8T	CD8_C10_SLC4A10	sub_cluster	CD8_C10_SLC4A10	456	5227	0.0872393342261336	P51-post-T
+GSE235863_CD45	P51	NR/SD	non_responder	liver tumor	post-treatment	CD8T	CD8_C11_MKI67	sub_cluster	CD8_C11_MKI67	2	5227	0.000382628658886551	P51-post-T
+GSE235863_CD45	P51	NR/SD	non_responder	liver tumor	post-treatment	ILC2	ILC2	sub_cluster	ILC2	25	5227	0.00478285823608188	P51-post-T
+GSE235863_CD45	P51	NR/SD	non_responder	liver tumor	post-treatment	ILC3	ILC3	sub_cluster	ILC3	9	5227	0.00172182896498948	P51-post-T
+GSE235863_CD45	P51	NR/SD	non_responder	liver tumor	post-treatment	LAMP3+ DC	LAMP3+ DC	sub_cluster	LAMP3+ DC	6	5227	0.00114788597665965	P51-post-T
+GSE235863_CD45	P51	NR/SD	non_responder	liver tumor	post-treatment	Macro	Macro_C01_FCN1	sub_cluster	Macro_C01_FCN1	378	5227	0.0723168165295581	P51-post-T
+GSE235863_CD45	P51	NR/SD	non_responder	liver tumor	post-treatment	Macro	Macro_C02_C1QC	sub_cluster	Macro_C02_C1QC	161	5227	0.0308016070403673	P51-post-T
+GSE235863_CD45	P51	NR/SD	non_responder	liver tumor	post-treatment	Macro	Macro_C03_TREM2	sub_cluster	Macro_C03_TREM2	377	5227	0.0721255022001148	P51-post-T
+GSE235863_CD45	P51	NR/SD	non_responder	liver tumor	post-treatment	Macro	Macro_C04_IL1B	sub_cluster	Macro_C04_IL1B	12	5227	0.0022957719533193	P51-post-T
+GSE235863_CD45	P51	NR/SD	non_responder	liver tumor	post-treatment	Mast	Mast	sub_cluster	Mast	15	5227	0.00286971494164913	P51-post-T
+GSE235863_CD45	P51	NR/SD	non_responder	liver tumor	post-treatment	Mono	Mono_C01_FCGR3A	sub_cluster	Mono_C01_FCGR3A	12	5227	0.0022957719533193	P51-post-T
+GSE235863_CD45	P51	NR/SD	non_responder	liver tumor	post-treatment	Mono	Mono_C02_CD14	sub_cluster	Mono_C02_CD14	149	5227	0.028505835087048	P51-post-T
+GSE235863_CD45	P51	NR/SD	non_responder	liver tumor	post-treatment	Mono	Mono_C03_ITGA5	sub_cluster	Mono_C03_ITGA5	24	5227	0.00459154390663861	P51-post-T
+GSE235863_CD45	P51	NR/SD	non_responder	liver tumor	post-treatment	NKT-like	NKT-like	sub_cluster	NKT-like	4	5227	0.000765257317773101	P51-post-T
+GSE235863_CD45	P51	NR/SD	non_responder	liver tumor	post-treatment	NK	NK_C01_FCGR3A	sub_cluster	NK_C01_FCGR3A	76	5227	0.0145398890376889	P51-post-T
+GSE235863_CD45	P51	NR/SD	non_responder	liver tumor	post-treatment	NK	NK_C02_SELL	sub_cluster	NK_C02_SELL	12	5227	0.0022957719533193	P51-post-T
+GSE235863_CD45	P51	NR/SD	non_responder	liver tumor	post-treatment	NK	NK_C03_GZMK	sub_cluster	NK_C03_GZMK	80	5227	0.015305146355462	P51-post-T
+GSE235863_CD45	P51	NR/SD	non_responder	liver tumor	post-treatment	NK	NK_C04_MKI67	sub_cluster	NK_C04_MKI67	3	5227	0.000573942988329826	P51-post-T
+GSE235863_CD45	P51	NR/SD	non_responder	liver tumor	post-treatment	Plasma	Plasma_C02_SDC1	sub_cluster	Plasma_C02_SDC1	3	5227	0.000573942988329826	P51-post-T
+GSE235863_CD45	P51	NR/SD	non_responder	liver tumor	post-treatment	Plasma	Plasma_C03_SDC1_HSPA1A	sub_cluster	Plasma_C03_SDC1_HSPA1A	15	5227	0.00286971494164913	P51-post-T
+GSE235863_CD45	P51	NR/SD	non_responder	liver tumor	post-treatment	cDC1	cDC1	sub_cluster	cDC1	63	5227	0.0120528027549263	P51-post-T
+GSE235863_CD45	P51	NR/SD	non_responder	liver tumor	post-treatment	cDC2	cDC2_C01_CD1C	sub_cluster	cDC2_C01_CD1C	347	5227	0.0663860723168165	P51-post-T
+GSE235863_CD45	P51	NR/SD	non_responder	liver tumor	post-treatment	cDC2	cDC2_C02_MKI67	sub_cluster	cDC2_C02_MKI67	46	5227	0.00880045915439066	P51-post-T
+GSE235863_CD45	P51	NR/SD	non_responder	liver tumor	post-treatment	gdT	gdT_C01_GZMB	sub_cluster	gdT_C01_GZMB	1	5227	0.000191314329443275	P51-post-T
+GSE235863_CD45	P51	NR/SD	non_responder	liver tumor	post-treatment	gdT	gdT_C02_GZMK	sub_cluster	gdT_C02_GZMK	34	5227	0.00650468720107136	P51-post-T
+GSE235863_CD45	P51	NR/SD	non_responder	liver tumor	post-treatment	gdT	gdT_C03_KLRG1	sub_cluster	gdT_C03_KLRG1	2	5227	0.000382628658886551	P51-post-T
+GSE235863_CD45	P51	NR/SD	non_responder	liver tumor	post-treatment	pDC	pDC	sub_cluster	pDC	8	5227	0.0015305146355462	P51-post-T
+GSE235863_CD45	P52	NR/SD	non_responder	blood	post-treatment	B	B_C01_IGHD	sub_cluster	B_C01_IGHD	345	5341	0.0645946451975286	P52-post-P
+GSE235863_CD45	P52	NR/SD	non_responder	blood	post-treatment	B	B_C02_CD27	sub_cluster	B_C02_CD27	37	5341	0.00692754165886538	P52-post-P
+GSE235863_CD45	P52	NR/SD	non_responder	blood	post-treatment	CD4T	CD4_C01_CCR7	sub_cluster	CD4_C01_CCR7	520	5341	0.0973600449354054	P52-post-P
+GSE235863_CD45	P52	NR/SD	non_responder	blood	post-treatment	CD4T	CD4_C02_IL7R	sub_cluster	CD4_C02_IL7R	107	5341	0.0200337015540161	P52-post-P
+GSE235863_CD45	P52	NR/SD	non_responder	blood	post-treatment	CD4T	CD4_C03_CD44	sub_cluster	CD4_C03_CD44	1	5341	0.00018723085564501	P52-post-P
+GSE235863_CD45	P52	NR/SD	non_responder	blood	post-treatment	CD4T	CD4_C04_GZMK	sub_cluster	CD4_C04_GZMK	13	5341	0.00243400112338513	P52-post-P
+GSE235863_CD45	P52	NR/SD	non_responder	blood	post-treatment	CD4T	CD4_C05_GNLY	sub_cluster	CD4_C05_GNLY	150	5341	0.0280846283467515	P52-post-P
+GSE235863_CD45	P52	NR/SD	non_responder	blood	post-treatment	CD4T	CD4_C06_CXCL13	sub_cluster	CD4_C06_CXCL13	6	5341	0.00112338513387006	P52-post-P
+GSE235863_CD45	P52	NR/SD	non_responder	blood	post-treatment	CD4T	CD4_C07_CTLA4	sub_cluster	CD4_C07_CTLA4	2	5341	0.000374461711290021	P52-post-P
+GSE235863_CD45	P52	NR/SD	non_responder	blood	post-treatment	CD4T	CD4_C08_FOXP3	sub_cluster	CD4_C08_FOXP3	124	5341	0.0232166260999813	P52-post-P
+GSE235863_CD45	P52	NR/SD	non_responder	blood	post-treatment	CD4T	CD4_C09_MKI67	sub_cluster	CD4_C09_MKI67	1	5341	0.00018723085564501	P52-post-P
+GSE235863_CD45	P52	NR/SD	non_responder	blood	post-treatment	CD8T	CD8_C01_LEF1	sub_cluster	CD8_C01_LEF1	121	5341	0.0226549335330462	P52-post-P
+GSE235863_CD45	P52	NR/SD	non_responder	blood	post-treatment	CD8T	CD8_C03_CX3CR1	sub_cluster	CD8_C03_CX3CR1	1617	5341	0.302752293577982	P52-post-P
+GSE235863_CD45	P52	NR/SD	non_responder	blood	post-treatment	CD8T	CD8_C04_GIMAP4	sub_cluster	CD8_C04_GIMAP4	132	5341	0.0247144729451414	P52-post-P
+GSE235863_CD45	P52	NR/SD	non_responder	blood	post-treatment	CD8T	CD8_C06_KIR2DL3	sub_cluster	CD8_C06_KIR2DL3	177	5341	0.0331398614491668	P52-post-P
+GSE235863_CD45	P52	NR/SD	non_responder	blood	post-treatment	CD8T	CD8_C08_GZMK	sub_cluster	CD8_C08_GZMK	14	5341	0.00262123197903014	P52-post-P
+GSE235863_CD45	P52	NR/SD	non_responder	blood	post-treatment	CD8T	CD8_C09_LAYN	sub_cluster	CD8_C09_LAYN	5	5341	0.000936154278225052	P52-post-P
+GSE235863_CD45	P52	NR/SD	non_responder	blood	post-treatment	CD8T	CD8_C10_SLC4A10	sub_cluster	CD8_C10_SLC4A10	13	5341	0.00243400112338513	P52-post-P
+GSE235863_CD45	P52	NR/SD	non_responder	blood	post-treatment	CD8T	CD8_C11_MKI67	sub_cluster	CD8_C11_MKI67	5	5341	0.000936154278225052	P52-post-P
+GSE235863_CD45	P52	NR/SD	non_responder	blood	post-treatment	Mono	Mono_C01_FCGR3A	sub_cluster	Mono_C01_FCGR3A	42	5341	0.00786369593709043	P52-post-P
+GSE235863_CD45	P52	NR/SD	non_responder	blood	post-treatment	Mono	Mono_C02_CD14	sub_cluster	Mono_C02_CD14	11	5341	0.00205953941209511	P52-post-P
+GSE235863_CD45	P52	NR/SD	non_responder	blood	post-treatment	NKT-like	NKT-like	sub_cluster	NKT-like	47	5341	0.00879985021531548	P52-post-P
+GSE235863_CD45	P52	NR/SD	non_responder	blood	post-treatment	NK	NK_C01_FCGR3A	sub_cluster	NK_C01_FCGR3A	811	5341	0.151844223928103	P52-post-P
+GSE235863_CD45	P52	NR/SD	non_responder	blood	post-treatment	NK	NK_C02_SELL	sub_cluster	NK_C02_SELL	61	5341	0.0114210821943456	P52-post-P
+GSE235863_CD45	P52	NR/SD	non_responder	blood	post-treatment	NK	NK_C03_GZMK	sub_cluster	NK_C03_GZMK	5	5341	0.000936154278225052	P52-post-P
+GSE235863_CD45	P52	NR/SD	non_responder	blood	post-treatment	NK	NK_C04_MKI67	sub_cluster	NK_C04_MKI67	30	5341	0.00561692566935031	P52-post-P
+GSE235863_CD45	P52	NR/SD	non_responder	blood	post-treatment	Plasma	Plasma_C01_CD52	sub_cluster	Plasma_C01_CD52	21	5341	0.00393184796854522	P52-post-P
+GSE235863_CD45	P52	NR/SD	non_responder	blood	post-treatment	cDC2	cDC2_C01_CD1C	sub_cluster	cDC2_C01_CD1C	1	5341	0.00018723085564501	P52-post-P
+GSE235863_CD45	P52	NR/SD	non_responder	blood	post-treatment	gdT	gdT_C03_KLRG1	sub_cluster	gdT_C03_KLRG1	919	5341	0.172065156337764	P52-post-P
+GSE235863_CD45	P52	NR/SD	non_responder	blood	post-treatment	pDC	pDC	sub_cluster	pDC	3	5341	0.000561692566935031	P52-post-P
+GSE235863_CD45	P52	NR/SD	non_responder	liver tumor	post-treatment	B	B_C01_IGHD	sub_cluster	B_C01_IGHD	157	4510	0.0348115299334812	P52-post-T
+GSE235863_CD45	P52	NR/SD	non_responder	liver tumor	post-treatment	B	B_C02_CD27	sub_cluster	B_C02_CD27	54	4510	0.0119733924611973	P52-post-T
+GSE235863_CD45	P52	NR/SD	non_responder	liver tumor	post-treatment	CD4T	CD4_C01_CCR7	sub_cluster	CD4_C01_CCR7	109	4510	0.0241685144124169	P52-post-T
+GSE235863_CD45	P52	NR/SD	non_responder	liver tumor	post-treatment	CD4T	CD4_C02_IL7R	sub_cluster	CD4_C02_IL7R	7	4510	0.00155210643015521	P52-post-T
+GSE235863_CD45	P52	NR/SD	non_responder	liver tumor	post-treatment	CD4T	CD4_C03_CD44	sub_cluster	CD4_C03_CD44	96	4510	0.0212860310421286	P52-post-T
+GSE235863_CD45	P52	NR/SD	non_responder	liver tumor	post-treatment	CD4T	CD4_C04_GZMK	sub_cluster	CD4_C04_GZMK	972	4510	0.215521064301552	P52-post-T
+GSE235863_CD45	P52	NR/SD	non_responder	liver tumor	post-treatment	CD4T	CD4_C05_GNLY	sub_cluster	CD4_C05_GNLY	17	4510	0.00376940133037694	P52-post-T
+GSE235863_CD45	P52	NR/SD	non_responder	liver tumor	post-treatment	CD4T	CD4_C06_CXCL13	sub_cluster	CD4_C06_CXCL13	138	4510	0.0305986696230599	P52-post-T
+GSE235863_CD45	P52	NR/SD	non_responder	liver tumor	post-treatment	CD4T	CD4_C07_CTLA4	sub_cluster	CD4_C07_CTLA4	165	4510	0.0365853658536585	P52-post-T
+GSE235863_CD45	P52	NR/SD	non_responder	liver tumor	post-treatment	CD4T	CD4_C08_FOXP3	sub_cluster	CD4_C08_FOXP3	34	4510	0.00753880266075388	P52-post-T
+GSE235863_CD45	P52	NR/SD	non_responder	liver tumor	post-treatment	CD4T	CD4_C09_MKI67	sub_cluster	CD4_C09_MKI67	17	4510	0.00376940133037694	P52-post-T
+GSE235863_CD45	P52	NR/SD	non_responder	liver tumor	post-treatment	CD8T	CD8_C01_LEF1	sub_cluster	CD8_C01_LEF1	7	4510	0.00155210643015521	P52-post-T
+GSE235863_CD45	P52	NR/SD	non_responder	liver tumor	post-treatment	CD8T	CD8_C02_GPR183	sub_cluster	CD8_C02_GPR183	22	4510	0.00487804878048781	P52-post-T
+GSE235863_CD45	P52	NR/SD	non_responder	liver tumor	post-treatment	CD8T	CD8_C03_CX3CR1	sub_cluster	CD8_C03_CX3CR1	162	4510	0.035920177383592	P52-post-T
+GSE235863_CD45	P52	NR/SD	non_responder	liver tumor	post-treatment	CD8T	CD8_C04_GIMAP4	sub_cluster	CD8_C04_GIMAP4	4	4510	0.000886917960088692	P52-post-T
+GSE235863_CD45	P52	NR/SD	non_responder	liver tumor	post-treatment	CD8T	CD8_C05_TCF7	sub_cluster	CD8_C05_TCF7	97	4510	0.0215077605321508	P52-post-T
+GSE235863_CD45	P52	NR/SD	non_responder	liver tumor	post-treatment	CD8T	CD8_C06_KIR2DL3	sub_cluster	CD8_C06_KIR2DL3	3	4510	0.000665188470066519	P52-post-T
+GSE235863_CD45	P52	NR/SD	non_responder	liver tumor	post-treatment	CD8T	CD8_C07_KLRC2	sub_cluster	CD8_C07_KLRC2	197	4510	0.0436807095343681	P52-post-T
+GSE235863_CD45	P52	NR/SD	non_responder	liver tumor	post-treatment	CD8T	CD8_C08_GZMK	sub_cluster	CD8_C08_GZMK	597	4510	0.132372505543237	P52-post-T
+GSE235863_CD45	P52	NR/SD	non_responder	liver tumor	post-treatment	CD8T	CD8_C09_LAYN	sub_cluster	CD8_C09_LAYN	489	4510	0.108425720620843	P52-post-T
+GSE235863_CD45	P52	NR/SD	non_responder	liver tumor	post-treatment	CD8T	CD8_C10_SLC4A10	sub_cluster	CD8_C10_SLC4A10	56	4510	0.0124168514412417	P52-post-T
+GSE235863_CD45	P52	NR/SD	non_responder	liver tumor	post-treatment	CD8T	CD8_C11_MKI67	sub_cluster	CD8_C11_MKI67	15	4510	0.00332594235033259	P52-post-T
+GSE235863_CD45	P52	NR/SD	non_responder	liver tumor	post-treatment	ILC2	ILC2	sub_cluster	ILC2	2	4510	0.000443458980044346	P52-post-T
+GSE235863_CD45	P52	NR/SD	non_responder	liver tumor	post-treatment	ILC3	ILC3	sub_cluster	ILC3	2	4510	0.000443458980044346	P52-post-T
+GSE235863_CD45	P52	NR/SD	non_responder	liver tumor	post-treatment	LAMP3+ DC	LAMP3+ DC	sub_cluster	LAMP3+ DC	5	4510	0.00110864745011086	P52-post-T
+GSE235863_CD45	P52	NR/SD	non_responder	liver tumor	post-treatment	Macro	Macro_C01_FCN1	sub_cluster	Macro_C01_FCN1	193	4510	0.0427937915742794	P52-post-T
+GSE235863_CD45	P52	NR/SD	non_responder	liver tumor	post-treatment	Macro	Macro_C02_C1QC	sub_cluster	Macro_C02_C1QC	59	4510	0.0130820399113082	P52-post-T
+GSE235863_CD45	P52	NR/SD	non_responder	liver tumor	post-treatment	Macro	Macro_C03_TREM2	sub_cluster	Macro_C03_TREM2	82	4510	0.0181818181818182	P52-post-T
+GSE235863_CD45	P52	NR/SD	non_responder	liver tumor	post-treatment	Macro	Macro_C04_IL1B	sub_cluster	Macro_C04_IL1B	1	4510	0.000221729490022173	P52-post-T
+GSE235863_CD45	P52	NR/SD	non_responder	liver tumor	post-treatment	Mast	Mast	sub_cluster	Mast	4	4510	0.000886917960088692	P52-post-T
+GSE235863_CD45	P52	NR/SD	non_responder	liver tumor	post-treatment	Mono	Mono_C01_FCGR3A	sub_cluster	Mono_C01_FCGR3A	44	4510	0.00975609756097561	P52-post-T
+GSE235863_CD45	P52	NR/SD	non_responder	liver tumor	post-treatment	Mono	Mono_C02_CD14	sub_cluster	Mono_C02_CD14	220	4510	0.0487804878048781	P52-post-T
+GSE235863_CD45	P52	NR/SD	non_responder	liver tumor	post-treatment	Mono	Mono_C03_ITGA5	sub_cluster	Mono_C03_ITGA5	57	4510	0.0126385809312639	P52-post-T
+GSE235863_CD45	P52	NR/SD	non_responder	liver tumor	post-treatment	NK	NK_C01_FCGR3A	sub_cluster	NK_C01_FCGR3A	19	4510	0.00421286031042129	P52-post-T
+GSE235863_CD45	P52	NR/SD	non_responder	liver tumor	post-treatment	NK	NK_C02_SELL	sub_cluster	NK_C02_SELL	22	4510	0.00487804878048781	P52-post-T
+GSE235863_CD45	P52	NR/SD	non_responder	liver tumor	post-treatment	NK	NK_C03_GZMK	sub_cluster	NK_C03_GZMK	57	4510	0.0126385809312639	P52-post-T
+GSE235863_CD45	P52	NR/SD	non_responder	liver tumor	post-treatment	NK	NK_C04_MKI67	sub_cluster	NK_C04_MKI67	3	4510	0.000665188470066519	P52-post-T
+GSE235863_CD45	P52	NR/SD	non_responder	liver tumor	post-treatment	Plasma	Plasma_C02_SDC1	sub_cluster	Plasma_C02_SDC1	45	4510	0.00997782705099778	P52-post-T
+GSE235863_CD45	P52	NR/SD	non_responder	liver tumor	post-treatment	Plasma	Plasma_C03_SDC1_HSPA1A	sub_cluster	Plasma_C03_SDC1_HSPA1A	11	4510	0.0024390243902439	P52-post-T
+GSE235863_CD45	P52	NR/SD	non_responder	liver tumor	post-treatment	cDC1	cDC1	sub_cluster	cDC1	10	4510	0.00221729490022173	P52-post-T
+GSE235863_CD45	P52	NR/SD	non_responder	liver tumor	post-treatment	cDC2	cDC2_C01_CD1C	sub_cluster	cDC2_C01_CD1C	100	4510	0.0221729490022173	P52-post-T
+GSE235863_CD45	P52	NR/SD	non_responder	liver tumor	post-treatment	cDC2	cDC2_C02_MKI67	sub_cluster	cDC2_C02_MKI67	12	4510	0.00266075388026608	P52-post-T
+GSE235863_CD45	P52	NR/SD	non_responder	liver tumor	post-treatment	gdT	gdT_C01_GZMB	sub_cluster	gdT_C01_GZMB	10	4510	0.00221729490022173	P52-post-T
+GSE235863_CD45	P52	NR/SD	non_responder	liver tumor	post-treatment	gdT	gdT_C02_GZMK	sub_cluster	gdT_C02_GZMK	111	4510	0.0246119733924612	P52-post-T
+GSE235863_CD45	P52	NR/SD	non_responder	liver tumor	post-treatment	gdT	gdT_C03_KLRG1	sub_cluster	gdT_C03_KLRG1	2	4510	0.000443458980044346	P52-post-T
+GSE235863_CD45	P52	NR/SD	non_responder	liver tumor	post-treatment	pDC	pDC	sub_cluster	pDC	24	4510	0.00532150776053215	P52-post-T

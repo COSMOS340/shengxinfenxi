@@ -1,0 +1,5 @@
+stage	status	detail
+GSE235863_CD45_timepoint_rebuild	completed	CD45 sample, patient-timepoint, subcluster, stratum, statistics, and QC plot outputs written
+GSE235863_CD8_doublet_timepoint_rebuild	completed_with_unresolved_samples_excluded	CD8 doublet sensitivity outputs written after excluding samples with unresolved tissue or timepoint
+PRJNA932556_pilot_read_structure	completed_stop_condition_met	Pilot audit written; FASTQ/barcode/UMI/cDNA/chemistry not validated
+PRJNA932556_full_quantification	not_started_stop_condition_met	Full six-sample matrices and Seurat QC object were not generated because pilot failed validation

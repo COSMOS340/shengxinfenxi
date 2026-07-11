@@ -1,0 +1,209 @@
+dataset_id	patient	derived_tissue	derived_timepoint	doublet_filter_state	raw_response	derived_response_group	major_cluster	sub_cluster	cell_count	total_cells_before_filter	retained_cells_after_filter	excluded_predicted_doublets	contributing_samples	state_total_cells	proportion
+GSE235863_CD8	P16	blood	pre-treatment	after_excluding_predicted_doublets	PD, non-responder	non_responder	CD8T	CD8_C01_LEF1	5492	95408	91009	4399	P16-pre-P-CD8n;P16-pre-P-CD8p	13390	0.410156833457804
+GSE235863_CD8	P16	blood	pre-treatment	after_excluding_predicted_doublets	PD, non-responder	non_responder	CD8T	CD8_C02_GPR183	1032	95408	91009	4399	P16-pre-P-CD8n;P16-pre-P-CD8p	13390	0.0770724421209858
+GSE235863_CD8	P16	blood	pre-treatment	after_excluding_predicted_doublets	PD, non-responder	non_responder	CD8T	CD8_C03_CX3CR1	2334	95408	91009	4399	P16-pre-P-CD8n;P16-pre-P-CD8p	13390	0.174309185959671
+GSE235863_CD8	P16	blood	pre-treatment	after_excluding_predicted_doublets	PD, non-responder	non_responder	CD8T	CD8_C04_GIMAP4	646	95408	91009	4399	P16-pre-P-CD8n;P16-pre-P-CD8p	13390	0.0482449589245706
+GSE235863_CD8	P16	blood	pre-treatment	after_excluding_predicted_doublets	PD, non-responder	non_responder	CD8T	CD8_C05_CCR7	1881	95408	91009	4399	P16-pre-P-CD8n;P16-pre-P-CD8p	13390	0.140477968633308
+GSE235863_CD8	P16	blood	pre-treatment	after_excluding_predicted_doublets	PD, non-responder	non_responder	CD8T	CD8_C06_IKZF2	152	95408	91009	4399	P16-pre-P-CD8n;P16-pre-P-CD8p	13390	0.0113517550410754
+GSE235863_CD8	P16	blood	pre-treatment	after_excluding_predicted_doublets	PD, non-responder	non_responder	CD8T	CD8_C07_KIR2DL4	61	95408	91009	4399	P16-pre-P-CD8n;P16-pre-P-CD8p	13390	0.00455563853622106
+GSE235863_CD8	P16	blood	pre-treatment	after_excluding_predicted_doublets	PD, non-responder	non_responder	CD8T	CD8_C08_GZMK	1423	95408	91009	4399	P16-pre-P-CD8n;P16-pre-P-CD8p	13390	0.106273338312173
+GSE235863_CD8	P16	blood	pre-treatment	after_excluding_predicted_doublets	PD, non-responder	non_responder	CD8T	CD8_C09_LAYN	1	95408	91009	4399	P16-pre-P-CD8p	13390	7.46825989544436e-05
+GSE235863_CD8	P16	blood	pre-treatment	after_excluding_predicted_doublets	PD, non-responder	non_responder	CD8T	CD8_C10_SLC4A10	350	95408	91009	4399	P16-pre-P-CD8n;P16-pre-P-CD8p	13390	0.0261389096340553
+GSE235863_CD8	P16	blood	pre-treatment	after_excluding_predicted_doublets	PD, non-responder	non_responder	CD8T	CD8_C11_MKI67	18	95408	91009	4399	P16-pre-P-CD8n;P16-pre-P-CD8p	13390	0.00134428678117999
+GSE235863_CD8	P16	blood	pre-treatment	before_doublet_exclusion	PD, non-responder	non_responder	CD8T	CD8_C01_LEF1	5496	95408	91009	4399	P16-pre-P-CD8n;P16-pre-P-CD8p	13502	0.407050807287809
+GSE235863_CD8	P16	blood	pre-treatment	before_doublet_exclusion	PD, non-responder	non_responder	CD8T	CD8_C02_GPR183	1034	95408	91009	4399	P16-pre-P-CD8n;P16-pre-P-CD8p	13502	0.0765812472226337
+GSE235863_CD8	P16	blood	pre-treatment	before_doublet_exclusion	PD, non-responder	non_responder	CD8T	CD8_C03_CX3CR1	2370	95408	91009	4399	P16-pre-P-CD8n;P16-pre-P-CD8p	13502	0.175529551177603
+GSE235863_CD8	P16	blood	pre-treatment	before_doublet_exclusion	PD, non-responder	non_responder	CD8T	CD8_C04_GIMAP4	678	95408	91009	4399	P16-pre-P-CD8n;P16-pre-P-CD8p	13502	0.0502147829951118
+GSE235863_CD8	P16	blood	pre-treatment	before_doublet_exclusion	PD, non-responder	non_responder	CD8T	CD8_C05_CCR7	1887	95408	91009	4399	P16-pre-P-CD8n;P16-pre-P-CD8p	13502	0.139757073026218
+GSE235863_CD8	P16	blood	pre-treatment	before_doublet_exclusion	PD, non-responder	non_responder	CD8T	CD8_C06_IKZF2	155	95408	91009	4399	P16-pre-P-CD8n;P16-pre-P-CD8p	13502	0.0114797807732188
+GSE235863_CD8	P16	blood	pre-treatment	before_doublet_exclusion	PD, non-responder	non_responder	CD8T	CD8_C07_KIR2DL4	62	95408	91009	4399	P16-pre-P-CD8n;P16-pre-P-CD8p	13502	0.00459191230928751
+GSE235863_CD8	P16	blood	pre-treatment	before_doublet_exclusion	PD, non-responder	non_responder	CD8T	CD8_C08_GZMK	1440	95408	91009	4399	P16-pre-P-CD8n;P16-pre-P-CD8p	13502	0.106650866538291
+GSE235863_CD8	P16	blood	pre-treatment	before_doublet_exclusion	PD, non-responder	non_responder	CD8T	CD8_C09_LAYN	1	95408	91009	4399	P16-pre-P-CD8p	13502	7.40631017627018e-05
+GSE235863_CD8	P16	blood	pre-treatment	before_doublet_exclusion	PD, non-responder	non_responder	CD8T	CD8_C10_SLC4A10	361	95408	91009	4399	P16-pre-P-CD8n;P16-pre-P-CD8p	13502	0.0267367797363354
+GSE235863_CD8	P16	blood	pre-treatment	before_doublet_exclusion	PD, non-responder	non_responder	CD8T	CD8_C11_MKI67	18	95408	91009	4399	P16-pre-P-CD8n;P16-pre-P-CD8p	13502	0.00133313583172863
+GSE235863_CD8	P16	liver tumor	pre-treatment	after_excluding_predicted_doublets	PD, non-responder	non_responder	CD8T	CD8_C01_LEF1	177	95408	91009	4399	P16-pre-T-CD8n;P16-pre-T-CD8p	5673	0.0312004230565838
+GSE235863_CD8	P16	liver tumor	pre-treatment	after_excluding_predicted_doublets	PD, non-responder	non_responder	CD8T	CD8_C02_GPR183	151	95408	91009	4399	P16-pre-T-CD8n;P16-pre-T-CD8p	5673	0.0266173100652212
+GSE235863_CD8	P16	liver tumor	pre-treatment	after_excluding_predicted_doublets	PD, non-responder	non_responder	CD8T	CD8_C03_CX3CR1	171	95408	91009	4399	P16-pre-T-CD8n;P16-pre-T-CD8p	5673	0.0301427815970386
+GSE235863_CD8	P16	liver tumor	pre-treatment	after_excluding_predicted_doublets	PD, non-responder	non_responder	CD8T	CD8_C04_GIMAP4	19	95408	91009	4399	P16-pre-T-CD8n;P16-pre-T-CD8p	5673	0.00334919795522651
+GSE235863_CD8	P16	liver tumor	pre-treatment	after_excluding_predicted_doublets	PD, non-responder	non_responder	CD8T	CD8_C05_CCR7	80	95408	91009	4399	P16-pre-T-CD8n;P16-pre-T-CD8p	5673	0.0141018861272695
+GSE235863_CD8	P16	liver tumor	pre-treatment	after_excluding_predicted_doublets	PD, non-responder	non_responder	CD8T	CD8_C06_IKZF2	13	95408	91009	4399	P16-pre-T-CD8n	5673	0.0022915564956813
+GSE235863_CD8	P16	liver tumor	pre-treatment	after_excluding_predicted_doublets	PD, non-responder	non_responder	CD8T	CD8_C07_KIR2DL4	104	95408	91009	4399	P16-pre-T-CD8n;P16-pre-T-CD8p	5673	0.0183324519654504
+GSE235863_CD8	P16	liver tumor	pre-treatment	after_excluding_predicted_doublets	PD, non-responder	non_responder	CD8T	CD8_C08_GZMK	3498	95408	91009	4399	P16-pre-T-CD8n;P16-pre-T-CD8p	5673	0.61660497091486
+GSE235863_CD8	P16	liver tumor	pre-treatment	after_excluding_predicted_doublets	PD, non-responder	non_responder	CD8T	CD8_C09_LAYN	20	95408	91009	4399	P16-pre-T-CD8n;P16-pre-T-CD8p	5673	0.00352547153181738
+GSE235863_CD8	P16	liver tumor	pre-treatment	after_excluding_predicted_doublets	PD, non-responder	non_responder	CD8T	CD8_C10_SLC4A10	1371	95408	91009	4399	P16-pre-T-CD8n;P16-pre-T-CD8p	5673	0.241671073506081
+GSE235863_CD8	P16	liver tumor	pre-treatment	after_excluding_predicted_doublets	PD, non-responder	non_responder	CD8T	CD8_C11_MKI67	69	95408	91009	4399	P16-pre-T-CD8n;P16-pre-T-CD8p	5673	0.01216287678477
+GSE235863_CD8	P16	liver tumor	pre-treatment	before_doublet_exclusion	PD, non-responder	non_responder	CD8T	CD8_C01_LEF1	177	95408	91009	4399	P16-pre-T-CD8n;P16-pre-T-CD8p	5674	0.0311949242157208
+GSE235863_CD8	P16	liver tumor	pre-treatment	before_doublet_exclusion	PD, non-responder	non_responder	CD8T	CD8_C02_GPR183	151	95408	91009	4399	P16-pre-T-CD8n;P16-pre-T-CD8p	5674	0.026612618963694
+GSE235863_CD8	P16	liver tumor	pre-treatment	before_doublet_exclusion	PD, non-responder	non_responder	CD8T	CD8_C03_CX3CR1	171	95408	91009	4399	P16-pre-T-CD8n;P16-pre-T-CD8p	5674	0.0301374691575608
+GSE235863_CD8	P16	liver tumor	pre-treatment	before_doublet_exclusion	PD, non-responder	non_responder	CD8T	CD8_C04_GIMAP4	19	95408	91009	4399	P16-pre-T-CD8n;P16-pre-T-CD8p	5674	0.00334860768417342
+GSE235863_CD8	P16	liver tumor	pre-treatment	before_doublet_exclusion	PD, non-responder	non_responder	CD8T	CD8_C05_CCR7	80	95408	91009	4399	P16-pre-T-CD8n;P16-pre-T-CD8p	5674	0.014099400775467
+GSE235863_CD8	P16	liver tumor	pre-treatment	before_doublet_exclusion	PD, non-responder	non_responder	CD8T	CD8_C06_IKZF2	13	95408	91009	4399	P16-pre-T-CD8n	5674	0.0022911526260134
+GSE235863_CD8	P16	liver tumor	pre-treatment	before_doublet_exclusion	PD, non-responder	non_responder	CD8T	CD8_C07_KIR2DL4	104	95408	91009	4399	P16-pre-T-CD8n;P16-pre-T-CD8p	5674	0.0183292210081072
+GSE235863_CD8	P16	liver tumor	pre-treatment	before_doublet_exclusion	PD, non-responder	non_responder	CD8T	CD8_C08_GZMK	3499	95408	91009	4399	P16-pre-T-CD8n;P16-pre-T-CD8p	5674	0.61667254141699
+GSE235863_CD8	P16	liver tumor	pre-treatment	before_doublet_exclusion	PD, non-responder	non_responder	CD8T	CD8_C09_LAYN	20	95408	91009	4399	P16-pre-T-CD8n;P16-pre-T-CD8p	5674	0.00352485019386676
+GSE235863_CD8	P16	liver tumor	pre-treatment	before_doublet_exclusion	PD, non-responder	non_responder	CD8T	CD8_C10_SLC4A10	1371	95408	91009	4399	P16-pre-T-CD8n;P16-pre-T-CD8p	5674	0.241628480789566
+GSE235863_CD8	P16	liver tumor	pre-treatment	before_doublet_exclusion	PD, non-responder	non_responder	CD8T	CD8_C11_MKI67	69	95408	91009	4399	P16-pre-T-CD8n;P16-pre-T-CD8p	5674	0.0121607331688403
+GSE235863_CD8	P3	blood	post-treatment	after_excluding_predicted_doublets	PR, responder	responder	CD8T	CD8_C01_LEF1	5145	95408	91009	4399	P3-af-P-CD8p	15417	0.333722514107803
+GSE235863_CD8	P3	blood	post-treatment	after_excluding_predicted_doublets	PR, responder	responder	CD8T	CD8_C02_GPR183	6386	95408	91009	4399	P3-af-P-CD8p	15417	0.414218070960628
+GSE235863_CD8	P3	blood	post-treatment	after_excluding_predicted_doublets	PR, responder	responder	CD8T	CD8_C03_CX3CR1	3499	95408	91009	4399	P3-af-P-CD8p	15417	0.226957254978271
+GSE235863_CD8	P3	blood	post-treatment	after_excluding_predicted_doublets	PR, responder	responder	CD8T	CD8_C04_GIMAP4	179	95408	91009	4399	P3-af-P-CD8p	15417	0.0116105597716806
+GSE235863_CD8	P3	blood	post-treatment	after_excluding_predicted_doublets	PR, responder	responder	CD8T	CD8_C05_CCR7	29	95408	91009	4399	P3-af-P-CD8p	15417	0.00188104040993708
+GSE235863_CD8	P3	blood	post-treatment	after_excluding_predicted_doublets	PR, responder	responder	CD8T	CD8_C06_IKZF2	107	95408	91009	4399	P3-af-P-CD8p	15417	0.00694039047804372
+GSE235863_CD8	P3	blood	post-treatment	after_excluding_predicted_doublets	PR, responder	responder	CD8T	CD8_C08_GZMK	8	95408	91009	4399	P3-af-P-CD8p	15417	0.000518907699292988
+GSE235863_CD8	P3	blood	post-treatment	after_excluding_predicted_doublets	PR, responder	responder	CD8T	CD8_C10_SLC4A10	39	95408	91009	4399	P3-af-P-CD8p	15417	0.00252967503405332
+GSE235863_CD8	P3	blood	post-treatment	after_excluding_predicted_doublets	PR, responder	responder	CD8T	CD8_C11_MKI67	25	95408	91009	4399	P3-af-P-CD8p	15417	0.00162158656029059
+GSE235863_CD8	P3	blood	post-treatment	before_doublet_exclusion	PR, responder	responder	CD8T	CD8_C01_LEF1	5495	95408	91009	4399	P3-af-P-CD8p	16744	0.328177257525084
+GSE235863_CD8	P3	blood	post-treatment	before_doublet_exclusion	PR, responder	responder	CD8T	CD8_C02_GPR183	6994	95408	91009	4399	P3-af-P-CD8p	16744	0.417701863354037
+GSE235863_CD8	P3	blood	post-treatment	before_doublet_exclusion	PR, responder	responder	CD8T	CD8_C03_CX3CR1	3818	95408	91009	4399	P3-af-P-CD8p	16744	0.228021978021978
+GSE235863_CD8	P3	blood	post-treatment	before_doublet_exclusion	PR, responder	responder	CD8T	CD8_C04_GIMAP4	206	95408	91009	4399	P3-af-P-CD8p	16744	0.0123029144768275
+GSE235863_CD8	P3	blood	post-treatment	before_doublet_exclusion	PR, responder	responder	CD8T	CD8_C05_CCR7	43	95408	91009	4399	P3-af-P-CD8p	16744	0.00256808408982322
+GSE235863_CD8	P3	blood	post-treatment	before_doublet_exclusion	PR, responder	responder	CD8T	CD8_C06_IKZF2	108	95408	91009	4399	P3-af-P-CD8p	16744	0.00645007166746297
+GSE235863_CD8	P3	blood	post-treatment	before_doublet_exclusion	PR, responder	responder	CD8T	CD8_C08_GZMK	9	95408	91009	4399	P3-af-P-CD8p	16744	0.000537505972288581
+GSE235863_CD8	P3	blood	post-treatment	before_doublet_exclusion	PR, responder	responder	CD8T	CD8_C10_SLC4A10	45	95408	91009	4399	P3-af-P-CD8p	16744	0.00268752986144291
+GSE235863_CD8	P3	blood	post-treatment	before_doublet_exclusion	PR, responder	responder	CD8T	CD8_C11_MKI67	26	95408	91009	4399	P3-af-P-CD8p	16744	0.0015527950310559
+GSE235863_CD8	P3	blood	pre-treatment	after_excluding_predicted_doublets	PR, responder	responder	CD8T	CD8_C01_LEF1	372	95408	91009	4399	P3-pre-P-CD8p	2440	0.152459016393443
+GSE235863_CD8	P3	blood	pre-treatment	after_excluding_predicted_doublets	PR, responder	responder	CD8T	CD8_C02_GPR183	531	95408	91009	4399	P3-pre-P-CD8p	2440	0.217622950819672
+GSE235863_CD8	P3	blood	pre-treatment	after_excluding_predicted_doublets	PR, responder	responder	CD8T	CD8_C03_CX3CR1	952	95408	91009	4399	P3-pre-P-CD8p	2440	0.39016393442623
+GSE235863_CD8	P3	blood	pre-treatment	after_excluding_predicted_doublets	PR, responder	responder	CD8T	CD8_C04_GIMAP4	299	95408	91009	4399	P3-pre-P-CD8p	2440	0.122540983606557
+GSE235863_CD8	P3	blood	pre-treatment	after_excluding_predicted_doublets	PR, responder	responder	CD8T	CD8_C05_CCR7	135	95408	91009	4399	P3-pre-P-CD8p	2440	0.055327868852459
+GSE235863_CD8	P3	blood	pre-treatment	after_excluding_predicted_doublets	PR, responder	responder	CD8T	CD8_C06_IKZF2	35	95408	91009	4399	P3-pre-P-CD8p	2440	0.014344262295082
+GSE235863_CD8	P3	blood	pre-treatment	after_excluding_predicted_doublets	PR, responder	responder	CD8T	CD8_C07_KIR2DL4	5	95408	91009	4399	P3-pre-P-CD8p	2440	0.00204918032786885
+GSE235863_CD8	P3	blood	pre-treatment	after_excluding_predicted_doublets	PR, responder	responder	CD8T	CD8_C08_GZMK	43	95408	91009	4399	P3-pre-P-CD8p	2440	0.0176229508196721
+GSE235863_CD8	P3	blood	pre-treatment	after_excluding_predicted_doublets	PR, responder	responder	CD8T	CD8_C10_SLC4A10	66	95408	91009	4399	P3-pre-P-CD8p	2440	0.0270491803278689
+GSE235863_CD8	P3	blood	pre-treatment	after_excluding_predicted_doublets	PR, responder	responder	CD8T	CD8_C11_MKI67	2	95408	91009	4399	P3-pre-P-CD8p	2440	0.000819672131147541
+GSE235863_CD8	P3	blood	pre-treatment	before_doublet_exclusion	PR, responder	responder	CD8T	CD8_C01_LEF1	372	95408	91009	4399	P3-pre-P-CD8p	2449	0.151898734177215
+GSE235863_CD8	P3	blood	pre-treatment	before_doublet_exclusion	PR, responder	responder	CD8T	CD8_C02_GPR183	534	95408	91009	4399	P3-pre-P-CD8p	2449	0.218048182931809
+GSE235863_CD8	P3	blood	pre-treatment	before_doublet_exclusion	PR, responder	responder	CD8T	CD8_C03_CX3CR1	955	95408	91009	4399	P3-pre-P-CD8p	2449	0.389955083707636
+GSE235863_CD8	P3	blood	pre-treatment	before_doublet_exclusion	PR, responder	responder	CD8T	CD8_C04_GIMAP4	300	95408	91009	4399	P3-pre-P-CD8p	2449	0.122498979175174
+GSE235863_CD8	P3	blood	pre-treatment	before_doublet_exclusion	PR, responder	responder	CD8T	CD8_C05_CCR7	137	95408	91009	4399	P3-pre-P-CD8p	2449	0.0559412004899959
+GSE235863_CD8	P3	blood	pre-treatment	before_doublet_exclusion	PR, responder	responder	CD8T	CD8_C06_IKZF2	35	95408	91009	4399	P3-pre-P-CD8p	2449	0.0142915475704369
+GSE235863_CD8	P3	blood	pre-treatment	before_doublet_exclusion	PR, responder	responder	CD8T	CD8_C07_KIR2DL4	5	95408	91009	4399	P3-pre-P-CD8p	2449	0.00204164965291956
+GSE235863_CD8	P3	blood	pre-treatment	before_doublet_exclusion	PR, responder	responder	CD8T	CD8_C08_GZMK	43	95408	91009	4399	P3-pre-P-CD8p	2449	0.0175581870151082
+GSE235863_CD8	P3	blood	pre-treatment	before_doublet_exclusion	PR, responder	responder	CD8T	CD8_C10_SLC4A10	66	95408	91009	4399	P3-pre-P-CD8p	2449	0.0269497754185382
+GSE235863_CD8	P3	blood	pre-treatment	before_doublet_exclusion	PR, responder	responder	CD8T	CD8_C11_MKI67	2	95408	91009	4399	P3-pre-P-CD8p	2449	0.000816659861167824
+GSE235863_CD8	P53	blood	post-treatment	after_excluding_predicted_doublets	NR	non_responder	CD8T	CD8_C01_LEF1	1634	95408	91009	4399	P53-post-P-CD8	3811	0.428758855943322
+GSE235863_CD8	P53	blood	post-treatment	after_excluding_predicted_doublets	NR	non_responder	CD8T	CD8_C02_GPR183	133	95408	91009	4399	P53-post-P-CD8	3811	0.0348989766465495
+GSE235863_CD8	P53	blood	post-treatment	after_excluding_predicted_doublets	NR	non_responder	CD8T	CD8_C03_CX3CR1	770	95408	91009	4399	P53-post-P-CD8	3811	0.202046706901076
+GSE235863_CD8	P53	blood	post-treatment	after_excluding_predicted_doublets	NR	non_responder	CD8T	CD8_C04_GIMAP4	104	95408	91009	4399	P53-post-P-CD8	3811	0.0272894253476778
+GSE235863_CD8	P53	blood	post-treatment	after_excluding_predicted_doublets	NR	non_responder	CD8T	CD8_C05_CCR7	100	95408	91009	4399	P53-post-P-CD8	3811	0.0262398320650748
+GSE235863_CD8	P53	blood	post-treatment	after_excluding_predicted_doublets	NR	non_responder	CD8T	CD8_C06_IKZF2	730	95408	91009	4399	P53-post-P-CD8	3811	0.191550774075046
+GSE235863_CD8	P53	blood	post-treatment	after_excluding_predicted_doublets	NR	non_responder	CD8T	CD8_C07_KIR2DL4	2	95408	91009	4399	P53-post-P-CD8	3811	0.000524796641301496
+GSE235863_CD8	P53	blood	post-treatment	after_excluding_predicted_doublets	NR	non_responder	CD8T	CD8_C08_GZMK	24	95408	91009	4399	P53-post-P-CD8	3811	0.00629755969561795
+GSE235863_CD8	P53	blood	post-treatment	after_excluding_predicted_doublets	NR	non_responder	CD8T	CD8_C10_SLC4A10	305	95408	91009	4399	P53-post-P-CD8	3811	0.0800314877984781
+GSE235863_CD8	P53	blood	post-treatment	after_excluding_predicted_doublets	NR	non_responder	CD8T	CD8_C11_MKI67	9	95408	91009	4399	P53-post-P-CD8	3811	0.00236158488585673
+GSE235863_CD8	P53	blood	post-treatment	before_doublet_exclusion	NR	non_responder	CD8T	CD8_C01_LEF1	1637	95408	91009	4399	P53-post-P-CD8	3847	0.425526384195477
+GSE235863_CD8	P53	blood	post-treatment	before_doublet_exclusion	NR	non_responder	CD8T	CD8_C02_GPR183	136	95408	91009	4399	P53-post-P-CD8	3847	0.0353522225110476
+GSE235863_CD8	P53	blood	post-treatment	before_doublet_exclusion	NR	non_responder	CD8T	CD8_C03_CX3CR1	782	95408	91009	4399	P53-post-P-CD8	3847	0.203275279438524
+GSE235863_CD8	P53	blood	post-treatment	before_doublet_exclusion	NR	non_responder	CD8T	CD8_C04_GIMAP4	112	95408	91009	4399	P53-post-P-CD8	3847	0.029113595009098
+GSE235863_CD8	P53	blood	post-treatment	before_doublet_exclusion	NR	non_responder	CD8T	CD8_C05_CCR7	104	95408	91009	4399	P53-post-P-CD8	3847	0.0270340525084481
+GSE235863_CD8	P53	blood	post-treatment	before_doublet_exclusion	NR	non_responder	CD8T	CD8_C06_IKZF2	735	95408	91009	4399	P53-post-P-CD8	3847	0.191057967247206
+GSE235863_CD8	P53	blood	post-treatment	before_doublet_exclusion	NR	non_responder	CD8T	CD8_C07_KIR2DL4	2	95408	91009	4399	P53-post-P-CD8	3847	0.000519885625162464
+GSE235863_CD8	P53	blood	post-treatment	before_doublet_exclusion	NR	non_responder	CD8T	CD8_C08_GZMK	24	95408	91009	4399	P53-post-P-CD8	3847	0.00623862750194957
+GSE235863_CD8	P53	blood	post-treatment	before_doublet_exclusion	NR	non_responder	CD8T	CD8_C10_SLC4A10	306	95408	91009	4399	P53-post-P-CD8	3847	0.079542500649857
+GSE235863_CD8	P53	blood	post-treatment	before_doublet_exclusion	NR	non_responder	CD8T	CD8_C11_MKI67	9	95408	91009	4399	P53-post-P-CD8	3847	0.00233948531323109
+GSE235863_CD8	P53	liver tumor	post-treatment	after_excluding_predicted_doublets	NR	non_responder	CD8T	CD8_C01_LEF1	27	95408	91009	4399	P53-post-T-CD8	6291	0.00429184549356223
+GSE235863_CD8	P53	liver tumor	post-treatment	after_excluding_predicted_doublets	NR	non_responder	CD8T	CD8_C02_GPR183	5	95408	91009	4399	P53-post-T-CD8	6291	0.000794786202511524
+GSE235863_CD8	P53	liver tumor	post-treatment	after_excluding_predicted_doublets	NR	non_responder	CD8T	CD8_C03_CX3CR1	59	95408	91009	4399	P53-post-T-CD8	6291	0.00937847718963599
+GSE235863_CD8	P53	liver tumor	post-treatment	after_excluding_predicted_doublets	NR	non_responder	CD8T	CD8_C04_GIMAP4	97	95408	91009	4399	P53-post-T-CD8	6291	0.0154188523287236
+GSE235863_CD8	P53	liver tumor	post-treatment	after_excluding_predicted_doublets	NR	non_responder	CD8T	CD8_C05_CCR7	99	95408	91009	4399	P53-post-T-CD8	6291	0.0157367668097282
+GSE235863_CD8	P53	liver tumor	post-treatment	after_excluding_predicted_doublets	NR	non_responder	CD8T	CD8_C06_IKZF2	5	95408	91009	4399	P53-post-T-CD8	6291	0.000794786202511524
+GSE235863_CD8	P53	liver tumor	post-treatment	after_excluding_predicted_doublets	NR	non_responder	CD8T	CD8_C07_KIR2DL4	169	95408	91009	4399	P53-post-T-CD8	6291	0.0268637736448895
+GSE235863_CD8	P53	liver tumor	post-treatment	after_excluding_predicted_doublets	NR	non_responder	CD8T	CD8_C08_GZMK	3222	95408	91009	4399	P53-post-T-CD8	6291	0.512160228898426
+GSE235863_CD8	P53	liver tumor	post-treatment	after_excluding_predicted_doublets	NR	non_responder	CD8T	CD8_C09_LAYN	269	95408	91009	4399	P53-post-T-CD8	6291	0.04275949769512
+GSE235863_CD8	P53	liver tumor	post-treatment	after_excluding_predicted_doublets	NR	non_responder	CD8T	CD8_C10_SLC4A10	2119	95408	91009	4399	P53-post-T-CD8	6291	0.336830392624384
+GSE235863_CD8	P53	liver tumor	post-treatment	after_excluding_predicted_doublets	NR	non_responder	CD8T	CD8_C11_MKI67	220	95408	91009	4399	P53-post-T-CD8	6291	0.0349705929105071
+GSE235863_CD8	P53	liver tumor	post-treatment	before_doublet_exclusion	NR	non_responder	CD8T	CD8_C01_LEF1	27	95408	91009	4399	P53-post-T-CD8	6291	0.00429184549356223
+GSE235863_CD8	P53	liver tumor	post-treatment	before_doublet_exclusion	NR	non_responder	CD8T	CD8_C02_GPR183	5	95408	91009	4399	P53-post-T-CD8	6291	0.000794786202511524
+GSE235863_CD8	P53	liver tumor	post-treatment	before_doublet_exclusion	NR	non_responder	CD8T	CD8_C03_CX3CR1	59	95408	91009	4399	P53-post-T-CD8	6291	0.00937847718963599
+GSE235863_CD8	P53	liver tumor	post-treatment	before_doublet_exclusion	NR	non_responder	CD8T	CD8_C04_GIMAP4	97	95408	91009	4399	P53-post-T-CD8	6291	0.0154188523287236
+GSE235863_CD8	P53	liver tumor	post-treatment	before_doublet_exclusion	NR	non_responder	CD8T	CD8_C05_CCR7	99	95408	91009	4399	P53-post-T-CD8	6291	0.0157367668097282
+GSE235863_CD8	P53	liver tumor	post-treatment	before_doublet_exclusion	NR	non_responder	CD8T	CD8_C06_IKZF2	5	95408	91009	4399	P53-post-T-CD8	6291	0.000794786202511524
+GSE235863_CD8	P53	liver tumor	post-treatment	before_doublet_exclusion	NR	non_responder	CD8T	CD8_C07_KIR2DL4	169	95408	91009	4399	P53-post-T-CD8	6291	0.0268637736448895
+GSE235863_CD8	P53	liver tumor	post-treatment	before_doublet_exclusion	NR	non_responder	CD8T	CD8_C08_GZMK	3222	95408	91009	4399	P53-post-T-CD8	6291	0.512160228898426
+GSE235863_CD8	P53	liver tumor	post-treatment	before_doublet_exclusion	NR	non_responder	CD8T	CD8_C09_LAYN	269	95408	91009	4399	P53-post-T-CD8	6291	0.04275949769512
+GSE235863_CD8	P53	liver tumor	post-treatment	before_doublet_exclusion	NR	non_responder	CD8T	CD8_C10_SLC4A10	2119	95408	91009	4399	P53-post-T-CD8	6291	0.336830392624384
+GSE235863_CD8	P53	liver tumor	post-treatment	before_doublet_exclusion	NR	non_responder	CD8T	CD8_C11_MKI67	220	95408	91009	4399	P53-post-T-CD8	6291	0.0349705929105071
+GSE235863_CD8	P57	blood	post-treatment	after_excluding_predicted_doublets	R	responder	CD8T	CD8_C01_LEF1	529	95408	91009	4399	P57-post-P-CD8	4841	0.109274943193555
+GSE235863_CD8	P57	blood	post-treatment	after_excluding_predicted_doublets	R	responder	CD8T	CD8_C02_GPR183	139	95408	91009	4399	P57-post-P-CD8	4841	0.0287130758107829
+GSE235863_CD8	P57	blood	post-treatment	after_excluding_predicted_doublets	R	responder	CD8T	CD8_C03_CX3CR1	2896	95408	91009	4399	P57-post-P-CD8	4841	0.598223507539765
+GSE235863_CD8	P57	blood	post-treatment	after_excluding_predicted_doublets	R	responder	CD8T	CD8_C04_GIMAP4	253	95408	91009	4399	P57-post-P-CD8	4841	0.0522619293534394
+GSE235863_CD8	P57	blood	post-treatment	after_excluding_predicted_doublets	R	responder	CD8T	CD8_C05_CCR7	99	95408	91009	4399	P57-post-P-CD8	4841	0.0204503201817806
+GSE235863_CD8	P57	blood	post-treatment	after_excluding_predicted_doublets	R	responder	CD8T	CD8_C06_IKZF2	215	95408	91009	4399	P57-post-P-CD8	4841	0.0444123115058872
+GSE235863_CD8	P57	blood	post-treatment	after_excluding_predicted_doublets	R	responder	CD8T	CD8_C07_KIR2DL4	3	95408	91009	4399	P57-post-P-CD8	4841	0.00061970667217517
+GSE235863_CD8	P57	blood	post-treatment	after_excluding_predicted_doublets	R	responder	CD8T	CD8_C08_GZMK	61	95408	91009	4399	P57-post-P-CD8	4841	0.0126007023342285
+GSE235863_CD8	P57	blood	post-treatment	after_excluding_predicted_doublets	R	responder	CD8T	CD8_C10_SLC4A10	645	95408	91009	4399	P57-post-P-CD8	4841	0.133236934517662
+GSE235863_CD8	P57	blood	post-treatment	after_excluding_predicted_doublets	R	responder	CD8T	CD8_C11_MKI67	1	95408	91009	4399	P57-post-P-CD8	4841	0.000206568890725057
+GSE235863_CD8	P57	blood	post-treatment	before_doublet_exclusion	R	responder	CD8T	CD8_C01_LEF1	529	95408	91009	4399	P57-post-P-CD8	4939	0.10710670176149
+GSE235863_CD8	P57	blood	post-treatment	before_doublet_exclusion	R	responder	CD8T	CD8_C02_GPR183	139	95408	91009	4399	P57-post-P-CD8	4939	0.0281433488560437
+GSE235863_CD8	P57	blood	post-treatment	before_doublet_exclusion	R	responder	CD8T	CD8_C03_CX3CR1	2959	95408	91009	4399	P57-post-P-CD8	4939	0.599109131403118
+GSE235863_CD8	P57	blood	post-treatment	before_doublet_exclusion	R	responder	CD8T	CD8_C04_GIMAP4	258	95408	91009	4399	P57-post-P-CD8	4939	0.0522372949989877
+GSE235863_CD8	P57	blood	post-treatment	before_doublet_exclusion	R	responder	CD8T	CD8_C05_CCR7	104	95408	91009	4399	P57-post-P-CD8	4939	0.0210568941081191
+GSE235863_CD8	P57	blood	post-treatment	before_doublet_exclusion	R	responder	CD8T	CD8_C06_IKZF2	221	95408	91009	4399	P57-post-P-CD8	4939	0.044745899979753
+GSE235863_CD8	P57	blood	post-treatment	before_doublet_exclusion	R	responder	CD8T	CD8_C07_KIR2DL4	3	95408	91009	4399	P57-post-P-CD8	4939	0.000607410406964973
+GSE235863_CD8	P57	blood	post-treatment	before_doublet_exclusion	R	responder	CD8T	CD8_C08_GZMK	63	95408	91009	4399	P57-post-P-CD8	4939	0.0127556185462644
+GSE235863_CD8	P57	blood	post-treatment	before_doublet_exclusion	R	responder	CD8T	CD8_C10_SLC4A10	662	95408	91009	4399	P57-post-P-CD8	4939	0.134035229803604
+GSE235863_CD8	P57	blood	post-treatment	before_doublet_exclusion	R	responder	CD8T	CD8_C11_MKI67	1	95408	91009	4399	P57-post-P-CD8	4939	0.000202470135654991
+GSE235863_CD8	P57	liver tumor	post-treatment	after_excluding_predicted_doublets	R	responder	CD8T	CD8_C01_LEF1	1	95408	91009	4399	P57-post-T-CD8	5372	0.000186150409530901
+GSE235863_CD8	P57	liver tumor	post-treatment	after_excluding_predicted_doublets	R	responder	CD8T	CD8_C02_GPR183	1	95408	91009	4399	P57-post-T-CD8	5372	0.000186150409530901
+GSE235863_CD8	P57	liver tumor	post-treatment	after_excluding_predicted_doublets	R	responder	CD8T	CD8_C03_CX3CR1	83	95408	91009	4399	P57-post-T-CD8	5372	0.0154504839910648
+GSE235863_CD8	P57	liver tumor	post-treatment	after_excluding_predicted_doublets	R	responder	CD8T	CD8_C04_GIMAP4	45	95408	91009	4399	P57-post-T-CD8	5372	0.00837676842889055
+GSE235863_CD8	P57	liver tumor	post-treatment	after_excluding_predicted_doublets	R	responder	CD8T	CD8_C05_CCR7	18	95408	91009	4399	P57-post-T-CD8	5372	0.00335070737155622
+GSE235863_CD8	P57	liver tumor	post-treatment	after_excluding_predicted_doublets	R	responder	CD8T	CD8_C06_IKZF2	2	95408	91009	4399	P57-post-T-CD8	5372	0.000372300819061802
+GSE235863_CD8	P57	liver tumor	post-treatment	after_excluding_predicted_doublets	R	responder	CD8T	CD8_C07_KIR2DL4	285	95408	91009	4399	P57-post-T-CD8	5372	0.0530528667163068
+GSE235863_CD8	P57	liver tumor	post-treatment	after_excluding_predicted_doublets	R	responder	CD8T	CD8_C08_GZMK	3077	95408	91009	4399	P57-post-T-CD8	5372	0.572784810126582
+GSE235863_CD8	P57	liver tumor	post-treatment	after_excluding_predicted_doublets	R	responder	CD8T	CD8_C09_LAYN	1519	95408	91009	4399	P57-post-T-CD8	5372	0.282762472077439
+GSE235863_CD8	P57	liver tumor	post-treatment	after_excluding_predicted_doublets	R	responder	CD8T	CD8_C10_SLC4A10	107	95408	91009	4399	P57-post-T-CD8	5372	0.0199180938198064
+GSE235863_CD8	P57	liver tumor	post-treatment	after_excluding_predicted_doublets	R	responder	CD8T	CD8_C11_MKI67	234	95408	91009	4399	P57-post-T-CD8	5372	0.0435591958302308
+GSE235863_CD8	P57	liver tumor	post-treatment	before_doublet_exclusion	R	responder	CD8T	CD8_C01_LEF1	1	95408	91009	4399	P57-post-T-CD8	5374	0.000186081131373279
+GSE235863_CD8	P57	liver tumor	post-treatment	before_doublet_exclusion	R	responder	CD8T	CD8_C02_GPR183	1	95408	91009	4399	P57-post-T-CD8	5374	0.000186081131373279
+GSE235863_CD8	P57	liver tumor	post-treatment	before_doublet_exclusion	R	responder	CD8T	CD8_C03_CX3CR1	83	95408	91009	4399	P57-post-T-CD8	5374	0.0154447339039821
+GSE235863_CD8	P57	liver tumor	post-treatment	before_doublet_exclusion	R	responder	CD8T	CD8_C04_GIMAP4	45	95408	91009	4399	P57-post-T-CD8	5374	0.00837365091179754
+GSE235863_CD8	P57	liver tumor	post-treatment	before_doublet_exclusion	R	responder	CD8T	CD8_C05_CCR7	18	95408	91009	4399	P57-post-T-CD8	5374	0.00334946036471902
+GSE235863_CD8	P57	liver tumor	post-treatment	before_doublet_exclusion	R	responder	CD8T	CD8_C06_IKZF2	2	95408	91009	4399	P57-post-T-CD8	5374	0.000372162262746558
+GSE235863_CD8	P57	liver tumor	post-treatment	before_doublet_exclusion	R	responder	CD8T	CD8_C07_KIR2DL4	285	95408	91009	4399	P57-post-T-CD8	5374	0.0530331224413845
+GSE235863_CD8	P57	liver tumor	post-treatment	before_doublet_exclusion	R	responder	CD8T	CD8_C08_GZMK	3077	95408	91009	4399	P57-post-T-CD8	5374	0.572571641235579
+GSE235863_CD8	P57	liver tumor	post-treatment	before_doublet_exclusion	R	responder	CD8T	CD8_C09_LAYN	1521	95408	91009	4399	P57-post-T-CD8	5374	0.283029400818757
+GSE235863_CD8	P57	liver tumor	post-treatment	before_doublet_exclusion	R	responder	CD8T	CD8_C10_SLC4A10	107	95408	91009	4399	P57-post-T-CD8	5374	0.0199106810569408
+GSE235863_CD8	P57	liver tumor	post-treatment	before_doublet_exclusion	R	responder	CD8T	CD8_C11_MKI67	234	95408	91009	4399	P57-post-T-CD8	5374	0.0435429847413472
+GSE235863_CD8	P58	blood	post-treatment	after_excluding_predicted_doublets	R	responder	CD8T	CD8_C01_LEF1	2847	95408	91009	4399	P58-post-P-CD8	3742	0.760823089257082
+GSE235863_CD8	P58	blood	post-treatment	after_excluding_predicted_doublets	R	responder	CD8T	CD8_C02_GPR183	73	95408	91009	4399	P58-post-P-CD8	3742	0.0195082843399252
+GSE235863_CD8	P58	blood	post-treatment	after_excluding_predicted_doublets	R	responder	CD8T	CD8_C03_CX3CR1	468	95408	91009	4399	P58-post-P-CD8	3742	0.125066809192945
+GSE235863_CD8	P58	blood	post-treatment	after_excluding_predicted_doublets	R	responder	CD8T	CD8_C04_GIMAP4	101	95408	91009	4399	P58-post-P-CD8	3742	0.0269909139497595
+GSE235863_CD8	P58	blood	post-treatment	after_excluding_predicted_doublets	R	responder	CD8T	CD8_C05_CCR7	38	95408	91009	4399	P58-post-P-CD8	3742	0.0101549973276323
+GSE235863_CD8	P58	blood	post-treatment	after_excluding_predicted_doublets	R	responder	CD8T	CD8_C06_IKZF2	77	95408	91009	4399	P58-post-P-CD8	3742	0.0205772314270444
+GSE235863_CD8	P58	blood	post-treatment	after_excluding_predicted_doublets	R	responder	CD8T	CD8_C07_KIR2DL4	5	95408	91009	4399	P58-post-P-CD8	3742	0.00133618385889898
+GSE235863_CD8	P58	blood	post-treatment	after_excluding_predicted_doublets	R	responder	CD8T	CD8_C08_GZMK	34	95408	91009	4399	P58-post-P-CD8	3742	0.00908605024051309
+GSE235863_CD8	P58	blood	post-treatment	after_excluding_predicted_doublets	R	responder	CD8T	CD8_C09_LAYN	5	95408	91009	4399	P58-post-P-CD8	3742	0.00133618385889898
+GSE235863_CD8	P58	blood	post-treatment	after_excluding_predicted_doublets	R	responder	CD8T	CD8_C10_SLC4A10	90	95408	91009	4399	P58-post-P-CD8	3742	0.0240513094601817
+GSE235863_CD8	P58	blood	post-treatment	after_excluding_predicted_doublets	R	responder	CD8T	CD8_C11_MKI67	4	95408	91009	4399	P58-post-P-CD8	3742	0.00106894708711919
+GSE235863_CD8	P58	blood	post-treatment	before_doublet_exclusion	R	responder	CD8T	CD8_C01_LEF1	2868	95408	91009	4399	P58-post-P-CD8	3771	0.760540970564837
+GSE235863_CD8	P58	blood	post-treatment	before_doublet_exclusion	R	responder	CD8T	CD8_C02_GPR183	74	95408	91009	4399	P58-post-P-CD8	3771	0.0196234420578096
+GSE235863_CD8	P58	blood	post-treatment	before_doublet_exclusion	R	responder	CD8T	CD8_C03_CX3CR1	469	95408	91009	4399	P58-post-P-CD8	3771	0.124370193582604
+GSE235863_CD8	P58	blood	post-treatment	before_doublet_exclusion	R	responder	CD8T	CD8_C04_GIMAP4	103	95408	91009	4399	P58-post-P-CD8	3771	0.0273137098912755
+GSE235863_CD8	P58	blood	post-treatment	before_doublet_exclusion	R	responder	CD8T	CD8_C05_CCR7	41	95408	91009	4399	P58-post-P-CD8	3771	0.0108724476266242
+GSE235863_CD8	P58	blood	post-treatment	before_doublet_exclusion	R	responder	CD8T	CD8_C06_IKZF2	77	95408	91009	4399	P58-post-P-CD8	3771	0.0204189870060992
+GSE235863_CD8	P58	blood	post-treatment	before_doublet_exclusion	R	responder	CD8T	CD8_C07_KIR2DL4	6	95408	91009	4399	P58-post-P-CD8	3771	0.00159108989657916
+GSE235863_CD8	P58	blood	post-treatment	before_doublet_exclusion	R	responder	CD8T	CD8_C08_GZMK	34	95408	91009	4399	P58-post-P-CD8	3771	0.00901617608061522
+GSE235863_CD8	P58	blood	post-treatment	before_doublet_exclusion	R	responder	CD8T	CD8_C09_LAYN	5	95408	91009	4399	P58-post-P-CD8	3771	0.0013259082471493
+GSE235863_CD8	P58	blood	post-treatment	before_doublet_exclusion	R	responder	CD8T	CD8_C10_SLC4A10	90	95408	91009	4399	P58-post-P-CD8	3771	0.0238663484486874
+GSE235863_CD8	P58	blood	post-treatment	before_doublet_exclusion	R	responder	CD8T	CD8_C11_MKI67	4	95408	91009	4399	P58-post-P-CD8	3771	0.00106072659771944
+GSE235863_CD8	P58	liver tumor	post-treatment	after_excluding_predicted_doublets	R	responder	CD8T	CD8_C01_LEF1	79	95408	91009	4399	P58-post-T-CD8;P58-post-T-DEX	6968	0.011337543053961
+GSE235863_CD8	P58	liver tumor	post-treatment	after_excluding_predicted_doublets	R	responder	CD8T	CD8_C02_GPR183	10	95408	91009	4399	P58-post-T-CD8;P58-post-T-DEX	6968	0.00143513203214696
+GSE235863_CD8	P58	liver tumor	post-treatment	after_excluding_predicted_doublets	R	responder	CD8T	CD8_C03_CX3CR1	17	95408	91009	4399	P58-post-T-CD8;P58-post-T-DEX	6968	0.00243972445464983
+GSE235863_CD8	P58	liver tumor	post-treatment	after_excluding_predicted_doublets	R	responder	CD8T	CD8_C04_GIMAP4	31	95408	91009	4399	P58-post-T-CD8;P58-post-T-DEX	6968	0.00444890929965557
+GSE235863_CD8	P58	liver tumor	post-treatment	after_excluding_predicted_doublets	R	responder	CD8T	CD8_C05_CCR7	93	95408	91009	4399	P58-post-T-CD8;P58-post-T-DEX	6968	0.0133467278989667
+GSE235863_CD8	P58	liver tumor	post-treatment	after_excluding_predicted_doublets	R	responder	CD8T	CD8_C07_KIR2DL4	401	95408	91009	4399	P58-post-T-CD8;P58-post-T-DEX	6968	0.057548794489093
+GSE235863_CD8	P58	liver tumor	post-treatment	after_excluding_predicted_doublets	R	responder	CD8T	CD8_C08_GZMK	5644	95408	91009	4399	P58-post-T-CD8;P58-post-T-DEX	6968	0.809988518943743
+GSE235863_CD8	P58	liver tumor	post-treatment	after_excluding_predicted_doublets	R	responder	CD8T	CD8_C09_LAYN	481	95408	91009	4399	P58-post-T-CD8;P58-post-T-DEX	6968	0.0690298507462687
+GSE235863_CD8	P58	liver tumor	post-treatment	after_excluding_predicted_doublets	R	responder	CD8T	CD8_C10_SLC4A10	196	95408	91009	4399	P58-post-T-CD8;P58-post-T-DEX	6968	0.0281285878300804
+GSE235863_CD8	P58	liver tumor	post-treatment	after_excluding_predicted_doublets	R	responder	CD8T	CD8_C11_MKI67	16	95408	91009	4399	P58-post-T-CD8;P58-post-T-DEX	6968	0.00229621125143513
+GSE235863_CD8	P58	liver tumor	post-treatment	before_doublet_exclusion	R	responder	CD8T	CD8_C01_LEF1	79	95408	91009	4399	P58-post-T-CD8;P58-post-T-DEX	6976	0.0113245412844037
+GSE235863_CD8	P58	liver tumor	post-treatment	before_doublet_exclusion	R	responder	CD8T	CD8_C02_GPR183	10	95408	91009	4399	P58-post-T-CD8;P58-post-T-DEX	6976	0.00143348623853211
+GSE235863_CD8	P58	liver tumor	post-treatment	before_doublet_exclusion	R	responder	CD8T	CD8_C03_CX3CR1	17	95408	91009	4399	P58-post-T-CD8;P58-post-T-DEX	6976	0.00243692660550459
+GSE235863_CD8	P58	liver tumor	post-treatment	before_doublet_exclusion	R	responder	CD8T	CD8_C04_GIMAP4	31	95408	91009	4399	P58-post-T-CD8;P58-post-T-DEX	6976	0.00444380733944954
+GSE235863_CD8	P58	liver tumor	post-treatment	before_doublet_exclusion	R	responder	CD8T	CD8_C05_CCR7	93	95408	91009	4399	P58-post-T-CD8;P58-post-T-DEX	6976	0.0133314220183486
+GSE235863_CD8	P58	liver tumor	post-treatment	before_doublet_exclusion	R	responder	CD8T	CD8_C07_KIR2DL4	401	95408	91009	4399	P58-post-T-CD8;P58-post-T-DEX	6976	0.0574827981651376
+GSE235863_CD8	P58	liver tumor	post-treatment	before_doublet_exclusion	R	responder	CD8T	CD8_C08_GZMK	5652	95408	91009	4399	P58-post-T-CD8;P58-post-T-DEX	6976	0.810206422018349
+GSE235863_CD8	P58	liver tumor	post-treatment	before_doublet_exclusion	R	responder	CD8T	CD8_C09_LAYN	481	95408	91009	4399	P58-post-T-CD8;P58-post-T-DEX	6976	0.0689506880733945
+GSE235863_CD8	P58	liver tumor	post-treatment	before_doublet_exclusion	R	responder	CD8T	CD8_C10_SLC4A10	196	95408	91009	4399	P58-post-T-CD8;P58-post-T-DEX	6976	0.0280963302752294
+GSE235863_CD8	P58	liver tumor	post-treatment	before_doublet_exclusion	R	responder	CD8T	CD8_C11_MKI67	16	95408	91009	4399	P58-post-T-CD8;P58-post-T-DEX	6976	0.00229357798165138
