@@ -8,7 +8,7 @@ This folder contains the PC-side requests and lightweight upload outputs for the
 
 No open PC-side request is pending in this exchange directory.
 
-The most recent request, `20260713_prjna932556_ena_bam_pair_download_request.md`, was completed as an incomplete download audit, not as a successful BAM acquisition. The ENA gate passed and the BAI file was downloaded and MD5-verified. The BAM BITS download was suspended after repeated remote connection closures at 13,917,920,681 transferred bytes out of 21,494,429,186 expected bytes. No BAM MD5 was computed and no BAM/BAI success condition was claimed.
+The most recent request, `20260713_prjna932556_ena_bam_pair_download_request.md`, is complete. The ENA gate passed, and both exact submitted files for `SRR23490337` were downloaded to PC-local storage and verified by byte size and MD5. The BAM and BAI remain PC-local and were not uploaded to GitHub.
 
 ## Completed Request Files
 

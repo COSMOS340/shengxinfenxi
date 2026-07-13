@@ -2,7 +2,7 @@
 
 ## Status
 
-Not successful. The ENA row gate passed, and the BAI file completed and matched MD5, but the BAM download did not complete.
+Successful. The exact ENA-submitted BAM and BAI files for `SRR23490337` were downloaded to PC-local storage and verified.
 
 ## Gate
 
@@ -13,17 +13,19 @@ Not successful. The ENA row gate passed, and the BAI file completed and matched 
 - submitted_format: `BAM;BAI`
 - gate_status: `passed`
 
-## Download
+## Verification
 
-- BAM expected bytes: `21494429186`
-- BAM observed transferred bytes before suspension: `13917920681`
-- BAM MD5: `not_computed_incomplete`
-- BAI expected bytes: `10390008`
-- BAI observed bytes: `10390008`
-- BAI MD5 match: `True`
+- BAM bytes: `21494429186`
+- BAM MD5: `056a5c996212a64af708d48c5b585e48`
+- BAM SHA256: `a1cfad6beeed72aab8fa1e6c20434b8305e38a9a04d52f6a7dac1505bb975ba3`
+- BAI bytes: `10390008`
+- BAI MD5: `f391d287338dbf9d3856630338957bb8`
+- BAI SHA256: `65806d7f4a3ffea2371f759bcf84f36e282067dab6f7d4ccfe04b503ee10adad`
 
-## Decision
+## Local storage
 
-`incomplete_bam_download_not_successful`
+The BAM and BAI remain PC-local under:
 
-The BAM/BAI success definition is not met. The BITS BAM transfer was suspended after repeated remote connection closures.
+`I:\shengxinfenxi\bioinformatics-reproduction\projects\pan-gi-ici-ccc-20260709\desktop_exchange\local_only\20260713_prjna932556_ena_bam_pair_download`
+
+No `bamtofastq`, Cell Ranger, Seurat, or quantification step was run.
