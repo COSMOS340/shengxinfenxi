@@ -6,9 +6,20 @@ This folder contains the PC-side requests and lightweight upload outputs for the
 
 ## Current Request
 
-No open PC-side request is pending in this exchange directory.
+Please run:
 
-The most recent request, `20260711_prjna932556_ena_bam_acquisition_request.md`, was completed as a gate-failed audit. The ENA read-run report for `SRR23490337` was retrieved exactly, but Phase 2 failed because ENA returned `submitted_format=BAM;BAI` with two submitted file, checksum, and byte-size entries. Per the request, no submitted file was manually selected and no BAM was downloaded.
+- `20260713_prjna932556_ena_bam_pair_download_request.md`
+- `20260713_prjna932556_ena_bam_pair_download_manifest.tsv`
+
+Upload lightweight outputs to:
+
+- `uploads/20260713_prjna932556_ena_bam_pair_download`
+
+The task is to download and verify the exact ENA-submitted BAM/BAI pair for `SRR23490337`. The BAM and BAI files must remain PC-local and must not be uploaded to GitHub. Do not run `bamtofastq`, Cell Ranger, Seurat, or quantification in this task.
+
+## Most Recent Completed Request
+
+The previous request, `20260711_prjna932556_ena_bam_acquisition_request.md`, was completed as a gate-failed audit. The ENA read-run report for `SRR23490337` was retrieved exactly, but Phase 2 failed because ENA returned `submitted_format=BAM;BAI` with two submitted file, checksum, and byte-size entries. Per that request, no submitted file was manually selected and no BAM was downloaded.
 
 ## Completed Request Files
 
