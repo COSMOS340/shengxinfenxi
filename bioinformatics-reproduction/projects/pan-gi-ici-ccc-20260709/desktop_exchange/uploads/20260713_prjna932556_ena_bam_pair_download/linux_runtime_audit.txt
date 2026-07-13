@@ -1,0 +1,4 @@
+text
+"Runtime audit was inherited from the immediately preceding ENA BAM acquisition task on the same PC unless rerun logs are present.
+
+No WSL, Docker, Cell Ranger, bamtofastq, Seurat, or quantification installation was performed in this task."
