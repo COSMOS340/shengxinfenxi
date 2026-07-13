@@ -1,0 +1,37 @@
+COMMAND: /work/tools/bamtofastq --locus=MT:1-16569 --reads-per-fastq=1000000 /work/input/R3_possorted_genome_bam.bam.1 /work/output
+VALIDATED_LOCUS: MT:1-16569
+START_TIME: 2026-07-13T16:04:53+00:00
+END_TIME: 2026-07-13T16:41:20+00:00
+EXIT_CODE: 0
+PEAK_OUTPUT_DISK_BYTES: 5386519028
+
+STDOUT_BEGIN
+bamtofastq v1.4.1
+Writing finished.  Observed 76559661 read pairs. Wrote 76559661 read pairs
+STDOUT_END
+
+STDERR_AND_TIME_BEGIN
+	Command being timed: "/work/tools/bamtofastq --locus=MT:1-16569 --reads-per-fastq=1000000 /work/input/R3_possorted_genome_bam.bam.1 /work/output"
+	User time (seconds): 3756.73
+	System time (seconds): 127.85
+	Percent of CPU this job got: 177%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 36:24.43
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 45536
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 47074
+	Voluntary context switches: 1203014
+	Involuntary context switches: 112904
+	Swaps: 0
+	File system inputs: 7582528
+	File system outputs: 10521176
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+STDERR_AND_TIME_END

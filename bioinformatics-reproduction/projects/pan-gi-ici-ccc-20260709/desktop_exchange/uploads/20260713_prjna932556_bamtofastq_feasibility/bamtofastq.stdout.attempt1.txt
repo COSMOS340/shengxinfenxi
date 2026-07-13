@@ -1,0 +1,4 @@
+bamtofastq v1.4.1
+bamtofastq error: error creating output directory: "/work/output". Does it already exist?
+
+If this error is unexpected, contact support@10xgenomics.com for assistance. Please re-run with --traceback and include stack trace with an error report

@@ -1,0 +1,7 @@
+check	expected	actual	result
+inventory_rows	154	154	pass
+local_fastq_files	154	154	pass
+local_fastq_bytes	5386519028	5386519028	pass
+gzip_files	154	154	pass
+first100_records_total	15400	15400	pass
+first100_archive_members	154	154	pass

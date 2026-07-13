@@ -1,0 +1,7 @@
+Reusing complete local file: /work/input/R3_possorted_genome_bam.bam.1
+Reusing complete local file: /work/input/R3_possorted_genome_bam.bam.1.bai
+Reusing complete local file: /work/tools/bamtofastq
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  3218  100  3218    0     0   521k      0 --:--:-- --:--:-- --:--:--  628k
+du: cannot access '/work/output': No such file or directory

@@ -1,28 +1,19 @@
 # Pan-GI ICI CCC Desktop Exchange
 
-Updated: 2026-07-13
+Updated: 2026-07-14
 
 This folder contains the PC-side requests and lightweight upload outputs for the pan-GI immune checkpoint therapy cell communication project.
 
 ## Current Request
 
-Please run:
+No open PC-side request is pending in this exchange directory.
 
-- `20260713_prjna932556_bamtofastq_feasibility_request.md`
-- `20260713_prjna932556_bamtofastq_feasibility_manifest.tsv`
-
-Upload lightweight outputs to:
-
-- `uploads/20260713_prjna932556_bamtofastq_feasibility`
-
-The task is a bounded feasibility pilot for official 10x `bamtofastq` using the already verified `SRR23490337` BAM/BAI pair. Reverify the BAM/BAI first, audit runtime and tool versions, then run only the locus-restricted pilot if the exact contig rule passes. Keep all FASTQ outputs PC-local and do not run Cell Ranger, Seurat, CellChat, LIANA, NicheNet, or quantification.
-
-## Most Recent Completed Request
-
-The previous request, `20260713_prjna932556_ena_bam_pair_download_request.md`, is complete. The ENA gate passed, and both exact submitted files for `SRR23490337` were downloaded to PC-local storage and verified by byte size and MD5. The BAM and BAI remain PC-local and were not uploaded to GitHub.
+The most recent request, `20260713_prjna932556_bamtofastq_feasibility_request.md`, is complete. The existing `SRR23490337` BAM/BAI pair was reverified, the exact contig rule selected `MT:1-16569`, and official 10x `bamtofastq` v1.4.1 completed the bounded pilot with exit code 0. The run wrote 76,559,661 read pairs to 154 gzip FASTQ files totaling 5,386,519,028 bytes. Full FASTQ files remain PC-local and were not uploaded to GitHub.
 
 ## Completed Request Files
 
+- `20260713_prjna932556_bamtofastq_feasibility_request.md`
+- `20260713_prjna932556_bamtofastq_feasibility_manifest.tsv`
 - `20260713_prjna932556_ena_bam_pair_download_request.md`
 - `20260713_prjna932556_ena_bam_pair_download_manifest.tsv`
 - `20260711_prjna932556_ena_bam_acquisition_request.md`
@@ -34,6 +25,7 @@ The previous request, `20260713_prjna932556_ena_bam_pair_download_request.md`, i
 
 ## Completed Upload Directories
 
+- `uploads/20260713_prjna932556_bamtofastq_feasibility`
 - `uploads/20260713_prjna932556_ena_bam_pair_download`
 - `uploads/20260711_prjna932556_ena_bam_acquisition`
 - `uploads/20260711_prjna932556_windows_sra_pilot`

@@ -1,0 +1,4 @@
+component	version	source_url	pc_local_path	bytes	hash_algorithm	hash
+bamtofastq	v1.4.1	https://github.com/10XGenomics/bamtofastq/releases/download/v1.4.1/bamtofastq_linux	I:\codex-config\tools\bamtofastq\v1.4.1\bamtofastq_linux	18540256	sha256	fdf7db4fe6cf8e13a432e8a59815dad506415349627502fdf77f4be208a198ce
+qemu-w64	11.0.50 (20260501 build)	https://qemu.weilnetz.de/w64/qemu-w64-setup-20260501.exe	I:\codex-config\tools\qemu\downloads\qemu-w64-setup-20260501.exe	198897616	sha512	3d6b996bb904666f3b7ff62bed233b2d21dffe96f512af0a7151cfcc828bc5c8f9b62623cf2a9d363a3ae48111761f4630cce776eacb9b70d83e61e6ae50de47
+ubuntu-cloud-image	Ubuntu 24.04 LTS noble release image	https://cloud-images.ubuntu.com/releases/noble/release/ubuntu-24.04-server-cloudimg-amd64.img	I:\codex-config\tools\ubuntu-vm\base\ubuntu-24.04-server-cloudimg-amd64.img	620852736	sha256	5fa5b05e5ec239858c4531485d6023b0896448c2df7c63b34f8dae6ea6051a44
