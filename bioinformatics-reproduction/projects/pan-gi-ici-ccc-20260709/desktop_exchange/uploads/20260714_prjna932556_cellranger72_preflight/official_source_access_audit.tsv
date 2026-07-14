@@ -1,0 +1,3 @@
+source_role	url	method	http_status	final_url	content_length	redirect_chain	reachable	exact_archive_url_obtained_noninteractively	manual_eula_required	notes	error
+cellranger_download_page	https://www.10xgenomics.com/support/software/cell-ranger/downloads	GET	200	https://www.10xgenomics.com/support/software/cell-ranger/downloads	80952		True	False	True	Official download page is accessible, but no exact Cell Ranger 7.2.0 archive URL was obtained without manual EULA flow.	
+refdata-gex-GRCh38-2020-A_archive	https://cf.10xgenomics.com/supp/cell-exp/refdata-gex-GRCh38-2020-A.tar.gz	HEAD	200	https://cf.10xgenomics.com/supp/cell-exp/refdata-gex-GRCh38-2020-A.tar.gz	11448662640		True	True	False	Metadata request only; archive was not downloaded.	

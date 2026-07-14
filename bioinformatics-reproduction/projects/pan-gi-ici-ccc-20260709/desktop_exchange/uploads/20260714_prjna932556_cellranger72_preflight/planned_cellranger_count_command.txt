@@ -1,0 +1,14 @@
+# Planning record only. Do not execute from this file.
+# Cell Ranger 7.2.0 executable: not observed locally.
+# refdata-gex-GRCh38-2020-A local path: not observed locally, so the transcriptome placeholder is intentionally retained.
+# FASTQ root below is the observed PC-local path containing W6B_0_1_HGGWHDSX2.
+
+cellranger count \
+  --id=R3_SRR23490337 \
+  --transcriptome=<absolute_path_to_refdata-gex-GRCh38-2020-A> \
+  --fastqs=I:\shengxinfenxi\bioinformatics-reproduction\projects\pan-gi-ici-ccc-20260709\desktop_exchange\local_only\20260714_prjna932556_srr23490337_full_bamtofastq \
+  --sample=bamtofastq \
+  --chemistry=auto \
+  --localcores=4 \
+  --localmem=4 \
+  --disable-ui

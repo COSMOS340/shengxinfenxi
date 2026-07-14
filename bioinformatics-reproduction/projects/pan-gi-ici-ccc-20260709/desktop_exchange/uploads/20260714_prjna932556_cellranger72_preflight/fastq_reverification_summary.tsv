@@ -1,0 +1,2 @@
+checked_at	fastq_root	fastq_files	r1_files	r2_files	i1_files	i2_files	total_fastq_bytes	all_files_gzip	all_r1_chunks_have_matching_r2	missing_r1_chunks	missing_r2_chunks	r1_first100_length_distribution	r2_first100_length_distribution	existing_host_sha256_mismatches	fastq_reverification_passed
+2026-07-14T20:13:50+08:00	I:\shengxinfenxi\bioinformatics-reproduction\projects\pan-gi-ici-ccc-20260709\desktop_exchange\local_only\20260714_prjna932556_srr23490337_full_bamtofastq	804	402	402	0	0	29268262419	True	True	0	0	28:100	91:100	0	True

@@ -1,0 +1,9 @@
+criterion	observed_value	required_value	passed	notes
+fastq_reverification_passed	True	True	True	
+guest_visible_cpu_cores	4	>=8	False	
+guest_ram_bytes	4104351744	>=64000000000	False	
+guest_visible_avx	True	True	True	
+fixed_volume_free_bytes	417535246336	>=500000000000	False	maximum fixed-volume free bytes observed
+cellranger_7_2_0_acquisition_route	page_reachable=True;manual_eula_required=True	exact Cell Ranger 7.2.0 acquisition route available	False	manual EULA flow required; no non-interactive archive URL recorded
+refdata_gex_grch38_2020_a_source_reachable	reachable=True;status=200;content_length=11448662640	reachable	True	
+preflight_decision	LOCAL_CELLRANGER_COUNT_NOT_READY	READY_FOR_CELLRANGER72_ACQUISITION_AND_COUNT_REQUEST	False	No download, installation, count, or quantification was run.

@@ -8,16 +8,17 @@ This folder contains the PC-side requests and lightweight upload outputs for the
 
 - Request: `20260714_prjna932556_cellranger72_preflight_request.md`
 - Manifest: `20260714_prjna932556_cellranger72_preflight_manifest.tsv`
-- Scope: audit exact host, Linux runtime, Cell Ranger 7.2.0, GRCh38-2020-A, and storage readiness for one later `SRR23490337` count run
-- Required decision: `LOCAL_CELLRANGER_COUNT_NOT_READY` or `READY_FOR_CELLRANGER72_ACQUISITION_AND_COUNT_REQUEST`
-- Stop boundary: no large downloads, no installation, no count, no other PRJNA932556 runs
+- PC result: `LOCAL_CELLRANGER_COUNT_NOT_READY`
+- Audit upload: `uploads/20260714_prjna932556_cellranger72_preflight`
+- Stop boundary honored: no large downloads, no installation, no Cell Ranger count, no other PRJNA932556 runs
 
 ## Most Recent Completed Request
 
-The previous request, `20260714_prjna932556_srr23490337_full_bamtofastq_request.md`, is complete. The existing `SRR23490337` BAM/BAI pair was reverified, the official 10x `bamtofastq` v1.4.1 binary was used without `--locus`, and full conversion exited with code 0. The run wrote 401831188 read pairs to 804 gzip FASTQ files totaling 29268262419 bytes. Full FASTQ files remain PC-local and were not uploaded to GitHub.
+The current request, `20260714_prjna932556_cellranger72_preflight_request.md`, is complete as an audit. The PC-local `SRR23490337` FASTQs were reverified. The current QEMU audit environment does not satisfy the requested Cell Ranger count gate because it exposes 4 guest CPU cores and 4104351744 guest RAM bytes, and the largest fixed-volume free space observed is 417535246336 bytes. The decision is `LOCAL_CELLRANGER_COUNT_NOT_READY`.
 
 ## Completed Upload Directories
 
+- `uploads/20260714_prjna932556_cellranger72_preflight` (Cell Ranger 7.2.0 preflight audit)
 - `uploads/20260714_prjna932556_srr23490337_full_bamtofastq` (full bamtofastq success audit; full FASTQs PC-local only)
 - `uploads/20260713_prjna932556_bamtofastq_feasibility`
 - `uploads/20260713_prjna932556_ena_bam_pair_download`

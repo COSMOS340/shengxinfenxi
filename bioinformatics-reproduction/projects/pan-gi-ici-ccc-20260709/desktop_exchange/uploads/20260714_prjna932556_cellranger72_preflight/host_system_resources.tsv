@@ -1,0 +1,2 @@
+checked_at	windows_caption	windows_version	windows_build	cpu_model	physical_core_count	logical_processor_count	total_physical_ram_bytes	available_physical_ram_bytes	host_xsave_supported	host_osxsave_supported	host_xcr0_hex	host_avx_supported	host_avx2_supported
+2026-07-14T20:13:50+08:00	Microsoft Windows 11 专业版	10.0.22631	22631	AMD Ryzen 5 5600 6-Core Processor              	6	12	34282172416	22955945984	True	True	0x7	True	True
