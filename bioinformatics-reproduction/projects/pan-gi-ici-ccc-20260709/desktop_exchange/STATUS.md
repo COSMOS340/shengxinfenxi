@@ -6,12 +6,12 @@ This folder contains the PC-side requests and lightweight upload outputs for the
 
 ## Current Request
 
-- Request: `20260714_prjna932556_cellranger72_single_sample_hardrun_request.md`
-- Manifest: `20260714_prjna932556_cellranger72_single_sample_hardrun_manifest.tsv`
-- PC result: `CELLRANGER72_ARCHIVE_DOWNLOADED_TO_F`
-- Upload: `uploads/20260714_cellranger72_archive_downloaded_to_f`
-- Prior hardrun audit: `uploads/20260714_prjna932556_cellranger72_single_sample_hardrun`
-- Current message: Cell Ranger 7.2.0 Linux 64-bit `tar.gz` archive is now present at `F:\cellranger-7.2.0.tar.gz`, bytes `683925475`, MD5 `85e2573e80a6f8656a42ff09460463e6`, SHA256 `b092bd4e3ab585ad051a231fbdd8f3f0f5cbcd10f657eeab86bec98cd594502c`. The archive was not uploaded to GitHub.
+- Request: `20260714_prjna932556_cellranger72_resume_after_archive_request.md`
+- Manifest: `20260714_prjna932556_cellranger72_resume_after_archive_manifest.tsv`
+- PC status: `REQUESTED_CELLRANGER72_RESUME_AFTER_ARCHIVE`
+- Required upload: `uploads/20260714_prjna932556_cellranger72_resume_after_archive`
+- Verified archive: `F:\cellranger-7.2.0.tar.gz`
+- Current message: Reverify the existing archive, install exact Cell Ranger 7.2.0 and `refdata-gex-GRCh38-2020-A` using `F:` storage, then execute the one authorized `SRR23490337` / `R3` count attempt. Archive download alone is not completion for this request.
 
 ## Most Recent Completed Request
 
