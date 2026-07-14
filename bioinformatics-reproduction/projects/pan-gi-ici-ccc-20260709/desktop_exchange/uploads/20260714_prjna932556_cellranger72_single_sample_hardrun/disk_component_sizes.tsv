@@ -1,0 +1,6 @@
+checked_at	component	path	bytes	sha256	stored_on	uploaded_to_github	notes
+2026-07-14T20:57:56+08:00	verified_fastq_directory	I:\shengxinfenxi\bioinformatics-reproduction\projects\pan-gi-ici-ccc-20260709\desktop_exchange\local_only\20260714_prjna932556_srr23490337_full_bamtofastq\W6B_0_1_HGGWHDSX2	29268262419		I:	False	Existing verified input; not copied.
+2026-07-14T20:57:56+08:00	cellranger_archive		0		F:	False	BLOCKED_CELLRANGER72_MANUAL_DOWNLOAD
+2026-07-14T20:57:56+08:00	reference_archive		0		F:	False	not_downloaded
+2026-07-14T20:57:56+08:00	qemu_data_disk		0		F:	False	not_created
+2026-07-14T20:57:56+08:00	cellranger_pipestance		0		F:	False	not_created

@@ -1,0 +1,2 @@
+checked_at	component	source_url	http_status	final_url	content_length	redirect_chain	reachable	archive_downloaded	archive_path	archive_bytes	archive_sha256	extracted_path	extracted_bytes	metadata_files	notes
+2026-07-14T20:57:56+08:00	refdata-gex-GRCh38-2020-A	https://cf.10xgenomics.com/supp/cell-exp/refdata-gex-GRCh38-2020-A.tar.gz	200	https://cf.10xgenomics.com/supp/cell-exp/refdata-gex-GRCh38-2020-A.tar.gz	11448662640		True	False							Reference download not started because status is BLOCKED_CELLRANGER72_MANUAL_DOWNLOAD. Metadata HEAD request only.

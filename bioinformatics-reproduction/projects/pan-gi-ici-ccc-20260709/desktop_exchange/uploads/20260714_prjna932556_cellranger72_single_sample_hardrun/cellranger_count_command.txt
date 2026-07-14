@@ -1,0 +1,13 @@
+# Cell Ranger count was not executed.
+# Status: BLOCKED_CELLRANGER72_MANUAL_DOWNLOAD
+# Reason: no legitimate Cell Ranger 7.2.0 archive/executable was available locally, and the official download page requires manual 10x EULA/download flow.
+
+cellranger count \
+  --id=R3_SRR23490337 \
+  --transcriptome=<not_observed_refdata-gex-GRCh38-2020-A> \
+  --fastqs=<guest_path_not_created> \
+  --sample=bamtofastq \
+  --chemistry=auto \
+  --localcores=<not_started> \
+  --localmem=<not_started> \
+  --disable-ui

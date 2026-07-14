@@ -8,18 +8,17 @@ This folder contains the PC-side requests and lightweight upload outputs for the
 
 - Request: `20260714_prjna932556_cellranger72_single_sample_hardrun_request.md`
 - Manifest: `20260714_prjna932556_cellranger72_single_sample_hardrun_manifest.tsv`
-- Target: one complete Cell Ranger 7.2.0 count attempt for `SRR23490337` / `R3`
-- Input: verified PC-local FASTQs from the completed full `bamtofastq` task
-- Resource policy: use measured component sizes and live free space on `F:` only; do not write task files to the `E:` application volume; no fixed 500 GB free-space gate
+- PC result: `BLOCKED_CELLRANGER72_MANUAL_DOWNLOAD`
 - Upload: `uploads/20260714_prjna932556_cellranger72_single_sample_hardrun`
-- Stop boundary: no other PRJNA932556 runs, no alternative quantifier, no downstream analysis, and no large GitHub upload
+- Stop boundary honored: no Cell Ranger archive URL was invented, no manual EULA response was fabricated, no installation/count was started, no F: task files were created, and no large outputs were uploaded.
 
 ## Most Recent Completed Request
 
-The previous request, `20260714_prjna932556_cellranger72_preflight_request.md`, is complete as an audit. The PC-local `SRR23490337` FASTQs were reverified. The audited QEMU environment exposed 4 guest CPU cores and 4104351744 guest RAM bytes, and the largest fixed-volume free space observed was 417535246336 bytes. The decision was `LOCAL_CELLRANGER_COUNT_NOT_READY`. The new request explicitly authorizes one measured low-resource count attempt after QEMU reallocation.
+The current request stopped at the authorized manual-download boundary. The `SRR23490337` FASTQs were fully reverified first: 804 gzip files, 402 R1, 402 R2, 29268262419 bytes, 0 SHA256 mismatches. The official 10x download page is reachable, but Cell Ranger 7.2.0 archive acquisition requires manual official 10x EULA/download flow.
 
 ## Completed Upload Directories
 
+- `uploads/20260714_prjna932556_cellranger72_single_sample_hardrun` (BLOCKED_CELLRANGER72_MANUAL_DOWNLOAD)
 - `uploads/20260714_prjna932556_cellranger72_preflight` (Cell Ranger 7.2.0 preflight audit)
 - `uploads/20260714_prjna932556_srr23490337_full_bamtofastq` (full bamtofastq success audit; full FASTQs PC-local only)
 - `uploads/20260713_prjna932556_bamtofastq_feasibility`
