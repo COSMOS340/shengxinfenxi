@@ -1,0 +1,17 @@
+﻿SRR23490337 full bamtofastq runtime and tool audit
+AUDIT_TIME: 2026-07-14T13:21:24.1008016+08:00
+RESULT: STOPPED_BEFORE_CONVERSION
+STOP_REASON: DISK_GATE_FAILED
+HOST_OS: Microsoft Windows NT 10.0.22631.0
+POWERSHELL: 5.1.22621.6133
+BAMTOFASTQ_SOURCE_URL: https://github.com/10XGenomics/bamtofastq/releases/download/v1.4.1/bamtofastq_linux
+BAMTOFASTQ_HOST_PATH: I:\codex-config\tools\bamtofastq\v1.4.1\bamtofastq_linux
+BAMTOFASTQ_BYTES: 18540256
+BAMTOFASTQ_EXPECTED_SHA256: fdf7db4fe6cf8e13a432e8a59815dad506415349627502fdf77f4be208a198ce
+BAMTOFASTQ_OBSERVED_SHA256: fdf7db4fe6cf8e13a432e8a59815dad506415349627502fdf77f4be208a198ce
+BAMTOFASTQ_SHA256_MATCH: True
+BAMTOFASTQ_VERSION: v1.4.1
+PORTABLE_LINUX_RUNTIME: NOT_STARTED
+FULL_CONVERSION: NOT_STARTED
+OUTPUT_DIRECTORY_CREATED: False
+NOTE: The exact official binary was reverified, but the mandatory 60 GB output-volume gate failed before runtime startup.

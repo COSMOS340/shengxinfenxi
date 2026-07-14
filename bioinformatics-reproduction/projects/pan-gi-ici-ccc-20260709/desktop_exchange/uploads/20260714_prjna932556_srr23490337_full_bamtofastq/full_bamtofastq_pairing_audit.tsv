@@ -1,0 +1,2 @@
+﻿status	stop_reason	r1_files	r2_files	i1_files	i2_files	all_r1_chunks_have_matching_r2	total_gzip_fastq_count	total_fastq_bytes
+NOT_RUN	DISK_GATE_FAILED	0	0	0	0	NOT_RUN	0	0

@@ -1,0 +1,2 @@
+﻿"checked_at"	"volume"	"output_path"	"output_existed_at_gate"	"observed_free_bytes"	"required_free_bytes"	"gate_passed"	"shortfall_bytes"	"conversion_started"	"data_deleted"	"action"
+"2026-07-14T13:21:24.1008016+08:00"	"I:"	"I:\shengxinfenxi\bioinformatics-reproduction\projects\pan-gi-ici-ccc-20260709\desktop_exchange\local_only\20260714_prjna932556_srr23490337_full_bamtofastq"	"False"	"36503392256"	"60000000000"	"False"	"23496607744"	"False"	"False"	"STOPPED_BEFORE_CONVERSION"
