@@ -1,2 +1,2 @@
-﻿status	stop_reason	r1_files	r2_files	i1_files	i2_files	all_r1_chunks_have_matching_r2	total_gzip_fastq_count	total_fastq_bytes
-NOT_RUN	DISK_GATE_FAILED	0	0	0	0	NOT_RUN	0	0
+r1_files	r2_files	i1_files	i2_files	all_r1_chunks_have_matching_r2	missing_r1_chunks	missing_r2_chunks	parsed_fastq_files	total_gzip_fastq_count	total_fastq_bytes	all_files_gzip	pairing_audit_passed
+402	402	0	0	True	0	0	804	804	29268262419	True	True

@@ -1,2 +1,4 @@
-﻿"checked_at"	"volume"	"output_path"	"output_existed_at_gate"	"observed_free_bytes"	"required_free_bytes"	"gate_passed"	"shortfall_bytes"	"conversion_started"	"data_deleted"	"action"
-"2026-07-14T13:21:24.1008016+08:00"	"I:"	"I:\shengxinfenxi\bioinformatics-reproduction\projects\pan-gi-ici-ccc-20260709\desktop_exchange\local_only\20260714_prjna932556_srr23490337_full_bamtofastq"	"False"	"36503392256"	"60000000000"	"False"	"23496607744"	"False"	"False"	"STOPPED_BEFORE_CONVERSION"
+checked_at	context	volume	observed_free_bytes	required_free_bytes	gate_passed
+2026-07-14T14:33:47.0478455+08:00	HOST_BEFORE_VM_START	I:	122509672448	60000000000	True
+2026-07-14T06:58:40+00:00	GUEST_BEFORE_CONVERSION	/work	79380963328	60000000000	True
+2026-07-14T19:28:04+08:00	HOST_AFTER_FASTQ_COPY_AND_VERIFY	I:	41840975872		

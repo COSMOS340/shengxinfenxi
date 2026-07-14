@@ -1,0 +1,2 @@
+﻿"checked_at"	"context"	"volume"	"observed_free_bytes"	"required_free_bytes"	"gate_passed"
+"2026-07-14T14:33:47.0478455+08:00"	"HOST_BEFORE_VM_START"	"I:"	"122509672448"	"60000000000"	"True"

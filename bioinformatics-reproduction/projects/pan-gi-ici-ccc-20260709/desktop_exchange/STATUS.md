@@ -8,19 +8,20 @@ This folder contains the PC-side requests and lightweight upload outputs for the
 
 - Request: `20260714_prjna932556_srr23490337_full_bamtofastq_request.md`
 - Manifest: `20260714_prjna932556_srr23490337_full_bamtofastq_manifest.tsv`
-- PC result: `STOPPED_BEFORE_CONVERSION`
-- Precise stop reason: the required 60 GB disk gate failed; `I:` had `36503392256` free bytes, a shortfall of `23496607744` bytes.
+- PC result: `SUCCESS`
 - Audit upload: `uploads/20260714_prjna932556_srr23490337_full_bamtofastq`
-
-The BAM/BAI pair and official 10x `bamtofastq` v1.4.1 binary were reverified successfully. The full command was not executed, no output directory was created, and no existing data was deleted. Free at least `23496607744` additional bytes on `I:` and rerun this same request.
+- Full FASTQ files: PC-local only at `I:\shengxinfenxi\bioinformatics-reproduction\projects\pan-gi-ici-ccc-20260709\desktop_exchange\local_only\20260714_prjna932556_srr23490337_full_bamtofastq`
+- Full FASTQ count: `804`
+- Full FASTQ bytes: `29268262419`
+- Host copy verification: `True`
 
 ## Most Recent Completed Request
 
-The previous request, `20260713_prjna932556_bamtofastq_feasibility_request.md`, is complete. The existing `SRR23490337` BAM/BAI pair was reverified, the exact contig rule selected `MT:1-16569`, and official 10x `bamtofastq` v1.4.1 completed the bounded pilot with exit code 0. The run wrote 76,559,661 read pairs to 154 gzip FASTQ files totaling 5,386,519,028 bytes. Full FASTQ files remain PC-local and were not uploaded to GitHub.
+The current request, `20260714_prjna932556_srr23490337_full_bamtofastq_request.md`, is complete. The existing `SRR23490337` BAM/BAI pair was reverified, the official 10x `bamtofastq` v1.4.1 binary was used without `--locus`, and full conversion exited with code 0. The run wrote 401831188 read pairs to 804 gzip FASTQ files totaling 29268262419 bytes. Full FASTQ files remain PC-local and were not uploaded to GitHub.
 
 ## Completed Upload Directories
 
-- `uploads/20260714_prjna932556_srr23490337_full_bamtofastq` (disk-gate audit; conversion not run)
+- `uploads/20260714_prjna932556_srr23490337_full_bamtofastq` (full bamtofastq success audit; full FASTQs PC-local only)
 - `uploads/20260713_prjna932556_bamtofastq_feasibility`
 - `uploads/20260713_prjna932556_ena_bam_pair_download`
 - `uploads/20260711_prjna932556_ena_bam_acquisition`

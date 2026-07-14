@@ -1,29 +1,46 @@
-﻿# SRR23490337 full bamtofastq status
+# SRR23490337 full bamtofastq status
 
-Result: STOPPED_BEFORE_CONVERSION
-Checked: 2026-07-14T13:21:24.1008016+08:00
+Status: SUCCESS
+Completed: 2026-07-14T19:28:04+08:00
 
-## Verification
+## Request
 
-- BAM bytes and MD5: PASS
-- BAI bytes and MD5: PASS
-- Official 10x `bamtofastq` v1.4.1 SHA256: PASS
-- Fresh output path requirement: PASS; the requested output directory did not exist
-- Disk gate: FAIL
+- Request file: `20260714_prjna932556_srr23490337_full_bamtofastq_request.md`
+- Manifest file: `20260714_prjna932556_srr23490337_full_bamtofastq_manifest.tsv`
+- Upload directory: `bioinformatics-reproduction/projects/pan-gi-ici-ccc-20260709/desktop_exchange/uploads/20260714_prjna932556_srr23490337_full_bamtofastq`
+- Full FASTQ location: `I:\shengxinfenxi\bioinformatics-reproduction\projects\pan-gi-ici-ccc-20260709\desktop_exchange\local_only\20260714_prjna932556_srr23490337_full_bamtofastq`
+- Full FASTQ upload to GitHub: no
 
-## Precise stop reason
+## Verified Inputs
 
-- Output volume: `I:`
-- Observed free bytes: `36503392256`
-- Required free bytes: `60000000000`
-- Shortfall bytes: `23496607744`
+- BAM bytes: `21494429186`
+- BAM MD5: `056a5c996212a64af708d48c5b585e48`
+- BAI bytes: `10390008`
+- BAI MD5: `f391d287338dbf9d3856630338957bb8`
 
-The mandatory 60 GB disk gate failed. The full conversion command was not executed, the portable Linux runtime was not started, the full output directory was not created, and no existing data was deleted.
+## Command
 
-The planned command remains:
-
-```bash
-bamtofastq --reads-per-fastq=1000000 R3_possorted_genome_bam.bam.1 <output_dir>
+```text
+/work/tools/bamtofastq --reads-per-fastq=1000000 /work/input/R3_possorted_genome_bam.bam.1 /work/output
 ```
 
-No FASTQ files were generated or uploaded. Cell Ranger, Seurat, CellChat, LIANA, NicheNet, and quantification were not run.
+- `--locus`: not used
+- Exit code: `0`
+- Read pairs written: `401831188`
+- Wall time: `3:07:01`
+
+## Output Audit
+
+- Gzip FASTQ files: `804`
+- R1 files: `402`
+- R2 files: `402`
+- I1 files: `0`
+- I2 files: `0`
+- Total FASTQ bytes: `29268262419`
+- Pairing audit passed: `True`
+- Host copy verification passed: `True`
+- Host SHA256 mismatches: `0`
+
+## Uploaded Lightweight Files
+
+The upload directory contains command logs, input re-verification, runtime/tool audit, disk audit, full FASTQ inventory, per-file SHA256 table, pairing audit, read-length audit, first-100-record tarball, and host-copy verification tables. Complete FASTQ files remain PC-local only.

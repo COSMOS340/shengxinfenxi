@@ -1,0 +1,87 @@
+LINUX_AUDIT_START: 2026-07-14T06:58:39+00:00
+OFFICIAL_BAMTOFASTQ_URL: https://github.com/10XGenomics/bamtofastq/releases/download/v1.4.1/bamtofastq_linux
+LOCAL_TRANSFER_URL: http://10.0.2.2:18000/bamtofastq_linux
+BAMTOFASTQ_PATH: /work/tools/bamtofastq
+BAMTOFASTQ_BYTES: 18540256
+BAMTOFASTQ_SHA256: fdf7db4fe6cf8e13a432e8a59815dad506415349627502fdf77f4be208a198ce
+
+COMMAND: uname -a
+Linux bamtofastq-pilot 6.8.0-124-generic #124-Ubuntu SMP PREEMPT_DYNAMIC Tue May 26 13:00:45 UTC 2026 x86_64 x86_64 x86_64 GNU/Linux
+
+COMMAND: samtools --version
+samtools 1.19.2
+Using htslib 1.19
+Copyright (C) 2024 Genome Research Ltd.
+
+Samtools compilation details:
+    Features:       build=configure curses=yes 
+    CC:             gcc
+    CPPFLAGS:       -frelease  -Wdate-time -D_FORTIFY_SOURCE=3
+    CFLAGS:         -g -O2 -fno-omit-frame-pointer -mno-omit-leaf-frame-pointer -ffile-prefix-map=«BUILDPATH»=. -flto=auto -ffat-lto-objects -fstack-protector-strong -fstack-clash-protection -Wformat -Werror=format-security -fcf-protection -fdebug-prefix-map=«BUILDPATH»=/usr/src/samtools-1.19.2-1build2
+    LDFLAGS:        -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -Wl,-z,relro -Wl,-z,now
+    HTSDIR:         
+    LIBS:           
+    CURSES_LIB:     -lcurses
+
+HTSlib compilation details:
+    Features:       build=configure libcurl=yes S3=yes GCS=yes libdeflate=yes lzma=yes bzip2=yes plugins=yes plugin-path=/usr/local/lib/htslib:/usr/local/libexec/htslib:/usr/lib/x86_64-linux-gnu/htslib: htscodecs=1.6.0
+    CC:             gcc
+    CPPFLAGS:       -I. -DSAMTOOLS=1 -Wdate-time -D_FORTIFY_SOURCE=3
+    CFLAGS:         -g -O2 -fno-omit-frame-pointer -mno-omit-leaf-frame-pointer  -flto=auto -ffat-lto-objects -fstack-protector-strong -fstack-clash-protection -Wformat -Werror=format-security -fcf-protection -fdebug-prefix-map=/build/htslib-TVzaVS/htslib-1.19+ds=/usr/src/htslib-1.19+ds-1.1build3 -ffat-lto-objects -ffat-lto-objects
+    LDFLAGS:        -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -Wl,-z,relro -Wl,-z,now -Wl,-flto -fvisibility=hidden -ffat-lto-objects -fvisibility=hidden -rdynamic
+
+HTSlib URL scheme handlers present:
+    built-in:	 preload, data, file
+    S3 Multipart Upload:	 s3w, s3w+https, s3w+http
+    libcurl:	 imaps, pop3, gophers, http, smb, gopher, sftp, ftps, imap, rtmpte, smtp, smtps, rtsp, rtmpe, ftp, scp, mqtt, rtmp, ldap, https, ldaps, rtmps, rtmpt, pop3s, rtmpts, tftp, smbs, dict, telnet
+    Amazon S3:	 s3+https, s3+http, s3
+    Google Cloud Storage:	 gs+http, gs+https, gs
+    crypt4gh-needed:	 crypt4gh
+    mem:	 mem
+
+COMMAND: bamtofastq --help
+bamtofastq v1.4.1
+10x Genomics BAM to FASTQ converter.
+
+    Tool for converting 10x BAMs produced by Cell Ranger or Long Ranger back to
+    FASTQ files that can be used as inputs to re-run analysis. The FASTQ files
+    emitted by the tool should contain the same set of sequences that were
+    input to the original pipeline run, although the order will not be 
+    preserved.  The FASTQs will be emitted into a directory structure that is
+    compatible with the directories created by the 'mkfastq' tool.
+
+    10x BAMs produced by Long Ranger v2.1+ and Cell Ranger v1.2+ contain header
+    fields that permit automatic conversion to the correct FASTQ sequences.
+
+    Older 10x pipelines require one of the arguments listed below to indicate 
+    which pipeline created the BAM.
+
+    NOTE: BAMs created by non-10x pipelines are unlikely to work correctly,
+    unless all the relevant tags have been recreated.
+
+    NOTE: BAM produced by the BASIC and ALIGNER pipeline from Long Ranger 2.1.2 and earlier
+    are not compatible with bamtofastq
+
+    NOTE: BAM files created by CR < 1.3 do not have @RG headers, so bamtofastq will use the GEM well
+    annotations attached to the CB (cell barcode) tag to split data from multiple input libraries.
+    Reads without a valid barcode do not carry the CB tag and will be dropped. These reads would 
+    not be included in any valid cell.
+
+Usage:
+  bamtofastq [options] <bam> <output-path>
+  bamtofastq (-h | --help)
+
+Options:
+
+  --nthreads=<n>        Threads to use for reading BAM file [default: 4]
+  --locus=<locus>       Optional. Only include read pairs mapping to locus. Use chrom:start-end format.
+  --reads-per-fastq=N   Number of reads per FASTQ chunk [default: 50000000]
+  --relaxed             Skip unpaired or duplicated reads instead of throwing an error.
+  --gemcode             Convert a BAM produced from GemCode data (Longranger 1.0 - 1.3)
+  --lr20                Convert a BAM produced by Longranger 2.0
+  --cr11                Convert a BAM produced by Cell Ranger 1.0-1.1
+  --bx-list=L           Only include BX values listed in text file L. Requires BX-sorted and index BAM file (see Long Ranger support for details).
+  --traceback           Print full traceback if an error occurs.
+  -h --help             Show this screen.
+
+LINUX_AUDIT_END: 2026-07-14T06:58:40+00:00

@@ -1,0 +1,2 @@
+bamtofastq v1.4.1
+Writing finished.  Observed 401831188 read pairs. Wrote 401831188 read pairs

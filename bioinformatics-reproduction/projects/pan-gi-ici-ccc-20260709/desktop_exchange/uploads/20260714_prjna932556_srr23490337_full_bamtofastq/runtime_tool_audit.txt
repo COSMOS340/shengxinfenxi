@@ -1,17 +1,38 @@
-﻿SRR23490337 full bamtofastq runtime and tool audit
-AUDIT_TIME: 2026-07-14T13:21:24.1008016+08:00
-RESULT: STOPPED_BEFORE_CONVERSION
-STOP_REASON: DISK_GATE_FAILED
-HOST_OS: Microsoft Windows NT 10.0.22631.0
-POWERSHELL: 5.1.22621.6133
-BAMTOFASTQ_SOURCE_URL: https://github.com/10XGenomics/bamtofastq/releases/download/v1.4.1/bamtofastq_linux
-BAMTOFASTQ_HOST_PATH: I:\codex-config\tools\bamtofastq\v1.4.1\bamtofastq_linux
-BAMTOFASTQ_BYTES: 18540256
-BAMTOFASTQ_EXPECTED_SHA256: fdf7db4fe6cf8e13a432e8a59815dad506415349627502fdf77f4be208a198ce
-BAMTOFASTQ_OBSERVED_SHA256: fdf7db4fe6cf8e13a432e8a59815dad506415349627502fdf77f4be208a198ce
-BAMTOFASTQ_SHA256_MATCH: True
-BAMTOFASTQ_VERSION: v1.4.1
-PORTABLE_LINUX_RUNTIME: NOT_STARTED
-FULL_CONVERSION: NOT_STARTED
-OUTPUT_DIRECTORY_CREATED: False
-NOTE: The exact official binary was reverified, but the mandatory 60 GB output-volume gate failed before runtime startup.
+# Runtime and tool audit: SRR23490337 full bamtofastq
+
+Generated: 2026-07-14T19:28:04+08:00
+Request: 20260714_prjna932556_srr23490337_full_bamtofastq_request.md
+
+## Input re-verification
+
+- BAM path: I:\shengxinfenxi\bioinformatics-reproduction\projects\pan-gi-ici-ccc-20260709\desktop_exchange\local_only\20260713_prjna932556_ena_bam_pair_download\R3_possorted_genome_bam.bam.1
+- BAM bytes: 21494429186
+- BAM MD5: 056a5c996212a64af708d48c5b585e48
+- BAI path: I:\shengxinfenxi\bioinformatics-reproduction\projects\pan-gi-ici-ccc-20260709\desktop_exchange\local_only\20260713_prjna932556_ena_bam_pair_download\R3_possorted_genome_bam.bam.1.bai
+- BAI bytes: 10390008
+- BAI MD5: f391d287338dbf9d3856630338957bb8
+
+## Tool
+
+- Official 10x bamtofastq PC path: I:\codex-config\tools\bamtofastq\v1.4.1\bamtofastq_linux
+- Official 10x bamtofastq SHA256: fdf7db4fe6cf8e13a432e8a59815dad506415349627502fdf77f4be208a198ce
+- Required SHA256: fdf7db4fe6cf8e13a432e8a59815dad506415349627502fdf77f4be208a198ce
+- Version observed in stdout: bamtofastq v1.4.1
+
+## Execution
+
+- Conversion environment: Ubuntu 24.04 QEMU VM under I:\codex-config\tools\ubuntu-vm\runs\20260714_full_bamtofastq
+- Command: /work/tools/bamtofastq --reads-per-fastq=1000000 /work/input/R3_possorted_genome_bam.bam.1 /work/output
+- Locus argument: NOT_PRESENT
+- Exit code: 0
+- Wrote read pairs: 401831188
+
+## Host copy verification
+
+- PC-local FASTQ directory: I:\shengxinfenxi\bioinformatics-reproduction\projects\pan-gi-ici-ccc-20260709\desktop_exchange\local_only\20260714_prjna932556_srr23490337_full_bamtofastq
+- Expected gzip FASTQ files: 804
+- Observed gzip FASTQ files: 804
+- Expected total bytes: 29268262419
+- Observed total bytes: 29268262419
+- SHA256 mismatches: 0
+- Host copy verification passed: True

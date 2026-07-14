@@ -1,0 +1,2 @@
+expected_fastq_files	observed_fastq_files	verified_files	expected_total_bytes	observed_total_bytes	missing_files	extra_files	size_mismatches	sha256_mismatches	host_copy_verification_passed
+804	804	804	29268262419	29268262419	0	0	0	0	True
