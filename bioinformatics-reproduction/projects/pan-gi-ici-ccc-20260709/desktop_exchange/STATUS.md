@@ -27,7 +27,6 @@ After the prior hardrun block, the Cell Ranger 7.2.0 Linux 64-bit `tar.gz` archi
 - `uploads/20260713_prjna932556_ena_bam_pair_download`
 - `uploads/20260711_prjna932556_ena_bam_acquisition`
 - `uploads/20260711_gse235863_timepoint_prjna932556`
-- `uploads/20260711_gse235863_timepoint_prjna932556`
 - `uploads/20260710_gse189926_r_only_rerun`
 - `uploads/20260710_gse189926_annotation_qc_refinement`
 - `uploads/20260709_metadata_download`
