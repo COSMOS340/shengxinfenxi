@@ -10,7 +10,7 @@ This folder contains the PC-side requests and lightweight upload outputs for the
 - Manifest: `20260714_prjna932556_cellranger72_single_sample_hardrun_manifest.tsv`
 - Target: one complete Cell Ranger 7.2.0 count attempt for `SRR23490337` / `R3`
 - Input: verified PC-local FASTQs from the completed full `bamtofastq` task
-- Resource policy: use measured component sizes and live free space; no fixed 500 GB free-space gate
+- Resource policy: use measured component sizes and live free space on `F:` only; do not write task files to the `E:` application volume; no fixed 500 GB free-space gate
 - Upload: `uploads/20260714_prjna932556_cellranger72_single_sample_hardrun`
 - Stop boundary: no other PRJNA932556 runs, no alternative quantifier, no downstream analysis, and no large GitHub upload
 

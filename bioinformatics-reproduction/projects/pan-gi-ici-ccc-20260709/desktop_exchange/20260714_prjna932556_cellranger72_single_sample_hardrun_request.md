@@ -73,6 +73,8 @@ The previous audit observed:
 - `F:` free bytes: `393195249664`
 - existing QEMU guest allocation: 4 vCPU and approximately 4 GB RAM
 
+`E:` is the user's application volume and is not authorized for this task. Do not write Cell Ranger files, reference files, QEMU data disks, temporary files, pipestance files, or results to `E:` even if it has more free space.
+
 Re-audit these values immediately before setup. Use the existing QEMU Ubuntu environment because WSL and Docker were not installed in the previous audit.
 
 For the count attempt:
@@ -91,13 +93,13 @@ Do not require 500 GB of free space. Do not preallocate a 500 GB image.
 Use measured storage as follows:
 
 1. Keep the verified FASTQs on `I:`. Do not create another Windows-host copy.
-2. Select `E:` or `F:` based on the larger free-byte value observed immediately before setup.
-3. Store the Cell Ranger archive, extracted Cell Ranger directory, reference archive, extracted reference, QEMU data disk, Cell Ranger pipestance, temporary files, and final outputs on the selected volume.
-4. Use a sparse, dynamically growing QEMU data disk. Set its virtual capacity from current free space while leaving at least `20000000000` bytes free on the selected Windows volume. Record the formula, selected volume, virtual capacity, and initial physical image bytes.
+2. Use `F:` as the only Windows volume for new files created by this task. Do not select `E:` based on free space.
+3. Store the Cell Ranger archive, extracted Cell Ranger directory, reference archive, extracted reference, QEMU data disk, Cell Ranger pipestance, temporary files, and final outputs on `F:`.
+4. Use a sparse, dynamically growing QEMU data disk on `F:`. Set its virtual capacity from current `F:` free space while leaving at least `20000000000` bytes free on `F:`. Record the formula, `F:` free bytes, virtual capacity, and initial physical image bytes.
 5. If the FASTQs cannot be exposed read-only to the guest with the existing QEMU setup, copy them once into the guest data disk and record the exact copied bytes and SHA256 verification. Do not retain an unnecessary second guest copy after the final result has been verified, unless it is required for Cell Ranger resume.
 6. Record the actual byte size of every component after download or extraction: Cell Ranger archive, extracted Cell Ranger, reference archive, extracted reference, guest FASTQ copy if one was required, pipestance, temporary directories, and final `outs`.
 7. Sample host and guest free space at least every 10 minutes during the count. Write the measurements to `disk_usage_timeseries.tsv`.
-8. Stop the count cleanly if the selected Windows volume falls below `20000000000` free bytes or the guest work filesystem falls below `10000000000` free bytes. Preserve the pipestance and logs for diagnosis or resume. Do not delete user data to continue.
+8. Stop the count cleanly if `F:` falls below `20000000000` free bytes or the guest work filesystem falls below `10000000000` free bytes. Preserve the pipestance and logs for diagnosis or resume. Do not delete user data to continue.
 
 This policy is intended to measure the real high-water mark for this sample instead of enforcing the previous conservative free-space threshold.
 
