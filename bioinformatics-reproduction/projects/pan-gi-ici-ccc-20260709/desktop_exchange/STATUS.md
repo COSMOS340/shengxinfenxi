@@ -1,21 +1,20 @@
 # Pan-GI ICI CCC Desktop Exchange
 
-Updated: 2026-07-14
+Updated: 2026-07-16
 
 This folder contains the PC-side requests and lightweight upload outputs for the pan-GI immune checkpoint therapy cell communication project.
 
 ## Current Request
 
-- Request: `20260714_prjna932556_cellranger72_resume_after_archive_request.md`
-- Manifest: `20260714_prjna932556_cellranger72_resume_after_archive_manifest.tsv`
-- PC status: `REQUESTED_CELLRANGER72_RESUME_AFTER_ARCHIVE`
-- Required upload: `uploads/20260714_prjna932556_cellranger72_resume_after_archive`
-- Verified archive: `F:\cellranger-7.2.0.tar.gz`
-- Current message: Reverify the existing archive, install exact Cell Ranger 7.2.0 and `refdata-gex-GRCh38-2020-A` using `F:` storage, then execute the one authorized `SRR23490337` / `R3` count attempt. Archive download alone is not completion for this request.
+- Request: `20260716_stop_prjna932556_and_build_gse205506_request.md`
+- Manifest: `20260716_stop_prjna932556_and_build_gse205506_manifest.tsv`
+- PC status: `REQUESTED_STOP_DELETE_PRJNA932556_SWITCH_GSE205506`
+- Required upload: `uploads/20260716_stop_prjna932556_and_build_gse205506`
+- Current message: Stop all PRJNA932556 compute. Inventory exact PRJNA932556 paths, delete its verified BAM, BAI, FASTQ, Cell Ranger work directories and expression outputs, and report bytes released. Keep Cell Ranger software, reference genomes, other datasets and lightweight audit files. Then download the author-processed GSE205506 archive, obtain the actual article Table S1 response mapping and build the formal CRC object entirely in R.
 
 ## Most Recent Completed Request
 
-After the prior hardrun block, the Cell Ranger 7.2.0 Linux 64-bit `tar.gz` archive was downloaded from the official 10x Genomics previous-versions page to the PC F: drive and verified against the official MD5. It has not been extracted or installed yet, and Cell Ranger count has not been executed.
+The Cell Ranger 7.2.0 archive download and prior PRJNA932556 BAM-to-FASTQ work are complete as technical records. The project has now removed PRJNA932556 from formal analysis because the six-sample reconstruction is not acceptable for current PC storage and compute. The new request explicitly requires deletion of PRJNA932556 large data after an exact-path inventory.
 
 ## Completed Upload Directories
 
