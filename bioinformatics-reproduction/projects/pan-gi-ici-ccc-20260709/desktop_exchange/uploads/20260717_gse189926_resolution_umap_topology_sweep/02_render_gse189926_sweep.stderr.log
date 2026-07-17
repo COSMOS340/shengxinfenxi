@@ -1,0 +1,10 @@
+Warning messages:
+1: package 'Seurat' was built under R version 4.4.3 
+2: package 'SeuratObject' was built under R version 4.4.3 
+3: package 'sp' was built under R version 4.4.3 
+4: package 'data.table' was built under R version 4.4.3 
+5: package 'ggplot2' was built under R version 4.4.3 
+6: package 'patchwork' was built under R version 4.4.3 
+7: package 'ggrepel' was built under R version 4.4.3 
+8: package 'ggrastr' was built under R version 4.4.3 
+9: package 'scales' was built under R version 4.4.3 

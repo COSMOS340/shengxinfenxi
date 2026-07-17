@@ -1,0 +1,147 @@
+resolution	cluster	strongest_marker_program	strongest_overlap_count	strongest_overlap_genes	second_marker_program	second_overlap_count	second_overlap_genes	broad_marker_conflict_review	conflict_rule
+0.2	0	Granulocyte	4	CSF3R;S100A9;S100A8;FCGR3B	Inflammatory_myeloid	2	S100A9;S100A8	FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.2	1	T_cell	2	TRAC;CD3E	CD8_T_NK	1	CCL5	FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.2	10	Dendritic	2	LAMP3;FSCN1	CD8_T_NK	0		FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.2	11	CD8_T_NK	1	CCL5	Dendritic	0		FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.2	12	Plasma	3	JCHAIN;MZB1;XBP1	CD8_T_NK	0		FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.2	13	Plasma	2	JCHAIN;MZB1	CD8_T_NK	0		FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.2	14	CD8_T_NK	0		Dendritic	0		TRUE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.2	2	Macrophage	3	C1QB;C1QA;C1QC	Inflammatory_myeloid	1	LYZ	FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.2	3	Epithelial	4	KRT8;KRT18;EPCAM;KRT19	Inflammatory_myeloid	1	LYZ	FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.2	4	Plasma	3	JCHAIN;MZB1;XBP1	CD8_T_NK	0		FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.2	5	Plasma	3	JCHAIN;MZB1;XBP1	CD8_T_NK	0		FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.2	6	Mast	4	TPSAB1;TPSB2;CPA3;KIT	CD8_T_NK	0		FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.2	7	Stromal_perivascular	4	COL3A1;COL1A2;COL1A1;RGS5	CD8_T_NK	0		FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.2	8	Epithelial	1	KRT19	CD8_T_NK	0		FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.2	9	Endothelial	4	PLVAP;PECAM1;VWF;EMCN	CD8_T_NK	0		FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.3	0	Granulocyte	4	S100A9;S100A8;CSF3R;FCGR3B	Inflammatory_myeloid	2	S100A9;S100A8	FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.3	1	T_cell	1	TRAC	CD8_T_NK	0		FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.3	10	Stromal_perivascular	4	COL3A1;COL1A2;COL1A1;RGS5	CD8_T_NK	0		FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.3	11	Epithelial	1	KRT19	CD8_T_NK	0		FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.3	12	Endothelial	4	PLVAP;PECAM1;VWF;EMCN	CD8_T_NK	0		FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.3	13	Dendritic	2	LAMP3;FSCN1	CD8_T_NK	0		FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.3	14	CD8_T_NK	1	CCL5	Dendritic	0		FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.3	15	Plasma	3	JCHAIN;MZB1;XBP1	CD8_T_NK	0		FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.3	16	Plasma	2	JCHAIN;MZB1	CD8_T_NK	0		FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.3	17	CD8_T_NK	0		Dendritic	0		TRUE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.3	2	CD8_T_NK	3	CCL5;NKG7;CD3D	T_cell	3	CD3E;CD3D;TRAC	TRUE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.3	3	Epithelial	4	KRT8;KRT18;EPCAM;KRT19	Inflammatory_myeloid	1	LYZ	FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.3	4	Granulocyte	2	CSF3R;S100A9	Inflammatory_myeloid	1	S100A9	FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.3	5	Plasma	3	JCHAIN;MZB1;XBP1	CD8_T_NK	0		FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.3	6	Macrophage	4	C1QB;C1QA;C1QC;APOE	Inflammatory_myeloid	1	FCGR3A	FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.3	7	Monocyte	2	LYZ;FCN1	Inflammatory_myeloid	1	LYZ	FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.3	8	Plasma	3	JCHAIN;MZB1;XBP1	CD8_T_NK	0		FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.3	9	Mast	4	CPA3;TPSB2;TPSAB1;KIT	CD8_T_NK	0		FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.4	0	Granulocyte	4	S100A9;S100A8;CSF3R;FCGR3B	Inflammatory_myeloid	2	S100A9;S100A8	FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.4	1	T_cell	1	TRAC	CD8_T_NK	0		FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.4	10	Stromal_perivascular	4	COL3A1;COL1A2;COL1A1;RGS5	CD8_T_NK	0		FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.4	11	Epithelial	1	KRT19	CD8_T_NK	0		FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.4	12	Endothelial	4	PLVAP;PECAM1;VWF;EMCN	CD8_T_NK	0		FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.4	13	Dendritic	2	LAMP3;FSCN1	T_cell	1	CCR7	FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.4	14	CD8_T_NK	1	CCL5	Dendritic	0		FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.4	15	Epithelial	4	EPCAM;KRT8;KRT18;KRT19	CD8_T_NK	0		FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.4	16	Plasma	3	JCHAIN;MZB1;XBP1	CD8_T_NK	0		FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.4	17	Plasma	2	JCHAIN;MZB1	CD8_T_NK	0		FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.4	18	CD8_T_NK	0		Dendritic	0		TRUE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.4	2	CD8_T_NK	3	CCL5;NKG7;CD3D	T_cell	3	CD3E;CD3D;TRAC	TRUE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.4	3	Granulocyte	2	CSF3R;S100A9	Inflammatory_myeloid	1	S100A9	FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.4	4	Plasma	3	JCHAIN;MZB1;XBP1	CD8_T_NK	0		FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.4	5	Epithelial	4	KRT8;KRT18;EPCAM;KRT19	Inflammatory_myeloid	1	LYZ	FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.4	6	Macrophage	4	C1QB;C1QA;C1QC;APOE	Inflammatory_myeloid	1	FCGR3A	FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.4	7	Monocyte	2	LYZ;FCN1	Inflammatory_myeloid	1	LYZ	FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.4	8	Plasma	3	JCHAIN;MZB1;XBP1	CD8_T_NK	0		FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.4	9	Mast	4	CPA3;TPSB2;TPSAB1;KIT	CD8_T_NK	0		FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.5	0	Granulocyte	4	S100A9;S100A8;CSF3R;FCGR3B	Inflammatory_myeloid	2	S100A9;S100A8	FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.5	1	T_cell	1	TRAC	CD8_T_NK	0		FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.5	10	Stromal_perivascular	4	COL3A1;COL1A2;COL1A1;RGS5	CD8_T_NK	0		FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.5	11	Epithelial	1	KRT19	CD8_T_NK	0		FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.5	12	Endothelial	4	PLVAP;PECAM1;VWF;EMCN	CD8_T_NK	0		FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.5	13	Dendritic	2	LAMP3;FSCN1	T_cell	1	CCR7	FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.5	14	CD8_T_NK	1	CCL5	Dendritic	0		FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.5	15	Epithelial	4	EPCAM;KRT8;KRT18;KRT19	CD8_T_NK	0		FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.5	16	CD8_T_NK	0		Dendritic	0		TRUE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.5	17	Plasma	3	JCHAIN;MZB1;XBP1	CD8_T_NK	0		FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.5	18	Plasma	2	JCHAIN;MZB1	CD8_T_NK	0		FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.5	2	CD8_T_NK	3	CCL5;NKG7;CD3D	T_cell	3	CD3E;CD3D;TRAC	TRUE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.5	3	Plasma	3	JCHAIN;MZB1;XBP1	CD8_T_NK	0		FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.5	4	Granulocyte	2	CSF3R;S100A9	Inflammatory_myeloid	1	S100A9	FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.5	5	Epithelial	4	KRT8;KRT18;EPCAM;KRT19	Inflammatory_myeloid	1	LYZ	FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.5	6	Macrophage	4	C1QB;C1QA;C1QC;APOE	Inflammatory_myeloid	1	FCGR3A	FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.5	7	Monocyte	2	LYZ;FCN1	Inflammatory_myeloid	1	LYZ	FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.5	8	Plasma	3	JCHAIN;MZB1;XBP1	CD8_T_NK	0		FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.5	9	Mast	4	CPA3;TPSB2;TPSAB1;KIT	CD8_T_NK	0		FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.6	0	Granulocyte	4	S100A9;S100A8;CSF3R;FCGR3B	Inflammatory_myeloid	2	S100A9;S100A8	FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.6	1	T_cell	1	TRAC	CD8_T_NK	0		FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.6	10	Epithelial	1	KRT19	CD8_T_NK	0		FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.6	11	Endothelial	4	PLVAP;PECAM1;VWF;EMCN	CD8_T_NK	0		FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.6	12	Dendritic	1	LAMP3	Granulocyte	1	CSF3R	FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.6	13	CD8_T_NK	0		Dendritic	0		TRUE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.6	14	Stromal_perivascular	5	RGS5;COL3A1;COL1A2;ACTA2;COL1A1	CD8_T_NK	0		FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.6	15	Stromal_perivascular	3	COL1A2;COL3A1;COL1A1	CD8_T_NK	0		FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.6	16	Plasma	1	JCHAIN	CD8_T_NK	0		FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.6	17	CD8_T_NK	3	CCL5;CD3D;NKG7	Granulocyte	3	FCGR3B;CSF3R;S100A9	TRUE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.6	18	Epithelial	4	EPCAM;KRT8;KRT18;KRT19	CD8_T_NK	0		FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.6	19	CD8_T_NK	3	CCL5;NKG7;CD8A	Epithelial	1	KRT19	FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.6	2	CD8_T_NK	3	CCL5;NKG7;CD3D	T_cell	3	CD3E;CD3D;TRAC	TRUE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.6	20	CD8_T_NK	0		Dendritic	0		TRUE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.6	3	Plasma	3	JCHAIN;MZB1;XBP1	CD8_T_NK	0		FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.6	4	Granulocyte	2	CSF3R;S100A9	Inflammatory_myeloid	1	S100A9	FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.6	5	Epithelial	4	KRT8;KRT18;EPCAM;KRT19	Inflammatory_myeloid	1	LYZ	FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.6	6	Macrophage	4	C1QB;C1QA;C1QC;APOE	Inflammatory_myeloid	1	FCGR3A	FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.6	7	Monocyte	2	LYZ;FCN1	Inflammatory_myeloid	1	LYZ	FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.6	8	Plasma	3	JCHAIN;MZB1;XBP1	CD8_T_NK	0		FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.6	9	Mast	4	TPSAB1;TPSB2;CPA3;KIT	CD8_T_NK	0		FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.8	0	T_cell	1	TRAC	CD8_T_NK	0		FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.8	1	Granulocyte	4	S100A9;CSF3R;S100A8;FCGR3B	Inflammatory_myeloid	2	S100A9;S100A8	FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.8	10	Mast	4	CPA3;TPSB2;TPSAB1;KIT	CD8_T_NK	0		FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.8	11	Epithelial	1	KRT19	CD8_T_NK	0		FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.8	12	CD8_T_NK	0		Dendritic	0		TRUE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.8	13	Endothelial	4	PLVAP;PECAM1;VWF;EMCN	CD8_T_NK	0		FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.8	14	Plasma	2	JCHAIN;MZB1	CD8_T_NK	0		FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.8	15	Dendritic	2	LAMP3;FSCN1	CD8_T_NK	0		FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.8	16	Epithelial	3	KRT18;KRT8;EPCAM	Inflammatory_myeloid	1	LYZ	FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.8	17	Stromal_perivascular	5	RGS5;COL3A1;COL1A2;ACTA2;COL1A1	CD8_T_NK	0		FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.8	18	Stromal_perivascular	3	COL1A2;COL3A1;COL1A1	CD8_T_NK	0		FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.8	19	CD8_T_NK	3	CCL5;CD3D;NKG7	Granulocyte	3	FCGR3B;CSF3R;S100A9	TRUE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.8	2	Granulocyte	4	S100A9;S100A8;CSF3R;FCGR3B	Inflammatory_myeloid	2	S100A9;S100A8	FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.8	20	CD8_T_NK	0		Dendritic	0		TRUE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.8	21	Epithelial	4	EPCAM;KRT8;KRT18;KRT19	CD8_T_NK	0		FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.8	22	Plasma	3	JCHAIN;MZB1;XBP1	CD8_T_NK	0		FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.8	23	CD8_T_NK	3	CCL5;NKG7;CD8A	Epithelial	1	KRT19	FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.8	24	CD8_T_NK	0		Dendritic	0		TRUE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.8	3	CD8_T_NK	3	CCL5;NKG7;CD3D	T_cell	3	CD3E;CD3D;TRAC	TRUE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.8	4	Granulocyte	2	CSF3R;S100A9	Inflammatory_myeloid	1	S100A9	FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.8	5	Macrophage	4	C1QB;C1QA;C1QC;APOE	Inflammatory_myeloid	1	FCGR3A	FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.8	6	Plasma	3	JCHAIN;MZB1;XBP1	CD8_T_NK	0		FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.8	7	Monocyte	2	LYZ;FCN1	Inflammatory_myeloid	1	LYZ	FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.8	8	Epithelial	4	KRT8;KRT18;KRT19;EPCAM	Inflammatory_myeloid	1	LYZ	FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+0.8	9	Plasma	3	JCHAIN;MZB1;XBP1	CD8_T_NK	0		FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+1.0	0	T_cell	1	TRAC	CD8_T_NK	0		FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+1.0	1	Granulocyte	4	S100A9;CSF3R;FCGR3B;S100A8	Inflammatory_myeloid	2	S100A9;S100A8	FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+1.0	10	Mast	4	TPSAB1;TPSB2;CPA3;KIT	CD8_T_NK	0		FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+1.0	11	Epithelial	1	KRT19	CD8_T_NK	0		FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+1.0	12	Endothelial	4	PLVAP;PECAM1;VWF;EMCN	CD8_T_NK	0		FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+1.0	13	CD8_T_NK	0		Dendritic	0		TRUE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+1.0	14	Dendritic	2	LAMP3;FSCN1	CD8_T_NK	0		FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+1.0	15	Plasma	2	JCHAIN;MZB1	CD8_T_NK	0		FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+1.0	16	Epithelial	4	KRT18;KRT8;EPCAM;KRT19	Inflammatory_myeloid	1	LYZ	FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+1.0	17	Stromal_perivascular	5	RGS5;COL3A1;COL1A2;ACTA2;COL1A1	CD8_T_NK	0		FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+1.0	18	Stromal_perivascular	3	COL1A2;COL3A1;COL1A1	CD8_T_NK	0		FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+1.0	19	Plasma	3	JCHAIN;MZB1;XBP1	CD8_T_NK	0		FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+1.0	2	CD8_T_NK	3	CCL5;NKG7;CD3D	T_cell	3	CD3E;CD3D;TRAC	TRUE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+1.0	20	CD8_T_NK	3	CCL5;CD3D;NKG7	Granulocyte	3	FCGR3B;CSF3R;S100A9	TRUE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+1.0	21	CD8_T_NK	0		Dendritic	0		TRUE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+1.0	22	Granulocyte	4	S100A9;S100A8;FCGR3B;CSF3R	Inflammatory_myeloid	3	S100A9;S100A8;FCGR3A	TRUE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+1.0	23	Epithelial	4	EPCAM;KRT8;KRT18;KRT19	CD8_T_NK	0		FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+1.0	24	Granulocyte	4	S100A9;S100A8;CSF3R;FCGR3B	Inflammatory_myeloid	2	S100A9;S100A8	FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+1.0	25	CD8_T_NK	0		Dendritic	0		TRUE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+1.0	26	Plasma	2	JCHAIN;MZB1	CD8_T_NK	0		FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+1.0	27	CD8_T_NK	3	CCL5;NKG7;CD8A	Epithelial	1	KRT19	FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+1.0	28	Plasma	2	JCHAIN;MZB1	CD8_T_NK	0		FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+1.0	3	Granulocyte	4	S100A9;S100A8;CSF3R;FCGR3B	Inflammatory_myeloid	2	S100A9;S100A8	FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+1.0	4	Granulocyte	3	CSF3R;S100A9;FCGR3B	Inflammatory_myeloid	1	S100A9	FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+1.0	5	Macrophage	4	C1QB;C1QA;C1QC;APOE	Inflammatory_myeloid	1	FCGR3A	FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+1.0	6	Monocyte	2	LYZ;FCN1	Inflammatory_myeloid	1	LYZ	FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+1.0	7	Epithelial	4	KRT8;KRT18;KRT19;EPCAM	Inflammatory_myeloid	1	LYZ	FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+1.0	8	Plasma	3	JCHAIN;MZB1;XBP1	CD8_T_NK	0		FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion
+1.0	9	Plasma	3	JCHAIN;MZB1;XBP1	CD8_T_NK	0		FALSE	review if no canonical overlap or second program has >=2 overlaps and >=75% of strongest overlap; review flag only, no cell deletion

@@ -1,0 +1,18 @@
+Warning messages:
+1: package 'Seurat' was built under R version 4.4.3 
+2: package 'SeuratObject' was built under R version 4.4.3 
+3: package 'sp' was built under R version 4.4.3 
+4: package 'Matrix' was built under R version 4.4.3 
+5: package 'data.table' was built under R version 4.4.3 
+6: package 'RANN' was built under R version 4.4.3 
+7: package 'Rcpp' was built under R version 4.4.3 
+8: package 'mclust' was built under R version 4.4.3 
+Warning message:
+package 'future' was built under R version 4.4.3 
+Warning: The default method for RunUMAP has changed from calling Python UMAP via reticulate to the R-native UWOT using the cosine metric
+To use Python UMAP via reticulate, set umap.method to 'umap-learn' and metric to 'correlation'
+This message will be shown once per session
+Error in `[.data.table`(filament_cells, , { : 
+  Column 8 of result for group 2 is type 'double' but expecting type 'integer'. Column types must be consistent for each group.
+Calls: [ -> [.data.table
+Execution halted

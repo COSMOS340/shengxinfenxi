@@ -1,0 +1,20 @@
+metric	value	pass
+input_path	I:/shengxinfenxi/bioinformatics-reproduction/projects/pan-gi-ici-ccc-20260709/04_objects/20260710_gse189926_r_only_rerun/gse189926_r_qc_pass_annotated.rds	TRUE
+input_size_bytes	3739942614	TRUE
+input_sha256	bf112efde4b1816348c8939ab2127f00ae1e959f4132adda17a74d8673052abb	TRUE
+cells	89587	TRUE
+features	51757	TRUE
+assays	RNA	TRUE
+RNA_layers	counts;data	TRUE
+reductions	pca.qc;umap.qc;harmony;umap.harmony	TRUE
+graphs_observed_before_sweep		TRUE
+metadata_fields	orig.ident;nCount_RNA;nFeature_RNA;sample_accession;sample_title;patient_id;timepoint;characteristics_ch1::outcome;characteristics_ch1::treatment;characteristics_ch1::mmr;characteristics_ch1::cell type;characteristics_ch1::tissue;timepoint_simple;binary_response_group;pct_mt;pct_ribo;pct_hb;qc_low_detected_genes;qc_high_detected_genes;qc_high_total_counts;qc_high_mitochondrial_percentage;qc_high_ribosomal_percentage;qc_high_hemoglobin_percentage;qc_pass;harmony_snn_res.0.3;seurat_clusters;cluster_harmony_r0_3;harmony_snn_res.0.5;cluster_harmony_r0_5;harmony_snn_res.0.8;cluster_harmony_r0_8;broad_label;refined_label;annotation_resolution;cluster_label_display	TRUE
+harmony_dimensions	30	TRUE
+harmony_grouping_source	sample_accession recorded by the accepted R-only build	TRUE
+baseline_umap_n_neighbors	15	TRUE
+baseline_umap_min_dist	0.3	TRUE
+baseline_umap_seed	340	TRUE
+baseline_umap_metric	cosine	TRUE
+baseline_neighbor_k	15	TRUE
+baseline_neighbor_dims	1:30	TRUE
+graph_action	harmony_snn was absent from the saved object and was rebuilt from harmony dimensions 1:30 with k.param=15	TRUE

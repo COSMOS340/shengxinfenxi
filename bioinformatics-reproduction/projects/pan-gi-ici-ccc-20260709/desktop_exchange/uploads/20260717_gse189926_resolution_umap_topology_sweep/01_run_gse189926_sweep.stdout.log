@@ -1,0 +1,13 @@
+[2026-07-17 18:10:39] Reading verified GSE189926 object
+[2026-07-17 18:10:44] Rebuilding Harmony graph from exact requested parameters
+[2026-07-17 18:11:05] Running fixed-graph resolution sweep
+[2026-07-17 18:14:58] Calculating full-cell RNA markers for all resolutions
+[2026-07-17 18:14:58] Marker analysis resolution 0.2
+[2026-07-17 18:15:15] Marker analysis resolution 0.3
+[2026-07-17 18:15:31] Marker analysis resolution 0.4
+[2026-07-17 18:15:48] Marker analysis resolution 0.5
+[2026-07-17 18:16:05] Marker analysis resolution 0.6
+[2026-07-17 18:16:22] Marker analysis resolution 0.8
+[2026-07-17 18:16:39] Marker analysis resolution 1.0
+[2026-07-17 18:17:01] Calculating six new fixed-Harmony UMAP routes
+[2026-07-17 18:33:09] Auditing baseline filament-like cells at the all-cell level

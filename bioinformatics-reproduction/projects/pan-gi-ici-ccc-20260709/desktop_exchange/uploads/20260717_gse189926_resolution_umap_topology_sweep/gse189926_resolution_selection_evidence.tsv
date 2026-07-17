@@ -1,0 +1,8 @@
+resolution	clusters	clusters_below_50	clusters_below_100	clusters_below_200	smallest_cluster_cells	median_cluster_cells	median_max_sample_fraction	maximum_sample_fraction	median_max_patient_fraction	maximum_patient_fraction	broad_marker_conflict_clusters	mean_adjacent_ari	rank_marker_support	rank_small_clusters	rank_stability	rank_sample_representation	rank_patient_representation	evidence_rank_sum	evidence_rank	recommendation
+0.5	19	0	1	3	81	3187	0.187016081000596	1	0.242406194163192	1	2	0.949424256890877	2	1	2	4	3	12	1	recommended for Mac review; formal object unchanged
+0.4	19	0	2	3	56	3187	0.182629387269482	1	0.238548483045806	1	2	0.962427801052135	2	5	1	3	2	13	2	retain as evaluated alternative
+0.3	18	0	2	3	56	3803.5	0.181504487294083	1	0.237471986254589	1	2	0.830599544458258	2	5	6	2	1	16	3	retain as evaluated alternative
+0.6	21	0	1	2	56	2454	0.181220657276995	1	0.245070422535211	1	4	0.852738383995025	5	1	4	1	5	16	4	retain as evaluated alternative
+0.2	15	0	2	3	56	2943	0.22958091159376	1	0.242766726943942	1	1	0.69815288097683	1	5	7	5	4	22	5	retain as evaluated alternative
+1	29	0	1	2	81	2040	0.242766726943942	1	0.299279633267846	1	6	0.898668241589938	7	1	3	6	7	24	6	retain as evaluated alternative
+0.8	25	0	1	3	56	2243	0.243022464261402	1	0.246630054917624	1	5	0.833552944981408	6	1	5	7	6	25	7	retain as evaluated alternative
