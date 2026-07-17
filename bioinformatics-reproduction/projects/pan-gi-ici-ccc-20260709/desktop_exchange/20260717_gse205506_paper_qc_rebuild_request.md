@@ -89,9 +89,11 @@ After the first-round broad assignment, apply the source-paper strategy at the c
 - remove cells with `percent.mt > 75`;
 - retain cells with `percent.mt <= 75`.
 
-### T/I/NK, B, Myeloid, Fibroblast, and Endothelial
+### Lymphoid, Myeloid, Fibroblast, and Endothelial
 
-For each broad compartment separately, implement the paper's median-centered, MAD-variance normal model as the following reproducible operationalization:
+For the formal route, build four model groups: lymphoid is the combined T/I/NK plus B cells, followed by separate Myeloid, Fibroblast, and Endothelial groups. The article reports one combined lymphoid removal fraction for T and B cells; do not fit separate T and B primary models. A separate T-versus-B fit may be exported only as a clearly labeled sensitivity analysis.
+
+For each of the four formal model groups, implement the paper's median-centered, MAD-variance normal model as the following reproducible operationalization:
 
 ```r
 center <- median(percent.mt, na.rm = TRUE)

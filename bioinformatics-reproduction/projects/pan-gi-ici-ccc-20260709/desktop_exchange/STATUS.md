@@ -4,14 +4,17 @@ Updated: 2026-07-17
 
 This folder contains the PC-side requests and lightweight upload outputs for the pan-GI immune checkpoint therapy cell communication project.
 
-## Current Request
+## Current Requests
 
-- Request: `20260717_gse205506_paper_qc_rebuild_request.md`
-- Manifest: `20260717_gse205506_paper_qc_rebuild_manifest.tsv`
+- Priority 1 quick sweep: `20260717_gse189926_resolution_umap_topology_sweep_request.md`
+- Priority 1 manifest: `20260717_gse189926_resolution_umap_topology_sweep_manifest.tsv`
+- Priority 2 long rebuild: `20260717_gse205506_paper_qc_rebuild_request.md`
+- Priority 2 manifest: `20260717_gse205506_paper_qc_rebuild_manifest.tsv`
 - Mac review: `20260717_gse205506_pc_run_review.md`
-- PC status: `REQUESTED_GSE205506_PAPER_QC_REBUILD`
-- Required upload: `uploads/20260717_gse205506_paper_qc_rebuild`
-- Current message: Rebuild GSE205506 from the 40 author matrices using the Cancer Cell source-paper QC. The formal object must retain cells with 500-5000 genes and 400-25000 UMIs, use RPCA with 2000 variable genes, 20 PCs and first-round resolution 1.2, assign six broad compartments, and then apply compartment-aware mitochondrial filtering. Do not delete the nine high-mitochondrial clusters as whole units. scDblFinder is sensitivity-only because the source paper did not report an explicit computational doublet caller. Redraw all UMAPs with the approved bright palette copied from the first R/Seurat dataset.
+- PC status: `REQUESTED_GSE189926_SWEEP_THEN_GSE205506_REBUILD`
+- Required upload 1: `uploads/20260717_gse189926_resolution_umap_topology_sweep`
+- Required upload 2: `uploads/20260717_gse205506_paper_qc_rebuild`
+- Current message: First run the lightweight GSE189926 fixed-coordinate resolution sweep and fixed-Harmony UMAP parameter sweep. The existing 0.3, 0.5 and 0.8 resolutions share one UMAP, so resolution and UMAP topology must be evaluated separately. Upload all seven resolution panels, seven UMAP routes, local-linearity metrics, sample and patient mixing, QC overlays, and long-arm cell audits. Then run the longer GSE205506 source-paper QC rebuild. For GSE205506, do not delete the nine high-mitochondrial clusters as whole units; scDblFinder remains sensitivity-only; redraw UMAPs with the approved bright palette.
 
 ## Most Recent Completed Request
 

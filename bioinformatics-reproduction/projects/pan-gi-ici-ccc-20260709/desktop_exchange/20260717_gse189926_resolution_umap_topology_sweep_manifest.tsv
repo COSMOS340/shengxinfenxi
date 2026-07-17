@@ -1,0 +1,2 @@
+priority	dataset	request_status	input_object	resolution_values	umap_routes	required_upload
+1	GSE189926	REQUESTED_GSE189926_RESOLUTION_UMAP_SWEEP	gse189926_r_qc_pass_annotated.rds	0.2;0.3;0.4;0.5;0.6;0.8;1.0	7 fixed-Harmony parameter routes	uploads/20260717_gse189926_resolution_umap_topology_sweep
