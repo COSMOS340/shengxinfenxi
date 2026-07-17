@@ -1,0 +1,155 @@
+Warning messages:
+1: package 'data.table' was built under R version 4.4.3 
+2: package 'Seurat' was built under R version 4.4.3 
+3: package 'SeuratObject' was built under R version 4.4.3 
+4: package 'sp' was built under R version 4.4.3 
+5: package 'harmony' was built under R version 4.4.3 
+6: package 'Rcpp' was built under R version 4.4.3 
+7: package 'RANN' was built under R version 4.4.3 
+Joining 40 verified RNA count layers
+Normalizing layer: counts
+Performing log-normalization
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Finding variable features for layer counts
+Calculating gene variances
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Calculating feature variances of standardized and clipped values
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Centering and scaling data matrix
+  |                                                                              |                                                                      |   0%  |                                                                              |=======================                                               |  33%  |                                                                              |===============================================                       |  67%  |                                                                              |======================================================================| 100%
+PC_ 1 
+Positive:  CA1, PCK1, SLC26A3, SLC26A2, FABP1, PIGR, TRBC2, LTB, CEACAM7, MS4A1 
+	   MS4A12, CD79A, CCL5, CD69, JCHAIN, TRAC, IGHM, HMGCS2, TRBC1, CD7 
+	   KRT20, IGKC, SLC17A4, PLAC8, GZMA, MZB1, AQP8, VPREB3, CD247, IGHA1 
+Negative:  IGFBP7, SPARCL1, CAVIN1, SPARC, A2M, CAV1, IGFBP4, CRIP2, GNG11, VWF 
+	   CD59, NNMT, ENG, HSPG2, PECAM1, MGP, RAMP2, CALD1, PLVAP, ADGRL4 
+	   TM4SF1, EPAS1, CD93, ARHGAP29, VIM, HTRA1, COL4A1, ECSCR, EGFL7, CLEC14A 
+PC_ 2 
+Positive:  AGR2, KRT18, KRT8, MGST1, ATP1B1, TSPAN8, S100A14, AGR3, GPX2, LCN2 
+	   CLDN3, SLC12A2, KRT19, LGALS4, LGALS3, PERP, KRTCAP3, CD24, CDX1, CLDN4 
+	   MAL2, RAB25, FAM3D, CEACAM5, HSPD1, TMEM54, TMEM141, SLC25A5, PHGR1, S100A6 
+Negative:  VIM, SPARCL1, IGFBP7, TCF4, A2M, PECAM1, CAV1, SPARC, GNG11, VWF 
+	   MGP, CALD1, TIMP3, ENG, CD93, CRIP2, ACKR1, CAVIN1, SRGN, EGFL7 
+	   PLVAP, CD34, RAMP2, ADGRL4, NNMT, CLU, CDH5, LDB2, CLEC14A, KLF2 
+PC_ 3 
+Positive:  GPNMB, TYROBP, FCER1G, S100A4, AIF1, CD14, C1QA, APOE, C1QB, MS4A6A 
+	   C1QC, CD68, FCGR3A, FCGR2A, SERPINF1, LGALS1, LYZ, PLTP, CYBB, ZEB2 
+	   CFD, EMP3, FTL, CD163, CSF1R, COL1A2, LILRB4, FCGR1A, MNDA, CTSB 
+Negative:  VWF, PLVAP, ID1, EGFL7, ADGRL4, ACKR1, CLEC14A, EMCN, CDH5, SOX18 
+	   PTPRB, ECSCR, PALMD, MMRN2, RAMP2, RAMP3, TSPAN7, CALCRL, TM4SF1, AQP1 
+	   MALL, PECAM1, CYYR1, JAM2, CXorf36, CLDN5, CAVIN2, MYCT1, SLCO2A1, HSPG2 
+PC_ 4 
+Positive:  COL1A2, DCN, COL1A1, FBLN1, C1S, COL14A1, C1R, LUM, COL3A1, CCDC80 
+	   COL6A3, PCOLCE, MFAP4, COL6A2, COL6A1, SOD3, AEBP1, RARRES2, ISLR, PDGFRB 
+	   MEG3, SLIT3, SFRP2, MFGE8, IGFBP6, IGFBP5, MXRA8, MMP2, BGN, TPM2 
+Negative:  CD74, HLA-DRA, HLA-DPA1, HLA-DRB1, HLA-DPB1, SRGN, HLA-DQB1, HLA-DQA1, HLA-DMA, FCER1G 
+	   TYROBP, AIF1, LAPTM5, CD14, HLA-DQA2, MS4A6A, C1QA, CYBB, FCGR3A, C1QB 
+	   C1QC, LYZ, HLA-DMB, ITGB2, FCGR2A, SPI1, RNASE1, S100A9, PECAM1, CLEC7A 
+PC_ 5 
+Positive:  KRT20, CEACAM7, FABP1, TSPAN1, CEACAM1, SLC26A3, CA2, FXYD3, SELENOP, SDCBP2 
+	   GUCA2A, MS4A12, CEACAM5, PLAC8, LYPD8, TMEM176B, CA4, CLCA4, PHGR1, C15orf48 
+	   MALL, MEP1A, CD14, MXD1, DHRS9, CD68, PKIB, PIGR, TRIM31, PLS1 
+Negative:  TOP2A, STMN1, MKI67, UBE2C, ASPM, HMGB2, CENPF, PTTG1, NUSAP1, PCLAF 
+	   RRM2, TPX2, CDK1, AURKB, MAD2L1, CDC20, BIRC5, CDKN3, TYMS, LDHB 
+	   CCNB1, GTSE1, NCAPG, PBK, CCNA2, CCNB2, ZWINT, CDCA3, UBE2T, CKS2 
+PCA checkpoint saved: F:/pan-gi-ici-ccc-20260709/GSE205506/r_analysis/gse205506_seurat_normalized_pca.rds
+Transposing data matrix
+Initializing state using k-means centroids initialization
+Harmony 1/10
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Harmony 2/10
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Harmony 3/10
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Harmony 4/10
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Harmony 5/10
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Harmony converged after 5 iterations
+Warning messages:
+1: Warning: The parameter max.iter.harmony is replaced with parameter max_iter. It will be ignored for this function call and please use parameter max_iter in future function calls.
+This warning is displayed once per session. 
+2: Quick-TRANSfer stage steps exceeded maximum (= 11946700) 
+3: Quick-TRANSfer stage steps exceeded maximum (= 11946700) 
+4: Quick-TRANSfer stage steps exceeded maximum (= 11946700) 
+Harmony checkpoint saved: F:/pan-gi-ici-ccc-20260709/GSE205506/r_analysis/gse205506_seurat_harmony.rds
+Warning: The following arguments are not used: n.threads
+Warning: The default method for RunUMAP has changed from calling Python UMAP via reticulate to the R-native UWOT using the cosine metric
+To use Python UMAP via reticulate, set umap.method to 'umap-learn' and metric to 'correlation'
+This message will be shown once per session
+12:48:28 UMAP embedding parameters a = 0.9922 b = 1.112
+12:48:28 Read 238934 rows and found 30 numeric columns
+12:48:28 Using Annoy for neighbor search, n_neighbors = 30
+12:48:28 Building Annoy index with metric = cosine, n_trees = 50
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+12:49:10 Writing NN index file to temp file I:\codex-config\tmp\RtmpYj14Vx\file48c43a0064f6
+12:49:10 Searching Annoy index using 1 thread, search_k = 3000
+12:51:10 Annoy recall = 95.06%
+12:51:11 Commencing smooth kNN distance calibration using 1 thread with target n_neighbors = 30
+12:51:19 140 smooth knn distance failures
+12:51:24 Initializing from normalized Laplacian + noise (using RSpectra)
+12:51:57 Commencing optimization for 200 epochs, with 11538554 positive edges
+12:51:57 Using rng type: pcg
+Using method 'umap'
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+12:56:46 Optimization finished
+Computing nearest neighbor graph
+Computing SNN
+Warning message:
+package 'future' was built under R version 4.4.3 
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+13 singletons identified. 16 final clusters.
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+13 singletons identified. 22 final clusters.
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+13 singletons identified. 28 final clusters.
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+13 singletons identified. 35 final clusters.
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+13 singletons identified. 40 final clusters.
+Integrated clustered Seurat object completed: F:/pan-gi-ici-ccc-20260709/GSE205506/r_analysis/gse205506_seurat_integrated_clusters.rds

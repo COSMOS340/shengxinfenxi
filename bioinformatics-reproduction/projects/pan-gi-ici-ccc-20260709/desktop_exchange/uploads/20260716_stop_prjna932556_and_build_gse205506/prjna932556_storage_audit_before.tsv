@@ -1,0 +1,4 @@
+"timestamp"	"metric"	"target"	"value_bytes"
+"2026-07-16T20:42:39.1429931+08:00"	"volume_free_bytes_before"	"I:\"	"93232558080"
+"2026-07-16T20:42:39.2371190+08:00"	"volume_free_bytes_before"	"F:\"	"273154322432"
+"2026-07-16T20:42:39.2451249+08:00"	"qcow2_host_length_before"	"F:\cellranger72_resume_after_archive\vm\cellranger72-data.qcow2"	"116969242624"

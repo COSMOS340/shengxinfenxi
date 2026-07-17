@@ -1,0 +1,2 @@
+object_path	object_size_bytes	cells	clusters	detailed_annotations	broad_annotations	mitochondrial_marker_enriched_cells	mitochondrial_marker_enriched_fraction
+F:/pan-gi-ici-ccc-20260709/GSE205506/r_analysis/gse205506_seurat_final_reviewed.rds	13973709204	238934	28	26	10	53708	0.224781738890237

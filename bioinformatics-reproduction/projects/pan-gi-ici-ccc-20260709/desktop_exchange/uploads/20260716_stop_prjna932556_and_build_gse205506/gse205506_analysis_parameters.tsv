@@ -1,0 +1,13 @@
+parameter	value
+seed	20260717
+normalization_method	LogNormalize
+normalization_scale_factor	10000
+variable_features	3000
+pca_components	50
+harmony_group	geo_accession
+harmony_dimensions	1:30
+umap_neighbors	30
+umap_min_dist	0.3
+neighbor_k	20
+cluster_resolutions	0.2,0.4,0.6,0.8,1
+working_resolution	0.6

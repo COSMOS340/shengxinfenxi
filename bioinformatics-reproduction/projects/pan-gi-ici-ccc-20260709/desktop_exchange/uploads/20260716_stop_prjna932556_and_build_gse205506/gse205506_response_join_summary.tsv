@@ -1,0 +1,12 @@
+metric	value	pass
+table_s1_patients	19	TRUE
+table_s1_pCR	15	TRUE
+table_s1_non_pCR	4	TRUE
+geo_samples	40	TRUE
+geo_subjects	19	TRUE
+geo_samples_matched	40	TRUE
+geo_samples_unmatched	0	TRUE
+mapping_subjects_unmatched_to_geo	0	TRUE
+mapping_subject_duplicates	0	TRUE
+many_to_many_connections	0	TRUE
+response_field_blanks	0	TRUE

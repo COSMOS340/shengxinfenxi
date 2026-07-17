@@ -1,0 +1,6 @@
+resolution	cluster_column	clusters	smallest_cluster_cells	median_cluster_cells	largest_cluster_cells
+0.2	cluster_res_0.2	16	147	10291	44020
+0.4	cluster_res_0.4	22	148	7717	29342
+0.6	cluster_res_0.6	28	148	5590.5	25366
+0.8	cluster_res_0.8	35	145	4937	21967
+1	cluster_res_1.0	40	147	4812.5	17506

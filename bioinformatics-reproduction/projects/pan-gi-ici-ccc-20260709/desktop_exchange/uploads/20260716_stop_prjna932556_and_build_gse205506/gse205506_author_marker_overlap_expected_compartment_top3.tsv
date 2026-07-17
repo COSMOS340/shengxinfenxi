@@ -1,0 +1,37 @@
+cluster	compartment_sheet	author_cluster	our_non_nuisance_top50_genes	author_non_nuisance_top50_genes	overlap_count	overlap_genes	jaccard	detailed_annotation	broad_annotation	expected_author_sheet	expected_sheet_match	overlap_rank_all	overlap_rank_expected_sheet
+1	B cell markers	Bn	18	43	10	CD74;HLA-DRA;CD37;HLA-DPA1;HLA-DPB1;HLA-DQB1;CD79A;HLA-DRB1;CD52;CD79B	0.196078431372549	B_cell	B cell	B cell markers	TRUE	1	1
+1	B cell markers	Bmem	18	21	2	BANK1;LTB	0.0540540540540541	B_cell	B cell	B cell markers	TRUE	2	2
+1	B cell markers	pB IgA	18	50	2	IGKC;IGHM	0.0303030303030303	B_cell	B cell	B cell markers	TRUE	3	3
+3	T_I_NK cell markers	CD8+MAIT	49	50	14	EVL;CD2;CCL5;CD3D;TRAC;CD3G;CD52;RORA;CD3E;CD96;KLRB1;RUNX3;JUN;GPR171	0.164705882352941	CD4_T_cell	T/NK	T_I_NK cell markers	TRUE	1	1
+3	T_I_NK cell markers	CD4+Texh	49	50	10	BTG1;IL32;TRBC1;RORA;IGKC;TSC22D3;CXCR4;SRGN;KLRB1;SPOCK2	0.112359550561798	CD4_T_cell	T/NK	T_I_NK cell markers	TRUE	2	2
+3	T_I_NK cell markers	CD4+Th1-like	49	50	10	IL7R;CD2;CD3D;TRAC;TRBC1;CD3G;RORA;SRGN;KLRB1;SPOCK2	0.112359550561798	CD4_T_cell	T/NK	T_I_NK cell markers	TRUE	3	3
+4	T_I_NK cell markers	CD8+MAIT	35	50	11	CCL5;CD3D;SH3BGRL3;TRAC;ACTB;EVL;CD52;CD2;CD3E;CD3G;CD8A	0.148648648648649	Cytotoxic_T_NK	T/NK	T_I_NK cell markers	TRUE	1	1
+4	T_I_NK cell markers	CD8+Tem	35	49	7	CCL5;NKG7;GZMA;HCST;CST7;CCL4;CD8A	0.0909090909090909	Cytotoxic_T_NK	T/NK	T_I_NK cell markers	TRUE	2	2
+4	T_I_NK cell markers	CD4+Th1-like	35	50	7	CD3D;TRAC;ACTB;SRGN;S100A4;CD2;CD3G	0.0897435897435897	Cytotoxic_T_NK	T/NK	T_I_NK cell markers	TRUE	3	3
+7	Endothelial cell markers	MADCAM1+HEV	50	50	4	ITM2B;ACKR1;TGFBR2;CLDN5	0.0416666666666667	Endothelial	Endothelial	Endothelial cell markers	TRUE	1	1
+7	Endothelial cell markers	PLVAP+EC	50	50	3	HSPG2;PLVAP;SPARC	0.0309278350515464	Endothelial	Endothelial	Endothelial cell markers	TRUE	2	2
+7	Endothelial cell markers	CXCL12+EC	50	50	2	CAV1;MGP	0.0204081632653061	Endothelial	Endothelial	Endothelial cell markers	TRUE	3	3
+9	Myeloid cell markers	FOLR2+Mac	50	50	10	HLA-DRA;CD74;HLA-DQB1;CD14;HLA-DQA1;MS4A6A;C1QA;C1QB;MS4A7;MAFB	0.111111111111111	Myeloid	Myeloid	Myeloid cell markers	TRUE	1	1
+9	Myeloid cell markers	SPP1+Mac	50	50	6	FTL;CTSB;CD68;C1QA;ITGB2;C1QB	0.0638297872340426	Myeloid	Myeloid	Myeloid cell markers	TRUE	2	2
+9	Myeloid cell markers	CD1C+cDC	50	40	5	HLA-DPA1;CST3;HLA-DRB1;HLA-DPB1;HLA-DQB1	0.0588235294117647	Myeloid	Myeloid	Myeloid cell markers	TRUE	3	3
+10	T_I_NK cell markers	CD4+Texh	25	50	6	IL32;SRGN;S100A4;BTG1;EIF1;LTB	0.0869565217391304	T_cell	T/NK	T_I_NK cell markers	TRUE	1	1
+10	T_I_NK cell markers	CD4+Th1-like	25	50	6	TRAC;CD3D;SRGN;S100A4;CD2;ACTB	0.0869565217391304	T_cell	T/NK	T_I_NK cell markers	TRUE	2	2
+10	T_I_NK cell markers	CD8+MAIT	25	50	5	TRAC;CD3D;CD2;ACTB;CD3E	0.0714285714285714	T_cell	T/NK	T_I_NK cell markers	TRUE	3	3
+11	B cell markers	pB IgG	50	50	30	SSR4;IGKC;MZB1;XBP1;HERPUD1;DERL3;IGLC2;HSP90B1;IGHG1;FKBP11;BTG2;SEC11C;TENT5C;IGHG4;IGLC3;SSR3;PRDX4;PIM2;SPCS2;SPCS3;PDK1;SELENOK;FKBP2;SEC61B;SELENOS;PRDM1;LMAN1;TP53INP1;SEL1L;IGHG2	0.428571428571429	Plasma_cell	Plasma	B cell markers	TRUE	1	1
+11	B cell markers	pB IgA	50	50	27	JCHAIN;SSR4;IGKC;MZB1;IGHA1;XBP1;HERPUD1;DERL3;IGHA2;IGLC2;HSP90B1;TNFRSF17;FKBP11;BTG2;SEC11C;TENT5C;SPCS1;IGLC3;SSR3;PDK1;SELENOK;FKBP2;SEC61B;SELENOS;PRDM1;MANF;HIST1H2BG	0.36986301369863	Plasma_cell	Plasma	B cell markers	TRUE	2	2
+11	B cell markers	pB prolif	50	50	17	IGKC;MZB1;XBP1;DERL3;HSP90B1;FKBP11;SEC11C;IGHG4;SSR3;PRDX4;SPCS2;SPCS3;SEC61B;SELENOS;SUB1;LMAN1;MANF	0.204819277108434	Plasma_cell	Plasma	B cell markers	TRUE	3	3
+16	Fibroblast markers	CXCL12+Fibro	50	50	10	DCN;FBLN1;TIMP2;CCDC80;FSTL1;GSN;LTBP4;MGP;CST3;FBN1	0.111111111111111	Fibroblast	Fibroblast/SMC	Fibroblast markers	TRUE	1	1
+16	Fibroblast markers	CCL2+Fibro	50	50	9	COL1A2;COL1A1;COL3A1;COL6A1;COL6A3;TIMP1;VCAN;COL5A2;COL12A1	0.0989010989010989	Fibroblast	Fibroblast/SMC	Fibroblast markers	TRUE	2	2
+16	Fibroblast markers	Myofibroblast	50	50	1	IGFBP7	0.0101010101010101	Fibroblast	Fibroblast/SMC	Fibroblast markers	TRUE	3	3
+17	Fibroblast markers	Myofibroblast	50	50	26	ACTA2;MYL9;TAGLN;TPM2;C11orf96;IGFBP7;MCAM;MYH11;DSTN;CARMN;FLNA;CAV1;SPARCL1;ADIRF;NOTCH3;MYLK;TSC22D1;NR2F2;CSRP2;PLN;CAV2;PPP1R14A;CSRP1;TINAGL1;CRIP2;FRZB	0.351351351351351	Pericyte_smooth_muscle	Fibroblast/SMC	Fibroblast markers	TRUE	1	1
+17	Fibroblast markers	CXCL12+Fibro	50	50	1	MGP	0.0101010101010101	Pericyte_smooth_muscle	Fibroblast/SMC	Fibroblast markers	TRUE	2	2
+17	Fibroblast markers	CCL2+Fibro	50	50	0		0	Pericyte_smooth_muscle	Fibroblast/SMC	Fibroblast markers	TRUE	3	3
+22	Endothelial cell markers	LYVE1+LEC	50	50	18	TFPI;CCL21;MMRN1;AKAP12;CAVIN2;CLDN5;TIMP3;PPFIBP1;LYVE1;TFF3;PROX1;EFEMP1;TBX1;NR2F1;PTPRE;FABP4;CD9;TNXB	0.219512195121951	Lymphatic_endothelial	Endothelial	Endothelial cell markers	TRUE	1	1
+22	Endothelial cell markers	MADCAM1+HEV	50	50	5	CLDN5;CLU;ITM2B;NR2F2;ADIRF	0.0526315789473684	Lymphatic_endothelial	Endothelial	Endothelial cell markers	TRUE	2	2
+22	Endothelial cell markers	SYNE2+EC	50	40	2	TSHZ2;WSB1	0.0227272727272727	Lymphatic_endothelial	Endothelial	Endothelial cell markers	TRUE	3	3
+24	Fibroblast markers	CXCL12+Fibro	40	50	9	MGP;DCN;CCDC80;PLAC9;CFD;ADH1B;GPX3;IGFBP6;MFAP5	0.111111111111111	Fibroblast_mito_enriched	Fibroblast/SMC	Fibroblast markers	TRUE	1	1
+24	Fibroblast markers	CCL2+Fibro	40	50	8	COL1A1;COL1A2;COL3A1;COL6A3;COL6A1;COL5A1;COL5A2;PTGDS	0.0975609756097561	Fibroblast_mito_enriched	Fibroblast/SMC	Fibroblast markers	TRUE	2	2
+24	Fibroblast markers	Myofibroblast	40	50	8	CARMN;TPM2;TAGLN;MYL9;C11orf96;ACTA2;IGFBP7;MYH11	0.0975609756097561	Fibroblast_mito_enriched	Fibroblast/SMC	Fibroblast markers	TRUE	3	3
+25	Myeloid cell markers	FOLR2+Mac	50	50	16	HLA-DRA;CD74;HLA-DQA1;C1QA;C1QB;APOE;HLA-DQB1;C1QC;CD14;MS4A6A;HLA-DQA2;HLA-DMA;ITM2B;FCGR3A;APOC1;MAFB	0.19047619047619	Myeloid_IG_enriched	Myeloid	Myeloid cell markers	TRUE	1	1
+25	Myeloid cell markers	SPP1+Mac	50	50	8	FTL;C1QA;C1QB;APOE;C1QC;CTSB;SPP1;APOC1	0.0869565217391304	Myeloid_IG_enriched	Myeloid	Myeloid cell markers	TRUE	2	2
+25	Myeloid cell markers	CD1C+cDC	50	40	5	HLA-DPA1;HLA-DRB1;HLA-DPB1;CST3;HLA-DQB1	0.0588235294117647	Myeloid_IG_enriched	Myeloid	Myeloid cell markers	TRUE	3	3

@@ -1,0 +1,2 @@
+object_path	object_size_bytes	features	cells	samples	subjects	pCR_cells	non_pCR_cells	pre_treatment_cells	post_treatment_cells
+F:/pan-gi-ici-ccc-20260709/GSE205506/r_analysis/gse205506_seurat_qc_singlets.rds	3957788041	33538	238934	40	19	192323	46611	61442	177492

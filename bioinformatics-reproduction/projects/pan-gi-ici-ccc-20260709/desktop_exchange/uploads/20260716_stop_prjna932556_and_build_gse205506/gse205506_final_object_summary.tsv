@@ -1,0 +1,2 @@
+object_path	object_size_bytes	features	cells	working_clusters	broad_cell_types	marker_rows_passing_filter	top10_rows	top50_rows
+F:/pan-gi-ici-ccc-20260709/GSE205506/r_analysis/gse205506_seurat_final_annotated.rds	13960868155	33538	238934	28	7	69815	280	1400

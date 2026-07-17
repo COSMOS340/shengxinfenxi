@@ -1,0 +1,5 @@
+"timestamp"	"metric"	"target"	"value_bytes"	"change_from_before_bytes"
+"2026-07-16T20:57:38.5826542+08:00"	"volume_free_bytes_after"	"I:\"	"127910502400"	"34677944320"
+"2026-07-16T20:57:38.6681195+08:00"	"volume_free_bytes_after"	"F:\"	"273136865280"	"-17457152"
+"2026-07-16T20:57:38.6801303+08:00"	"qcow2_host_length_after"	"F:\cellranger72_resume_after_archive\vm\cellranger72-data.qcow2"	"116974157824"	"4915200"
+"2026-07-16T20:57:38.6821333+08:00"	"qcow2_actual_allocated_bytes_after"	"F:\cellranger72_resume_after_archive\vm\cellranger72-data.qcow2"	"116974157824"	"NA"

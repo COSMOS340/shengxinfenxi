@@ -1,0 +1,961 @@
+geo_subject	geo_accession	geo_genotype	geo_treatment	derived_timepoint_from_exact_geo_treatment	table_s1_response	working_cluster	cell_type_detailed_reviewed	cell_type_broad_reviewed	cluster_quality_reviewed	cells
+P11	GSM6213956	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	0	Epithelial	Epithelial	retained_after_qc	163
+P11	GSM6213956	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	1	B_cell	B cell	retained_after_qc	228
+P11	GSM6213956	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	2	Epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	86
+P11	GSM6213956	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	3	CD4_T_cell	T/NK	retained_after_qc	72
+P11	GSM6213956	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	4	Cytotoxic_T_NK	T/NK	retained_after_qc	63
+P11	GSM6213956	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	5	Cycling_epithelial	Epithelial	retained_after_qc	62
+P11	GSM6213956	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	6	Epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	133
+P11	GSM6213956	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	7	Endothelial	Endothelial	retained_after_qc	90
+P11	GSM6213956	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	8	Colonocyte	Epithelial	retained_after_qc	133
+P11	GSM6213956	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	9	Myeloid	Myeloid	retained_after_qc	62
+P11	GSM6213956	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	10	T_cell	T/NK	retained_after_qc	68
+P11	GSM6213956	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	11	Plasma_cell	Plasma	retained_after_qc	135
+P11	GSM6213956	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	12	Erythroid_mito_enriched	Erythroid	mitochondrial_marker_enriched	8
+P11	GSM6213956	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	13	BEST4_OTOP2_epithelial	Epithelial	retained_after_qc	10
+P11	GSM6213956	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	14	Goblet	Epithelial	retained_after_qc	7
+P11	GSM6213956	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	15	Colonocyte_mito_enriched	Epithelial	mitochondrial_marker_enriched	45
+P11	GSM6213956	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	16	Fibroblast	Fibroblast/SMC	retained_after_qc	2
+P11	GSM6213956	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	17	Pericyte_smooth_muscle	Fibroblast/SMC	retained_after_qc	6
+P11	GSM6213956	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	18	Cycling_immune	Immune unresolved	retained_after_qc	27
+P11	GSM6213956	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	19	Cycling_epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	8
+P11	GSM6213956	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	20	Tuft_epithelial	Epithelial	retained_after_qc	2
+P11	GSM6213956	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	21	Immune_mito_enriched	Immune unresolved	mitochondrial_marker_enriched	76
+P11	GSM6213956	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	22	Lymphatic_endothelial	Endothelial	retained_after_qc	1
+P11	GSM6213956	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	24	Fibroblast_mito_enriched	Fibroblast/SMC	mitochondrial_marker_enriched	1
+P11	GSM6213957	normal	Anti-PD-1+celecoxib	post-treatment	pCR	0	Epithelial	Epithelial	retained_after_qc	355
+P11	GSM6213957	normal	Anti-PD-1+celecoxib	post-treatment	pCR	1	B_cell	B cell	retained_after_qc	145
+P11	GSM6213957	normal	Anti-PD-1+celecoxib	post-treatment	pCR	2	Epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	916
+P11	GSM6213957	normal	Anti-PD-1+celecoxib	post-treatment	pCR	3	CD4_T_cell	T/NK	retained_after_qc	72
+P11	GSM6213957	normal	Anti-PD-1+celecoxib	post-treatment	pCR	4	Cytotoxic_T_NK	T/NK	retained_after_qc	93
+P11	GSM6213957	normal	Anti-PD-1+celecoxib	post-treatment	pCR	5	Cycling_epithelial	Epithelial	retained_after_qc	252
+P11	GSM6213957	normal	Anti-PD-1+celecoxib	post-treatment	pCR	6	Epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	324
+P11	GSM6213957	normal	Anti-PD-1+celecoxib	post-treatment	pCR	7	Endothelial	Endothelial	retained_after_qc	138
+P11	GSM6213957	normal	Anti-PD-1+celecoxib	post-treatment	pCR	8	Colonocyte	Epithelial	retained_after_qc	699
+P11	GSM6213957	normal	Anti-PD-1+celecoxib	post-treatment	pCR	9	Myeloid	Myeloid	retained_after_qc	107
+P11	GSM6213957	normal	Anti-PD-1+celecoxib	post-treatment	pCR	10	T_cell	T/NK	retained_after_qc	42
+P11	GSM6213957	normal	Anti-PD-1+celecoxib	post-treatment	pCR	11	Plasma_cell	Plasma	retained_after_qc	42
+P11	GSM6213957	normal	Anti-PD-1+celecoxib	post-treatment	pCR	12	Erythroid_mito_enriched	Erythroid	mitochondrial_marker_enriched	599
+P11	GSM6213957	normal	Anti-PD-1+celecoxib	post-treatment	pCR	13	BEST4_OTOP2_epithelial	Epithelial	retained_after_qc	126
+P11	GSM6213957	normal	Anti-PD-1+celecoxib	post-treatment	pCR	14	Goblet	Epithelial	retained_after_qc	43
+P11	GSM6213957	normal	Anti-PD-1+celecoxib	post-treatment	pCR	15	Colonocyte_mito_enriched	Epithelial	mitochondrial_marker_enriched	261
+P11	GSM6213957	normal	Anti-PD-1+celecoxib	post-treatment	pCR	16	Fibroblast	Fibroblast/SMC	retained_after_qc	52
+P11	GSM6213957	normal	Anti-PD-1+celecoxib	post-treatment	pCR	17	Pericyte_smooth_muscle	Fibroblast/SMC	retained_after_qc	21
+P11	GSM6213957	normal	Anti-PD-1+celecoxib	post-treatment	pCR	18	Cycling_immune	Immune unresolved	retained_after_qc	60
+P11	GSM6213957	normal	Anti-PD-1+celecoxib	post-treatment	pCR	19	Cycling_epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	107
+P11	GSM6213957	normal	Anti-PD-1+celecoxib	post-treatment	pCR	20	Tuft_epithelial	Epithelial	retained_after_qc	8
+P11	GSM6213957	normal	Anti-PD-1+celecoxib	post-treatment	pCR	22	Lymphatic_endothelial	Endothelial	retained_after_qc	27
+P11	GSM6213957	normal	Anti-PD-1+celecoxib	post-treatment	pCR	24	Fibroblast_mito_enriched	Fibroblast/SMC	mitochondrial_marker_enriched	7
+P12	GSM6213958	tumor	anti-PD-1	post-treatment	non-pCR	0	Epithelial	Epithelial	retained_after_qc	560
+P12	GSM6213958	tumor	anti-PD-1	post-treatment	non-pCR	1	B_cell	B cell	retained_after_qc	678
+P12	GSM6213958	tumor	anti-PD-1	post-treatment	non-pCR	2	Epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	22
+P12	GSM6213958	tumor	anti-PD-1	post-treatment	non-pCR	3	CD4_T_cell	T/NK	retained_after_qc	491
+P12	GSM6213958	tumor	anti-PD-1	post-treatment	non-pCR	4	Cytotoxic_T_NK	T/NK	retained_after_qc	339
+P12	GSM6213958	tumor	anti-PD-1	post-treatment	non-pCR	5	Cycling_epithelial	Epithelial	retained_after_qc	487
+P12	GSM6213958	tumor	anti-PD-1	post-treatment	non-pCR	6	Epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	351
+P12	GSM6213958	tumor	anti-PD-1	post-treatment	non-pCR	7	Endothelial	Endothelial	retained_after_qc	52
+P12	GSM6213958	tumor	anti-PD-1	post-treatment	non-pCR	8	Colonocyte	Epithelial	retained_after_qc	144
+P12	GSM6213958	tumor	anti-PD-1	post-treatment	non-pCR	9	Myeloid	Myeloid	retained_after_qc	277
+P12	GSM6213958	tumor	anti-PD-1	post-treatment	non-pCR	10	T_cell	T/NK	retained_after_qc	168
+P12	GSM6213958	tumor	anti-PD-1	post-treatment	non-pCR	11	Plasma_cell	Plasma	retained_after_qc	1281
+P12	GSM6213958	tumor	anti-PD-1	post-treatment	non-pCR	12	Erythroid_mito_enriched	Erythroid	mitochondrial_marker_enriched	1
+P12	GSM6213958	tumor	anti-PD-1	post-treatment	non-pCR	13	BEST4_OTOP2_epithelial	Epithelial	retained_after_qc	23
+P12	GSM6213958	tumor	anti-PD-1	post-treatment	non-pCR	14	Goblet	Epithelial	retained_after_qc	97
+P12	GSM6213958	tumor	anti-PD-1	post-treatment	non-pCR	15	Colonocyte_mito_enriched	Epithelial	mitochondrial_marker_enriched	39
+P12	GSM6213958	tumor	anti-PD-1	post-treatment	non-pCR	16	Fibroblast	Fibroblast/SMC	retained_after_qc	46
+P12	GSM6213958	tumor	anti-PD-1	post-treatment	non-pCR	17	Pericyte_smooth_muscle	Fibroblast/SMC	retained_after_qc	30
+P12	GSM6213958	tumor	anti-PD-1	post-treatment	non-pCR	18	Cycling_immune	Immune unresolved	retained_after_qc	79
+P12	GSM6213958	tumor	anti-PD-1	post-treatment	non-pCR	19	Cycling_epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	14
+P12	GSM6213958	tumor	anti-PD-1	post-treatment	non-pCR	20	Tuft_epithelial	Epithelial	retained_after_qc	8
+P12	GSM6213958	tumor	anti-PD-1	post-treatment	non-pCR	21	Immune_mito_enriched	Immune unresolved	mitochondrial_marker_enriched	45
+P12	GSM6213958	tumor	anti-PD-1	post-treatment	non-pCR	22	Lymphatic_endothelial	Endothelial	retained_after_qc	1
+P12	GSM6213958	tumor	anti-PD-1	post-treatment	non-pCR	24	Fibroblast_mito_enriched	Fibroblast/SMC	mitochondrial_marker_enriched	3
+P12	GSM6213959	normal	anti-PD-1	post-treatment	non-pCR	0	Epithelial	Epithelial	retained_after_qc	434
+P12	GSM6213959	normal	anti-PD-1	post-treatment	non-pCR	1	B_cell	B cell	retained_after_qc	1109
+P12	GSM6213959	normal	anti-PD-1	post-treatment	non-pCR	2	Epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	14
+P12	GSM6213959	normal	anti-PD-1	post-treatment	non-pCR	3	CD4_T_cell	T/NK	retained_after_qc	445
+P12	GSM6213959	normal	anti-PD-1	post-treatment	non-pCR	4	Cytotoxic_T_NK	T/NK	retained_after_qc	373
+P12	GSM6213959	normal	anti-PD-1	post-treatment	non-pCR	5	Cycling_epithelial	Epithelial	retained_after_qc	228
+P12	GSM6213959	normal	anti-PD-1	post-treatment	non-pCR	6	Epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	150
+P12	GSM6213959	normal	anti-PD-1	post-treatment	non-pCR	7	Endothelial	Endothelial	retained_after_qc	371
+P12	GSM6213959	normal	anti-PD-1	post-treatment	non-pCR	8	Colonocyte	Epithelial	retained_after_qc	80
+P12	GSM6213959	normal	anti-PD-1	post-treatment	non-pCR	9	Myeloid	Myeloid	retained_after_qc	63
+P12	GSM6213959	normal	anti-PD-1	post-treatment	non-pCR	10	T_cell	T/NK	retained_after_qc	139
+P12	GSM6213959	normal	anti-PD-1	post-treatment	non-pCR	11	Plasma_cell	Plasma	retained_after_qc	341
+P12	GSM6213959	normal	anti-PD-1	post-treatment	non-pCR	12	Erythroid_mito_enriched	Erythroid	mitochondrial_marker_enriched	1
+P12	GSM6213959	normal	anti-PD-1	post-treatment	non-pCR	13	BEST4_OTOP2_epithelial	Epithelial	retained_after_qc	21
+P12	GSM6213959	normal	anti-PD-1	post-treatment	non-pCR	14	Goblet	Epithelial	retained_after_qc	40
+P12	GSM6213959	normal	anti-PD-1	post-treatment	non-pCR	15	Colonocyte_mito_enriched	Epithelial	mitochondrial_marker_enriched	37
+P12	GSM6213959	normal	anti-PD-1	post-treatment	non-pCR	16	Fibroblast	Fibroblast/SMC	retained_after_qc	208
+P12	GSM6213959	normal	anti-PD-1	post-treatment	non-pCR	17	Pericyte_smooth_muscle	Fibroblast/SMC	retained_after_qc	225
+P12	GSM6213959	normal	anti-PD-1	post-treatment	non-pCR	18	Cycling_immune	Immune unresolved	retained_after_qc	239
+P12	GSM6213959	normal	anti-PD-1	post-treatment	non-pCR	19	Cycling_epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	9
+P12	GSM6213959	normal	anti-PD-1	post-treatment	non-pCR	20	Tuft_epithelial	Epithelial	retained_after_qc	32
+P12	GSM6213959	normal	anti-PD-1	post-treatment	non-pCR	21	Immune_mito_enriched	Immune unresolved	mitochondrial_marker_enriched	15
+P12	GSM6213959	normal	anti-PD-1	post-treatment	non-pCR	22	Lymphatic_endothelial	Endothelial	retained_after_qc	68
+P12	GSM6213959	normal	anti-PD-1	post-treatment	non-pCR	24	Fibroblast_mito_enriched	Fibroblast/SMC	mitochondrial_marker_enriched	8
+P12	GSM6213959	normal	anti-PD-1	post-treatment	non-pCR	25	Myeloid_IG_enriched	Myeloid	retained_after_qc	1
+P14	GSM6213960	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	0	Epithelial	Epithelial	retained_after_qc	489
+P14	GSM6213960	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	1	B_cell	B cell	retained_after_qc	720
+P14	GSM6213960	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	2	Epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	15
+P14	GSM6213960	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	3	CD4_T_cell	T/NK	retained_after_qc	591
+P14	GSM6213960	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	4	Cytotoxic_T_NK	T/NK	retained_after_qc	926
+P14	GSM6213960	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	5	Cycling_epithelial	Epithelial	retained_after_qc	172
+P14	GSM6213960	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	6	Epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	125
+P14	GSM6213960	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	7	Endothelial	Endothelial	retained_after_qc	40
+P14	GSM6213960	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	8	Colonocyte	Epithelial	retained_after_qc	137
+P14	GSM6213960	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	9	Myeloid	Myeloid	retained_after_qc	713
+P14	GSM6213960	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	10	T_cell	T/NK	retained_after_qc	465
+P14	GSM6213960	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	11	Plasma_cell	Plasma	retained_after_qc	288
+P14	GSM6213960	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	12	Erythroid_mito_enriched	Erythroid	mitochondrial_marker_enriched	1
+P14	GSM6213960	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	13	BEST4_OTOP2_epithelial	Epithelial	retained_after_qc	24
+P14	GSM6213960	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	14	Goblet	Epithelial	retained_after_qc	67
+P14	GSM6213960	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	15	Colonocyte_mito_enriched	Epithelial	mitochondrial_marker_enriched	6
+P14	GSM6213960	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	16	Fibroblast	Fibroblast/SMC	retained_after_qc	51
+P14	GSM6213960	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	17	Pericyte_smooth_muscle	Fibroblast/SMC	retained_after_qc	21
+P14	GSM6213960	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	18	Cycling_immune	Immune unresolved	retained_after_qc	26
+P14	GSM6213960	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	19	Cycling_epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	9
+P14	GSM6213960	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	20	Tuft_epithelial	Epithelial	retained_after_qc	8
+P14	GSM6213960	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	21	Immune_mito_enriched	Immune unresolved	mitochondrial_marker_enriched	43
+P14	GSM6213960	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	22	Lymphatic_endothelial	Endothelial	retained_after_qc	2
+P14	GSM6213960	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	25	Myeloid_IG_enriched	Myeloid	retained_after_qc	41
+P15	GSM6213961	tumor	anti-PD-1	post-treatment	pCR	0	Epithelial	Epithelial	retained_after_qc	322
+P15	GSM6213961	tumor	anti-PD-1	post-treatment	pCR	1	B_cell	B cell	retained_after_qc	705
+P15	GSM6213961	tumor	anti-PD-1	post-treatment	pCR	2	Epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	84
+P15	GSM6213961	tumor	anti-PD-1	post-treatment	pCR	3	CD4_T_cell	T/NK	retained_after_qc	1839
+P15	GSM6213961	tumor	anti-PD-1	post-treatment	pCR	4	Cytotoxic_T_NK	T/NK	retained_after_qc	2458
+P15	GSM6213961	tumor	anti-PD-1	post-treatment	pCR	5	Cycling_epithelial	Epithelial	retained_after_qc	73
+P15	GSM6213961	tumor	anti-PD-1	post-treatment	pCR	6	Epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	176
+P15	GSM6213961	tumor	anti-PD-1	post-treatment	pCR	7	Endothelial	Endothelial	retained_after_qc	399
+P15	GSM6213961	tumor	anti-PD-1	post-treatment	pCR	8	Colonocyte	Epithelial	retained_after_qc	133
+P15	GSM6213961	tumor	anti-PD-1	post-treatment	pCR	9	Myeloid	Myeloid	retained_after_qc	2444
+P15	GSM6213961	tumor	anti-PD-1	post-treatment	pCR	10	T_cell	T/NK	retained_after_qc	1253
+P15	GSM6213961	tumor	anti-PD-1	post-treatment	pCR	11	Plasma_cell	Plasma	retained_after_qc	869
+P15	GSM6213961	tumor	anti-PD-1	post-treatment	pCR	12	Erythroid_mito_enriched	Erythroid	mitochondrial_marker_enriched	7
+P15	GSM6213961	tumor	anti-PD-1	post-treatment	pCR	13	BEST4_OTOP2_epithelial	Epithelial	retained_after_qc	7
+P15	GSM6213961	tumor	anti-PD-1	post-treatment	pCR	14	Goblet	Epithelial	retained_after_qc	32
+P15	GSM6213961	tumor	anti-PD-1	post-treatment	pCR	15	Colonocyte_mito_enriched	Epithelial	mitochondrial_marker_enriched	19
+P15	GSM6213961	tumor	anti-PD-1	post-treatment	pCR	16	Fibroblast	Fibroblast/SMC	retained_after_qc	709
+P15	GSM6213961	tumor	anti-PD-1	post-treatment	pCR	17	Pericyte_smooth_muscle	Fibroblast/SMC	retained_after_qc	102
+P15	GSM6213961	tumor	anti-PD-1	post-treatment	pCR	18	Cycling_immune	Immune unresolved	retained_after_qc	45
+P15	GSM6213961	tumor	anti-PD-1	post-treatment	pCR	19	Cycling_epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	17
+P15	GSM6213961	tumor	anti-PD-1	post-treatment	pCR	20	Tuft_epithelial	Epithelial	retained_after_qc	6
+P15	GSM6213961	tumor	anti-PD-1	post-treatment	pCR	21	Immune_mito_enriched	Immune unresolved	mitochondrial_marker_enriched	301
+P15	GSM6213961	tumor	anti-PD-1	post-treatment	pCR	22	Lymphatic_endothelial	Endothelial	retained_after_qc	33
+P15	GSM6213961	tumor	anti-PD-1	post-treatment	pCR	23	Immune_mixed_mito_enriched	Immune unresolved	mitochondrial_marker_enriched	2
+P15	GSM6213961	tumor	anti-PD-1	post-treatment	pCR	24	Fibroblast_mito_enriched	Fibroblast/SMC	mitochondrial_marker_enriched	36
+P15	GSM6213961	tumor	anti-PD-1	post-treatment	pCR	25	Myeloid_IG_enriched	Myeloid	retained_after_qc	249
+P15	GSM6213962	normal	anti-PD-1	post-treatment	pCR	0	Epithelial	Epithelial	retained_after_qc	996
+P15	GSM6213962	normal	anti-PD-1	post-treatment	pCR	1	B_cell	B cell	retained_after_qc	2739
+P15	GSM6213962	normal	anti-PD-1	post-treatment	pCR	2	Epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	124
+P15	GSM6213962	normal	anti-PD-1	post-treatment	pCR	3	CD4_T_cell	T/NK	retained_after_qc	1194
+P15	GSM6213962	normal	anti-PD-1	post-treatment	pCR	4	Cytotoxic_T_NK	T/NK	retained_after_qc	606
+P15	GSM6213962	normal	anti-PD-1	post-treatment	pCR	5	Cycling_epithelial	Epithelial	retained_after_qc	492
+P15	GSM6213962	normal	anti-PD-1	post-treatment	pCR	6	Epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	585
+P15	GSM6213962	normal	anti-PD-1	post-treatment	pCR	7	Endothelial	Endothelial	retained_after_qc	221
+P15	GSM6213962	normal	anti-PD-1	post-treatment	pCR	8	Colonocyte	Epithelial	retained_after_qc	593
+P15	GSM6213962	normal	anti-PD-1	post-treatment	pCR	9	Myeloid	Myeloid	retained_after_qc	211
+P15	GSM6213962	normal	anti-PD-1	post-treatment	pCR	10	T_cell	T/NK	retained_after_qc	666
+P15	GSM6213962	normal	anti-PD-1	post-treatment	pCR	11	Plasma_cell	Plasma	retained_after_qc	567
+P15	GSM6213962	normal	anti-PD-1	post-treatment	pCR	12	Erythroid_mito_enriched	Erythroid	mitochondrial_marker_enriched	17
+P15	GSM6213962	normal	anti-PD-1	post-treatment	pCR	13	BEST4_OTOP2_epithelial	Epithelial	retained_after_qc	144
+P15	GSM6213962	normal	anti-PD-1	post-treatment	pCR	14	Goblet	Epithelial	retained_after_qc	38
+P15	GSM6213962	normal	anti-PD-1	post-treatment	pCR	15	Colonocyte_mito_enriched	Epithelial	mitochondrial_marker_enriched	144
+P15	GSM6213962	normal	anti-PD-1	post-treatment	pCR	16	Fibroblast	Fibroblast/SMC	retained_after_qc	308
+P15	GSM6213962	normal	anti-PD-1	post-treatment	pCR	17	Pericyte_smooth_muscle	Fibroblast/SMC	retained_after_qc	161
+P15	GSM6213962	normal	anti-PD-1	post-treatment	pCR	18	Cycling_immune	Immune unresolved	retained_after_qc	810
+P15	GSM6213962	normal	anti-PD-1	post-treatment	pCR	19	Cycling_epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	50
+P15	GSM6213962	normal	anti-PD-1	post-treatment	pCR	20	Tuft_epithelial	Epithelial	retained_after_qc	32
+P15	GSM6213962	normal	anti-PD-1	post-treatment	pCR	21	Immune_mito_enriched	Immune unresolved	mitochondrial_marker_enriched	108
+P15	GSM6213962	normal	anti-PD-1	post-treatment	pCR	22	Lymphatic_endothelial	Endothelial	retained_after_qc	47
+P15	GSM6213962	normal	anti-PD-1	post-treatment	pCR	24	Fibroblast_mito_enriched	Fibroblast/SMC	mitochondrial_marker_enriched	18
+P17	GSM6213963	tumor	anti-PD-1	post-treatment	pCR	0	Epithelial	Epithelial	retained_after_qc	142
+P17	GSM6213963	tumor	anti-PD-1	post-treatment	pCR	1	B_cell	B cell	retained_after_qc	253
+P17	GSM6213963	tumor	anti-PD-1	post-treatment	pCR	2	Epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	4687
+P17	GSM6213963	tumor	anti-PD-1	post-treatment	pCR	3	CD4_T_cell	T/NK	retained_after_qc	351
+P17	GSM6213963	tumor	anti-PD-1	post-treatment	pCR	4	Cytotoxic_T_NK	T/NK	retained_after_qc	406
+P17	GSM6213963	tumor	anti-PD-1	post-treatment	pCR	5	Cycling_epithelial	Epithelial	retained_after_qc	16
+P17	GSM6213963	tumor	anti-PD-1	post-treatment	pCR	6	Epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	222
+P17	GSM6213963	tumor	anti-PD-1	post-treatment	pCR	7	Endothelial	Endothelial	retained_after_qc	158
+P17	GSM6213963	tumor	anti-PD-1	post-treatment	pCR	8	Colonocyte	Epithelial	retained_after_qc	418
+P17	GSM6213963	tumor	anti-PD-1	post-treatment	pCR	9	Myeloid	Myeloid	retained_after_qc	95
+P17	GSM6213963	tumor	anti-PD-1	post-treatment	pCR	10	T_cell	T/NK	retained_after_qc	199
+P17	GSM6213963	tumor	anti-PD-1	post-treatment	pCR	11	Plasma_cell	Plasma	retained_after_qc	40
+P17	GSM6213963	tumor	anti-PD-1	post-treatment	pCR	12	Erythroid_mito_enriched	Erythroid	mitochondrial_marker_enriched	17
+P17	GSM6213963	tumor	anti-PD-1	post-treatment	pCR	13	BEST4_OTOP2_epithelial	Epithelial	retained_after_qc	170
+P17	GSM6213963	tumor	anti-PD-1	post-treatment	pCR	14	Goblet	Epithelial	retained_after_qc	7
+P17	GSM6213963	tumor	anti-PD-1	post-treatment	pCR	15	Colonocyte_mito_enriched	Epithelial	mitochondrial_marker_enriched	263
+P17	GSM6213963	tumor	anti-PD-1	post-treatment	pCR	16	Fibroblast	Fibroblast/SMC	retained_after_qc	23
+P17	GSM6213963	tumor	anti-PD-1	post-treatment	pCR	17	Pericyte_smooth_muscle	Fibroblast/SMC	retained_after_qc	60
+P17	GSM6213963	tumor	anti-PD-1	post-treatment	pCR	18	Cycling_immune	Immune unresolved	retained_after_qc	12
+P17	GSM6213963	tumor	anti-PD-1	post-treatment	pCR	19	Cycling_epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	11
+P17	GSM6213963	tumor	anti-PD-1	post-treatment	pCR	20	Tuft_epithelial	Epithelial	retained_after_qc	24
+P17	GSM6213963	tumor	anti-PD-1	post-treatment	pCR	22	Lymphatic_endothelial	Endothelial	retained_after_qc	1
+P17	GSM6213963	tumor	anti-PD-1	post-treatment	pCR	24	Fibroblast_mito_enriched	Fibroblast/SMC	mitochondrial_marker_enriched	5
+P17	GSM6213963	tumor	anti-PD-1	post-treatment	pCR	27	Unresolved_mito_enriched	Unresolved	mitochondrial_marker_enriched	148
+P17	GSM6213964	normal	anti-PD-1	post-treatment	pCR	0	Epithelial	Epithelial	retained_after_qc	436
+P17	GSM6213964	normal	anti-PD-1	post-treatment	pCR	1	B_cell	B cell	retained_after_qc	257
+P17	GSM6213964	normal	anti-PD-1	post-treatment	pCR	2	Epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	1038
+P17	GSM6213964	normal	anti-PD-1	post-treatment	pCR	3	CD4_T_cell	T/NK	retained_after_qc	296
+P17	GSM6213964	normal	anti-PD-1	post-treatment	pCR	4	Cytotoxic_T_NK	T/NK	retained_after_qc	198
+P17	GSM6213964	normal	anti-PD-1	post-treatment	pCR	5	Cycling_epithelial	Epithelial	retained_after_qc	102
+P17	GSM6213964	normal	anti-PD-1	post-treatment	pCR	6	Epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	366
+P17	GSM6213964	normal	anti-PD-1	post-treatment	pCR	7	Endothelial	Endothelial	retained_after_qc	178
+P17	GSM6213964	normal	anti-PD-1	post-treatment	pCR	8	Colonocyte	Epithelial	retained_after_qc	879
+P17	GSM6213964	normal	anti-PD-1	post-treatment	pCR	9	Myeloid	Myeloid	retained_after_qc	111
+P17	GSM6213964	normal	anti-PD-1	post-treatment	pCR	10	T_cell	T/NK	retained_after_qc	82
+P17	GSM6213964	normal	anti-PD-1	post-treatment	pCR	11	Plasma_cell	Plasma	retained_after_qc	23
+P17	GSM6213964	normal	anti-PD-1	post-treatment	pCR	12	Erythroid_mito_enriched	Erythroid	mitochondrial_marker_enriched	584
+P17	GSM6213964	normal	anti-PD-1	post-treatment	pCR	13	BEST4_OTOP2_epithelial	Epithelial	retained_after_qc	430
+P17	GSM6213964	normal	anti-PD-1	post-treatment	pCR	14	Goblet	Epithelial	retained_after_qc	65
+P17	GSM6213964	normal	anti-PD-1	post-treatment	pCR	15	Colonocyte_mito_enriched	Epithelial	mitochondrial_marker_enriched	264
+P17	GSM6213964	normal	anti-PD-1	post-treatment	pCR	16	Fibroblast	Fibroblast/SMC	retained_after_qc	185
+P17	GSM6213964	normal	anti-PD-1	post-treatment	pCR	17	Pericyte_smooth_muscle	Fibroblast/SMC	retained_after_qc	134
+P17	GSM6213964	normal	anti-PD-1	post-treatment	pCR	18	Cycling_immune	Immune unresolved	retained_after_qc	22
+P17	GSM6213964	normal	anti-PD-1	post-treatment	pCR	19	Cycling_epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	22
+P17	GSM6213964	normal	anti-PD-1	post-treatment	pCR	20	Tuft_epithelial	Epithelial	retained_after_qc	202
+P17	GSM6213964	normal	anti-PD-1	post-treatment	pCR	22	Lymphatic_endothelial	Endothelial	retained_after_qc	84
+P17	GSM6213964	normal	anti-PD-1	post-treatment	pCR	24	Fibroblast_mito_enriched	Fibroblast/SMC	mitochondrial_marker_enriched	26
+P18	GSM6213965	tumor	anti-PD-1	post-treatment	non-pCR	0	Epithelial	Epithelial	retained_after_qc	1489
+P18	GSM6213965	tumor	anti-PD-1	post-treatment	non-pCR	1	B_cell	B cell	retained_after_qc	411
+P18	GSM6213965	tumor	anti-PD-1	post-treatment	non-pCR	2	Epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	18
+P18	GSM6213965	tumor	anti-PD-1	post-treatment	non-pCR	3	CD4_T_cell	T/NK	retained_after_qc	401
+P18	GSM6213965	tumor	anti-PD-1	post-treatment	non-pCR	4	Cytotoxic_T_NK	T/NK	retained_after_qc	534
+P18	GSM6213965	tumor	anti-PD-1	post-treatment	non-pCR	5	Cycling_epithelial	Epithelial	retained_after_qc	1361
+P18	GSM6213965	tumor	anti-PD-1	post-treatment	non-pCR	6	Epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	438
+P18	GSM6213965	tumor	anti-PD-1	post-treatment	non-pCR	7	Endothelial	Endothelial	retained_after_qc	232
+P18	GSM6213965	tumor	anti-PD-1	post-treatment	non-pCR	8	Colonocyte	Epithelial	retained_after_qc	331
+P18	GSM6213965	tumor	anti-PD-1	post-treatment	non-pCR	9	Myeloid	Myeloid	retained_after_qc	303
+P18	GSM6213965	tumor	anti-PD-1	post-treatment	non-pCR	10	T_cell	T/NK	retained_after_qc	227
+P18	GSM6213965	tumor	anti-PD-1	post-treatment	non-pCR	11	Plasma_cell	Plasma	retained_after_qc	211
+P18	GSM6213965	tumor	anti-PD-1	post-treatment	non-pCR	12	Erythroid_mito_enriched	Erythroid	mitochondrial_marker_enriched	12
+P18	GSM6213965	tumor	anti-PD-1	post-treatment	non-pCR	13	BEST4_OTOP2_epithelial	Epithelial	retained_after_qc	68
+P18	GSM6213965	tumor	anti-PD-1	post-treatment	non-pCR	14	Goblet	Epithelial	retained_after_qc	253
+P18	GSM6213965	tumor	anti-PD-1	post-treatment	non-pCR	15	Colonocyte_mito_enriched	Epithelial	mitochondrial_marker_enriched	68
+P18	GSM6213965	tumor	anti-PD-1	post-treatment	non-pCR	16	Fibroblast	Fibroblast/SMC	retained_after_qc	61
+P18	GSM6213965	tumor	anti-PD-1	post-treatment	non-pCR	17	Pericyte_smooth_muscle	Fibroblast/SMC	retained_after_qc	48
+P18	GSM6213965	tumor	anti-PD-1	post-treatment	non-pCR	18	Cycling_immune	Immune unresolved	retained_after_qc	148
+P18	GSM6213965	tumor	anti-PD-1	post-treatment	non-pCR	19	Cycling_epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	18
+P18	GSM6213965	tumor	anti-PD-1	post-treatment	non-pCR	20	Tuft_epithelial	Epithelial	retained_after_qc	11
+P18	GSM6213965	tumor	anti-PD-1	post-treatment	non-pCR	21	Immune_mito_enriched	Immune unresolved	mitochondrial_marker_enriched	37
+P18	GSM6213965	tumor	anti-PD-1	post-treatment	non-pCR	22	Lymphatic_endothelial	Endothelial	retained_after_qc	2
+P18	GSM6213965	tumor	anti-PD-1	post-treatment	non-pCR	23	Immune_mixed_mito_enriched	Immune unresolved	mitochondrial_marker_enriched	1
+P18	GSM6213965	tumor	anti-PD-1	post-treatment	non-pCR	24	Fibroblast_mito_enriched	Fibroblast/SMC	mitochondrial_marker_enriched	1
+P18	GSM6213965	tumor	anti-PD-1	post-treatment	non-pCR	25	Myeloid_IG_enriched	Myeloid	retained_after_qc	1
+P18	GSM6213966	normal	anti-PD-1	post-treatment	non-pCR	0	Epithelial	Epithelial	retained_after_qc	502
+P18	GSM6213966	normal	anti-PD-1	post-treatment	non-pCR	1	B_cell	B cell	retained_after_qc	158
+P18	GSM6213966	normal	anti-PD-1	post-treatment	non-pCR	2	Epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	107
+P18	GSM6213966	normal	anti-PD-1	post-treatment	non-pCR	3	CD4_T_cell	T/NK	retained_after_qc	130
+P18	GSM6213966	normal	anti-PD-1	post-treatment	non-pCR	4	Cytotoxic_T_NK	T/NK	retained_after_qc	177
+P18	GSM6213966	normal	anti-PD-1	post-treatment	non-pCR	5	Cycling_epithelial	Epithelial	retained_after_qc	194
+P18	GSM6213966	normal	anti-PD-1	post-treatment	non-pCR	6	Epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	249
+P18	GSM6213966	normal	anti-PD-1	post-treatment	non-pCR	7	Endothelial	Endothelial	retained_after_qc	386
+P18	GSM6213966	normal	anti-PD-1	post-treatment	non-pCR	8	Colonocyte	Epithelial	retained_after_qc	715
+P18	GSM6213966	normal	anti-PD-1	post-treatment	non-pCR	9	Myeloid	Myeloid	retained_after_qc	117
+P18	GSM6213966	normal	anti-PD-1	post-treatment	non-pCR	10	T_cell	T/NK	retained_after_qc	41
+P18	GSM6213966	normal	anti-PD-1	post-treatment	non-pCR	11	Plasma_cell	Plasma	retained_after_qc	14
+P18	GSM6213966	normal	anti-PD-1	post-treatment	non-pCR	12	Erythroid_mito_enriched	Erythroid	mitochondrial_marker_enriched	17
+P18	GSM6213966	normal	anti-PD-1	post-treatment	non-pCR	13	BEST4_OTOP2_epithelial	Epithelial	retained_after_qc	378
+P18	GSM6213966	normal	anti-PD-1	post-treatment	non-pCR	14	Goblet	Epithelial	retained_after_qc	123
+P18	GSM6213966	normal	anti-PD-1	post-treatment	non-pCR	15	Colonocyte_mito_enriched	Epithelial	mitochondrial_marker_enriched	101
+P18	GSM6213966	normal	anti-PD-1	post-treatment	non-pCR	16	Fibroblast	Fibroblast/SMC	retained_after_qc	505
+P18	GSM6213966	normal	anti-PD-1	post-treatment	non-pCR	17	Pericyte_smooth_muscle	Fibroblast/SMC	retained_after_qc	166
+P18	GSM6213966	normal	anti-PD-1	post-treatment	non-pCR	18	Cycling_immune	Immune unresolved	retained_after_qc	47
+P18	GSM6213966	normal	anti-PD-1	post-treatment	non-pCR	19	Cycling_epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	20
+P18	GSM6213966	normal	anti-PD-1	post-treatment	non-pCR	20	Tuft_epithelial	Epithelial	retained_after_qc	118
+P18	GSM6213966	normal	anti-PD-1	post-treatment	non-pCR	21	Immune_mito_enriched	Immune unresolved	mitochondrial_marker_enriched	12
+P18	GSM6213966	normal	anti-PD-1	post-treatment	non-pCR	22	Lymphatic_endothelial	Endothelial	retained_after_qc	169
+P18	GSM6213966	normal	anti-PD-1	post-treatment	non-pCR	24	Fibroblast_mito_enriched	Fibroblast/SMC	mitochondrial_marker_enriched	13
+P19	GSM6213967	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	0	Epithelial	Epithelial	retained_after_qc	425
+P19	GSM6213967	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	1	B_cell	B cell	retained_after_qc	409
+P19	GSM6213967	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	2	Epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	13
+P19	GSM6213967	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	3	CD4_T_cell	T/NK	retained_after_qc	432
+P19	GSM6213967	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	4	Cytotoxic_T_NK	T/NK	retained_after_qc	415
+P19	GSM6213967	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	5	Cycling_epithelial	Epithelial	retained_after_qc	156
+P19	GSM6213967	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	6	Epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	169
+P19	GSM6213967	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	7	Endothelial	Endothelial	retained_after_qc	3278
+P19	GSM6213967	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	8	Colonocyte	Epithelial	retained_after_qc	65
+P19	GSM6213967	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	9	Myeloid	Myeloid	retained_after_qc	235
+P19	GSM6213967	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	10	T_cell	T/NK	retained_after_qc	263
+P19	GSM6213967	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	11	Plasma_cell	Plasma	retained_after_qc	41
+P19	GSM6213967	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	12	Erythroid_mito_enriched	Erythroid	mitochondrial_marker_enriched	3
+P19	GSM6213967	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	13	BEST4_OTOP2_epithelial	Epithelial	retained_after_qc	82
+P19	GSM6213967	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	14	Goblet	Epithelial	retained_after_qc	48
+P19	GSM6213967	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	15	Colonocyte_mito_enriched	Epithelial	mitochondrial_marker_enriched	8
+P19	GSM6213967	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	16	Fibroblast	Fibroblast/SMC	retained_after_qc	307
+P19	GSM6213967	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	17	Pericyte_smooth_muscle	Fibroblast/SMC	retained_after_qc	1030
+P19	GSM6213967	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	18	Cycling_immune	Immune unresolved	retained_after_qc	30
+P19	GSM6213967	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	19	Cycling_epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	9
+P19	GSM6213967	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	20	Tuft_epithelial	Epithelial	retained_after_qc	12
+P19	GSM6213967	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	21	Immune_mito_enriched	Immune unresolved	mitochondrial_marker_enriched	59
+P19	GSM6213967	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	22	Lymphatic_endothelial	Endothelial	retained_after_qc	59
+P19	GSM6213967	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	24	Fibroblast_mito_enriched	Fibroblast/SMC	mitochondrial_marker_enriched	26
+P19	GSM6213968	normal	Anti-PD-1+celecoxib	post-treatment	pCR	0	Epithelial	Epithelial	retained_after_qc	159
+P19	GSM6213968	normal	Anti-PD-1+celecoxib	post-treatment	pCR	1	B_cell	B cell	retained_after_qc	596
+P19	GSM6213968	normal	Anti-PD-1+celecoxib	post-treatment	pCR	2	Epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	1203
+P19	GSM6213968	normal	Anti-PD-1+celecoxib	post-treatment	pCR	3	CD4_T_cell	T/NK	retained_after_qc	201
+P19	GSM6213968	normal	Anti-PD-1+celecoxib	post-treatment	pCR	4	Cytotoxic_T_NK	T/NK	retained_after_qc	116
+P19	GSM6213968	normal	Anti-PD-1+celecoxib	post-treatment	pCR	5	Cycling_epithelial	Epithelial	retained_after_qc	141
+P19	GSM6213968	normal	Anti-PD-1+celecoxib	post-treatment	pCR	6	Epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	270
+P19	GSM6213968	normal	Anti-PD-1+celecoxib	post-treatment	pCR	7	Endothelial	Endothelial	retained_after_qc	247
+P19	GSM6213968	normal	Anti-PD-1+celecoxib	post-treatment	pCR	8	Colonocyte	Epithelial	retained_after_qc	384
+P19	GSM6213968	normal	Anti-PD-1+celecoxib	post-treatment	pCR	9	Myeloid	Myeloid	retained_after_qc	145
+P19	GSM6213968	normal	Anti-PD-1+celecoxib	post-treatment	pCR	10	T_cell	T/NK	retained_after_qc	71
+P19	GSM6213968	normal	Anti-PD-1+celecoxib	post-treatment	pCR	11	Plasma_cell	Plasma	retained_after_qc	31
+P19	GSM6213968	normal	Anti-PD-1+celecoxib	post-treatment	pCR	12	Erythroid_mito_enriched	Erythroid	mitochondrial_marker_enriched	1258
+P19	GSM6213968	normal	Anti-PD-1+celecoxib	post-treatment	pCR	13	BEST4_OTOP2_epithelial	Epithelial	retained_after_qc	631
+P19	GSM6213968	normal	Anti-PD-1+celecoxib	post-treatment	pCR	14	Goblet	Epithelial	retained_after_qc	61
+P19	GSM6213968	normal	Anti-PD-1+celecoxib	post-treatment	pCR	15	Colonocyte_mito_enriched	Epithelial	mitochondrial_marker_enriched	208
+P19	GSM6213968	normal	Anti-PD-1+celecoxib	post-treatment	pCR	16	Fibroblast	Fibroblast/SMC	retained_after_qc	54
+P19	GSM6213968	normal	Anti-PD-1+celecoxib	post-treatment	pCR	17	Pericyte_smooth_muscle	Fibroblast/SMC	retained_after_qc	149
+P19	GSM6213968	normal	Anti-PD-1+celecoxib	post-treatment	pCR	18	Cycling_immune	Immune unresolved	retained_after_qc	26
+P19	GSM6213968	normal	Anti-PD-1+celecoxib	post-treatment	pCR	19	Cycling_epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	215
+P19	GSM6213968	normal	Anti-PD-1+celecoxib	post-treatment	pCR	20	Tuft_epithelial	Epithelial	retained_after_qc	115
+P19	GSM6213968	normal	Anti-PD-1+celecoxib	post-treatment	pCR	22	Lymphatic_endothelial	Endothelial	retained_after_qc	79
+P19	GSM6213968	normal	Anti-PD-1+celecoxib	post-treatment	pCR	24	Fibroblast_mito_enriched	Fibroblast/SMC	mitochondrial_marker_enriched	8
+P21	GSM6213969	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	0	Epithelial	Epithelial	retained_after_qc	62
+P21	GSM6213969	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	1	B_cell	B cell	retained_after_qc	18
+P21	GSM6213969	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	2	Epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	2
+P21	GSM6213969	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	3	CD4_T_cell	T/NK	retained_after_qc	15
+P21	GSM6213969	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	4	Cytotoxic_T_NK	T/NK	retained_after_qc	17
+P21	GSM6213969	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	5	Cycling_epithelial	Epithelial	retained_after_qc	24
+P21	GSM6213969	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	6	Epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	19
+P21	GSM6213969	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	7	Endothelial	Endothelial	retained_after_qc	718
+P21	GSM6213969	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	8	Colonocyte	Epithelial	retained_after_qc	29
+P21	GSM6213969	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	9	Myeloid	Myeloid	retained_after_qc	131
+P21	GSM6213969	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	10	T_cell	T/NK	retained_after_qc	16
+P21	GSM6213969	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	11	Plasma_cell	Plasma	retained_after_qc	6
+P21	GSM6213969	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	13	BEST4_OTOP2_epithelial	Epithelial	retained_after_qc	3
+P21	GSM6213969	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	14	Goblet	Epithelial	retained_after_qc	31
+P21	GSM6213969	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	15	Colonocyte_mito_enriched	Epithelial	mitochondrial_marker_enriched	3
+P21	GSM6213969	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	16	Fibroblast	Fibroblast/SMC	retained_after_qc	83
+P21	GSM6213969	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	17	Pericyte_smooth_muscle	Fibroblast/SMC	retained_after_qc	58
+P21	GSM6213969	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	18	Cycling_immune	Immune unresolved	retained_after_qc	10
+P21	GSM6213969	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	21	Immune_mito_enriched	Immune unresolved	mitochondrial_marker_enriched	3
+P21	GSM6213969	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	22	Lymphatic_endothelial	Endothelial	retained_after_qc	15
+P21	GSM6213969	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	24	Fibroblast_mito_enriched	Fibroblast/SMC	mitochondrial_marker_enriched	11
+P21	GSM6213970	tumor	untreated	pre-treatment	pCR	0	Epithelial	Epithelial	retained_after_qc	1288
+P21	GSM6213970	tumor	untreated	pre-treatment	pCR	1	B_cell	B cell	retained_after_qc	121
+P21	GSM6213970	tumor	untreated	pre-treatment	pCR	2	Epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	428
+P21	GSM6213970	tumor	untreated	pre-treatment	pCR	3	CD4_T_cell	T/NK	retained_after_qc	456
+P21	GSM6213970	tumor	untreated	pre-treatment	pCR	4	Cytotoxic_T_NK	T/NK	retained_after_qc	355
+P21	GSM6213970	tumor	untreated	pre-treatment	pCR	5	Cycling_epithelial	Epithelial	retained_after_qc	439
+P21	GSM6213970	tumor	untreated	pre-treatment	pCR	6	Epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	798
+P21	GSM6213970	tumor	untreated	pre-treatment	pCR	7	Endothelial	Endothelial	retained_after_qc	59
+P21	GSM6213970	tumor	untreated	pre-treatment	pCR	8	Colonocyte	Epithelial	retained_after_qc	670
+P21	GSM6213970	tumor	untreated	pre-treatment	pCR	9	Myeloid	Myeloid	retained_after_qc	192
+P21	GSM6213970	tumor	untreated	pre-treatment	pCR	10	T_cell	T/NK	retained_after_qc	163
+P21	GSM6213970	tumor	untreated	pre-treatment	pCR	11	Plasma_cell	Plasma	retained_after_qc	115
+P21	GSM6213970	tumor	untreated	pre-treatment	pCR	12	Erythroid_mito_enriched	Erythroid	mitochondrial_marker_enriched	23
+P21	GSM6213970	tumor	untreated	pre-treatment	pCR	13	BEST4_OTOP2_epithelial	Epithelial	retained_after_qc	23
+P21	GSM6213970	tumor	untreated	pre-treatment	pCR	14	Goblet	Epithelial	retained_after_qc	569
+P21	GSM6213970	tumor	untreated	pre-treatment	pCR	15	Colonocyte_mito_enriched	Epithelial	mitochondrial_marker_enriched	223
+P21	GSM6213970	tumor	untreated	pre-treatment	pCR	16	Fibroblast	Fibroblast/SMC	retained_after_qc	22
+P21	GSM6213970	tumor	untreated	pre-treatment	pCR	17	Pericyte_smooth_muscle	Fibroblast/SMC	retained_after_qc	7
+P21	GSM6213970	tumor	untreated	pre-treatment	pCR	18	Cycling_immune	Immune unresolved	retained_after_qc	33
+P21	GSM6213970	tumor	untreated	pre-treatment	pCR	19	Cycling_epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	59
+P21	GSM6213970	tumor	untreated	pre-treatment	pCR	20	Tuft_epithelial	Epithelial	retained_after_qc	6
+P21	GSM6213970	tumor	untreated	pre-treatment	pCR	21	Immune_mito_enriched	Immune unresolved	mitochondrial_marker_enriched	31
+P21	GSM6213970	tumor	untreated	pre-treatment	pCR	22	Lymphatic_endothelial	Endothelial	retained_after_qc	2
+P21	GSM6213970	tumor	untreated	pre-treatment	pCR	23	Immune_mixed_mito_enriched	Immune unresolved	mitochondrial_marker_enriched	1
+P21	GSM6213970	tumor	untreated	pre-treatment	pCR	24	Fibroblast_mito_enriched	Fibroblast/SMC	mitochondrial_marker_enriched	3
+P21	GSM6213970	tumor	untreated	pre-treatment	pCR	25	Myeloid_IG_enriched	Myeloid	retained_after_qc	1
+P23	GSM6213971	tumor	untreated	pre-treatment	pCR	0	Epithelial	Epithelial	retained_after_qc	1272
+P23	GSM6213971	tumor	untreated	pre-treatment	pCR	1	B_cell	B cell	retained_after_qc	46
+P23	GSM6213971	tumor	untreated	pre-treatment	pCR	2	Epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	21
+P23	GSM6213971	tumor	untreated	pre-treatment	pCR	3	CD4_T_cell	T/NK	retained_after_qc	500
+P23	GSM6213971	tumor	untreated	pre-treatment	pCR	4	Cytotoxic_T_NK	T/NK	retained_after_qc	1297
+P23	GSM6213971	tumor	untreated	pre-treatment	pCR	5	Cycling_epithelial	Epithelial	retained_after_qc	719
+P23	GSM6213971	tumor	untreated	pre-treatment	pCR	6	Epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	248
+P23	GSM6213971	tumor	untreated	pre-treatment	pCR	7	Endothelial	Endothelial	retained_after_qc	150
+P23	GSM6213971	tumor	untreated	pre-treatment	pCR	8	Colonocyte	Epithelial	retained_after_qc	350
+P23	GSM6213971	tumor	untreated	pre-treatment	pCR	9	Myeloid	Myeloid	retained_after_qc	126
+P23	GSM6213971	tumor	untreated	pre-treatment	pCR	10	T_cell	T/NK	retained_after_qc	234
+P23	GSM6213971	tumor	untreated	pre-treatment	pCR	11	Plasma_cell	Plasma	retained_after_qc	37
+P23	GSM6213971	tumor	untreated	pre-treatment	pCR	12	Erythroid_mito_enriched	Erythroid	mitochondrial_marker_enriched	6
+P23	GSM6213971	tumor	untreated	pre-treatment	pCR	13	BEST4_OTOP2_epithelial	Epithelial	retained_after_qc	9
+P23	GSM6213971	tumor	untreated	pre-treatment	pCR	14	Goblet	Epithelial	retained_after_qc	23
+P23	GSM6213971	tumor	untreated	pre-treatment	pCR	15	Colonocyte_mito_enriched	Epithelial	mitochondrial_marker_enriched	81
+P23	GSM6213971	tumor	untreated	pre-treatment	pCR	16	Fibroblast	Fibroblast/SMC	retained_after_qc	19
+P23	GSM6213971	tumor	untreated	pre-treatment	pCR	17	Pericyte_smooth_muscle	Fibroblast/SMC	retained_after_qc	74
+P23	GSM6213971	tumor	untreated	pre-treatment	pCR	18	Cycling_immune	Immune unresolved	retained_after_qc	182
+P23	GSM6213971	tumor	untreated	pre-treatment	pCR	19	Cycling_epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	35
+P23	GSM6213971	tumor	untreated	pre-treatment	pCR	21	Immune_mito_enriched	Immune unresolved	mitochondrial_marker_enriched	43
+P23	GSM6213971	tumor	untreated	pre-treatment	pCR	22	Lymphatic_endothelial	Endothelial	retained_after_qc	1
+P23	GSM6213971	tumor	untreated	pre-treatment	pCR	24	Fibroblast_mito_enriched	Fibroblast/SMC	mitochondrial_marker_enriched	1
+P23	GSM6213971	tumor	untreated	pre-treatment	pCR	25	Myeloid_IG_enriched	Myeloid	retained_after_qc	1
+P24	GSM6213972	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	0	Epithelial	Epithelial	retained_after_qc	562
+P24	GSM6213972	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	1	B_cell	B cell	retained_after_qc	99
+P24	GSM6213972	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	2	Epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	14
+P24	GSM6213972	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	3	CD4_T_cell	T/NK	retained_after_qc	345
+P24	GSM6213972	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	4	Cytotoxic_T_NK	T/NK	retained_after_qc	429
+P24	GSM6213972	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	5	Cycling_epithelial	Epithelial	retained_after_qc	331
+P24	GSM6213972	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	6	Epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	344
+P24	GSM6213972	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	7	Endothelial	Endothelial	retained_after_qc	768
+P24	GSM6213972	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	8	Colonocyte	Epithelial	retained_after_qc	310
+P24	GSM6213972	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	9	Myeloid	Myeloid	retained_after_qc	185
+P24	GSM6213972	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	10	T_cell	T/NK	retained_after_qc	217
+P24	GSM6213972	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	11	Plasma_cell	Plasma	retained_after_qc	192
+P24	GSM6213972	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	12	Erythroid_mito_enriched	Erythroid	mitochondrial_marker_enriched	22
+P24	GSM6213972	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	13	BEST4_OTOP2_epithelial	Epithelial	retained_after_qc	32
+P24	GSM6213972	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	14	Goblet	Epithelial	retained_after_qc	298
+P24	GSM6213972	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	15	Colonocyte_mito_enriched	Epithelial	mitochondrial_marker_enriched	77
+P24	GSM6213972	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	16	Fibroblast	Fibroblast/SMC	retained_after_qc	56
+P24	GSM6213972	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	17	Pericyte_smooth_muscle	Fibroblast/SMC	retained_after_qc	17
+P24	GSM6213972	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	18	Cycling_immune	Immune unresolved	retained_after_qc	23
+P24	GSM6213972	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	19	Cycling_epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	12
+P24	GSM6213972	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	20	Tuft_epithelial	Epithelial	retained_after_qc	10
+P24	GSM6213972	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	21	Immune_mito_enriched	Immune unresolved	mitochondrial_marker_enriched	43
+P24	GSM6213972	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	22	Lymphatic_endothelial	Endothelial	retained_after_qc	7
+P24	GSM6213972	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	24	Fibroblast_mito_enriched	Fibroblast/SMC	mitochondrial_marker_enriched	2
+P24	GSM6213973	tumor	untreated	pre-treatment	pCR	0	Epithelial	Epithelial	retained_after_qc	771
+P24	GSM6213973	tumor	untreated	pre-treatment	pCR	1	B_cell	B cell	retained_after_qc	61
+P24	GSM6213973	tumor	untreated	pre-treatment	pCR	2	Epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	915
+P24	GSM6213973	tumor	untreated	pre-treatment	pCR	3	CD4_T_cell	T/NK	retained_after_qc	243
+P24	GSM6213973	tumor	untreated	pre-treatment	pCR	4	Cytotoxic_T_NK	T/NK	retained_after_qc	252
+P24	GSM6213973	tumor	untreated	pre-treatment	pCR	5	Cycling_epithelial	Epithelial	retained_after_qc	413
+P24	GSM6213973	tumor	untreated	pre-treatment	pCR	6	Epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	689
+P24	GSM6213973	tumor	untreated	pre-treatment	pCR	7	Endothelial	Endothelial	retained_after_qc	31
+P24	GSM6213973	tumor	untreated	pre-treatment	pCR	8	Colonocyte	Epithelial	retained_after_qc	633
+P24	GSM6213973	tumor	untreated	pre-treatment	pCR	9	Myeloid	Myeloid	retained_after_qc	199
+P24	GSM6213973	tumor	untreated	pre-treatment	pCR	10	T_cell	T/NK	retained_after_qc	113
+P24	GSM6213973	tumor	untreated	pre-treatment	pCR	11	Plasma_cell	Plasma	retained_after_qc	303
+P24	GSM6213973	tumor	untreated	pre-treatment	pCR	12	Erythroid_mito_enriched	Erythroid	mitochondrial_marker_enriched	498
+P24	GSM6213973	tumor	untreated	pre-treatment	pCR	13	BEST4_OTOP2_epithelial	Epithelial	retained_after_qc	99
+P24	GSM6213973	tumor	untreated	pre-treatment	pCR	14	Goblet	Epithelial	retained_after_qc	412
+P24	GSM6213973	tumor	untreated	pre-treatment	pCR	15	Colonocyte_mito_enriched	Epithelial	mitochondrial_marker_enriched	474
+P24	GSM6213973	tumor	untreated	pre-treatment	pCR	16	Fibroblast	Fibroblast/SMC	retained_after_qc	14
+P24	GSM6213973	tumor	untreated	pre-treatment	pCR	18	Cycling_immune	Immune unresolved	retained_after_qc	47
+P24	GSM6213973	tumor	untreated	pre-treatment	pCR	19	Cycling_epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	52
+P24	GSM6213973	tumor	untreated	pre-treatment	pCR	20	Tuft_epithelial	Epithelial	retained_after_qc	287
+P24	GSM6213973	tumor	untreated	pre-treatment	pCR	24	Fibroblast_mito_enriched	Fibroblast/SMC	mitochondrial_marker_enriched	3
+P25	GSM6213974	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	0	Epithelial	Epithelial	retained_after_qc	346
+P25	GSM6213974	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	1	B_cell	B cell	retained_after_qc	607
+P25	GSM6213974	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	2	Epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	43
+P25	GSM6213974	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	3	CD4_T_cell	T/NK	retained_after_qc	541
+P25	GSM6213974	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	4	Cytotoxic_T_NK	T/NK	retained_after_qc	504
+P25	GSM6213974	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	5	Cycling_epithelial	Epithelial	retained_after_qc	102
+P25	GSM6213974	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	6	Epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	135
+P25	GSM6213974	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	7	Endothelial	Endothelial	retained_after_qc	1031
+P25	GSM6213974	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	8	Colonocyte	Epithelial	retained_after_qc	81
+P25	GSM6213974	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	9	Myeloid	Myeloid	retained_after_qc	465
+P25	GSM6213974	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	10	T_cell	T/NK	retained_after_qc	292
+P25	GSM6213974	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	11	Plasma_cell	Plasma	retained_after_qc	404
+P25	GSM6213974	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	12	Erythroid_mito_enriched	Erythroid	mitochondrial_marker_enriched	8
+P25	GSM6213974	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	13	BEST4_OTOP2_epithelial	Epithelial	retained_after_qc	20
+P25	GSM6213974	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	14	Goblet	Epithelial	retained_after_qc	41
+P25	GSM6213974	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	15	Colonocyte_mito_enriched	Epithelial	mitochondrial_marker_enriched	13
+P25	GSM6213974	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	16	Fibroblast	Fibroblast/SMC	retained_after_qc	182
+P25	GSM6213974	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	17	Pericyte_smooth_muscle	Fibroblast/SMC	retained_after_qc	141
+P25	GSM6213974	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	18	Cycling_immune	Immune unresolved	retained_after_qc	70
+P25	GSM6213974	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	19	Cycling_epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	16
+P25	GSM6213974	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	20	Tuft_epithelial	Epithelial	retained_after_qc	6
+P25	GSM6213974	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	21	Immune_mito_enriched	Immune unresolved	mitochondrial_marker_enriched	69
+P25	GSM6213974	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	22	Lymphatic_endothelial	Endothelial	retained_after_qc	14
+P25	GSM6213974	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	24	Fibroblast_mito_enriched	Fibroblast/SMC	mitochondrial_marker_enriched	20
+P25	GSM6213974	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	25	Myeloid_IG_enriched	Myeloid	retained_after_qc	1
+P25	GSM6213975	normal	Anti-PD-1+celecoxib	post-treatment	pCR	0	Epithelial	Epithelial	retained_after_qc	428
+P25	GSM6213975	normal	Anti-PD-1+celecoxib	post-treatment	pCR	1	B_cell	B cell	retained_after_qc	885
+P25	GSM6213975	normal	Anti-PD-1+celecoxib	post-treatment	pCR	2	Epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	81
+P25	GSM6213975	normal	Anti-PD-1+celecoxib	post-treatment	pCR	3	CD4_T_cell	T/NK	retained_after_qc	423
+P25	GSM6213975	normal	Anti-PD-1+celecoxib	post-treatment	pCR	4	Cytotoxic_T_NK	T/NK	retained_after_qc	192
+P25	GSM6213975	normal	Anti-PD-1+celecoxib	post-treatment	pCR	5	Cycling_epithelial	Epithelial	retained_after_qc	222
+P25	GSM6213975	normal	Anti-PD-1+celecoxib	post-treatment	pCR	6	Epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	201
+P25	GSM6213975	normal	Anti-PD-1+celecoxib	post-treatment	pCR	7	Endothelial	Endothelial	retained_after_qc	127
+P25	GSM6213975	normal	Anti-PD-1+celecoxib	post-treatment	pCR	8	Colonocyte	Epithelial	retained_after_qc	213
+P25	GSM6213975	normal	Anti-PD-1+celecoxib	post-treatment	pCR	9	Myeloid	Myeloid	retained_after_qc	169
+P25	GSM6213975	normal	Anti-PD-1+celecoxib	post-treatment	pCR	10	T_cell	T/NK	retained_after_qc	179
+P25	GSM6213975	normal	Anti-PD-1+celecoxib	post-treatment	pCR	11	Plasma_cell	Plasma	retained_after_qc	477
+P25	GSM6213975	normal	Anti-PD-1+celecoxib	post-treatment	pCR	12	Erythroid_mito_enriched	Erythroid	mitochondrial_marker_enriched	7
+P25	GSM6213975	normal	Anti-PD-1+celecoxib	post-treatment	pCR	13	BEST4_OTOP2_epithelial	Epithelial	retained_after_qc	51
+P25	GSM6213975	normal	Anti-PD-1+celecoxib	post-treatment	pCR	14	Goblet	Epithelial	retained_after_qc	51
+P25	GSM6213975	normal	Anti-PD-1+celecoxib	post-treatment	pCR	15	Colonocyte_mito_enriched	Epithelial	mitochondrial_marker_enriched	41
+P25	GSM6213975	normal	Anti-PD-1+celecoxib	post-treatment	pCR	16	Fibroblast	Fibroblast/SMC	retained_after_qc	71
+P25	GSM6213975	normal	Anti-PD-1+celecoxib	post-treatment	pCR	17	Pericyte_smooth_muscle	Fibroblast/SMC	retained_after_qc	41
+P25	GSM6213975	normal	Anti-PD-1+celecoxib	post-treatment	pCR	18	Cycling_immune	Immune unresolved	retained_after_qc	252
+P25	GSM6213975	normal	Anti-PD-1+celecoxib	post-treatment	pCR	19	Cycling_epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	14
+P25	GSM6213975	normal	Anti-PD-1+celecoxib	post-treatment	pCR	20	Tuft_epithelial	Epithelial	retained_after_qc	56
+P25	GSM6213975	normal	Anti-PD-1+celecoxib	post-treatment	pCR	21	Immune_mito_enriched	Immune unresolved	mitochondrial_marker_enriched	43
+P25	GSM6213975	normal	Anti-PD-1+celecoxib	post-treatment	pCR	22	Lymphatic_endothelial	Endothelial	retained_after_qc	26
+P25	GSM6213975	normal	Anti-PD-1+celecoxib	post-treatment	pCR	24	Fibroblast_mito_enriched	Fibroblast/SMC	mitochondrial_marker_enriched	6
+P25	GSM6213976	tumor	untreated	pre-treatment	pCR	0	Epithelial	Epithelial	retained_after_qc	1089
+P25	GSM6213976	tumor	untreated	pre-treatment	pCR	1	B_cell	B cell	retained_after_qc	791
+P25	GSM6213976	tumor	untreated	pre-treatment	pCR	2	Epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	10
+P25	GSM6213976	tumor	untreated	pre-treatment	pCR	3	CD4_T_cell	T/NK	retained_after_qc	489
+P25	GSM6213976	tumor	untreated	pre-treatment	pCR	4	Cytotoxic_T_NK	T/NK	retained_after_qc	339
+P25	GSM6213976	tumor	untreated	pre-treatment	pCR	5	Cycling_epithelial	Epithelial	retained_after_qc	794
+P25	GSM6213976	tumor	untreated	pre-treatment	pCR	6	Epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	251
+P25	GSM6213976	tumor	untreated	pre-treatment	pCR	7	Endothelial	Endothelial	retained_after_qc	50
+P25	GSM6213976	tumor	untreated	pre-treatment	pCR	8	Colonocyte	Epithelial	retained_after_qc	284
+P25	GSM6213976	tumor	untreated	pre-treatment	pCR	9	Myeloid	Myeloid	retained_after_qc	628
+P25	GSM6213976	tumor	untreated	pre-treatment	pCR	10	T_cell	T/NK	retained_after_qc	362
+P25	GSM6213976	tumor	untreated	pre-treatment	pCR	11	Plasma_cell	Plasma	retained_after_qc	888
+P25	GSM6213976	tumor	untreated	pre-treatment	pCR	12	Erythroid_mito_enriched	Erythroid	mitochondrial_marker_enriched	2
+P25	GSM6213976	tumor	untreated	pre-treatment	pCR	13	BEST4_OTOP2_epithelial	Epithelial	retained_after_qc	27
+P25	GSM6213976	tumor	untreated	pre-treatment	pCR	14	Goblet	Epithelial	retained_after_qc	66
+P25	GSM6213976	tumor	untreated	pre-treatment	pCR	15	Colonocyte_mito_enriched	Epithelial	mitochondrial_marker_enriched	44
+P25	GSM6213976	tumor	untreated	pre-treatment	pCR	16	Fibroblast	Fibroblast/SMC	retained_after_qc	70
+P25	GSM6213976	tumor	untreated	pre-treatment	pCR	17	Pericyte_smooth_muscle	Fibroblast/SMC	retained_after_qc	28
+P25	GSM6213976	tumor	untreated	pre-treatment	pCR	18	Cycling_immune	Immune unresolved	retained_after_qc	74
+P25	GSM6213976	tumor	untreated	pre-treatment	pCR	19	Cycling_epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	12
+P25	GSM6213976	tumor	untreated	pre-treatment	pCR	20	Tuft_epithelial	Epithelial	retained_after_qc	46
+P25	GSM6213976	tumor	untreated	pre-treatment	pCR	21	Immune_mito_enriched	Immune unresolved	mitochondrial_marker_enriched	39
+P25	GSM6213976	tumor	untreated	pre-treatment	pCR	22	Lymphatic_endothelial	Endothelial	retained_after_qc	3
+P25	GSM6213976	tumor	untreated	pre-treatment	pCR	24	Fibroblast_mito_enriched	Fibroblast/SMC	mitochondrial_marker_enriched	3
+P25	GSM6213976	tumor	untreated	pre-treatment	pCR	25	Myeloid_IG_enriched	Myeloid	retained_after_qc	1
+P26	GSM6213977	tumor	Anti-PD-1+celecoxib	post-treatment	non-pCR	0	Epithelial	Epithelial	retained_after_qc	675
+P26	GSM6213977	tumor	Anti-PD-1+celecoxib	post-treatment	non-pCR	1	B_cell	B cell	retained_after_qc	20
+P26	GSM6213977	tumor	Anti-PD-1+celecoxib	post-treatment	non-pCR	3	CD4_T_cell	T/NK	retained_after_qc	190
+P26	GSM6213977	tumor	Anti-PD-1+celecoxib	post-treatment	non-pCR	4	Cytotoxic_T_NK	T/NK	retained_after_qc	149
+P26	GSM6213977	tumor	Anti-PD-1+celecoxib	post-treatment	non-pCR	5	Cycling_epithelial	Epithelial	retained_after_qc	853
+P26	GSM6213977	tumor	Anti-PD-1+celecoxib	post-treatment	non-pCR	6	Epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	329
+P26	GSM6213977	tumor	Anti-PD-1+celecoxib	post-treatment	non-pCR	7	Endothelial	Endothelial	retained_after_qc	154
+P26	GSM6213977	tumor	Anti-PD-1+celecoxib	post-treatment	non-pCR	8	Colonocyte	Epithelial	retained_after_qc	140
+P26	GSM6213977	tumor	Anti-PD-1+celecoxib	post-treatment	non-pCR	9	Myeloid	Myeloid	retained_after_qc	679
+P26	GSM6213977	tumor	Anti-PD-1+celecoxib	post-treatment	non-pCR	10	T_cell	T/NK	retained_after_qc	79
+P26	GSM6213977	tumor	Anti-PD-1+celecoxib	post-treatment	non-pCR	11	Plasma_cell	Plasma	retained_after_qc	2
+P26	GSM6213977	tumor	Anti-PD-1+celecoxib	post-treatment	non-pCR	13	BEST4_OTOP2_epithelial	Epithelial	retained_after_qc	1
+P26	GSM6213977	tumor	Anti-PD-1+celecoxib	post-treatment	non-pCR	14	Goblet	Epithelial	retained_after_qc	580
+P26	GSM6213977	tumor	Anti-PD-1+celecoxib	post-treatment	non-pCR	15	Colonocyte_mito_enriched	Epithelial	mitochondrial_marker_enriched	26
+P26	GSM6213977	tumor	Anti-PD-1+celecoxib	post-treatment	non-pCR	16	Fibroblast	Fibroblast/SMC	retained_after_qc	4
+P26	GSM6213977	tumor	Anti-PD-1+celecoxib	post-treatment	non-pCR	17	Pericyte_smooth_muscle	Fibroblast/SMC	retained_after_qc	16
+P26	GSM6213977	tumor	Anti-PD-1+celecoxib	post-treatment	non-pCR	18	Cycling_immune	Immune unresolved	retained_after_qc	75
+P26	GSM6213977	tumor	Anti-PD-1+celecoxib	post-treatment	non-pCR	19	Cycling_epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	14
+P26	GSM6213977	tumor	Anti-PD-1+celecoxib	post-treatment	non-pCR	20	Tuft_epithelial	Epithelial	retained_after_qc	6
+P26	GSM6213977	tumor	Anti-PD-1+celecoxib	post-treatment	non-pCR	21	Immune_mito_enriched	Immune unresolved	mitochondrial_marker_enriched	3
+P26	GSM6213977	tumor	Anti-PD-1+celecoxib	post-treatment	non-pCR	22	Lymphatic_endothelial	Endothelial	retained_after_qc	1
+P26	GSM6213977	tumor	Anti-PD-1+celecoxib	post-treatment	non-pCR	24	Fibroblast_mito_enriched	Fibroblast/SMC	mitochondrial_marker_enriched	2
+P27	GSM6213978	tumor	anti-PD-1	post-treatment	pCR	0	Epithelial	Epithelial	retained_after_qc	270
+P27	GSM6213978	tumor	anti-PD-1	post-treatment	pCR	1	B_cell	B cell	retained_after_qc	256
+P27	GSM6213978	tumor	anti-PD-1	post-treatment	pCR	2	Epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	34
+P27	GSM6213978	tumor	anti-PD-1	post-treatment	pCR	3	CD4_T_cell	T/NK	retained_after_qc	593
+P27	GSM6213978	tumor	anti-PD-1	post-treatment	pCR	4	Cytotoxic_T_NK	T/NK	retained_after_qc	532
+P27	GSM6213978	tumor	anti-PD-1	post-treatment	pCR	5	Cycling_epithelial	Epithelial	retained_after_qc	65
+P27	GSM6213978	tumor	anti-PD-1	post-treatment	pCR	6	Epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	71
+P27	GSM6213978	tumor	anti-PD-1	post-treatment	pCR	7	Endothelial	Endothelial	retained_after_qc	549
+P27	GSM6213978	tumor	anti-PD-1	post-treatment	pCR	8	Colonocyte	Epithelial	retained_after_qc	41
+P27	GSM6213978	tumor	anti-PD-1	post-treatment	pCR	9	Myeloid	Myeloid	retained_after_qc	129
+P27	GSM6213978	tumor	anti-PD-1	post-treatment	pCR	10	T_cell	T/NK	retained_after_qc	380
+P27	GSM6213978	tumor	anti-PD-1	post-treatment	pCR	11	Plasma_cell	Plasma	retained_after_qc	177
+P27	GSM6213978	tumor	anti-PD-1	post-treatment	pCR	12	Erythroid_mito_enriched	Erythroid	mitochondrial_marker_enriched	12
+P27	GSM6213978	tumor	anti-PD-1	post-treatment	pCR	13	BEST4_OTOP2_epithelial	Epithelial	retained_after_qc	14
+P27	GSM6213978	tumor	anti-PD-1	post-treatment	pCR	14	Goblet	Epithelial	retained_after_qc	24
+P27	GSM6213978	tumor	anti-PD-1	post-treatment	pCR	15	Colonocyte_mito_enriched	Epithelial	mitochondrial_marker_enriched	17
+P27	GSM6213978	tumor	anti-PD-1	post-treatment	pCR	16	Fibroblast	Fibroblast/SMC	retained_after_qc	81
+P27	GSM6213978	tumor	anti-PD-1	post-treatment	pCR	17	Pericyte_smooth_muscle	Fibroblast/SMC	retained_after_qc	105
+P27	GSM6213978	tumor	anti-PD-1	post-treatment	pCR	18	Cycling_immune	Immune unresolved	retained_after_qc	12
+P27	GSM6213978	tumor	anti-PD-1	post-treatment	pCR	19	Cycling_epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	12
+P27	GSM6213978	tumor	anti-PD-1	post-treatment	pCR	20	Tuft_epithelial	Epithelial	retained_after_qc	3
+P27	GSM6213978	tumor	anti-PD-1	post-treatment	pCR	21	Immune_mito_enriched	Immune unresolved	mitochondrial_marker_enriched	111
+P27	GSM6213978	tumor	anti-PD-1	post-treatment	pCR	22	Lymphatic_endothelial	Endothelial	retained_after_qc	10
+P27	GSM6213978	tumor	anti-PD-1	post-treatment	pCR	24	Fibroblast_mito_enriched	Fibroblast/SMC	mitochondrial_marker_enriched	3
+P27	GSM6213979	normal	anti-PD-1	post-treatment	pCR	0	Epithelial	Epithelial	retained_after_qc	838
+P27	GSM6213979	normal	anti-PD-1	post-treatment	pCR	1	B_cell	B cell	retained_after_qc	161
+P27	GSM6213979	normal	anti-PD-1	post-treatment	pCR	2	Epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	821
+P27	GSM6213979	normal	anti-PD-1	post-treatment	pCR	3	CD4_T_cell	T/NK	retained_after_qc	361
+P27	GSM6213979	normal	anti-PD-1	post-treatment	pCR	4	Cytotoxic_T_NK	T/NK	retained_after_qc	286
+P27	GSM6213979	normal	anti-PD-1	post-treatment	pCR	5	Cycling_epithelial	Epithelial	retained_after_qc	472
+P27	GSM6213979	normal	anti-PD-1	post-treatment	pCR	6	Epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	557
+P27	GSM6213979	normal	anti-PD-1	post-treatment	pCR	7	Endothelial	Endothelial	retained_after_qc	34
+P27	GSM6213979	normal	anti-PD-1	post-treatment	pCR	8	Colonocyte	Epithelial	retained_after_qc	961
+P27	GSM6213979	normal	anti-PD-1	post-treatment	pCR	9	Myeloid	Myeloid	retained_after_qc	34
+P27	GSM6213979	normal	anti-PD-1	post-treatment	pCR	10	T_cell	T/NK	retained_after_qc	129
+P27	GSM6213979	normal	anti-PD-1	post-treatment	pCR	11	Plasma_cell	Plasma	retained_after_qc	67
+P27	GSM6213979	normal	anti-PD-1	post-treatment	pCR	12	Erythroid_mito_enriched	Erythroid	mitochondrial_marker_enriched	459
+P27	GSM6213979	normal	anti-PD-1	post-treatment	pCR	13	BEST4_OTOP2_epithelial	Epithelial	retained_after_qc	432
+P27	GSM6213979	normal	anti-PD-1	post-treatment	pCR	14	Goblet	Epithelial	retained_after_qc	110
+P27	GSM6213979	normal	anti-PD-1	post-treatment	pCR	15	Colonocyte_mito_enriched	Epithelial	mitochondrial_marker_enriched	292
+P27	GSM6213979	normal	anti-PD-1	post-treatment	pCR	16	Fibroblast	Fibroblast/SMC	retained_after_qc	25
+P27	GSM6213979	normal	anti-PD-1	post-treatment	pCR	17	Pericyte_smooth_muscle	Fibroblast/SMC	retained_after_qc	28
+P27	GSM6213979	normal	anti-PD-1	post-treatment	pCR	18	Cycling_immune	Immune unresolved	retained_after_qc	51
+P27	GSM6213979	normal	anti-PD-1	post-treatment	pCR	19	Cycling_epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	160
+P27	GSM6213979	normal	anti-PD-1	post-treatment	pCR	20	Tuft_epithelial	Epithelial	retained_after_qc	147
+P27	GSM6213979	normal	anti-PD-1	post-treatment	pCR	22	Lymphatic_endothelial	Endothelial	retained_after_qc	39
+P27	GSM6213979	normal	anti-PD-1	post-treatment	pCR	24	Fibroblast_mito_enriched	Fibroblast/SMC	mitochondrial_marker_enriched	1
+P27	GSM6213980	tumor	untreated	pre-treatment	pCR	0	Epithelial	Epithelial	retained_after_qc	1226
+P27	GSM6213980	tumor	untreated	pre-treatment	pCR	1	B_cell	B cell	retained_after_qc	56
+P27	GSM6213980	tumor	untreated	pre-treatment	pCR	2	Epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	91
+P27	GSM6213980	tumor	untreated	pre-treatment	pCR	3	CD4_T_cell	T/NK	retained_after_qc	216
+P27	GSM6213980	tumor	untreated	pre-treatment	pCR	4	Cytotoxic_T_NK	T/NK	retained_after_qc	186
+P27	GSM6213980	tumor	untreated	pre-treatment	pCR	5	Cycling_epithelial	Epithelial	retained_after_qc	737
+P27	GSM6213980	tumor	untreated	pre-treatment	pCR	6	Epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	890
+P27	GSM6213980	tumor	untreated	pre-treatment	pCR	7	Endothelial	Endothelial	retained_after_qc	289
+P27	GSM6213980	tumor	untreated	pre-treatment	pCR	8	Colonocyte	Epithelial	retained_after_qc	717
+P27	GSM6213980	tumor	untreated	pre-treatment	pCR	9	Myeloid	Myeloid	retained_after_qc	466
+P27	GSM6213980	tumor	untreated	pre-treatment	pCR	10	T_cell	T/NK	retained_after_qc	126
+P27	GSM6213980	tumor	untreated	pre-treatment	pCR	11	Plasma_cell	Plasma	retained_after_qc	332
+P27	GSM6213980	tumor	untreated	pre-treatment	pCR	12	Erythroid_mito_enriched	Erythroid	mitochondrial_marker_enriched	14
+P27	GSM6213980	tumor	untreated	pre-treatment	pCR	13	BEST4_OTOP2_epithelial	Epithelial	retained_after_qc	117
+P27	GSM6213980	tumor	untreated	pre-treatment	pCR	14	Goblet	Epithelial	retained_after_qc	314
+P27	GSM6213980	tumor	untreated	pre-treatment	pCR	15	Colonocyte_mito_enriched	Epithelial	mitochondrial_marker_enriched	276
+P27	GSM6213980	tumor	untreated	pre-treatment	pCR	16	Fibroblast	Fibroblast/SMC	retained_after_qc	91
+P27	GSM6213980	tumor	untreated	pre-treatment	pCR	17	Pericyte_smooth_muscle	Fibroblast/SMC	retained_after_qc	94
+P27	GSM6213980	tumor	untreated	pre-treatment	pCR	18	Cycling_immune	Immune unresolved	retained_after_qc	80
+P27	GSM6213980	tumor	untreated	pre-treatment	pCR	19	Cycling_epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	56
+P27	GSM6213980	tumor	untreated	pre-treatment	pCR	20	Tuft_epithelial	Epithelial	retained_after_qc	94
+P27	GSM6213980	tumor	untreated	pre-treatment	pCR	21	Immune_mito_enriched	Immune unresolved	mitochondrial_marker_enriched	91
+P27	GSM6213980	tumor	untreated	pre-treatment	pCR	22	Lymphatic_endothelial	Endothelial	retained_after_qc	6
+P27	GSM6213980	tumor	untreated	pre-treatment	pCR	23	Immune_mixed_mito_enriched	Immune unresolved	mitochondrial_marker_enriched	4
+P27	GSM6213980	tumor	untreated	pre-treatment	pCR	24	Fibroblast_mito_enriched	Fibroblast/SMC	mitochondrial_marker_enriched	19
+P28	GSM6213981	tumor	anti-PD-1	post-treatment	pCR	0	Epithelial	Epithelial	retained_after_qc	366
+P28	GSM6213981	tumor	anti-PD-1	post-treatment	pCR	1	B_cell	B cell	retained_after_qc	163
+P28	GSM6213981	tumor	anti-PD-1	post-treatment	pCR	2	Epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	383
+P28	GSM6213981	tumor	anti-PD-1	post-treatment	pCR	3	CD4_T_cell	T/NK	retained_after_qc	268
+P28	GSM6213981	tumor	anti-PD-1	post-treatment	pCR	4	Cytotoxic_T_NK	T/NK	retained_after_qc	202
+P28	GSM6213981	tumor	anti-PD-1	post-treatment	pCR	5	Cycling_epithelial	Epithelial	retained_after_qc	128
+P28	GSM6213981	tumor	anti-PD-1	post-treatment	pCR	6	Epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	323
+P28	GSM6213981	tumor	anti-PD-1	post-treatment	pCR	7	Endothelial	Endothelial	retained_after_qc	276
+P28	GSM6213981	tumor	anti-PD-1	post-treatment	pCR	8	Colonocyte	Epithelial	retained_after_qc	202
+P28	GSM6213981	tumor	anti-PD-1	post-treatment	pCR	9	Myeloid	Myeloid	retained_after_qc	105
+P28	GSM6213981	tumor	anti-PD-1	post-treatment	pCR	10	T_cell	T/NK	retained_after_qc	91
+P28	GSM6213981	tumor	anti-PD-1	post-treatment	pCR	11	Plasma_cell	Plasma	retained_after_qc	102
+P28	GSM6213981	tumor	anti-PD-1	post-treatment	pCR	12	Erythroid_mito_enriched	Erythroid	mitochondrial_marker_enriched	175
+P28	GSM6213981	tumor	anti-PD-1	post-treatment	pCR	13	BEST4_OTOP2_epithelial	Epithelial	retained_after_qc	155
+P28	GSM6213981	tumor	anti-PD-1	post-treatment	pCR	14	Goblet	Epithelial	retained_after_qc	56
+P28	GSM6213981	tumor	anti-PD-1	post-treatment	pCR	15	Colonocyte_mito_enriched	Epithelial	mitochondrial_marker_enriched	85
+P28	GSM6213981	tumor	anti-PD-1	post-treatment	pCR	16	Fibroblast	Fibroblast/SMC	retained_after_qc	32
+P28	GSM6213981	tumor	anti-PD-1	post-treatment	pCR	17	Pericyte_smooth_muscle	Fibroblast/SMC	retained_after_qc	31
+P28	GSM6213981	tumor	anti-PD-1	post-treatment	pCR	18	Cycling_immune	Immune unresolved	retained_after_qc	14
+P28	GSM6213981	tumor	anti-PD-1	post-treatment	pCR	19	Cycling_epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	36
+P28	GSM6213981	tumor	anti-PD-1	post-treatment	pCR	20	Tuft_epithelial	Epithelial	retained_after_qc	42
+P28	GSM6213981	tumor	anti-PD-1	post-treatment	pCR	21	Immune_mito_enriched	Immune unresolved	mitochondrial_marker_enriched	24
+P28	GSM6213981	tumor	anti-PD-1	post-treatment	pCR	22	Lymphatic_endothelial	Endothelial	retained_after_qc	4
+P28	GSM6213981	tumor	anti-PD-1	post-treatment	pCR	24	Fibroblast_mito_enriched	Fibroblast/SMC	mitochondrial_marker_enriched	8
+P28	GSM6213982	normal	anti-PD-1	post-treatment	pCR	0	Epithelial	Epithelial	retained_after_qc	452
+P28	GSM6213982	normal	anti-PD-1	post-treatment	pCR	1	B_cell	B cell	retained_after_qc	314
+P28	GSM6213982	normal	anti-PD-1	post-treatment	pCR	2	Epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	1355
+P28	GSM6213982	normal	anti-PD-1	post-treatment	pCR	3	CD4_T_cell	T/NK	retained_after_qc	405
+P28	GSM6213982	normal	anti-PD-1	post-treatment	pCR	4	Cytotoxic_T_NK	T/NK	retained_after_qc	296
+P28	GSM6213982	normal	anti-PD-1	post-treatment	pCR	5	Cycling_epithelial	Epithelial	retained_after_qc	452
+P28	GSM6213982	normal	anti-PD-1	post-treatment	pCR	6	Epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	854
+P28	GSM6213982	normal	anti-PD-1	post-treatment	pCR	7	Endothelial	Endothelial	retained_after_qc	128
+P28	GSM6213982	normal	anti-PD-1	post-treatment	pCR	8	Colonocyte	Epithelial	retained_after_qc	361
+P28	GSM6213982	normal	anti-PD-1	post-treatment	pCR	9	Myeloid	Myeloid	retained_after_qc	75
+P28	GSM6213982	normal	anti-PD-1	post-treatment	pCR	10	T_cell	T/NK	retained_after_qc	108
+P28	GSM6213982	normal	anti-PD-1	post-treatment	pCR	11	Plasma_cell	Plasma	retained_after_qc	52
+P28	GSM6213982	normal	anti-PD-1	post-treatment	pCR	12	Erythroid_mito_enriched	Erythroid	mitochondrial_marker_enriched	694
+P28	GSM6213982	normal	anti-PD-1	post-treatment	pCR	13	BEST4_OTOP2_epithelial	Epithelial	retained_after_qc	906
+P28	GSM6213982	normal	anti-PD-1	post-treatment	pCR	14	Goblet	Epithelial	retained_after_qc	233
+P28	GSM6213982	normal	anti-PD-1	post-treatment	pCR	15	Colonocyte_mito_enriched	Epithelial	mitochondrial_marker_enriched	187
+P28	GSM6213982	normal	anti-PD-1	post-treatment	pCR	16	Fibroblast	Fibroblast/SMC	retained_after_qc	48
+P28	GSM6213982	normal	anti-PD-1	post-treatment	pCR	17	Pericyte_smooth_muscle	Fibroblast/SMC	retained_after_qc	65
+P28	GSM6213982	normal	anti-PD-1	post-treatment	pCR	18	Cycling_immune	Immune unresolved	retained_after_qc	84
+P28	GSM6213982	normal	anti-PD-1	post-treatment	pCR	19	Cycling_epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	334
+P28	GSM6213982	normal	anti-PD-1	post-treatment	pCR	20	Tuft_epithelial	Epithelial	retained_after_qc	480
+P28	GSM6213982	normal	anti-PD-1	post-treatment	pCR	21	Immune_mito_enriched	Immune unresolved	mitochondrial_marker_enriched	2
+P28	GSM6213982	normal	anti-PD-1	post-treatment	pCR	22	Lymphatic_endothelial	Endothelial	retained_after_qc	44
+P28	GSM6213982	normal	anti-PD-1	post-treatment	pCR	24	Fibroblast_mito_enriched	Fibroblast/SMC	mitochondrial_marker_enriched	12
+P28	GSM6213983	tumor	untreated	pre-treatment	pCR	0	Epithelial	Epithelial	retained_after_qc	505
+P28	GSM6213983	tumor	untreated	pre-treatment	pCR	1	B_cell	B cell	retained_after_qc	220
+P28	GSM6213983	tumor	untreated	pre-treatment	pCR	2	Epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	12
+P28	GSM6213983	tumor	untreated	pre-treatment	pCR	3	CD4_T_cell	T/NK	retained_after_qc	129
+P28	GSM6213983	tumor	untreated	pre-treatment	pCR	4	Cytotoxic_T_NK	T/NK	retained_after_qc	203
+P28	GSM6213983	tumor	untreated	pre-treatment	pCR	5	Cycling_epithelial	Epithelial	retained_after_qc	273
+P28	GSM6213983	tumor	untreated	pre-treatment	pCR	6	Epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	217
+P28	GSM6213983	tumor	untreated	pre-treatment	pCR	7	Endothelial	Endothelial	retained_after_qc	156
+P28	GSM6213983	tumor	untreated	pre-treatment	pCR	8	Colonocyte	Epithelial	retained_after_qc	70
+P28	GSM6213983	tumor	untreated	pre-treatment	pCR	9	Myeloid	Myeloid	retained_after_qc	424
+P28	GSM6213983	tumor	untreated	pre-treatment	pCR	10	T_cell	T/NK	retained_after_qc	92
+P28	GSM6213983	tumor	untreated	pre-treatment	pCR	11	Plasma_cell	Plasma	retained_after_qc	255
+P28	GSM6213983	tumor	untreated	pre-treatment	pCR	12	Erythroid_mito_enriched	Erythroid	mitochondrial_marker_enriched	5
+P28	GSM6213983	tumor	untreated	pre-treatment	pCR	13	BEST4_OTOP2_epithelial	Epithelial	retained_after_qc	14
+P28	GSM6213983	tumor	untreated	pre-treatment	pCR	14	Goblet	Epithelial	retained_after_qc	322
+P28	GSM6213983	tumor	untreated	pre-treatment	pCR	15	Colonocyte_mito_enriched	Epithelial	mitochondrial_marker_enriched	42
+P28	GSM6213983	tumor	untreated	pre-treatment	pCR	16	Fibroblast	Fibroblast/SMC	retained_after_qc	59
+P28	GSM6213983	tumor	untreated	pre-treatment	pCR	17	Pericyte_smooth_muscle	Fibroblast/SMC	retained_after_qc	23
+P28	GSM6213983	tumor	untreated	pre-treatment	pCR	18	Cycling_immune	Immune unresolved	retained_after_qc	37
+P28	GSM6213983	tumor	untreated	pre-treatment	pCR	19	Cycling_epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	7
+P28	GSM6213983	tumor	untreated	pre-treatment	pCR	20	Tuft_epithelial	Epithelial	retained_after_qc	55
+P28	GSM6213983	tumor	untreated	pre-treatment	pCR	21	Immune_mito_enriched	Immune unresolved	mitochondrial_marker_enriched	68
+P28	GSM6213983	tumor	untreated	pre-treatment	pCR	22	Lymphatic_endothelial	Endothelial	retained_after_qc	2
+P28	GSM6213983	tumor	untreated	pre-treatment	pCR	24	Fibroblast_mito_enriched	Fibroblast/SMC	mitochondrial_marker_enriched	1
+P29	GSM6213984	tumor	anti-PD-1	post-treatment	pCR	0	Epithelial	Epithelial	retained_after_qc	684
+P29	GSM6213984	tumor	anti-PD-1	post-treatment	pCR	1	B_cell	B cell	retained_after_qc	834
+P29	GSM6213984	tumor	anti-PD-1	post-treatment	pCR	2	Epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	21
+P29	GSM6213984	tumor	anti-PD-1	post-treatment	pCR	3	CD4_T_cell	T/NK	retained_after_qc	428
+P29	GSM6213984	tumor	anti-PD-1	post-treatment	pCR	4	Cytotoxic_T_NK	T/NK	retained_after_qc	444
+P29	GSM6213984	tumor	anti-PD-1	post-treatment	pCR	5	Cycling_epithelial	Epithelial	retained_after_qc	133
+P29	GSM6213984	tumor	anti-PD-1	post-treatment	pCR	6	Epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	429
+P29	GSM6213984	tumor	anti-PD-1	post-treatment	pCR	7	Endothelial	Endothelial	retained_after_qc	674
+P29	GSM6213984	tumor	anti-PD-1	post-treatment	pCR	8	Colonocyte	Epithelial	retained_after_qc	254
+P29	GSM6213984	tumor	anti-PD-1	post-treatment	pCR	9	Myeloid	Myeloid	retained_after_qc	150
+P29	GSM6213984	tumor	anti-PD-1	post-treatment	pCR	10	T_cell	T/NK	retained_after_qc	254
+P29	GSM6213984	tumor	anti-PD-1	post-treatment	pCR	11	Plasma_cell	Plasma	retained_after_qc	199
+P29	GSM6213984	tumor	anti-PD-1	post-treatment	pCR	12	Erythroid_mito_enriched	Erythroid	mitochondrial_marker_enriched	2
+P29	GSM6213984	tumor	anti-PD-1	post-treatment	pCR	13	BEST4_OTOP2_epithelial	Epithelial	retained_after_qc	27
+P29	GSM6213984	tumor	anti-PD-1	post-treatment	pCR	14	Goblet	Epithelial	retained_after_qc	77
+P29	GSM6213984	tumor	anti-PD-1	post-treatment	pCR	15	Colonocyte_mito_enriched	Epithelial	mitochondrial_marker_enriched	60
+P29	GSM6213984	tumor	anti-PD-1	post-treatment	pCR	16	Fibroblast	Fibroblast/SMC	retained_after_qc	74
+P29	GSM6213984	tumor	anti-PD-1	post-treatment	pCR	17	Pericyte_smooth_muscle	Fibroblast/SMC	retained_after_qc	136
+P29	GSM6213984	tumor	anti-PD-1	post-treatment	pCR	18	Cycling_immune	Immune unresolved	retained_after_qc	149
+P29	GSM6213984	tumor	anti-PD-1	post-treatment	pCR	19	Cycling_epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	8
+P29	GSM6213984	tumor	anti-PD-1	post-treatment	pCR	20	Tuft_epithelial	Epithelial	retained_after_qc	30
+P29	GSM6213984	tumor	anti-PD-1	post-treatment	pCR	21	Immune_mito_enriched	Immune unresolved	mitochondrial_marker_enriched	36
+P29	GSM6213984	tumor	anti-PD-1	post-treatment	pCR	22	Lymphatic_endothelial	Endothelial	retained_after_qc	9
+P29	GSM6213984	tumor	anti-PD-1	post-treatment	pCR	24	Fibroblast_mito_enriched	Fibroblast/SMC	mitochondrial_marker_enriched	8
+P29	GSM6213985	normal	anti-PD-1	post-treatment	pCR	0	Epithelial	Epithelial	retained_after_qc	388
+P29	GSM6213985	normal	anti-PD-1	post-treatment	pCR	1	B_cell	B cell	retained_after_qc	384
+P29	GSM6213985	normal	anti-PD-1	post-treatment	pCR	2	Epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	917
+P29	GSM6213985	normal	anti-PD-1	post-treatment	pCR	3	CD4_T_cell	T/NK	retained_after_qc	137
+P29	GSM6213985	normal	anti-PD-1	post-treatment	pCR	4	Cytotoxic_T_NK	T/NK	retained_after_qc	84
+P29	GSM6213985	normal	anti-PD-1	post-treatment	pCR	5	Cycling_epithelial	Epithelial	retained_after_qc	264
+P29	GSM6213985	normal	anti-PD-1	post-treatment	pCR	6	Epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	418
+P29	GSM6213985	normal	anti-PD-1	post-treatment	pCR	7	Endothelial	Endothelial	retained_after_qc	73
+P29	GSM6213985	normal	anti-PD-1	post-treatment	pCR	8	Colonocyte	Epithelial	retained_after_qc	464
+P29	GSM6213985	normal	anti-PD-1	post-treatment	pCR	9	Myeloid	Myeloid	retained_after_qc	44
+P29	GSM6213985	normal	anti-PD-1	post-treatment	pCR	10	T_cell	T/NK	retained_after_qc	70
+P29	GSM6213985	normal	anti-PD-1	post-treatment	pCR	11	Plasma_cell	Plasma	retained_after_qc	34
+P29	GSM6213985	normal	anti-PD-1	post-treatment	pCR	12	Erythroid_mito_enriched	Erythroid	mitochondrial_marker_enriched	588
+P29	GSM6213985	normal	anti-PD-1	post-treatment	pCR	13	BEST4_OTOP2_epithelial	Epithelial	retained_after_qc	281
+P29	GSM6213985	normal	anti-PD-1	post-treatment	pCR	14	Goblet	Epithelial	retained_after_qc	85
+P29	GSM6213985	normal	anti-PD-1	post-treatment	pCR	15	Colonocyte_mito_enriched	Epithelial	mitochondrial_marker_enriched	191
+P29	GSM6213985	normal	anti-PD-1	post-treatment	pCR	16	Fibroblast	Fibroblast/SMC	retained_after_qc	56
+P29	GSM6213985	normal	anti-PD-1	post-treatment	pCR	17	Pericyte_smooth_muscle	Fibroblast/SMC	retained_after_qc	37
+P29	GSM6213985	normal	anti-PD-1	post-treatment	pCR	18	Cycling_immune	Immune unresolved	retained_after_qc	48
+P29	GSM6213985	normal	anti-PD-1	post-treatment	pCR	19	Cycling_epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	149
+P29	GSM6213985	normal	anti-PD-1	post-treatment	pCR	20	Tuft_epithelial	Epithelial	retained_after_qc	221
+P29	GSM6213985	normal	anti-PD-1	post-treatment	pCR	21	Immune_mito_enriched	Immune unresolved	mitochondrial_marker_enriched	1
+P29	GSM6213985	normal	anti-PD-1	post-treatment	pCR	22	Lymphatic_endothelial	Endothelial	retained_after_qc	36
+P29	GSM6213985	normal	anti-PD-1	post-treatment	pCR	24	Fibroblast_mito_enriched	Fibroblast/SMC	mitochondrial_marker_enriched	7
+P30	GSM6213986	tumor	anti-PD-1	post-treatment	pCR	0	Epithelial	Epithelial	retained_after_qc	187
+P30	GSM6213986	tumor	anti-PD-1	post-treatment	pCR	1	B_cell	B cell	retained_after_qc	652
+P30	GSM6213986	tumor	anti-PD-1	post-treatment	pCR	2	Epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	247
+P30	GSM6213986	tumor	anti-PD-1	post-treatment	pCR	3	CD4_T_cell	T/NK	retained_after_qc	415
+P30	GSM6213986	tumor	anti-PD-1	post-treatment	pCR	4	Cytotoxic_T_NK	T/NK	retained_after_qc	193
+P30	GSM6213986	tumor	anti-PD-1	post-treatment	pCR	5	Cycling_epithelial	Epithelial	retained_after_qc	83
+P30	GSM6213986	tumor	anti-PD-1	post-treatment	pCR	6	Epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	247
+P30	GSM6213986	tumor	anti-PD-1	post-treatment	pCR	7	Endothelial	Endothelial	retained_after_qc	911
+P30	GSM6213986	tumor	anti-PD-1	post-treatment	pCR	8	Colonocyte	Epithelial	retained_after_qc	167
+P30	GSM6213986	tumor	anti-PD-1	post-treatment	pCR	9	Myeloid	Myeloid	retained_after_qc	143
+P30	GSM6213986	tumor	anti-PD-1	post-treatment	pCR	10	T_cell	T/NK	retained_after_qc	275
+P30	GSM6213986	tumor	anti-PD-1	post-treatment	pCR	11	Plasma_cell	Plasma	retained_after_qc	110
+P30	GSM6213986	tumor	anti-PD-1	post-treatment	pCR	12	Erythroid_mito_enriched	Erythroid	mitochondrial_marker_enriched	43
+P30	GSM6213986	tumor	anti-PD-1	post-treatment	pCR	13	BEST4_OTOP2_epithelial	Epithelial	retained_after_qc	65
+P30	GSM6213986	tumor	anti-PD-1	post-treatment	pCR	14	Goblet	Epithelial	retained_after_qc	15
+P30	GSM6213986	tumor	anti-PD-1	post-treatment	pCR	15	Colonocyte_mito_enriched	Epithelial	mitochondrial_marker_enriched	124
+P30	GSM6213986	tumor	anti-PD-1	post-treatment	pCR	16	Fibroblast	Fibroblast/SMC	retained_after_qc	107
+P30	GSM6213986	tumor	anti-PD-1	post-treatment	pCR	17	Pericyte_smooth_muscle	Fibroblast/SMC	retained_after_qc	107
+P30	GSM6213986	tumor	anti-PD-1	post-treatment	pCR	18	Cycling_immune	Immune unresolved	retained_after_qc	74
+P30	GSM6213986	tumor	anti-PD-1	post-treatment	pCR	19	Cycling_epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	35
+P30	GSM6213986	tumor	anti-PD-1	post-treatment	pCR	20	Tuft_epithelial	Epithelial	retained_after_qc	25
+P30	GSM6213986	tumor	anti-PD-1	post-treatment	pCR	21	Immune_mito_enriched	Immune unresolved	mitochondrial_marker_enriched	284
+P30	GSM6213986	tumor	anti-PD-1	post-treatment	pCR	22	Lymphatic_endothelial	Endothelial	retained_after_qc	33
+P30	GSM6213986	tumor	anti-PD-1	post-treatment	pCR	24	Fibroblast_mito_enriched	Fibroblast/SMC	mitochondrial_marker_enriched	36
+P30	GSM6213987	normal	anti-PD-1	post-treatment	pCR	0	Epithelial	Epithelial	retained_after_qc	475
+P30	GSM6213987	normal	anti-PD-1	post-treatment	pCR	1	B_cell	B cell	retained_after_qc	78
+P30	GSM6213987	normal	anti-PD-1	post-treatment	pCR	2	Epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	884
+P30	GSM6213987	normal	anti-PD-1	post-treatment	pCR	3	CD4_T_cell	T/NK	retained_after_qc	185
+P30	GSM6213987	normal	anti-PD-1	post-treatment	pCR	4	Cytotoxic_T_NK	T/NK	retained_after_qc	128
+P30	GSM6213987	normal	anti-PD-1	post-treatment	pCR	5	Cycling_epithelial	Epithelial	retained_after_qc	237
+P30	GSM6213987	normal	anti-PD-1	post-treatment	pCR	6	Epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	478
+P30	GSM6213987	normal	anti-PD-1	post-treatment	pCR	7	Endothelial	Endothelial	retained_after_qc	398
+P30	GSM6213987	normal	anti-PD-1	post-treatment	pCR	8	Colonocyte	Epithelial	retained_after_qc	523
+P30	GSM6213987	normal	anti-PD-1	post-treatment	pCR	9	Myeloid	Myeloid	retained_after_qc	112
+P30	GSM6213987	normal	anti-PD-1	post-treatment	pCR	10	T_cell	T/NK	retained_after_qc	56
+P30	GSM6213987	normal	anti-PD-1	post-treatment	pCR	11	Plasma_cell	Plasma	retained_after_qc	23
+P30	GSM6213987	normal	anti-PD-1	post-treatment	pCR	12	Erythroid_mito_enriched	Erythroid	mitochondrial_marker_enriched	491
+P30	GSM6213987	normal	anti-PD-1	post-treatment	pCR	13	BEST4_OTOP2_epithelial	Epithelial	retained_after_qc	358
+P30	GSM6213987	normal	anti-PD-1	post-treatment	pCR	14	Goblet	Epithelial	retained_after_qc	75
+P30	GSM6213987	normal	anti-PD-1	post-treatment	pCR	15	Colonocyte_mito_enriched	Epithelial	mitochondrial_marker_enriched	228
+P30	GSM6213987	normal	anti-PD-1	post-treatment	pCR	16	Fibroblast	Fibroblast/SMC	retained_after_qc	348
+P30	GSM6213987	normal	anti-PD-1	post-treatment	pCR	17	Pericyte_smooth_muscle	Fibroblast/SMC	retained_after_qc	174
+P30	GSM6213987	normal	anti-PD-1	post-treatment	pCR	18	Cycling_immune	Immune unresolved	retained_after_qc	13
+P30	GSM6213987	normal	anti-PD-1	post-treatment	pCR	19	Cycling_epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	193
+P30	GSM6213987	normal	anti-PD-1	post-treatment	pCR	20	Tuft_epithelial	Epithelial	retained_after_qc	105
+P30	GSM6213987	normal	anti-PD-1	post-treatment	pCR	22	Lymphatic_endothelial	Endothelial	retained_after_qc	187
+P30	GSM6213987	normal	anti-PD-1	post-treatment	pCR	24	Fibroblast_mito_enriched	Fibroblast/SMC	mitochondrial_marker_enriched	57
+P30	GSM6213988	tumor	untreated	pre-treatment	pCR	0	Epithelial	Epithelial	retained_after_qc	1141
+P30	GSM6213988	tumor	untreated	pre-treatment	pCR	1	B_cell	B cell	retained_after_qc	1173
+P30	GSM6213988	tumor	untreated	pre-treatment	pCR	2	Epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	111
+P30	GSM6213988	tumor	untreated	pre-treatment	pCR	3	CD4_T_cell	T/NK	retained_after_qc	908
+P30	GSM6213988	tumor	untreated	pre-treatment	pCR	4	Cytotoxic_T_NK	T/NK	retained_after_qc	486
+P30	GSM6213988	tumor	untreated	pre-treatment	pCR	5	Cycling_epithelial	Epithelial	retained_after_qc	778
+P30	GSM6213988	tumor	untreated	pre-treatment	pCR	6	Epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	828
+P30	GSM6213988	tumor	untreated	pre-treatment	pCR	7	Endothelial	Endothelial	retained_after_qc	455
+P30	GSM6213988	tumor	untreated	pre-treatment	pCR	8	Colonocyte	Epithelial	retained_after_qc	314
+P30	GSM6213988	tumor	untreated	pre-treatment	pCR	9	Myeloid	Myeloid	retained_after_qc	335
+P30	GSM6213988	tumor	untreated	pre-treatment	pCR	10	T_cell	T/NK	retained_after_qc	466
+P30	GSM6213988	tumor	untreated	pre-treatment	pCR	11	Plasma_cell	Plasma	retained_after_qc	544
+P30	GSM6213988	tumor	untreated	pre-treatment	pCR	12	Erythroid_mito_enriched	Erythroid	mitochondrial_marker_enriched	22
+P30	GSM6213988	tumor	untreated	pre-treatment	pCR	13	BEST4_OTOP2_epithelial	Epithelial	retained_after_qc	17
+P30	GSM6213988	tumor	untreated	pre-treatment	pCR	14	Goblet	Epithelial	retained_after_qc	25
+P30	GSM6213988	tumor	untreated	pre-treatment	pCR	15	Colonocyte_mito_enriched	Epithelial	mitochondrial_marker_enriched	202
+P30	GSM6213988	tumor	untreated	pre-treatment	pCR	16	Fibroblast	Fibroblast/SMC	retained_after_qc	159
+P30	GSM6213988	tumor	untreated	pre-treatment	pCR	17	Pericyte_smooth_muscle	Fibroblast/SMC	retained_after_qc	70
+P30	GSM6213988	tumor	untreated	pre-treatment	pCR	18	Cycling_immune	Immune unresolved	retained_after_qc	240
+P30	GSM6213988	tumor	untreated	pre-treatment	pCR	19	Cycling_epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	65
+P30	GSM6213988	tumor	untreated	pre-treatment	pCR	20	Tuft_epithelial	Epithelial	retained_after_qc	17
+P30	GSM6213988	tumor	untreated	pre-treatment	pCR	21	Immune_mito_enriched	Immune unresolved	mitochondrial_marker_enriched	255
+P30	GSM6213988	tumor	untreated	pre-treatment	pCR	22	Lymphatic_endothelial	Endothelial	retained_after_qc	6
+P30	GSM6213988	tumor	untreated	pre-treatment	pCR	24	Fibroblast_mito_enriched	Fibroblast/SMC	mitochondrial_marker_enriched	34
+P30	GSM6213988	tumor	untreated	pre-treatment	pCR	25	Myeloid_IG_enriched	Myeloid	retained_after_qc	1
+P31	GSM6213989	tumor	anti-PD-1	post-treatment	non-pCR	0	Epithelial	Epithelial	retained_after_qc	2515
+P31	GSM6213989	tumor	anti-PD-1	post-treatment	non-pCR	1	B_cell	B cell	retained_after_qc	196
+P31	GSM6213989	tumor	anti-PD-1	post-treatment	non-pCR	2	Epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	203
+P31	GSM6213989	tumor	anti-PD-1	post-treatment	non-pCR	3	CD4_T_cell	T/NK	retained_after_qc	271
+P31	GSM6213989	tumor	anti-PD-1	post-treatment	non-pCR	4	Cytotoxic_T_NK	T/NK	retained_after_qc	307
+P31	GSM6213989	tumor	anti-PD-1	post-treatment	non-pCR	5	Cycling_epithelial	Epithelial	retained_after_qc	2240
+P31	GSM6213989	tumor	anti-PD-1	post-treatment	non-pCR	6	Epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	940
+P31	GSM6213989	tumor	anti-PD-1	post-treatment	non-pCR	7	Endothelial	Endothelial	retained_after_qc	328
+P31	GSM6213989	tumor	anti-PD-1	post-treatment	non-pCR	8	Colonocyte	Epithelial	retained_after_qc	433
+P31	GSM6213989	tumor	anti-PD-1	post-treatment	non-pCR	9	Myeloid	Myeloid	retained_after_qc	364
+P31	GSM6213989	tumor	anti-PD-1	post-treatment	non-pCR	10	T_cell	T/NK	retained_after_qc	295
+P31	GSM6213989	tumor	anti-PD-1	post-treatment	non-pCR	11	Plasma_cell	Plasma	retained_after_qc	214
+P31	GSM6213989	tumor	anti-PD-1	post-treatment	non-pCR	12	Erythroid_mito_enriched	Erythroid	mitochondrial_marker_enriched	38
+P31	GSM6213989	tumor	anti-PD-1	post-treatment	non-pCR	13	BEST4_OTOP2_epithelial	Epithelial	retained_after_qc	12
+P31	GSM6213989	tumor	anti-PD-1	post-treatment	non-pCR	14	Goblet	Epithelial	retained_after_qc	93
+P31	GSM6213989	tumor	anti-PD-1	post-treatment	non-pCR	15	Colonocyte_mito_enriched	Epithelial	mitochondrial_marker_enriched	93
+P31	GSM6213989	tumor	anti-PD-1	post-treatment	non-pCR	16	Fibroblast	Fibroblast/SMC	retained_after_qc	39
+P31	GSM6213989	tumor	anti-PD-1	post-treatment	non-pCR	17	Pericyte_smooth_muscle	Fibroblast/SMC	retained_after_qc	28
+P31	GSM6213989	tumor	anti-PD-1	post-treatment	non-pCR	18	Cycling_immune	Immune unresolved	retained_after_qc	172
+P31	GSM6213989	tumor	anti-PD-1	post-treatment	non-pCR	19	Cycling_epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	828
+P31	GSM6213989	tumor	anti-PD-1	post-treatment	non-pCR	20	Tuft_epithelial	Epithelial	retained_after_qc	3
+P31	GSM6213989	tumor	anti-PD-1	post-treatment	non-pCR	21	Immune_mito_enriched	Immune unresolved	mitochondrial_marker_enriched	68
+P31	GSM6213989	tumor	anti-PD-1	post-treatment	non-pCR	22	Lymphatic_endothelial	Endothelial	retained_after_qc	2
+P31	GSM6213989	tumor	anti-PD-1	post-treatment	non-pCR	23	Immune_mixed_mito_enriched	Immune unresolved	mitochondrial_marker_enriched	771
+P31	GSM6213989	tumor	anti-PD-1	post-treatment	non-pCR	24	Fibroblast_mito_enriched	Fibroblast/SMC	mitochondrial_marker_enriched	10
+P31	GSM6213989	tumor	anti-PD-1	post-treatment	non-pCR	26	Epithelial	Epithelial	retained_after_qc	119
+P31	GSM6213990	normal	anti-PD-1	post-treatment	non-pCR	0	Epithelial	Epithelial	retained_after_qc	190
+P31	GSM6213990	normal	anti-PD-1	post-treatment	non-pCR	1	B_cell	B cell	retained_after_qc	268
+P31	GSM6213990	normal	anti-PD-1	post-treatment	non-pCR	2	Epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	2180
+P31	GSM6213990	normal	anti-PD-1	post-treatment	non-pCR	3	CD4_T_cell	T/NK	retained_after_qc	677
+P31	GSM6213990	normal	anti-PD-1	post-treatment	non-pCR	4	Cytotoxic_T_NK	T/NK	retained_after_qc	479
+P31	GSM6213990	normal	anti-PD-1	post-treatment	non-pCR	5	Cycling_epithelial	Epithelial	retained_after_qc	79
+P31	GSM6213990	normal	anti-PD-1	post-treatment	non-pCR	6	Epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	355
+P31	GSM6213990	normal	anti-PD-1	post-treatment	non-pCR	7	Endothelial	Endothelial	retained_after_qc	236
+P31	GSM6213990	normal	anti-PD-1	post-treatment	non-pCR	8	Colonocyte	Epithelial	retained_after_qc	547
+P31	GSM6213990	normal	anti-PD-1	post-treatment	non-pCR	9	Myeloid	Myeloid	retained_after_qc	60
+P31	GSM6213990	normal	anti-PD-1	post-treatment	non-pCR	10	T_cell	T/NK	retained_after_qc	97
+P31	GSM6213990	normal	anti-PD-1	post-treatment	non-pCR	11	Plasma_cell	Plasma	retained_after_qc	24
+P31	GSM6213990	normal	anti-PD-1	post-treatment	non-pCR	12	Erythroid_mito_enriched	Erythroid	mitochondrial_marker_enriched	1215
+P31	GSM6213990	normal	anti-PD-1	post-treatment	non-pCR	13	BEST4_OTOP2_epithelial	Epithelial	retained_after_qc	456
+P31	GSM6213990	normal	anti-PD-1	post-treatment	non-pCR	14	Goblet	Epithelial	retained_after_qc	40
+P31	GSM6213990	normal	anti-PD-1	post-treatment	non-pCR	15	Colonocyte_mito_enriched	Epithelial	mitochondrial_marker_enriched	232
+P31	GSM6213990	normal	anti-PD-1	post-treatment	non-pCR	16	Fibroblast	Fibroblast/SMC	retained_after_qc	78
+P31	GSM6213990	normal	anti-PD-1	post-treatment	non-pCR	17	Pericyte_smooth_muscle	Fibroblast/SMC	retained_after_qc	120
+P31	GSM6213990	normal	anti-PD-1	post-treatment	non-pCR	18	Cycling_immune	Immune unresolved	retained_after_qc	51
+P31	GSM6213990	normal	anti-PD-1	post-treatment	non-pCR	19	Cycling_epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	172
+P31	GSM6213990	normal	anti-PD-1	post-treatment	non-pCR	20	Tuft_epithelial	Epithelial	retained_after_qc	288
+P31	GSM6213990	normal	anti-PD-1	post-treatment	non-pCR	22	Lymphatic_endothelial	Endothelial	retained_after_qc	59
+P31	GSM6213990	normal	anti-PD-1	post-treatment	non-pCR	24	Fibroblast_mito_enriched	Fibroblast/SMC	mitochondrial_marker_enriched	55
+P31	GSM6213991	tumor	untreated	pre-treatment	non-pCR	0	Epithelial	Epithelial	retained_after_qc	935
+P31	GSM6213991	tumor	untreated	pre-treatment	non-pCR	1	B_cell	B cell	retained_after_qc	34
+P31	GSM6213991	tumor	untreated	pre-treatment	non-pCR	2	Epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	14
+P31	GSM6213991	tumor	untreated	pre-treatment	non-pCR	3	CD4_T_cell	T/NK	retained_after_qc	39
+P31	GSM6213991	tumor	untreated	pre-treatment	non-pCR	4	Cytotoxic_T_NK	T/NK	retained_after_qc	65
+P31	GSM6213991	tumor	untreated	pre-treatment	non-pCR	5	Cycling_epithelial	Epithelial	retained_after_qc	853
+P31	GSM6213991	tumor	untreated	pre-treatment	non-pCR	6	Epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	169
+P31	GSM6213991	tumor	untreated	pre-treatment	non-pCR	7	Endothelial	Endothelial	retained_after_qc	105
+P31	GSM6213991	tumor	untreated	pre-treatment	non-pCR	8	Colonocyte	Epithelial	retained_after_qc	249
+P31	GSM6213991	tumor	untreated	pre-treatment	non-pCR	9	Myeloid	Myeloid	retained_after_qc	72
+P31	GSM6213991	tumor	untreated	pre-treatment	non-pCR	10	T_cell	T/NK	retained_after_qc	41
+P31	GSM6213991	tumor	untreated	pre-treatment	non-pCR	11	Plasma_cell	Plasma	retained_after_qc	41
+P31	GSM6213991	tumor	untreated	pre-treatment	non-pCR	13	BEST4_OTOP2_epithelial	Epithelial	retained_after_qc	50
+P31	GSM6213991	tumor	untreated	pre-treatment	non-pCR	14	Goblet	Epithelial	retained_after_qc	19
+P31	GSM6213991	tumor	untreated	pre-treatment	non-pCR	15	Colonocyte_mito_enriched	Epithelial	mitochondrial_marker_enriched	38
+P31	GSM6213991	tumor	untreated	pre-treatment	non-pCR	16	Fibroblast	Fibroblast/SMC	retained_after_qc	6
+P31	GSM6213991	tumor	untreated	pre-treatment	non-pCR	17	Pericyte_smooth_muscle	Fibroblast/SMC	retained_after_qc	7
+P31	GSM6213991	tumor	untreated	pre-treatment	non-pCR	18	Cycling_immune	Immune unresolved	retained_after_qc	51
+P31	GSM6213991	tumor	untreated	pre-treatment	non-pCR	19	Cycling_epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	109
+P31	GSM6213991	tumor	untreated	pre-treatment	non-pCR	20	Tuft_epithelial	Epithelial	retained_after_qc	11
+P31	GSM6213991	tumor	untreated	pre-treatment	non-pCR	22	Lymphatic_endothelial	Endothelial	retained_after_qc	1
+P31	GSM6213991	tumor	untreated	pre-treatment	non-pCR	23	Immune_mixed_mito_enriched	Immune unresolved	mitochondrial_marker_enriched	42
+P31	GSM6213991	tumor	untreated	pre-treatment	non-pCR	26	Epithelial	Epithelial	retained_after_qc	91
+P32	GSM6213992	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	0	Epithelial	Epithelial	retained_after_qc	707
+P32	GSM6213992	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	1	B_cell	B cell	retained_after_qc	854
+P32	GSM6213992	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	2	Epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	873
+P32	GSM6213992	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	3	CD4_T_cell	T/NK	retained_after_qc	795
+P32	GSM6213992	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	4	Cytotoxic_T_NK	T/NK	retained_after_qc	551
+P32	GSM6213992	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	5	Cycling_epithelial	Epithelial	retained_after_qc	290
+P32	GSM6213992	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	6	Epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	616
+P32	GSM6213992	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	7	Endothelial	Endothelial	retained_after_qc	208
+P32	GSM6213992	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	8	Colonocyte	Epithelial	retained_after_qc	524
+P32	GSM6213992	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	9	Myeloid	Myeloid	retained_after_qc	135
+P32	GSM6213992	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	10	T_cell	T/NK	retained_after_qc	393
+P32	GSM6213992	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	11	Plasma_cell	Plasma	retained_after_qc	120
+P32	GSM6213992	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	12	Erythroid_mito_enriched	Erythroid	mitochondrial_marker_enriched	160
+P32	GSM6213992	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	13	BEST4_OTOP2_epithelial	Epithelial	retained_after_qc	375
+P32	GSM6213992	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	14	Goblet	Epithelial	retained_after_qc	117
+P32	GSM6213992	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	15	Colonocyte_mito_enriched	Epithelial	mitochondrial_marker_enriched	239
+P32	GSM6213992	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	16	Fibroblast	Fibroblast/SMC	retained_after_qc	48
+P32	GSM6213992	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	17	Pericyte_smooth_muscle	Fibroblast/SMC	retained_after_qc	72
+P32	GSM6213992	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	18	Cycling_immune	Immune unresolved	retained_after_qc	50
+P32	GSM6213992	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	19	Cycling_epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	90
+P32	GSM6213992	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	20	Tuft_epithelial	Epithelial	retained_after_qc	118
+P32	GSM6213992	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	21	Immune_mito_enriched	Immune unresolved	mitochondrial_marker_enriched	140
+P32	GSM6213992	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	22	Lymphatic_endothelial	Endothelial	retained_after_qc	12
+P32	GSM6213992	tumor	Anti-PD-1+celecoxib	post-treatment	pCR	24	Fibroblast_mito_enriched	Fibroblast/SMC	mitochondrial_marker_enriched	3
+P32	GSM6213993	normal	Anti-PD-1+celecoxib	post-treatment	pCR	0	Epithelial	Epithelial	retained_after_qc	561
+P32	GSM6213993	normal	Anti-PD-1+celecoxib	post-treatment	pCR	1	B_cell	B cell	retained_after_qc	810
+P32	GSM6213993	normal	Anti-PD-1+celecoxib	post-treatment	pCR	2	Epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	1353
+P32	GSM6213993	normal	Anti-PD-1+celecoxib	post-treatment	pCR	3	CD4_T_cell	T/NK	retained_after_qc	537
+P32	GSM6213993	normal	Anti-PD-1+celecoxib	post-treatment	pCR	4	Cytotoxic_T_NK	T/NK	retained_after_qc	307
+P32	GSM6213993	normal	Anti-PD-1+celecoxib	post-treatment	pCR	5	Cycling_epithelial	Epithelial	retained_after_qc	311
+P32	GSM6213993	normal	Anti-PD-1+celecoxib	post-treatment	pCR	6	Epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	584
+P32	GSM6213993	normal	Anti-PD-1+celecoxib	post-treatment	pCR	7	Endothelial	Endothelial	retained_after_qc	242
+P32	GSM6213993	normal	Anti-PD-1+celecoxib	post-treatment	pCR	8	Colonocyte	Epithelial	retained_after_qc	649
+P32	GSM6213993	normal	Anti-PD-1+celecoxib	post-treatment	pCR	9	Myeloid	Myeloid	retained_after_qc	226
+P32	GSM6213993	normal	Anti-PD-1+celecoxib	post-treatment	pCR	10	T_cell	T/NK	retained_after_qc	249
+P32	GSM6213993	normal	Anti-PD-1+celecoxib	post-treatment	pCR	11	Plasma_cell	Plasma	retained_after_qc	211
+P32	GSM6213993	normal	Anti-PD-1+celecoxib	post-treatment	pCR	12	Erythroid_mito_enriched	Erythroid	mitochondrial_marker_enriched	280
+P32	GSM6213993	normal	Anti-PD-1+celecoxib	post-treatment	pCR	13	BEST4_OTOP2_epithelial	Epithelial	retained_after_qc	412
+P32	GSM6213993	normal	Anti-PD-1+celecoxib	post-treatment	pCR	14	Goblet	Epithelial	retained_after_qc	77
+P32	GSM6213993	normal	Anti-PD-1+celecoxib	post-treatment	pCR	15	Colonocyte_mito_enriched	Epithelial	mitochondrial_marker_enriched	226
+P32	GSM6213993	normal	Anti-PD-1+celecoxib	post-treatment	pCR	16	Fibroblast	Fibroblast/SMC	retained_after_qc	166
+P32	GSM6213993	normal	Anti-PD-1+celecoxib	post-treatment	pCR	17	Pericyte_smooth_muscle	Fibroblast/SMC	retained_after_qc	46
+P32	GSM6213993	normal	Anti-PD-1+celecoxib	post-treatment	pCR	18	Cycling_immune	Immune unresolved	retained_after_qc	158
+P32	GSM6213993	normal	Anti-PD-1+celecoxib	post-treatment	pCR	19	Cycling_epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	233
+P32	GSM6213993	normal	Anti-PD-1+celecoxib	post-treatment	pCR	20	Tuft_epithelial	Epithelial	retained_after_qc	131
+P32	GSM6213993	normal	Anti-PD-1+celecoxib	post-treatment	pCR	21	Immune_mito_enriched	Immune unresolved	mitochondrial_marker_enriched	27
+P32	GSM6213993	normal	Anti-PD-1+celecoxib	post-treatment	pCR	22	Lymphatic_endothelial	Endothelial	retained_after_qc	61
+P32	GSM6213993	normal	Anti-PD-1+celecoxib	post-treatment	pCR	24	Fibroblast_mito_enriched	Fibroblast/SMC	mitochondrial_marker_enriched	31
+P32	GSM6213994	tumor	untreated	pre-treatment	pCR	0	Epithelial	Epithelial	retained_after_qc	430
+P32	GSM6213994	tumor	untreated	pre-treatment	pCR	1	B_cell	B cell	retained_after_qc	3580
+P32	GSM6213994	tumor	untreated	pre-treatment	pCR	2	Epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	45
+P32	GSM6213994	tumor	untreated	pre-treatment	pCR	3	CD4_T_cell	T/NK	retained_after_qc	2019
+P32	GSM6213994	tumor	untreated	pre-treatment	pCR	4	Cytotoxic_T_NK	T/NK	retained_after_qc	809
+P32	GSM6213994	tumor	untreated	pre-treatment	pCR	5	Cycling_epithelial	Epithelial	retained_after_qc	289
+P32	GSM6213994	tumor	untreated	pre-treatment	pCR	6	Epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	205
+P32	GSM6213994	tumor	untreated	pre-treatment	pCR	7	Endothelial	Endothelial	retained_after_qc	832
+P32	GSM6213994	tumor	untreated	pre-treatment	pCR	8	Colonocyte	Epithelial	retained_after_qc	79
+P32	GSM6213994	tumor	untreated	pre-treatment	pCR	9	Myeloid	Myeloid	retained_after_qc	675
+P32	GSM6213994	tumor	untreated	pre-treatment	pCR	10	T_cell	T/NK	retained_after_qc	957
+P32	GSM6213994	tumor	untreated	pre-treatment	pCR	11	Plasma_cell	Plasma	retained_after_qc	461
+P32	GSM6213994	tumor	untreated	pre-treatment	pCR	12	Erythroid_mito_enriched	Erythroid	mitochondrial_marker_enriched	6
+P32	GSM6213994	tumor	untreated	pre-treatment	pCR	13	BEST4_OTOP2_epithelial	Epithelial	retained_after_qc	4
+P32	GSM6213994	tumor	untreated	pre-treatment	pCR	14	Goblet	Epithelial	retained_after_qc	70
+P32	GSM6213994	tumor	untreated	pre-treatment	pCR	15	Colonocyte_mito_enriched	Epithelial	mitochondrial_marker_enriched	18
+P32	GSM6213994	tumor	untreated	pre-treatment	pCR	16	Fibroblast	Fibroblast/SMC	retained_after_qc	400
+P32	GSM6213994	tumor	untreated	pre-treatment	pCR	17	Pericyte_smooth_muscle	Fibroblast/SMC	retained_after_qc	328
+P32	GSM6213994	tumor	untreated	pre-treatment	pCR	18	Cycling_immune	Immune unresolved	retained_after_qc	195
+P32	GSM6213994	tumor	untreated	pre-treatment	pCR	19	Cycling_epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	39
+P32	GSM6213994	tumor	untreated	pre-treatment	pCR	20	Tuft_epithelial	Epithelial	retained_after_qc	6
+P32	GSM6213994	tumor	untreated	pre-treatment	pCR	21	Immune_mito_enriched	Immune unresolved	mitochondrial_marker_enriched	137
+P32	GSM6213994	tumor	untreated	pre-treatment	pCR	22	Lymphatic_endothelial	Endothelial	retained_after_qc	17
+P32	GSM6213994	tumor	untreated	pre-treatment	pCR	23	Immune_mixed_mito_enriched	Immune unresolved	mitochondrial_marker_enriched	1
+P32	GSM6213994	tumor	untreated	pre-treatment	pCR	24	Fibroblast_mito_enriched	Fibroblast/SMC	mitochondrial_marker_enriched	40
+P32	GSM6213994	tumor	untreated	pre-treatment	pCR	25	Myeloid_IG_enriched	Myeloid	retained_after_qc	3
+P33	GSM6213995	tumor	untreated	pre-treatment	pCR	0	Epithelial	Epithelial	retained_after_qc	531
+P33	GSM6213995	tumor	untreated	pre-treatment	pCR	1	B_cell	B cell	retained_after_qc	568
+P33	GSM6213995	tumor	untreated	pre-treatment	pCR	2	Epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	14
+P33	GSM6213995	tumor	untreated	pre-treatment	pCR	3	CD4_T_cell	T/NK	retained_after_qc	187
+P33	GSM6213995	tumor	untreated	pre-treatment	pCR	4	Cytotoxic_T_NK	T/NK	retained_after_qc	211
+P33	GSM6213995	tumor	untreated	pre-treatment	pCR	5	Cycling_epithelial	Epithelial	retained_after_qc	578
+P33	GSM6213995	tumor	untreated	pre-treatment	pCR	6	Epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	225
+P33	GSM6213995	tumor	untreated	pre-treatment	pCR	7	Endothelial	Endothelial	retained_after_qc	185
+P33	GSM6213995	tumor	untreated	pre-treatment	pCR	8	Colonocyte	Epithelial	retained_after_qc	259
+P33	GSM6213995	tumor	untreated	pre-treatment	pCR	9	Myeloid	Myeloid	retained_after_qc	222
+P33	GSM6213995	tumor	untreated	pre-treatment	pCR	10	T_cell	T/NK	retained_after_qc	110
+P33	GSM6213995	tumor	untreated	pre-treatment	pCR	11	Plasma_cell	Plasma	retained_after_qc	98
+P33	GSM6213995	tumor	untreated	pre-treatment	pCR	12	Erythroid_mito_enriched	Erythroid	mitochondrial_marker_enriched	6
+P33	GSM6213995	tumor	untreated	pre-treatment	pCR	13	BEST4_OTOP2_epithelial	Epithelial	retained_after_qc	5
+P33	GSM6213995	tumor	untreated	pre-treatment	pCR	14	Goblet	Epithelial	retained_after_qc	398
+P33	GSM6213995	tumor	untreated	pre-treatment	pCR	15	Colonocyte_mito_enriched	Epithelial	mitochondrial_marker_enriched	40
+P33	GSM6213995	tumor	untreated	pre-treatment	pCR	16	Fibroblast	Fibroblast/SMC	retained_after_qc	115
+P33	GSM6213995	tumor	untreated	pre-treatment	pCR	17	Pericyte_smooth_muscle	Fibroblast/SMC	retained_after_qc	36
+P33	GSM6213995	tumor	untreated	pre-treatment	pCR	18	Cycling_immune	Immune unresolved	retained_after_qc	30
+P33	GSM6213995	tumor	untreated	pre-treatment	pCR	19	Cycling_epithelial_mito_enriched	Epithelial	mitochondrial_marker_enriched	10
+P33	GSM6213995	tumor	untreated	pre-treatment	pCR	20	Tuft_epithelial	Epithelial	retained_after_qc	5
+P33	GSM6213995	tumor	untreated	pre-treatment	pCR	21	Immune_mito_enriched	Immune unresolved	mitochondrial_marker_enriched	17
+P33	GSM6213995	tumor	untreated	pre-treatment	pCR	22	Lymphatic_endothelial	Endothelial	retained_after_qc	6
+P33	GSM6213995	tumor	untreated	pre-treatment	pCR	24	Fibroblast_mito_enriched	Fibroblast/SMC	mitochondrial_marker_enriched	7

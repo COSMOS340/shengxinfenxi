@@ -1,0 +1,7 @@
+"absolute_path"	"path_type"	"size_bytes_before"	"exists_after"	"size_bytes_remaining"	"bytes_deleted"	"deletion_status"	"error_message"
+"I:\shengxinfenxi\bioinformatics-reproduction\projects\pan-gi-ici-ccc-20260709\desktop_exchange\local_only\20260713_prjna932556_bamtofastq_feasibility"	"windows_directory"	"5386520472"	"False"	"0"	"5386520472"	"deleted_verified_absent"	""
+"I:\shengxinfenxi\bioinformatics-reproduction\projects\pan-gi-ici-ccc-20260709\desktop_exchange\local_only\20260713_prjna932556_ena_bam_pair_download"	"windows_directory"	"21525823396"	"False"	"0"	"21525823396"	"deleted_verified_absent"	""
+"I:\shengxinfenxi\bioinformatics-reproduction\projects\pan-gi-ici-ccc-20260709\desktop_exchange\local_only\20260714_prjna932556_srr23490337_full_bamtofastq"	"windows_directory"	"29268262419"	"False"	"0"	"29268262419"	"deleted_verified_absent"	""
+"/work/input/W6B_0_1_HGGWHDSX2"	"qemu_guest_directory"	"29268262419"	"False"	"0"	"29268262419"	"deleted_verified_absent"	""
+"/work/run/R3_SRR23490337"	"qemu_guest_directory"	"48712717025"	"False"	"0"	"48712717025"	"deleted_verified_absent"	""
+"/work/run/__R3_SRR23490337.mro"	"qemu_guest_file"	"1403"	"False"	"0"	"1403"	"deleted_verified_absent"	""

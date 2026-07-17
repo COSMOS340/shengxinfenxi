@@ -1,0 +1,13 @@
+Warning messages:
+1: package 'data.table' was built under R version 4.4.3 
+2: package 'Matrix' was built under R version 4.4.3 
+3: package 'Seurat' was built under R version 4.4.3 
+4: package 'SeuratObject' was built under R version 4.4.3 
+5: package 'sp' was built under R version 4.4.3 
+6: package 'Rcpp' was built under R version 4.4.3 
+7: package 'ggplot2' was built under R version 4.4.3 
+8: package 'patchwork' was built under R version 4.4.3 
+Running full-cell presto Wilcoxon/AUC marker analysis
+Scale for colour is already present.
+Adding another scale for colour, which will replace the existing scale.
+Marker, annotation, figure, and final object workflow completed: F:/pan-gi-ici-ccc-20260709/GSE205506/r_analysis/gse205506_seurat_final_annotated.rds
