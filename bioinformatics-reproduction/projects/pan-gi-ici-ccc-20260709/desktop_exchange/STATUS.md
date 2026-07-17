@@ -1,27 +1,33 @@
 # Pan-GI ICI CCC Desktop Exchange
 
-Updated: 2026-07-16
+Updated: 2026-07-17
 
 This folder contains the PC-side requests and lightweight upload outputs for the pan-GI immune checkpoint therapy cell communication project.
 
 ## Current Request
 
-- Request: `20260716_stop_prjna932556_and_build_gse205506_request.md`
-- Manifest: `20260716_stop_prjna932556_and_build_gse205506_manifest.tsv`
-- PC status: `REQUESTED_STOP_DELETE_PRJNA932556_SWITCH_GSE205506`
-- Required upload: `uploads/20260716_stop_prjna932556_and_build_gse205506`
-- Current message: Stop all PRJNA932556 compute. Inventory exact PRJNA932556 paths, delete its verified BAM, BAI, FASTQ, Cell Ranger work directories and expression outputs, and report bytes released. Keep Cell Ranger software, reference genomes, other datasets and lightweight audit files. Then download the author-processed GSE205506 archive, obtain the actual article Table S1 response mapping and build the formal CRC object entirely in R.
+- Request: `20260717_gse205506_paper_qc_rebuild_request.md`
+- Manifest: `20260717_gse205506_paper_qc_rebuild_manifest.tsv`
+- Mac review: `20260717_gse205506_pc_run_review.md`
+- PC status: `REQUESTED_GSE205506_PAPER_QC_REBUILD`
+- Required upload: `uploads/20260717_gse205506_paper_qc_rebuild`
+- Current message: Rebuild GSE205506 from the 40 author matrices using the Cancer Cell source-paper QC. The formal object must retain cells with 500-5000 genes and 400-25000 UMIs, use RPCA with 2000 variable genes, 20 PCs and first-round resolution 1.2, assign six broad compartments, and then apply compartment-aware mitochondrial filtering. Do not delete the nine high-mitochondrial clusters as whole units. scDblFinder is sensitivity-only because the source paper did not report an explicit computational doublet caller. Redraw all UMAPs with the approved bright palette copied from the first R/Seurat dataset.
 
 ## Most Recent Completed Request
 
-The Cell Ranger 7.2.0 archive download and prior PRJNA932556 BAM-to-FASTQ work are complete as technical records. The project has now removed PRJNA932556 from formal analysis because the six-sample reconstruction is not acceptable for current PC storage and compute. The new request explicitly requires deletion of PRJNA932556 large data after an exact-path inventory.
+- Completed request: `20260716_stop_prjna932556_and_build_gse205506_request.md`
+- Completed upload: `uploads/20260716_stop_prjna932556_and_build_gse205506`
+- Completion commit: `9a093b32ff4425a6b8ce14652b8c3ca7dcbb5803`
+- Accepted: PRJNA932556 deletion audit; GSE205506 archive and matrix audit; Table S1 response mapping; R scripts, logs, session information, and author marker references.
+- Not accepted for formal Figure 1: the 238,934-cell object, its UMAP, clusters, markers, and annotations because the preceding mitochondrial QC did not reproduce the source article and retained large populations with extreme mitochondrial fractions.
 
 ## Completed Upload Directories
 
-- `uploads/20260714_cellranger72_archive_downloaded_to_f` (CELLRANGER72_ARCHIVE_DOWNLOADED_TO_F)
-- `uploads/20260714_prjna932556_cellranger72_single_sample_hardrun` (BLOCKED_CELLRANGER72_MANUAL_DOWNLOAD)
-- `uploads/20260714_prjna932556_cellranger72_preflight` (Cell Ranger 7.2.0 preflight audit)
-- `uploads/20260714_prjna932556_srr23490337_full_bamtofastq` (full bamtofastq success audit; full FASTQs PC-local only)
+- `uploads/20260716_stop_prjna932556_and_build_gse205506`
+- `uploads/20260714_cellranger72_archive_downloaded_to_f`
+- `uploads/20260714_prjna932556_cellranger72_single_sample_hardrun`
+- `uploads/20260714_prjna932556_cellranger72_preflight`
+- `uploads/20260714_prjna932556_srr23490337_full_bamtofastq`
 - `uploads/20260713_prjna932556_bamtofastq_feasibility`
 - `uploads/20260713_prjna932556_ena_bam_pair_download`
 - `uploads/20260711_prjna932556_ena_bam_acquisition`

@@ -1,0 +1,2 @@
+priority	dataset	request_status	primary_input	primary_method	formal_doublet_rule	secondary_doublet_audit	required_upload
+1	GSE205506	REQUESTED_GSE205506_PAPER_QC_REBUILD	40 author matrix-barcode-feature triplets	Cancer Cell 2023 basic QC plus RPCA first-round broad classification and compartment-aware mitochondrial QC	500-5000 detected genes and 400-25000 UMIs as reported in source article	per-sample scDblFinder sensitivity only	uploads/20260717_gse205506_paper_qc_rebuild
