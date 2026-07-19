@@ -1,0 +1,7 @@
+[2026-07-19 17:20:30] Waiting for first-round R process 10432
+[2026-07-19 17:24:00] First-round stage verified
+[2026-07-19 17:24:00] Starting 03_rebuild_final_rpca_atlas.R
+[2026-07-19 20:37:59] Completed 03_rebuild_final_rpca_atlas.R
+[2026-07-19 20:37:59] Starting 04_recluster_compartments.R
+[2026-07-19 20:57:25] Completed 04_recluster_compartments.R
+[2026-07-19 20:57:25] Starting 05_render_paper_qc_figures.R

@@ -1,0 +1,7 @@
+compartment	object_path	size_bytes	sha256	cells	clusters_at_resolution_0_6	reviewed_labels	delivery
+T/I/NK	F:/pan-gi-ici-ccc-20260709/GSE205506/r_analysis_paper_qc_20260717/gse205506_compartment_T_I_NK.rds	1345365032	942f88831dae25391d62a4a21237877b87abd2edce5ce6907470baee8cd76146	32392	15	11	local_only
+B	F:/pan-gi-ici-ccc-20260709/GSE205506/r_analysis_paper_qc_20260717/gse205506_compartment_B.rds	1045194818	0b378e2de8272abff928b8430d27f9dc6a03dce786b6784ff45195bd84f7afd7	23464	13	5	local_only
+Myeloid	F:/pan-gi-ici-ccc-20260709/GSE205506/r_analysis_paper_qc_20260717/gse205506_compartment_Myeloid.rds	585031259	c7322a7929dfd175242f509eb31a0a77352018b14580d1bd4fdab3aad6e4e3b0	9605	16	10	local_only
+Endothelial	F:/pan-gi-ici-ccc-20260709/GSE205506/r_analysis_paper_qc_20260717/gse205506_compartment_Endothelial.rds	1003008570	463a0c472477c521a637116d77d7f1eebdc842d152b115a6ba6e1328986e9900	15163	17	7	local_only
+Fibroblast	F:/pan-gi-ici-ccc-20260709/GSE205506/r_analysis_paper_qc_20260717/gse205506_compartment_Fibroblast.rds	519358609	eb8410f86de1ecbd01b760fdae97166ae9550913fb6ea7271a1e837fd33dc5ae	8645	18	4	local_only
+Epithelial	F:/pan-gi-ici-ccc-20260709/GSE205506/r_analysis_paper_qc_20260717/gse205506_compartment_Epithelial.rds	5126252601	5a77140c92a00a7da906ff163717e95b17d0c5d15c8b1089a00ab18fb5ce8a09	77355	17	1	local_only

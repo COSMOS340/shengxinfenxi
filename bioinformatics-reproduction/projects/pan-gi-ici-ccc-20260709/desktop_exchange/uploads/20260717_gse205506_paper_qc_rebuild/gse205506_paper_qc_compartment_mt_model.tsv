@@ -1,0 +1,6 @@
+model_group	broad_compartments	cells	center	sigma	removed_cells	removal_fraction	rule
+Lymphoid	T/I/NK;B	57464	16.410105891533	11.5304656692026	1322	0.0230057079214813	one-sided normal upper tail using median center, MAD constant 1.4826, Bonferroni-adjusted p < 0.05
+Myeloid	Myeloid	9972	13.2636990425001	9.34110188848745	468	0.0469314079422383	one-sided normal upper tail using median center, MAD constant 1.4826, Bonferroni-adjusted p < 0.05
+Fibroblast	Fibroblast	8783	17.5802469135802	13.11627043169	112	0.0127519070932483	one-sided normal upper tail using median center, MAD constant 1.4826, Bonferroni-adjusted p < 0.05
+Endothelial	Endothelial	15420	17.2588615449048	12.5302532308724	190	0.0123216601815824	one-sided normal upper tail using median center, MAD constant 1.4826, Bonferroni-adjusted p < 0.05
+Epithelial	Epithelial	109024	75		31947	0.293027223363663	retain percent.mt <= 75; remove percent.mt > 75

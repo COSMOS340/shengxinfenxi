@@ -1,0 +1,53 @@
+[2026-07-19 14:57:56] Running first-round memory-bounded RPCA integration
+[2026-07-19 14:59:02] first normalizing sample GSM6213956
+[2026-07-19 14:59:03] first normalizing sample GSM6213957
+[2026-07-19 14:59:05] first normalizing sample GSM6213958
+[2026-07-19 14:59:07] first normalizing sample GSM6213959
+[2026-07-19 14:59:09] first normalizing sample GSM6213960
+[2026-07-19 14:59:11] first normalizing sample GSM6213961
+[2026-07-19 14:59:14] first normalizing sample GSM6213962
+[2026-07-19 14:59:17] first normalizing sample GSM6213963
+[2026-07-19 14:59:19] first normalizing sample GSM6213964
+[2026-07-19 14:59:21] first normalizing sample GSM6213965
+[2026-07-19 14:59:23] first normalizing sample GSM6213966
+[2026-07-19 14:59:25] first normalizing sample GSM6213967
+[2026-07-19 14:59:27] first normalizing sample GSM6213968
+[2026-07-19 14:59:29] first normalizing sample GSM6213969
+[2026-07-19 14:59:30] first normalizing sample GSM6213970
+[2026-07-19 14:59:33] first normalizing sample GSM6213971
+[2026-07-19 14:59:35] first normalizing sample GSM6213972
+[2026-07-19 14:59:37] first normalizing sample GSM6213973
+[2026-07-19 14:59:39] first normalizing sample GSM6213974
+[2026-07-19 14:59:42] first normalizing sample GSM6213975
+[2026-07-19 14:59:44] first normalizing sample GSM6213976
+[2026-07-19 14:59:47] first normalizing sample GSM6213977
+[2026-07-19 14:59:49] first normalizing sample GSM6213978
+[2026-07-19 14:59:51] first normalizing sample GSM6213979
+[2026-07-19 14:59:53] first normalizing sample GSM6213980
+[2026-07-19 14:59:55] first normalizing sample GSM6213981
+[2026-07-19 14:59:57] first normalizing sample GSM6213982
+[2026-07-19 14:59:58] first normalizing sample GSM6213983
+[2026-07-19 15:00:01] first normalizing sample GSM6213984
+[2026-07-19 15:00:03] first normalizing sample GSM6213985
+[2026-07-19 15:00:04] first normalizing sample GSM6213986
+[2026-07-19 15:00:06] first normalizing sample GSM6213987
+[2026-07-19 15:00:08] first normalizing sample GSM6213988
+[2026-07-19 15:00:10] first normalizing sample GSM6213989
+[2026-07-19 15:00:14] first normalizing sample GSM6213990
+[2026-07-19 15:00:15] first normalizing sample GSM6213991
+[2026-07-19 15:00:17] first normalizing sample GSM6213992
+[2026-07-19 15:00:19] first normalizing sample GSM6213993
+[2026-07-19 15:00:21] first normalizing sample GSM6213994
+[2026-07-19 15:00:24] first normalizing sample GSM6213995
+[2026-07-19 15:07:31] first loading light RPCA anchor checkpoint
+[2026-07-19 15:07:36] first integrating data
+Modularity Optimizer version 1.3.0 by Ludo Waltman and Nees Jan van Eck
+
+Number of nodes: 200663
+Number of edges: 7401608
+
+Running Louvain algorithm...
+Maximum modularity in 10 random starts: 0.9043
+Number of communities: 35
+Elapsed time: 91 seconds
+[2026-07-19 17:03:24] Restoring all RNA genes after light RPCA integration

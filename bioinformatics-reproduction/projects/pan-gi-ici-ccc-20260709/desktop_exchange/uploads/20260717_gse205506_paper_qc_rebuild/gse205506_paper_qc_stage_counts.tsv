@@ -1,0 +1,8 @@
+stage	cells	primary_route	notes
+raw_author_matrices	324020	TRUE	all barcodes from 40 author matrices
+paper_basic_qc_pass	200663	TRUE	500<=nFeature_RNA<=5000 and 400<=nCount_RNA<=25000; scDblFinder not used for exclusion
+paper_basic_qc_fail	123357	TRUE	failed one or more source-paper numerical bounds
+scDblFinder_singlet_sensitivity	186710	FALSE	secondary sensitivity only
+scDblFinder_doublet_sensitivity	13953	FALSE	secondary sensitivity only
+compartment_mt_qc_pass	166624	TRUE	paper basic-QC pass cells retained by compartment-aware mitochondrial QC
+compartment_mt_qc_fail	34039	TRUE	paper basic-QC pass cells excluded by compartment-aware mitochondrial QC

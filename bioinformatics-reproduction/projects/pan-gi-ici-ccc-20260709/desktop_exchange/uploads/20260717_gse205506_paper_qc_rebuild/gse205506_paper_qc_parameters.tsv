@@ -1,0 +1,24 @@
+parameter	value
+seed	340
+merged_gene_min_detected_cells	3
+nFeature_RNA_lower	500
+nFeature_RNA_upper	5000
+nCount_RNA_lower	400
+nCount_RNA_upper	25000
+primary_doublet_rule	article gene/UMI bounds; no scDblFinder exclusion
+secondary_doublet_method	scDblFinder 1.20.2
+rpca_variable_features	2000
+rpca_anchor_reduction	rpca
+rpca_anchor_dims	1:20
+integrated_scale_regress	nCount_RNA
+first_round_pca_dims	1:20
+first_round_resolution	1.2
+first_round_umap_neighbors	30
+first_round_umap_min_dist	0.3
+rpca_sample_tree	sequential accumulated object plus one sample per step
+rpca_preserve_order	TRUE
+rpca_light_object_features	2000
+rpca_features_to_integrate	1000
+epithelial_mt_threshold	75
+non_epithelial_mt_model	median center; MAD constant 1.4826 normal upper tail
+mt_adjustment	bonferroni p>=0.05 retained

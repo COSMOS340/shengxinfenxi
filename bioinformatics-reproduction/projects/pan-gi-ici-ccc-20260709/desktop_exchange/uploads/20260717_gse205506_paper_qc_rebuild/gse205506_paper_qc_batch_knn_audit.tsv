@@ -1,0 +1,3 @@
+reduction	cells_evaluated	neighbors_per_cell	mean_same_sample_neighbor_fraction	median_same_sample_neighbor_fraction	sampling_seed
+pca_uncorrected_post_mt	20000	30	0.25194	0.133333333333333	340
+rpca_integrated_post_mt	20000	30	0.110745	0.0666666666666667	340

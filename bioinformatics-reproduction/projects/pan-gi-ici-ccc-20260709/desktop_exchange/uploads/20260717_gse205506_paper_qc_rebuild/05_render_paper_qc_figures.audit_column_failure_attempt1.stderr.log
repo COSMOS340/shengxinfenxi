@@ -1,0 +1,14 @@
+Warning messages:
+1: package 'data.table' was built under R version 4.4.3 
+2: package 'Seurat' was built under R version 4.4.3 
+3: package 'SeuratObject' was built under R version 4.4.3 
+4: package 'sp' was built under R version 4.4.3 
+5: package 'ggplot2' was built under R version 4.4.3 
+6: package 'patchwork' was built under R version 4.4.3 
+7: package 'ragg' was built under R version 4.4.3 
+Scale for colour is already present.
+Adding another scale for colour, which will replace the existing scale.
+Scale for colour is already present.
+Adding another scale for colour, which will replace the existing scale.
+Error: Cell audit plotting columns are incomplete
+Execution halted

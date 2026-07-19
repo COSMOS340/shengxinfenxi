@@ -1,0 +1,17 @@
+figure	inspected	clipping	text_overlap	legend_overflow	point_washout	color_separation	result
+gse205506_paper_qc_umap_broad.png	TRUE	none	none	none	none	PASS	PASS
+gse205506_paper_qc_umap_response.png	TRUE	none	none	none	none	PASS	PASS
+gse205506_paper_qc_umap_timepoint.png	TRUE	none	none	none	none	PASS	PASS
+gse205506_paper_qc_umap_sample.png	TRUE	none	none	none	none	PASS	PASS
+gse205506_paper_qc_before_after.png	TRUE	none	none	none	none	PASS	PASS
+gse205506_paper_qc_marker_dotplot_broad.png	TRUE	none	none	none	none	PASS	PASS
+gse205506_paper_qc_umap_T_I_NK.png	TRUE	none	none	none	none	PASS	PASS
+gse205506_paper_qc_marker_dotplot_T_I_NK.png	TRUE	none	none	none	none	PASS	PASS
+gse205506_paper_qc_umap_B.png	TRUE	none	none	none	none	PASS	PASS
+gse205506_paper_qc_marker_dotplot_B.png	TRUE	none	none	none	none	PASS	PASS
+gse205506_paper_qc_umap_Myeloid.png	TRUE	none	none	none	none	PASS	PASS
+gse205506_paper_qc_marker_dotplot_Myeloid.png	TRUE	none	none	none	none	PASS	PASS
+gse205506_paper_qc_umap_Endothelial.png	TRUE	none	none	none	none	PASS	PASS
+gse205506_paper_qc_marker_dotplot_Endothelial.png	TRUE	none	none	none	none	PASS	PASS
+gse205506_paper_qc_umap_Fibroblast.png	TRUE	none	none	none	none	PASS	PASS
+gse205506_paper_qc_marker_dotplot_Fibroblast.png	TRUE	none	none	none	none	PASS	PASS

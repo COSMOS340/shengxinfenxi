@@ -1,0 +1,30 @@
+Warning messages:
+1: package 'data.table' was built under R version 4.4.3 
+2: package 'Matrix' was built under R version 4.4.3 
+3: package 'Seurat' was built under R version 4.4.3 
+4: package 'SeuratObject' was built under R version 4.4.3 
+5: package 'sp' was built under R version 4.4.3 
+6: package 'Rcpp' was built under R version 4.4.3 
+7: package 'RANN' was built under R version 4.4.3 
+Normalizing layer: counts
+Performing log-normalization
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Warning messages:
+1: In `[.data.table`(cell_audit, basic_index, `:=`(first_round_broad_compartment = metadata$paper_first_round_broad_compartment,  :
+  Coercing 'character' RHS to 'logical' to match the type of column 21 named 'first_round_broad_compartment'.
+2: In `[.data.table`(cell_audit, basic_index, `:=`(first_round_broad_compartment = metadata$paper_first_round_broad_compartment,  :
+  Coercing 'character' RHS to 'logical' to match the type of column 22 named 'mt_model_group'.
+3: In `[.data.table`(cell_audit, basic_index, `:=`(first_round_broad_compartment = metadata$paper_first_round_broad_compartment,  :
+  16.410106 (type 'double') at RHS position 1 taken as TRUE when assigning to type 'logical' (column 23 named 'mt_model_center')
+4: In `[.data.table`(cell_audit, basic_index, `:=`(first_round_broad_compartment = metadata$paper_first_round_broad_compartment,  :
+  11.530466 (type 'double') at RHS position 1 taken as TRUE when assigning to type 'logical' (column 24 named 'mt_model_sigma')
+5: In `[.data.table`(cell_audit, basic_index, `:=`(first_round_broad_compartment = metadata$paper_first_round_broad_compartment,  :
+  0.599997 (type 'double') at RHS position 1 taken as TRUE when assigning to type 'logical' (column 25 named 'mt_model_p_upper')
+6: In `[.data.table`(cell_audit, basic_index, `:=`(first_round_broad_compartment = metadata$paper_first_round_broad_compartment,  :
+  0.000294 (type 'double') at RHS position 33 taken as TRUE when assigning to type 'logical' (column 26 named 'mt_model_p_bonferroni')
+Error in `[.data.table`(current, , .(cells = .N), by = .(record_type = "broad_cluster_composition",  : 
+  The items in the 'by' or 'keyby' list have lengths [1, 1, 200663, 200663]. Each must be length 200663; the same length as there are rows in x (after subsetting if i is provided).
+Calls: rbindlist ... [ -> [.data.table -> stopf -> raise_condition -> signal
+Execution halted

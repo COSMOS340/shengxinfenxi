@@ -1,0 +1,123 @@
+[2026-07-17 19:14:28] Pass 1: reading all 40 author matrices and applying source-paper numerical cell bounds
+[2026-07-17 19:14:33] [1/40] GSM6213956 input=1666 basic_pass=913
+[2026-07-17 19:14:41] [2/40] GSM6213957 input=6548 basic_pass=3158
+[2026-07-17 19:14:52] [3/40] GSM6213958 input=7509 basic_pass=4648
+[2026-07-17 19:15:00] [4/40] GSM6213959 input=7755 basic_pass=5407
+[2026-07-17 19:15:08] [5/40] GSM6213960 input=8118 basic_pass=6289
+[2026-07-17 19:15:23] [6/40] GSM6213961 input=15760 basic_pass=11512
+[2026-07-17 19:15:35] [7/40] GSM6213962 input=16410 basic_pass=11222
+[2026-07-17 19:15:39] [8/40] GSM6213963 input=8644 basic_pass=2509
+[2026-07-17 19:15:45] [9/40] GSM6213964 input=9926 basic_pass=4083
+[2026-07-17 19:15:53] [10/40] GSM6213965 input=7681 basic_pass=6050
+[2026-07-17 19:15:58] [11/40] GSM6213966 input=6780 basic_pass=3956
+[2026-07-17 19:16:07] [12/40] GSM6213967 input=8742 basic_pass=7310
+[2026-07-17 19:16:12] [13/40] GSM6213968 input=7043 basic_pass=3571
+[2026-07-17 19:16:16] [14/40] GSM6213969 input=1357 basic_pass=1050
+[2026-07-17 19:16:24] [15/40] GSM6213970 input=7690 basic_pass=5645
+[2026-07-17 19:16:33] [16/40] GSM6213971 input=10323 basic_pass=7718
+[2026-07-17 19:16:40] [17/40] GSM6213972 input=4826 basic_pass=3296
+[2026-07-17 19:16:48] [18/40] GSM6213973 input=7307 basic_pass=4778
+[2026-07-17 19:16:56] [19/40] GSM6213974 input=8126 basic_pass=5882
+[2026-07-17 19:17:02] [20/40] GSM6213975 input=6789 basic_pass=4551
+[2026-07-17 19:17:13] [21/40] GSM6213976 input=9798 basic_pass=6835
+[2026-07-17 19:17:20] [22/40] GSM6213977 input=5067 basic_pass=3850
+[2026-07-17 19:17:27] [23/40] GSM6213978 input=6744 basic_pass=4531
+[2026-07-17 19:17:34] [24/40] GSM6213979 input=7546 basic_pass=4775
+[2026-07-17 19:17:46] [25/40] GSM6213980 input=7069 basic_pass=4105
+[2026-07-17 19:17:50] [26/40] GSM6213981 input=4109 basic_pass=2221
+[2026-07-17 19:17:56] [27/40] GSM6213982 input=10942 basic_pass=5198
+[2026-07-17 19:18:05] [28/40] GSM6213983 input=6227 basic_pass=4259
+[2026-07-17 19:18:11] [29/40] GSM6213984 input=7355 basic_pass=4618
+[2026-07-17 19:18:16] [30/40] GSM6213985 input=7260 basic_pass=3235
+[2026-07-17 19:18:20] [31/40] GSM6213986 input=5926 basic_pass=2954
+[2026-07-17 19:18:26] [32/40] GSM6213987 input=8097 basic_pass=3703
+[2026-07-17 19:18:33] [33/40] GSM6213988 input=10080 basic_pass=6143
+[2026-07-17 19:18:45] [34/40] GSM6213989 input=11830 basic_pass=8929
+[2026-07-17 19:18:50] [35/40] GSM6213990 input=11441 basic_pass=3303
+[2026-07-17 19:18:57] [36/40] GSM6213991 input=4045 basic_pass=2693
+[2026-07-17 19:19:04] [37/40] GSM6213992 input=9662 basic_pass=5549
+[2026-07-17 19:19:11] [38/40] GSM6213993 input=11307 basic_pass=5549
+[2026-07-17 19:19:21] [39/40] GSM6213994 input=13730 basic_pass=9218
+[2026-07-17 19:19:30] [40/40] GSM6213995 input=6785 basic_pass=5447
+[2026-07-17 19:19:30] Pass 2: per-sample scDblFinder sensitivity and Seurat object construction
+[2026-07-17 19:19:34] [scDblFinder 1/40] GSM6213956 doublets=27 sensitivity_only
+[2026-07-17 19:19:39] [scDblFinder 2/40] GSM6213957 doublets=157 sensitivity_only
+[2026-07-17 19:19:46] [scDblFinder 3/40] GSM6213958 doublets=276 sensitivity_only
+[2026-07-17 19:19:54] [scDblFinder 4/40] GSM6213959 doublets=367 sensitivity_only
+[2026-07-17 19:20:04] [scDblFinder 5/40] GSM6213960 doublets=466 sensitivity_only
+[2026-07-17 19:20:23] [scDblFinder 6/40] GSM6213961 doublets=1339 sensitivity_only
+[2026-07-17 19:20:40] [scDblFinder 7/40] GSM6213962 doublets=1220 sensitivity_only
+[2026-07-17 19:20:44] [scDblFinder 8/40] GSM6213963 doublets=106 sensitivity_only
+[2026-07-17 19:20:50] [scDblFinder 9/40] GSM6213964 doublets=232 sensitivity_only
+[2026-07-17 19:21:00] [scDblFinder 10/40] GSM6213965 doublets=377 sensitivity_only
+[2026-07-17 19:21:06] [scDblFinder 11/40] GSM6213966 doublets=227 sensitivity_only
+[2026-07-17 19:21:18] [scDblFinder 12/40] GSM6213967 doublets=533 sensitivity_only
+[2026-07-17 19:21:24] [scDblFinder 13/40] GSM6213968 doublets=191 sensitivity_only
+[2026-07-17 19:21:28] [scDblFinder 14/40] GSM6213969 doublets=32 sensitivity_only
+[2026-07-17 19:21:36] [scDblFinder 15/40] GSM6213970 doublets=315 sensitivity_only
+[2026-07-17 19:21:48] [scDblFinder 16/40] GSM6213971 doublets=594 sensitivity_only
+[2026-07-17 19:21:54] [scDblFinder 17/40] GSM6213972 doublets=149 sensitivity_only
+[2026-07-17 19:22:01] [scDblFinder 18/40] GSM6213973 doublets=299 sensitivity_only
+[2026-07-17 19:22:11] [scDblFinder 19/40] GSM6213974 doublets=401 sensitivity_only
+[2026-07-17 19:22:18] [scDblFinder 20/40] GSM6213975 doublets=263 sensitivity_only
+[2026-07-17 19:22:28] [scDblFinder 21/40] GSM6213976 doublets=463 sensitivity_only
+[2026-07-17 19:22:35] [scDblFinder 22/40] GSM6213977 doublets=188 sensitivity_only
+[2026-07-17 19:22:42] [scDblFinder 23/40] GSM6213978 doublets=268 sensitivity_only
+[2026-07-17 19:22:49] [scDblFinder 24/40] GSM6213979 doublets=296 sensitivity_only
+[2026-07-17 19:22:56] [scDblFinder 25/40] GSM6213980 doublets=204 sensitivity_only
+[2026-07-17 19:23:00] [scDblFinder 26/40] GSM6213981 doublets=99 sensitivity_only
+[2026-07-17 19:23:07] [scDblFinder 27/40] GSM6213982 doublets=431 sensitivity_only
+[2026-07-17 19:23:14] [scDblFinder 28/40] GSM6213983 doublets=215 sensitivity_only
+[2026-07-17 19:23:21] [scDblFinder 29/40] GSM6213984 doublets=285 sensitivity_only
+[2026-07-17 19:23:26] [scDblFinder 30/40] GSM6213985 doublets=173 sensitivity_only
+[2026-07-17 19:23:31] [scDblFinder 31/40] GSM6213986 doublets=139 sensitivity_only
+[2026-07-17 19:23:37] [scDblFinder 32/40] GSM6213987 doublets=200 sensitivity_only
+[2026-07-17 19:23:46] [scDblFinder 33/40] GSM6213988 doublets=417 sensitivity_only
+[2026-07-17 19:24:02] [scDblFinder 34/40] GSM6213989 doublets=640 sensitivity_only
+[2026-07-17 19:24:07] [scDblFinder 35/40] GSM6213990 doublets=175 sensitivity_only
+[2026-07-17 19:24:12] [scDblFinder 36/40] GSM6213991 doublets=117 sensitivity_only
+[2026-07-17 19:24:20] [scDblFinder 37/40] GSM6213992 doublets=377 sensitivity_only
+[2026-07-17 19:24:28] [scDblFinder 38/40] GSM6213993 doublets=410 sensitivity_only
+[2026-07-17 19:24:42] [scDblFinder 39/40] GSM6213994 doublets=979 sensitivity_only
+[2026-07-17 19:24:51] [scDblFinder 40/40] GSM6213995 doublets=306 sensitivity_only
+[2026-07-17 19:24:51] Merging 40 paper-basic-QC Seurat objects
+[2026-07-17 19:24:52] [merge 2/40]
+[2026-07-17 19:24:54] [merge 3/40]
+[2026-07-17 19:24:55] [merge 4/40]
+[2026-07-17 19:24:57] [merge 5/40]
+[2026-07-17 19:25:00] [merge 6/40]
+[2026-07-17 19:25:02] [merge 7/40]
+[2026-07-17 19:25:06] [merge 8/40]
+[2026-07-17 19:25:09] [merge 9/40]
+[2026-07-17 19:25:12] [merge 10/40]
+[2026-07-17 19:25:16] [merge 11/40]
+[2026-07-17 19:25:20] [merge 12/40]
+[2026-07-17 19:25:25] [merge 13/40]
+[2026-07-17 19:25:29] [merge 14/40]
+[2026-07-17 19:25:34] [merge 15/40]
+[2026-07-17 19:25:39] [merge 16/40]
+[2026-07-17 19:25:44] [merge 17/40]
+[2026-07-17 19:25:50] [merge 18/40]
+[2026-07-17 19:25:57] [merge 19/40]
+[2026-07-17 19:26:04] [merge 20/40]
+[2026-07-17 19:26:11] [merge 21/40]
+[2026-07-17 19:26:19] [merge 22/40]
+[2026-07-17 19:26:27] [merge 23/40]
+[2026-07-17 19:26:36] [merge 24/40]
+[2026-07-17 19:26:45] [merge 25/40]
+[2026-07-17 19:26:54] [merge 26/40]
+[2026-07-17 19:27:04] [merge 27/40]
+[2026-07-17 19:27:15] [merge 28/40]
+[2026-07-17 19:27:27] [merge 29/40]
+[2026-07-17 19:27:39] [merge 30/40]
+[2026-07-17 19:27:51] [merge 31/40]
+[2026-07-17 19:28:04] [merge 32/40]
+[2026-07-17 19:28:18] [merge 33/40]
+[2026-07-17 19:28:33] [merge 34/40]
+[2026-07-17 19:28:48] [merge 35/40]
+[2026-07-17 19:29:04] [merge 36/40]
+[2026-07-17 19:29:21] [merge 37/40]
+[2026-07-17 19:29:39] [merge 38/40]
+[2026-07-17 19:29:59] [merge 39/40]
+[2026-07-17 19:30:18] [merge 40/40]
+[2026-07-17 19:31:40] GSE205506 paper basic QC primary object complete

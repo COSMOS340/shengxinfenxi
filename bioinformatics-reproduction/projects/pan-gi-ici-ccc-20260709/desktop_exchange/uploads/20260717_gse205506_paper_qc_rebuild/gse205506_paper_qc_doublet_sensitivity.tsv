@@ -1,0 +1,109 @@
+geo_accession	cells_paper_basic_qc_pass	scDblFinder_singlets	scDblFinder_doublets	scDblFinder_doublet_fraction	primary_object_exclusion_by_scDblFinder	route	record_type	paper_first_round_cluster_r1_2	paper_first_round_broad_compartment	cells	filter_state	proportion_within_filter_state
+GSM6213956	913	886	27	0.0295728368017525	0	secondary sensitivity only	per_sample_call_summary					
+GSM6213957	3158	3001	157	0.0497150094996833	0	secondary sensitivity only	per_sample_call_summary					
+GSM6213958	4648	4372	276	0.0593803786574871	0	secondary sensitivity only	per_sample_call_summary					
+GSM6213959	5407	5040	367	0.0678749768818199	0	secondary sensitivity only	per_sample_call_summary					
+GSM6213960	6289	5823	466	0.0740976307839084	0	secondary sensitivity only	per_sample_call_summary					
+GSM6213961	11512	10173	1339	0.11631341209173	0	secondary sensitivity only	per_sample_call_summary					
+GSM6213962	11222	10002	1220	0.108715024059882	0	secondary sensitivity only	per_sample_call_summary					
+GSM6213963	2509	2403	106	0.0422479075328816	0	secondary sensitivity only	per_sample_call_summary					
+GSM6213964	4083	3851	232	0.0568209649767328	0	secondary sensitivity only	per_sample_call_summary					
+GSM6213965	6050	5673	377	0.0623140495867769	0	secondary sensitivity only	per_sample_call_summary					
+GSM6213966	3956	3729	227	0.0573811931243681	0	secondary sensitivity only	per_sample_call_summary					
+GSM6213967	7310	6777	533	0.0729138166894665	0	secondary sensitivity only	per_sample_call_summary					
+GSM6213968	3571	3380	191	0.0534864183702044	0	secondary sensitivity only	per_sample_call_summary					
+GSM6213969	1050	1018	32	0.0304761904761905	0	secondary sensitivity only	per_sample_call_summary					
+GSM6213970	5645	5330	315	0.0558015943312666	0	secondary sensitivity only	per_sample_call_summary					
+GSM6213971	7718	7124	594	0.0769629437678155	0	secondary sensitivity only	per_sample_call_summary					
+GSM6213972	3296	3147	149	0.0452063106796117	0	secondary sensitivity only	per_sample_call_summary					
+GSM6213973	4778	4479	299	0.0625784847216409	0	secondary sensitivity only	per_sample_call_summary					
+GSM6213974	5882	5481	401	0.0681740904454267	0	secondary sensitivity only	per_sample_call_summary					
+GSM6213975	4551	4288	263	0.0577894968138871	0	secondary sensitivity only	per_sample_call_summary					
+GSM6213976	6835	6372	463	0.0677395757132407	0	secondary sensitivity only	per_sample_call_summary					
+GSM6213977	3850	3662	188	0.0488311688311688	0	secondary sensitivity only	per_sample_call_summary					
+GSM6213978	4531	4263	268	0.0591480909291547	0	secondary sensitivity only	per_sample_call_summary					
+GSM6213979	4775	4479	296	0.0619895287958115	0	secondary sensitivity only	per_sample_call_summary					
+GSM6213980	4105	3901	204	0.0496954933008526	0	secondary sensitivity only	per_sample_call_summary					
+GSM6213981	2221	2122	99	0.0445745159837911	0	secondary sensitivity only	per_sample_call_summary					
+GSM6213982	5198	4767	431	0.0829165063485956	0	secondary sensitivity only	per_sample_call_summary					
+GSM6213983	4259	4044	215	0.0504813336463959	0	secondary sensitivity only	per_sample_call_summary					
+GSM6213984	4618	4333	285	0.0617150281507146	0	secondary sensitivity only	per_sample_call_summary					
+GSM6213985	3235	3062	173	0.0534775888717156	0	secondary sensitivity only	per_sample_call_summary					
+GSM6213986	2954	2815	139	0.0470548408937035	0	secondary sensitivity only	per_sample_call_summary					
+GSM6213987	3703	3503	200	0.0540102619497705	0	secondary sensitivity only	per_sample_call_summary					
+GSM6213988	6143	5726	417	0.067882142275761	0	secondary sensitivity only	per_sample_call_summary					
+GSM6213989	8929	8289	640	0.0716765595251428	0	secondary sensitivity only	per_sample_call_summary					
+GSM6213990	3303	3128	175	0.0529821374508023	0	secondary sensitivity only	per_sample_call_summary					
+GSM6213991	2693	2576	117	0.0434459710360193	0	secondary sensitivity only	per_sample_call_summary					
+GSM6213992	5549	5172	377	0.0679401693998919	0	secondary sensitivity only	per_sample_call_summary					
+GSM6213993	5549	5139	410	0.073887186880519	0	secondary sensitivity only	per_sample_call_summary					
+GSM6213994	9218	8239	979	0.106205250596659	0	secondary sensitivity only	per_sample_call_summary					
+GSM6213995	5447	5141	306	0.0561777125022949	0	secondary sensitivity only	per_sample_call_summary					
+							broad_cluster_composition	1	B	15283	all_primary_cells	0.0761625212420825
+							broad_cluster_composition	8	Epithelial	7688	all_primary_cells	0.0383129924300942
+							broad_cluster_composition	12	T/I/NK	6499	all_primary_cells	0.0323876349900081
+							broad_cluster_composition	14	Epithelial	5897	all_primary_cells	0.0293875801717307
+							broad_cluster_composition	16	Epithelial	5738	all_primary_cells	0.0285952068891624
+							broad_cluster_composition	21	Epithelial	4329	all_primary_cells	0.0215734839008686
+							broad_cluster_composition	18	T/I/NK	5678	all_primary_cells	0.0282961981032876
+							broad_cluster_composition	17	B	5697	all_primary_cells	0.0283908842188146
+							broad_cluster_composition	26	Epithelial	2653	all_primary_cells	0.0132211718154318
+							broad_cluster_composition	5	Epithelial	9231	all_primary_cells	0.0460025017068418
+							broad_cluster_composition	9	Epithelial	7582	all_primary_cells	0.0377847435750487
+							broad_cluster_composition	3	Epithelial	11133	all_primary_cells	0.0554810802190738
+							broad_cluster_composition	25	B	3211	all_primary_cells	0.0160019535240677
+							broad_cluster_composition	2	T/I/NK	12176	all_primary_cells	0.0606788496135311
+							broad_cluster_composition	6	Endothelial	8361	all_primary_cells	0.0416668743116569
+							broad_cluster_composition	11	T/I/NK	6987	all_primary_cells	0.0348195731151234
+							broad_cluster_composition	20	Epithelial	4504	all_primary_cells	0.0224455928596702
+							broad_cluster_composition	0	Epithelial	17275	all_primary_cells	0.0860896129331267
+							broad_cluster_composition	10	Epithelial	6994	all_primary_cells	0.0348544574734754
+							broad_cluster_composition	4	Epithelial	9445	all_primary_cells	0.047068966376462
+							broad_cluster_composition	28	Epithelial	2072	all_primary_cells	0.0103257700722106
+							broad_cluster_composition	19	Fibroblast	5000	all_primary_cells	0.0249173988229021
+							broad_cluster_composition	13	Myeloid	6445	all_primary_cells	0.0321185270827208
+							broad_cluster_composition	24	Myeloid	3378	all_primary_cells	0.0168341946447526
+							broad_cluster_composition	15	Epithelial	5774	all_primary_cells	0.0287746121606873
+							broad_cluster_composition	7	Epithelial	7963	all_primary_cells	0.0396834493653539
+							broad_cluster_composition	22	Endothelial	4152	all_primary_cells	0.0206914079825379
+							broad_cluster_composition	32	T/I/NK	485	all_primary_cells	0.0024169876858215
+							broad_cluster_composition	23	Fibroblast	3783	all_primary_cells	0.0188525039494077
+							broad_cluster_composition	27	Endothelial	2076	all_primary_cells	0.0103457039912689
+							broad_cluster_composition	29	T/I/NK	1448	all_primary_cells	0.00721607869911244
+							broad_cluster_composition	31	Epithelial	746	all_primary_cells	0.00371767590437699
+							broad_cluster_composition	30	Endothelial	831	all_primary_cells	0.00414127168436633
+							broad_cluster_composition	33	Myeloid	149	all_primary_cells	0.000742538484922482
+							broad_cluster_composition	1	B	14341	exclude_scDblFinder_doublets_sensitivity	0.076808955064003
+							broad_cluster_composition	8	Epithelial	6329	exclude_scDblFinder_doublets_sensitivity	0.0338974880831236
+							broad_cluster_composition	12	T/I/NK	6245	exclude_scDblFinder_doublets_sensitivity	0.0334475925231643
+							broad_cluster_composition	14	Epithelial	5033	exclude_scDblFinder_doublets_sensitivity	0.0269562423008944
+							broad_cluster_composition	16	Epithelial	5501	exclude_scDblFinder_doublets_sensitivity	0.0294628032778105
+							broad_cluster_composition	21	Epithelial	4259	exclude_scDblFinder_doublets_sensitivity	0.0228107760698409
+							broad_cluster_composition	18	T/I/NK	5244	exclude_scDblFinder_doublets_sensitivity	0.028086337100316
+							broad_cluster_composition	17	B	5295	exclude_scDblFinder_doublets_sensitivity	0.0283594879760056
+							broad_cluster_composition	26	Epithelial	2455	exclude_scDblFinder_doublets_sensitivity	0.0131487333297627
+							broad_cluster_composition	5	Epithelial	9216	exclude_scDblFinder_doublets_sensitivity	0.0493599700069627
+							broad_cluster_composition	9	Epithelial	7377	exclude_scDblFinder_doublets_sensitivity	0.0395104707835681
+							broad_cluster_composition	3	Epithelial	10597	exclude_scDblFinder_doublets_sensitivity	0.0567564672486744
+							broad_cluster_composition	25	B	2748	exclude_scDblFinder_doublets_sensitivity	0.0147180118900969
+							broad_cluster_composition	2	T/I/NK	11574	exclude_scDblFinder_doublets_sensitivity	0.0619891810829629
+							broad_cluster_composition	6	Endothelial	7700	exclude_scDblFinder_doublets_sensitivity	0.0412404263296021
+							broad_cluster_composition	11	T/I/NK	6722	exclude_scDblFinder_doublets_sensitivity	0.0360023565957903
+							broad_cluster_composition	20	Epithelial	4112	exclude_scDblFinder_doublets_sensitivity	0.0220234588399122
+							broad_cluster_composition	0	Epithelial	17134	exclude_scDblFinder_doublets_sensitivity	0.0917679824326496
+							broad_cluster_composition	10	Epithelial	6873	exclude_scDblFinder_doublets_sensitivity	0.0368110974238123
+							broad_cluster_composition	4	Epithelial	8480	exclude_scDblFinder_doublets_sensitivity	0.0454180279577955
+							broad_cluster_composition	28	Epithelial	1986	exclude_scDblFinder_doublets_sensitivity	0.0106368164533233
+							broad_cluster_composition	19	Fibroblast	4635	exclude_scDblFinder_doublets_sensitivity	0.0248245942906111
+							broad_cluster_composition	13	Myeloid	5491	exclude_scDblFinder_doublets_sensitivity	0.0294092442825773
+							broad_cluster_composition	24	Myeloid	3034	exclude_scDblFinder_doublets_sensitivity	0.0162497991537679
+							broad_cluster_composition	15	Epithelial	5108	exclude_scDblFinder_doublets_sensitivity	0.0273579347651438
+							broad_cluster_composition	7	Epithelial	7013	exclude_scDblFinder_doublets_sensitivity	0.0375609233570778
+							broad_cluster_composition	22	Endothelial	3815	exclude_scDblFinder_doublets_sensitivity	0.0204327566814847
+							broad_cluster_composition	32	T/I/NK	192	exclude_scDblFinder_doublets_sensitivity	0.00102833270847839
+							broad_cluster_composition	23	Fibroblast	3541	exclude_scDblFinder_doublets_sensitivity	0.0189652402120936
+							broad_cluster_composition	27	Endothelial	1863	exclude_scDblFinder_doublets_sensitivity	0.00997804081195437
+							broad_cluster_composition	29	T/I/NK	1232	exclude_scDblFinder_doublets_sensitivity	0.00659846821273633
+							broad_cluster_composition	31	Epithelial	634	exclude_scDblFinder_doublets_sensitivity	0.00339564029778801
+							broad_cluster_composition	30	Endothelial	799	exclude_scDblFinder_doublets_sensitivity	0.00427936371913663
+							broad_cluster_composition	33	Myeloid	132	exclude_scDblFinder_doublets_sensitivity	0.000706978737078892

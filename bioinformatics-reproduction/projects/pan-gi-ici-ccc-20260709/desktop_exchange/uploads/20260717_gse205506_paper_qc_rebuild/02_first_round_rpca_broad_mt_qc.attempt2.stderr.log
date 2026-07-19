@@ -1,0 +1,13 @@
+Warning messages:
+1: package 'data.table' was built under R version 4.4.3 
+2: package 'Matrix' was built under R version 4.4.3 
+3: package 'Seurat' was built under R version 4.4.3 
+4: package 'SeuratObject' was built under R version 4.4.3 
+5: package 'sp' was built under R version 4.4.3 
+6: package 'Rcpp' was built under R version 4.4.3 
+7: package 'RANN' was built under R version 4.4.3 
+Error in vapply(object_list, ncol, integer(1)) : 
+  values must be type 'integer',
+ but FUN(X[[1]]) result is type 'double'
+Calls: run_rpca -> vapply
+Execution halted

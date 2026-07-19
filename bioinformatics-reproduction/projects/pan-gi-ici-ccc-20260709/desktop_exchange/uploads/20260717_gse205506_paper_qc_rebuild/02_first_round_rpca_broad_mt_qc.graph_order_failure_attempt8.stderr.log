@@ -1,0 +1,475 @@
+Warning messages:
+1: package 'data.table' was built under R version 4.4.3 
+2: package 'Matrix' was built under R version 4.4.3 
+3: package 'Seurat' was built under R version 4.4.3 
+4: package 'SeuratObject' was built under R version 4.4.3 
+5: package 'sp' was built under R version 4.4.3 
+6: package 'Rcpp' was built under R version 4.4.3 
+7: package 'RANN' was built under R version 4.4.3 
+Merging dataset 2 into 1
+Extracting anchors for merged samples
+Finding integration vectors
+Finding integration vector weights
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Integrating data
+Warning: Layer counts isn't present in the assay object; returning NULL
+Merging dataset 3 into 1 2
+Extracting anchors for merged samples
+Finding integration vectors
+Warning: Different cells in new layer data than already exists for scale.data
+Finding integration vector weights
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Integrating data
+Warning: Layer counts isn't present in the assay object; returning NULL
+Merging dataset 4 into 1 2 3
+Extracting anchors for merged samples
+Finding integration vectors
+Warning: Different cells in new layer data than already exists for scale.data
+Finding integration vector weights
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Integrating data
+Warning: Layer counts isn't present in the assay object; returning NULL
+Merging dataset 5 into 1 2 3 4
+Extracting anchors for merged samples
+Finding integration vectors
+Warning: Different cells in new layer data than already exists for scale.data
+Finding integration vector weights
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Integrating data
+Warning: Layer counts isn't present in the assay object; returning NULL
+Merging dataset 6 into 1 2 3 4 5
+Extracting anchors for merged samples
+Finding integration vectors
+Warning: Different cells in new layer data than already exists for scale.data
+Finding integration vector weights
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Integrating data
+Warning: Layer counts isn't present in the assay object; returning NULL
+Merging dataset 7 into 1 2 3 4 5 6
+Extracting anchors for merged samples
+Finding integration vectors
+Warning: Different cells in new layer data than already exists for scale.data
+Finding integration vector weights
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Integrating data
+Warning: Layer counts isn't present in the assay object; returning NULL
+Merging dataset 8 into 1 2 3 4 5 6 7
+Extracting anchors for merged samples
+Finding integration vectors
+Warning: Different cells in new layer data than already exists for scale.data
+Finding integration vector weights
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Integrating data
+Warning: Layer counts isn't present in the assay object; returning NULL
+Merging dataset 9 into 1 2 3 4 5 6 7 8
+Extracting anchors for merged samples
+Finding integration vectors
+Warning: Different cells in new layer data than already exists for scale.data
+Finding integration vector weights
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Integrating data
+Warning: Layer counts isn't present in the assay object; returning NULL
+Merging dataset 10 into 1 2 3 4 5 6 7 8 9
+Extracting anchors for merged samples
+Finding integration vectors
+Warning: Different cells in new layer data than already exists for scale.data
+Finding integration vector weights
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Integrating data
+Warning: Layer counts isn't present in the assay object; returning NULL
+Merging dataset 11 into 1 2 3 4 5 6 7 8 9 10
+Extracting anchors for merged samples
+Finding integration vectors
+Warning: Different cells in new layer data than already exists for scale.data
+Finding integration vector weights
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Integrating data
+Warning: Layer counts isn't present in the assay object; returning NULL
+Merging dataset 12 into 1 2 3 4 5 6 7 8 9 10 11
+Extracting anchors for merged samples
+Finding integration vectors
+Warning: Different cells in new layer data than already exists for scale.data
+Finding integration vector weights
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Integrating data
+Warning: Layer counts isn't present in the assay object; returning NULL
+Merging dataset 13 into 1 2 3 4 5 6 7 8 9 10 11 12
+Extracting anchors for merged samples
+Finding integration vectors
+Warning: Different cells in new layer data than already exists for scale.data
+Finding integration vector weights
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Integrating data
+Warning: Layer counts isn't present in the assay object; returning NULL
+Merging dataset 14 into 1 2 3 4 5 6 7 8 9 10 11 12 13
+Extracting anchors for merged samples
+Finding integration vectors
+Warning: Different cells in new layer data than already exists for scale.data
+Finding integration vector weights
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Integrating data
+Warning: Layer counts isn't present in the assay object; returning NULL
+Merging dataset 15 into 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+Extracting anchors for merged samples
+Finding integration vectors
+Warning: Different cells in new layer data than already exists for scale.data
+Finding integration vector weights
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Integrating data
+Warning: Layer counts isn't present in the assay object; returning NULL
+Merging dataset 16 into 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Extracting anchors for merged samples
+Finding integration vectors
+Warning: Different cells in new layer data than already exists for scale.data
+Finding integration vector weights
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Integrating data
+Warning: Layer counts isn't present in the assay object; returning NULL
+Merging dataset 17 into 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+Extracting anchors for merged samples
+Finding integration vectors
+Warning: Different cells in new layer data than already exists for scale.data
+Finding integration vector weights
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Integrating data
+Warning: Layer counts isn't present in the assay object; returning NULL
+Merging dataset 18 into 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17
+Extracting anchors for merged samples
+Finding integration vectors
+Warning: Different cells in new layer data than already exists for scale.data
+Finding integration vector weights
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Integrating data
+Warning: Layer counts isn't present in the assay object; returning NULL
+Merging dataset 19 into 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18
+Extracting anchors for merged samples
+Finding integration vectors
+Warning: Different cells in new layer data than already exists for scale.data
+Finding integration vector weights
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Integrating data
+Warning: Layer counts isn't present in the assay object; returning NULL
+Merging dataset 20 into 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19
+Extracting anchors for merged samples
+Finding integration vectors
+Warning: Different cells in new layer data than already exists for scale.data
+Finding integration vector weights
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Integrating data
+Warning: Layer counts isn't present in the assay object; returning NULL
+Merging dataset 21 into 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+Extracting anchors for merged samples
+Finding integration vectors
+Warning: Different cells in new layer data than already exists for scale.data
+Finding integration vector weights
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Integrating data
+Warning: Layer counts isn't present in the assay object; returning NULL
+Merging dataset 22 into 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21
+Extracting anchors for merged samples
+Finding integration vectors
+Warning: Different cells in new layer data than already exists for scale.data
+Finding integration vector weights
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Integrating data
+Warning: Layer counts isn't present in the assay object; returning NULL
+Merging dataset 23 into 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22
+Extracting anchors for merged samples
+Finding integration vectors
+Warning: Different cells in new layer data than already exists for scale.data
+Finding integration vector weights
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Integrating data
+Warning: Layer counts isn't present in the assay object; returning NULL
+Merging dataset 24 into 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23
+Extracting anchors for merged samples
+Finding integration vectors
+Warning: Different cells in new layer data than already exists for scale.data
+Finding integration vector weights
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Integrating data
+Warning: Layer counts isn't present in the assay object; returning NULL
+Merging dataset 25 into 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24
+Extracting anchors for merged samples
+Finding integration vectors
+Warning: Different cells in new layer data than already exists for scale.data
+Finding integration vector weights
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Integrating data
+Warning: Layer counts isn't present in the assay object; returning NULL
+Merging dataset 26 into 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25
+Extracting anchors for merged samples
+Finding integration vectors
+Warning: Different cells in new layer data than already exists for scale.data
+Finding integration vector weights
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Integrating data
+Warning: Layer counts isn't present in the assay object; returning NULL
+Merging dataset 27 into 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26
+Extracting anchors for merged samples
+Finding integration vectors
+Warning: Different cells in new layer data than already exists for scale.data
+Finding integration vector weights
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Integrating data
+Warning: Layer counts isn't present in the assay object; returning NULL
+Merging dataset 28 into 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27
+Extracting anchors for merged samples
+Finding integration vectors
+Warning: Different cells in new layer data than already exists for scale.data
+Finding integration vector weights
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Integrating data
+Warning: Layer counts isn't present in the assay object; returning NULL
+Merging dataset 29 into 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28
+Extracting anchors for merged samples
+Finding integration vectors
+Warning: Different cells in new layer data than already exists for scale.data
+Finding integration vector weights
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Integrating data
+Warning: Layer counts isn't present in the assay object; returning NULL
+Merging dataset 30 into 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+Extracting anchors for merged samples
+Finding integration vectors
+Warning: Different cells in new layer data than already exists for scale.data
+Finding integration vector weights
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Integrating data
+Warning: Layer counts isn't present in the assay object; returning NULL
+Merging dataset 31 into 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30
+Extracting anchors for merged samples
+Finding integration vectors
+Warning: Different cells in new layer data than already exists for scale.data
+Finding integration vector weights
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Integrating data
+Warning: Layer counts isn't present in the assay object; returning NULL
+Merging dataset 32 into 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31
+Extracting anchors for merged samples
+Finding integration vectors
+Warning: Different cells in new layer data than already exists for scale.data
+Finding integration vector weights
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Integrating data
+Warning: Layer counts isn't present in the assay object; returning NULL
+Merging dataset 33 into 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32
+Extracting anchors for merged samples
+Finding integration vectors
+Warning: Different cells in new layer data than already exists for scale.data
+Finding integration vector weights
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Integrating data
+Warning: Layer counts isn't present in the assay object; returning NULL
+Merging dataset 34 into 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33
+Extracting anchors for merged samples
+Finding integration vectors
+Warning: Different cells in new layer data than already exists for scale.data
+Finding integration vector weights
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Integrating data
+Warning: Layer counts isn't present in the assay object; returning NULL
+Merging dataset 35 into 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34
+Extracting anchors for merged samples
+Finding integration vectors
+Warning: Different cells in new layer data than already exists for scale.data
+Finding integration vector weights
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Integrating data
+Warning: Layer counts isn't present in the assay object; returning NULL
+Merging dataset 36 into 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35
+Extracting anchors for merged samples
+Finding integration vectors
+Warning: Different cells in new layer data than already exists for scale.data
+Finding integration vector weights
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Integrating data
+Warning: Layer counts isn't present in the assay object; returning NULL
+Merging dataset 37 into 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36
+Extracting anchors for merged samples
+Finding integration vectors
+Warning: Different cells in new layer data than already exists for scale.data
+Finding integration vector weights
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Integrating data
+Warning: Layer counts isn't present in the assay object; returning NULL
+Merging dataset 38 into 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37
+Extracting anchors for merged samples
+Finding integration vectors
+Warning: Different cells in new layer data than already exists for scale.data
+Finding integration vector weights
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Integrating data
+Warning: Layer counts isn't present in the assay object; returning NULL
+Merging dataset 39 into 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38
+Extracting anchors for merged samples
+Finding integration vectors
+Warning: Different cells in new layer data than already exists for scale.data
+Finding integration vector weights
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Integrating data
+Warning: Layer counts isn't present in the assay object; returning NULL
+Merging dataset 40 into 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39
+Extracting anchors for merged samples
+Finding integration vectors
+Warning: Different cells in new layer data than already exists for scale.data
+Finding integration vector weights
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Integrating data
+Warning: Layer counts isn't present in the assay object; returning NULL
+Warning: Not all features provided are in this Assay object, removing the following feature(s): HMGN2, KRT7, BANK1, ARC, RGS3, CD38, PDZK1IP1, ANXA13, LCN15, IGFL2, WARS, SPI1, IL32, PLA1A, CRTAM, SLC7A2, CLDN4, CDH11, EMID1, PIGR, FAM92B, CTSH, PKIB, ROBO4, MSN, CLEC3B, ADAM12, PRAC1, SERPINI1, TNFRSF12A, C4BPA, SAMSN1, RPS5, CDA, TGFB1I1, UBD, NES, FAM198B, TMEM176B, ZFP36, PAMR1, NEXN, MME, ISL1, SLC38A11, TUBB2B, C11orf86, MUC12, HHEX, GAL, SELENBP1, EGLN3, LAMC1, AKR1B10, CCNYL1, TM4SF20, ENHO, MAP3K20, RAMP1, HSPA1B, PHACTR1, SLC6A14, RNASE6, CEMIP, GGT5, HIST1H1C, BTG2, ANGPTL4, PAM, HSPB1, TIE1, CDCA7, SMIM25, LINC01871, PLOD2, LPL, VEGFC, CITED2, PLD4, AVPR1A, C1orf162, EGR3, NCOA7, ERRFI1, KCNK12, OMD, AL365226.2, FOXC2, NCCRP1, HBEGF, DLGAP5, ICOS, SLC20A1, CLDN2, ABCC8, FAP, PLK1, GEM, EGR2, CYBRD1, SLC6A8, CD3E, AQP9, FGF2, ENTPD1, TSPAN4, EVL, NDRG1, SLC30A10, CLIC3, ADAP2, LMO7, HLA-DMB, LRRN4CL, HRCT1, LY6E, FILIP1, RARRES1, LIMD2, BCAM, HIST1H2BJ, FXYD5, AKR1C1, CENPM, RGMB, CR [... truncated]
+Warning: Not all features provided are in this Assay object, removing the following feature(s): HMGN2, KRT7, BANK1, ARC, RGS3, CD38, PDZK1IP1, ANXA13, LCN15, IGFL2, WARS, SPI1, IL32, PLA1A, CRTAM, SLC7A2, CLDN4, CDH11, EMID1, PIGR, FAM92B, CTSH, PKIB, ROBO4, MSN, CLEC3B, ADAM12, PRAC1, SERPINI1, TNFRSF12A, C4BPA, SAMSN1, RPS5, CDA, TGFB1I1, UBD, NES, FAM198B, TMEM176B, ZFP36, PAMR1, NEXN, MME, ISL1, SLC38A11, TUBB2B, C11orf86, MUC12, HHEX, GAL, SELENBP1, EGLN3, LAMC1, AKR1B10, CCNYL1, TM4SF20, ENHO, MAP3K20, RAMP1, HSPA1B, PHACTR1, SLC6A14, RNASE6, CEMIP, GGT5, HIST1H1C, BTG2, ANGPTL4, PAM, HSPB1, TIE1, CDCA7, SMIM25, LINC01871, PLOD2, LPL, VEGFC, CITED2, PLD4, AVPR1A, C1orf162, EGR3, NCOA7, ERRFI1, KCNK12, OMD, AL365226.2, FOXC2, NCCRP1, HBEGF, DLGAP5, ICOS, SLC20A1, CLDN2, ABCC8, FAP, PLK1, GEM, EGR2, CYBRD1, SLC6A8, CD3E, AQP9, FGF2, ENTPD1, TSPAN4, EVL, NDRG1, SLC30A10, CLIC3, ADAP2, LMO7, HLA-DMB, LRRN4CL, HRCT1, LY6E, FILIP1, RARRES1, LIMD2, BCAM, HIST1H2BJ, FXYD5, AKR1C1, CENPM, RGMB, CR [... truncated]
+Regressing out nCount_RNA
+  |                                                                              |                                                                      |   0%  |                                                                              |                                                                      |   1%  |                                                                              |=                                                                     |   1%  |                                                                              |=                                                                     |   2%  |                                                                              |==                                                                    |   2%  |                                                                              |==                                                                    |   3%  |                                                                              |==                                                                    |   4%  |                                                                              |===                                                                   |   4%  |                                                                              |===                                                                   |   5%  |                                                                              |====                                                                  |   5%  |                                                                              |====                                                                  |   6%  |                                                                              |=====                                                                 |   6%  |                                                                              |=====                                                                 |   7%  |                                                                              |=====                                                                 |   8%  |                                                                              |======                                                                |   8%  |                                                                              |======                                                                |   9%  |                                                                              |=======                                                               |   9%  |                                                                              |=======                                                               |  10%  |                                                                              |=======                                                               |  11%  |                                                                              |========                                                              |  11%  |                                                                              |========                                                              |  12%  |                                                                              |=========                                                             |  12%  |                                                                              |=========                                                             |  13%  |                                                                              |=========                                                             |  14%  |                                                                              |==========                                                            |  14%  |                                                                              |==========                                                            |  15%  |                                                                              |===========                                                           |  15%  |                                                                              |===========                                                           |  16%  |                                                                              |============                                                          |  16%  |                                                                              |============                                                          |  17%  |                                                                              |============                                                          |  18%  |                                                                              |=============                                                         |  18%  |                                                                              |=============                                                         |  19%  |                                                                              |==============                                                        |  19%  |                                                                              |==============                                                        |  20%  |                                                                              |==============                                                        |  21%  |                                                                              |===============                                                       |  21%  |                                                                              |===============                                                       |  22%  |                                                                              |================                                                      |  22%  |                                                                              |================                                                      |  23%  |                                                                              |================                                                      |  24%  |                                                                              |=================                                                     |  24%  |                                                                              |=================                                                     |  25%  |                                                                              |==================                                                    |  25%  |                                                                              |==================                                                    |  26%  |                                                                              |===================                                                   |  26%  |                                                                              |===================                                                   |  27%  |                                                                              |===================                                                   |  28%  |                                                                              |====================                                                  |  28%  |                                                                              |====================                                                  |  29%  |                                                                              |=====================                                                 |  29%  |                                                                              |=====================                                                 |  30%  |                                                                              |=====================                                                 |  31%  |                                                                              |======================                                                |  31%  |                                                                              |======================                                                |  32%  |                                                                              |=======================                                               |  32%  |                                                                              |=======================                                               |  33%  |                                                                              |=======================                                               |  34%  |                                                                              |========================                                              |  34%  |                                                                              |========================                                              |  35%  |                                                                              |=========================                                             |  35%  |                                                                              |=========================                                             |  36%  |                                                                              |==========================                                            |  36%  |                                                                              |==========================                                            |  37%  |                                                                              |==========================                                            |  38%  |                                                                              |===========================                                           |  38%  |                                                                              |===========================                                           |  39%  |                                                                              |============================                                          |  39%  |                                                                              |============================                                          |  40%  |                                                                              |============================                                          |  41%  |                                                                              |=============================                                         |  41%  |                                                                              |=============================                                         |  42%  |                                                                              |==============================                                        |  42%  |                                                                              |==============================                                        |  43%  |                                                                              |==============================                                        |  44%  |                                                                              |===============================                                       |  44%  |                                                                              |===============================                                       |  45%  |                                                                              |================================                                      |  45%  |                                                                              |================================                                      |  46%  |                                                                              |=================================                                     |  46%  |                                                                              |=================================                                     |  47%  |                                                                              |=================================                                     |  48%  |                                                                              |==================================                                    |  48%  |                                                                              |==================================                                    |  49%  |                                                                              |===================================                                   |  49%  |                                                                              |===================================                                   |  50%  |                                                                              |===================================                                   |  51%  |                                                                              |====================================                                  |  51%  |                                                                              |====================================                                  |  52%  |                                                                              |=====================================                                 |  52%  |                                                                              |=====================================                                 |  53%  |                                                                              |=====================================                                 |  54%  |                                                                              |======================================                                |  54%  |                                                                              |======================================                                |  55%  |                                                                              |=======================================                               |  55%  |                                                                              |=======================================                               |  56%  |                                                                              |========================================                              |  56%  |                                                                              |========================================                              |  57%  |                                                                              |========================================                              |  58%  |                                                                              |=========================================                             |  58%  |                                                                              |=========================================                             |  59%  |                                                                              |==========================================                            |  59%  |                                                                              |==========================================                            |  60%  |                                                                              |==========================================                            |  61%  |                                                                              |===========================================                           |  61%  |                                                                              |===========================================                           |  62%  |                                                                              |============================================                          |  62%  |                                                                              |============================================                          |  63%  |                                                                              |============================================                          |  64%  |                                                                              |=============================================                         |  64%  |                                                                              |=============================================                         |  65%  |                                                                              |==============================================                        |  65%  |                                                                              |==============================================                        |  66%  |                                                                              |===============================================                       |  66%  |                                                                              |===============================================                       |  67%  |                                                                              |===============================================                       |  68%  |                                                                              |================================================                      |  68%  |                                                                              |================================================                      |  69%  |                                                                              |=================================================                     |  69%  |                                                                              |=================================================                     |  70%  |                                                                              |=================================================                     |  71%  |                                                                              |==================================================                    |  71%  |                                                                              |==================================================                    |  72%  |                                                                              |===================================================                   |  72%  |                                                                              |===================================================                   |  73%  |                                                                              |===================================================                   |  74%  |                                                                              |====================================================                  |  74%  |                                                                              |====================================================                  |  75%  |                                                                              |=====================================================                 |  75%  |                                                                              |=====================================================                 |  76%  |                                                                              |======================================================                |  76%  |                                                                              |======================================================                |  77%  |                                                                              |======================================================                |  78%  |                                                                              |=======================================================               |  78%  |                                                                              |=======================================================               |  79%  |                                                                              |========================================================              |  79%  |                                                                              |========================================================              |  80%  |                                                                              |========================================================              |  81%  |                                                                              |=========================================================             |  81%  |                                                                              |=========================================================             |  82%  |                                                                              |==========================================================            |  82%  |                                                                              |==========================================================            |  83%  |                                                                              |==========================================================            |  84%  |                                                                              |===========================================================           |  84%  |                                                                              |===========================================================           |  85%  |                                                                              |============================================================          |  85%  |                                                                              |============================================================          |  86%  |                                                                              |=============================================================         |  86%  |                                                                              |=============================================================         |  87%  |                                                                              |=============================================================         |  88%  |                                                                              |==============================================================        |  88%  |                                                                              |==============================================================        |  89%  |                                                                              |===============================================================       |  89%  |                                                                              |===============================================================       |  90%  |                                                                              |===============================================================       |  91%  |                                                                              |================================================================      |  91%  |                                                                              |================================================================      |  92%  |                                                                              |=================================================================     |  92%  |                                                                              |=================================================================     |  93%  |                                                                              |=================================================================     |  94%  |                                                                              |==================================================================    |  94%  |                                                                              |==================================================================    |  95%  |                                                                              |===================================================================   |  95%  |                                                                              |===================================================================   |  96%  |                                                                              |====================================================================  |  96%  |                                                                              |====================================================================  |  97%  |                                                                              |====================================================================  |  98%  |                                                                              |===================================================================== |  98%  |                                                                              |===================================================================== |  99%  |                                                                              |======================================================================|  99%  |                                                                              |======================================================================| 100%
+Centering and scaling data matrix
+  |                                                                              |                                                                      |   0%  |                                                                              |======================================================================| 100%
+RPCAPCAFIRST_ 1 
+Positive:  LGALS4, TSPAN8, PHGR1, CEACAM5, KRT8, KRT18, FABP1, ANPEP, CD52, LCN2 
+	   KRT19, FXYD3, GPX2, C15orf48, ADH1C, PTPRC, TSPAN1, CORO1A, CD48, TRBC2 
+	   RAC2, TRAC, CA2, CD37, LTB, CD3D, FCGBP, CCL5, SLC26A2, AGR2 
+Negative:  IGFBP7, SPARC, SPARCL1, CALD1, NNMT, MGP, CAVIN1, A2M, IGFBP4, IFITM3 
+	   CAV1, HTRA1, COL4A2, COL6A2, GNG11, CRIP2, HSPG2, TIMP3, ENG, VIM 
+	   COL4A1, CD59, MMP2, CFH, VWF, COL18A1, CYR61, TIMP1, EGFL7, RAMP2 
+RPCAPCAFIRST_ 2 
+Positive:  TYROBP, FCER1G, AIF1, C1QB, MS4A6A, CD14, FCGR3A, C1QC, FCGR1A, C1QA 
+	   HLA-DQA1, FCGR2A, HLA-DQA2, AC020656.1, CYBB, LYZ, HLA-DPA1, CD68, IGSF6, HLA-DRB1 
+	   VSIG4, CSF1R, LST1, HLA-DRA, HLA-DQB1, MRC1, MNDA, ITGB2, HLA-DPB1, CLEC7A 
+Negative:  PHGR1, KRT8, LGALS4, KRT18, CEACAM5, TSPAN8, FXYD3, FABP1, TSPAN1, KRT19 
+	   CKB, TMEM54, CA2, CEACAM7, KRT20, LCN2, SLC26A3, SLC26A2, SDCBP2, SLC9A3 
+	   CEACAM1, TRIM31, IFI27, ID1, SFN, CLCA4, AQP8, CA4, DUOX2, ADIRF 
+RPCAPCAFIRST_ 3 
+Positive:  DCN, COL3A1, LUM, COL1A1, COL1A2, FBLN1, SERPINF1, COL6A3, C1S, PCOLCE 
+	   COL14A1, RARRES2, CCDC80, ISLR, MXRA8, MFAP4, C3, C1R, CTSK, AEBP1 
+	   EMILIN1, BGN, COL6A1, SFRP2, FRZB, OLFML3, DPT, MFGE8, EFEMP2, MEG3 
+Negative:  VWF, PLVAP, EGFL7, ADGRL4, PECAM1, SOX18, ACKR1, ECSCR, RAMP2, EMCN 
+	   CLEC14A, CLDN5, TM4SF1, CDH5, AQP1, CD93, CCL14, FAM167B, PALMD, HYAL2 
+	   RAMP3, S1PR1, CALCRL, MMRN2, PCDH17, NRN1, TM4SF18, CYYR1, JAM2, TSPAN7 
+RPCAPCAFIRST_ 4 
+Positive:  TRAC, CD3D, CCL5, CD52, TRBC2, GZMA, CD2, CST7, CORO1A, RAC2 
+	   CXCR4, TSC22D3, NKG7, GZMK, CD69, PTPRC, CTSW, TRBC1, CD7, CD3G 
+	   CD48, CD247, KLRB1, ITM2A, LTB, ARHGDIB, GZMH, PRF1, CD37, LSP1 
+Negative:  ANPEP, PHGR1, CEACAM5, KRT8, TSPAN1, FXYD3, LGALS3, CEACAM7, C15orf48, CA2 
+	   KRT18, KRT20, FABP1, CST3, LGALS4, KRT19, SELENOP, TSPAN8, SDCBP2, TMEM54 
+	   CA4, CKB, CLCA4, IFI27, CEACAM1, LYPD8, TRIM31, PLAC8, GUCA2A, SLC26A3 
+RPCAPCAFIRST_ 5 
+Positive:  C3, SFRP2, FBLN1, LUM, MMP2, DCN, DPT, PTGDS, CTSK, SFRP4 
+	   COL6A3, PDGFRA, THBS2, OLFML3, SPON2, OGN, CXCL12, ISLR, CCDC80, PCOLCE 
+	   MXRA5, MFAP5, EFEMP1, CTHRC1, C1S, WISP2, MMP23B, FBLN2, PODN, MEG3 
+Negative:  MYH11, PLN, ACTA2, CARMN, NDUFA4L2, TAGLN, RERGL, NOTCH3, TPM2, TBX2 
+	   CNN1, MYL9, ACTG2, PPP1R14A, RGS5, EFHD1, CSPG4, MCAM, CCDC3, CSRP2 
+	   MYLK, LMOD1, SYNPO2, RCAN2, C11orf96, NTRK2, COX4I2, CRYAB, MRVI1, ID4 
+Warning: The default method for RunUMAP has changed from calling Python UMAP via reticulate to the R-native UWOT using the cosine metric
+To use Python UMAP via reticulate, set umap.method to 'umap-learn' and metric to 'correlation'
+This message will be shown once per session
+16:55:09 UMAP embedding parameters a = 0.9922 b = 1.112
+16:55:09 Read 200663 rows and found 20 numeric columns
+16:55:09 Using Annoy for neighbor search, n_neighbors = 30
+16:55:09 Building Annoy index with metric = cosine, n_trees = 50
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+16:55:31 Writing NN index file to temp file I:\temp\gse205506_paper_qc_20260717\RtmpcvgxAa\file1c184bd07d39
+16:55:31 Searching Annoy index using 1 thread, search_k = 3000
+16:56:39 Annoy recall = 100%
+16:56:41 Commencing smooth kNN distance calibration using 1 thread with target n_neighbors = 30
+16:56:50 Initializing from normalized Laplacian + noise (using RSpectra)
+16:57:12 Commencing optimization for 200 epochs, with 9226792 positive edges
+16:57:12 Using rng type: pcg
+Using method 'umap'
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+17:00:34 Optimization finished
+Computing nearest neighbor graph
+Computing SNN
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+1 singletons identified. 34 final clusters.
+Warning message:
+package 'future' was built under R version 4.4.3 
+Normalizing layer: counts
+Performing log-normalization
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Error: Cannot add graphs with unordered cells
+Execution halted

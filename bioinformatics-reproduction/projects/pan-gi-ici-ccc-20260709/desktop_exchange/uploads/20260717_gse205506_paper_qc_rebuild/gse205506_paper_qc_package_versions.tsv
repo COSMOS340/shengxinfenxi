@@ -1,0 +1,10 @@
+package	version
+R	4.4.2
+Seurat	5.4.0
+SeuratObject	5.3.0
+Matrix	1.7.4
+SingleCellExperiment	1.28.1
+scDblFinder	1.20.2
+ggplot2	4.0.2
+presto	1.0.0
+RANN	2.6.2
